@@ -1,0 +1,259 @@
+{
+  "reports": [
+    {
+      "reportDate": "2026-06-04",
+      "title": "오늘의 핵심 5줄",
+      "summaryLines": [
+        "이동현이 ADC 후보물질에 대해 Breakthrough Therapy 지정을 검토 중이며, 글로벌 Big Pharma의 M&A 관심이 재점화됨.",
+        "국내 2세대 mRNA 백신 스타트업이 시리즈 B 800억 원 규모 투자 유치를 발표, CDMO 파트너십 동시 체결.",
+        "EU EMA, 세포치료제 GMP 가이드라인 개정안 초안 공개 — ATMP 제조 시설 요건이 강화될 전망.",
+        "Nature Medicine에 게재된 CRISPR base editing 장기 안전성 데이터가 긍정적이나, off-target 논쟁은 지속.",
+        "일본 제약사와 국내 바이오텍 간 공동개발 계약 체결, 희귀질환 소분자 파이프라인 2건 포함."
+      ],
+      "sections": ["domestic", "global", "regulatory", "deal", "modality", "paper"],
+      "items": [
+        {
+          "id": "1",
+          "title": "FDA, ADC 후보물질 Breakthrough Therapy 지정 검토 착수",
+          "source": "Endpoints News",
+          "date": "2026-06-03",
+          "section": "global",
+          "eventType": "regulatory",
+          "summary": "미 FDA가 특정 HER2-low ADC 후보물질에 대해 Breakthrough Therapy Designation(BTD) 심사를 시작했다. Phase 2 데이터에서 기존 표준요법 대비 PFS 개선이 관찰됐다는 점이 핵심 근거로 제시됐다.",
+          "significance": "BTD 확정 시 가속 승인 경로가 열리며, 동일 타깃 ADC 경쟁사의 valuation 재평가 가능성이 커진다. 국내 ADC CDMO·원료 공급망 수혜 여부를 모니터링할 필요가 있다.",
+          "keywords": ["ADC", "FDA", "BTD", "HER2-low", "Oncology"],
+          "url": "https://endpts.com/example-adc-btd"
+        },
+        {
+          "id": "2",
+          "title": "국내 mRNA 백신 스타트업, 시리즈 B 800억 원 및 CDMO 제휴 발표",
+          "source": "매일경제",
+          "date": "2026-06-04",
+          "section": "domestic",
+          "eventType": "funding",
+          "summary": "서울 소재 mRNA 치료·백신 전문 기업이 국내·해외 VC 참여 800억 원 규모 시리즈 B를 완료했다. 동시에 대형 CDMO와 GMP 생산 위탁 계약을 체결해 상업화 일정을 앞당길 계획이다.",
+          "significance": "국내 mRNA 생태계의 자본 조달 사이클이 회복 국면에 진입했음을 시사한다. CDMO 수주와 LNP 원료 수요 증가가 연쇄적으로 이어질 수 있다.",
+          "keywords": ["mRNA", "Series B", "CDMO", "국내", "백신"],
+          "url": "https://www.mk.co.kr/example-mrna-series-b"
+        },
+        {
+          "id": "3",
+          "title": "EMA, ATMP GMP 가이드라인 개정 초안 공개",
+          "source": "EMA Press",
+          "date": "2026-06-02",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "유럽의약품청(EMA)이 세포·유전자 치료제(ATMP) 제조 시설에 대한 GMP 가이드라인 개정 초안을 공개했다. 환경 모니터링, 밸리데이션 문서, 공급망 추적 요건이 강화된다.",
+          "significance": "EU 진출을 목표로 하는 국내 CGT 기업의 capex·컴플라이언스 비용이 상승할 수 있다. 초안 코멘트 기간 내 대응 전략 수립이 필요하다.",
+          "keywords": ["EMA", "GMP", "ATMP", "CGT", "Regulatory"],
+          "url": "https://www.ema.europa.eu/example-atmp-gmp"
+        },
+        {
+          "id": "4",
+          "title": "CRISPR base editing, 12개월 추적 안전성 데이터 Nature Medicine 게재",
+          "source": "Nature Medicine",
+          "date": "2026-06-01",
+          "section": "paper",
+          "eventType": "publication",
+          "summary": "간 유전자 편집 치료 후보의 12개월 follow-up에서 임상적 이득이 유지됐으며, 주요 이상반응은 경미한 수준이었다. 다만 장기 off-target 분석에 대한 독립 검증 요구가 제기됐다.",
+          "significance": "in vivo gene editing 상용화 논의가 한 단계 진전됐으나, 규제·윤리 논쟁은 지속될 전망이다. 플랫폼 라이선스 및 IP 분쟁 리스크를 함께 추적해야 한다.",
+          "keywords": ["CRISPR", "base editing", "Nature Medicine", "Gene therapy"],
+          "url": "https://www.nature.com/example-base-editing"
+        },
+        {
+          "id": "5",
+          "title": "일본 Big Pharma, 국내 바이오텍과 희귀질환 소분자 공동개발 계약",
+          "source": "BioCentury",
+          "date": "2026-06-03",
+          "section": "deal",
+          "eventType": "partnership",
+          "summary": "일본 상위 10위 제약사가 국내 상장 바이오텍과 최대 4,500억 원 규모의 공동개발·라이선스 계약을 체결했다. 희귀 대사질환 타깃 소분자 2건이 포함됐다.",
+          "significance": "아시아 BD 활성화 신호로, 국내 파이프라인의 out-licensing 밸류에이션이 재조정될 수 있다. 마일스톤 구조와 권리 반환 조항을 세부 확인할 필요가 있다.",
+          "keywords": ["BD", "Licensing", "희귀질환", "Japan", "Deal"],
+          "url": "https://www.biocentury.com/example-jp-kr-deal"
+        },
+        {
+          "id": "6",
+          "title": "글로벌 바이오텍, in vivo CAR-T 플랫폼 Phase 1 첫 환자 투여",
+          "source": "Fierce Biotech",
+          "date": "2026-06-02",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "비바이럴 벡터 기반 in vivo CAR-T 플랫폼으로 B세포 악성종양 1상 trial에 첫 환자가 투약됐다. ex vivo 대비 제조·물류 비용 절감이 핵심 가치 제안이다.",
+          "significance": "CAR-T 제조 패러다임 전환 가능성을 시험하는 이정표 사건이다. 성공 시 CDMO·logistics 체인 재편과 국내 유사 플랫폼 간 경쟁 심화가 예상된다.",
+          "keywords": ["CAR-T", "in vivo", "Phase 1", "Cell therapy"],
+          "url": "https://www.fiercebiotech.com/example-in-vivo-cart"
+        },
+        {
+          "id": "7",
+          "title": "식약처, AI 기반 임상시험 설계 지원 가이드라인 시범 운영",
+          "source": "약업신문",
+          "date": "2026-06-04",
+          "section": "domestic",
+          "eventType": "regulatory",
+          "summary": "MFDS가 AI·RWE를 활용한 임상시험 설계 지원 프로그램 시범 운영을 발표했다. 소수 환자군·희귀질환 적응증을 우선 대상으로 한다.",
+          "significance": "국내 임상 효율화 정책 방향을 확인할 수 있는 신호다. AI CRO·데이터 플랫폼 기업과 제약사 간 파일럿 제휴가 늘어날 수 있다.",
+          "keywords": ["MFDS", "AI", "RWE", "임상", "국내"],
+          "url": "https://www.yakup.com/example-mfds-ai"
+        },
+        {
+          "id": "8",
+          "title": "미 상원, 바이오시밀러 interchangeability 심사 기간 단축 법안 발의",
+          "source": "STAT News",
+          "date": "2026-06-01",
+          "section": "global",
+          "eventType": "policy",
+          "summary": "양당 의원이 공동 발의한 법안은 FDA의 바이오시밀러 interchangeability 심사 타임라인 단축을 목표로 한다. 제네릭 대체율 제고가 정책 목표다.",
+          "significance": "오리지널 바이오의약 제품 매출 방어 전략과 바이오시밀러 제조사의 진입 장벽 변화를 동시에 야기할 수 있다. 국내 바이오시밀러 수출 전략에 영향 가능.",
+          "keywords": ["Biosimilar", "FDA", "US Senate", "Policy"],
+          "url": "https://www.statnews.com/example-biosimilar-bill"
+        },
+        {
+          "id": "9",
+          "title": "유럽 VC, 단백질 분해제(Del degrader) 스타트업에 €120M 시리즈 A",
+          "source": "Sifted",
+          "date": "2026-06-03",
+          "section": "deal",
+          "eventType": "funding",
+          "summary": "네덜란드 기반 targeted protein degradation 회사가 €120M 시리즈 A를 클로징했다. 자금은 lead asset IND-enabling 및 플랫폼 확장에 사용될 예정이다.",
+          "significance": "TPD 모달리티에 대한 유럽 자본의 관심이 지속되고 있음을 보여준다. 국내 PROTAC·molecular glue 파이프라인과의 경쟁·협업 기회를 점검할 시점이다.",
+          "keywords": ["TPD", "PROTAC", "Series A", "Europe", "Funding"],
+          "url": "https://sifted.eu/example-tpd-series-a"
+        },
+        {
+          "id": "10",
+          "title": "RNAi 후보물질, 희귀 간질환에서 Orphan Drug Designation 획득",
+          "source": "BioPharma Dive",
+          "date": "2026-06-02",
+          "section": "modality",
+          "eventType": "regulatory",
+          "summary": "미국 바이오텍의 RNAi 치료 후보가 FDA Orphan Drug Designation을 받았다. Phase 1b에서 biomarker 개선이 확인됐다고 발표했다.",
+          "significance": "희귀 간질환 RNAi 치료 경쟁이 심화되는 가운데, 가격·reimbursement 논의가 조기에 시작될 수 있다. 국내 RNAi 플랫폼 기업 벤치마킹에 유용하다.",
+          "keywords": ["RNAi", "Orphan Drug", "Liver", "FDA"],
+          "url": "https://www.biopharmadive.com/example-rnai-orphan"
+        }
+      ]
+    },
+    {
+      "reportDate": "2026-06-03",
+      "title": "어제의 핵심 3줄",
+      "summaryLines": [
+        "글로벌 제약사 2곳이 GLP-1 경쟁 심화에 따른 공동 마케팅 재검토를 발표.",
+        "국내 바이오시밀러 1사, 유럽 허가 신청 제출 완료.",
+        "JP Morgan Healthcare Conference 프리뷰 자료에서 M&A 파이프라인 언급 증가."
+      ],
+      "sections": ["domestic", "global", "deal"],
+      "items": [
+        {
+          "id": "2026-06-03-1",
+          "title": "글로벌 제약사, GLP-1 공동 마케팅 구조 재검토",
+          "source": "Reuters",
+          "date": "2026-06-03",
+          "section": "global",
+          "eventType": "commercial",
+          "summary": "두 글로벌 제약사가 비만·당뇨 적응증 GLP-1 제품의 지역별 마케팅·수익 배분을 재협상한다고 발표했다.",
+          "significance": "GLP-1 시장 점유율 재편 신호로, 국내 관련 원료·위탁생산 수주에 영향을 줄 수 있다.",
+          "keywords": ["GLP-1", "Marketing", "Obesity"],
+          "url": "https://www.reuters.com/example-glp1"
+        },
+        {
+          "id": "2026-06-03-2",
+          "title": "국내 바이오시밀러, EU 중앙 허가(MAA) 신청",
+          "source": "한국경제",
+          "date": "2026-06-03",
+          "section": "domestic",
+          "eventType": "regulatory",
+          "summary": "국내 상장 바이오시밀러 기업이 종양 necrosis factor 억제제 바이오시밀러에 대해 EU MAA를 제출했다.",
+          "significance": "국내 바이오시밀러의 유럽 진출 사례가 늘어나는지 추적할 필요가 있다.",
+          "keywords": ["Biosimilar", "EMA", "MAA", "국내"],
+          "url": "https://www.hankyung.com/example-biosimilar-maa"
+        }
+      ]
+    },
+    {
+      "reportDate": "2026-06-02",
+      "title": "6월 2일 핵심 4줄",
+      "summaryLines": [
+        "미 NIH, 유전자 치료 장기 추적 연구 확대 계획 발표.",
+        "국내 CRO, AI 임상 설계 파일럿 3건 수주.",
+        "유럽 TPD 스타트업 IND 승인, 경쟁 심화 신호.",
+        "바이오 VC 펀드 클로징 속도 둔화, 선별 투자 강조."
+      ],
+      "sections": ["global", "domestic", "deal", "modality"],
+      "items": [
+        {
+          "id": "2026-06-02-1",
+          "title": "NIH, 유전자 치료 장기 추적 연구 확대",
+          "source": "NIH News",
+          "date": "2026-06-02",
+          "section": "global",
+          "eventType": "policy",
+          "summary": "NIH가 in vivo 유전자 치료 환자의 장기 추적 연구 프로토콜을 표준화한다고 발표했다.",
+          "significance": "글로벌 CGT 임상 설계·데이터 수집 기준이 강화될 수 있어 국내 CGT 기업의 임상 계획에 영향을 줄 수 있다.",
+          "keywords": ["NIH", "Gene therapy", "Long-term follow-up"],
+          "url": "https://www.nih.gov/example-gene-tracking"
+        },
+        {
+          "id": "2026-06-02-2",
+          "title": "국내 CRO, AI 임상 설계 파일럿 3건 수주",
+          "source": "메디파이언트",
+          "date": "2026-06-02",
+          "section": "domestic",
+          "eventType": "commercial",
+          "summary": "국내 상장 CRO가 제약사 3곳과 AI 기반 적응형 임상 설계 파일럿 계약을 체결했다.",
+          "significance": "국내 AI+CRO 수요가 구체화되는 사례로, 관련 소프트웨어·데이터 파트너 수혜를 점검할 시점이다.",
+          "keywords": ["CRO", "AI", "임상", "국내"],
+          "url": "https://www.medipiont.com/example-cro-ai"
+        },
+        {
+          "id": "2026-06-02-3",
+          "title": "유럽 TPD 스타트업, lead asset IND 승인",
+          "source": "Fierce Biotech",
+          "date": "2026-06-01",
+          "section": "modality",
+          "eventType": "regulatory",
+          "summary": "네덜란드 TPD 회사가 lead degrader에 대한 FDA IND를 받았다.",
+          "significance": "TPD 경쟁이 임상 단계로 확대되며, 국내 유사 파이프라인 벤치마킹이 필요하다.",
+          "keywords": ["TPD", "IND", "FDA"],
+          "url": "https://www.fiercebiotech.com/example-tpd-ind"
+        }
+      ]
+    },
+    {
+      "reportDate": "2026-06-01",
+      "title": "6월 1일 주간 오프닝 3줄",
+      "summaryLines": [
+        "JP Morgan Healthcare Conference 프리뷰에서 M&A 파이프라인 언급 증가.",
+        "국내 바이오 지수, 규제 호재 섹터 강세.",
+        "글로벌 원료의약품 공급망 점검 이슈 부각."
+      ],
+      "sections": ["global", "domestic", "deal"],
+      "items": [
+        {
+          "id": "2026-06-01-1",
+          "title": "JPM 프리뷰, 바이오 M&A 파이프라인 확대 전망",
+          "source": "BioCentury",
+          "date": "2026-06-01",
+          "section": "deal",
+          "eventType": "commercial",
+          "summary": "주요 IB 리포트가 상반기 바이오 M&A 거래 건수 증가를 전망했다.",
+          "significance": "BD·라이선싱 활성화 기대감이 커지며 국내 out-licensing 협상 타이밍에 영향을 줄 수 있다.",
+          "keywords": ["M&A", "JPM", "BD"],
+          "url": "https://www.biocentury.com/example-jpm-mna"
+        },
+        {
+          "id": "2026-06-01-2",
+          "title": "국내 바이오 지수, 규제 호재 섹터 상대 강세",
+          "source": "한국경제",
+          "date": "2026-06-01",
+          "section": "domestic",
+          "eventType": "market",
+          "summary": "코스닥 바이오 지수가 전주 대비 상승했으며, 규제·정책 수혜주가 상대 강세를 보였다.",
+          "significance": "단기 섹터 로테이션 신호로, 펀더멘털과 괴리 여부를 함께 볼 필요가 있다.",
+          "keywords": ["코스닥", "바이오", "국내"],
+          "url": "https://www.hankyung.com/example-bio-index"
+        }
+      ]
+    }
+  ]
+}
