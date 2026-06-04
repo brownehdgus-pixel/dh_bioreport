@@ -16,8 +16,8 @@ export type NewsItem = {
   summary: string;
   significance: string;
   keywords: string[];
-  importanceScore?: number;
-  koreaRelevanceScore?: number;
+  importanceScore: number;
+  koreaRelevanceScore: number;
   url: string;
 };
 

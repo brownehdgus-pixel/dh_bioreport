@@ -46,7 +46,7 @@ export function draftToNewsItem(draft: NewsItemDraft, id: string): NewsItem | nu
     return null;
   }
 
-  const item: NewsItem = {
+  return {
     id,
     title: draft.title.trim(),
     source: draft.source.trim(),
@@ -56,15 +56,10 @@ export function draftToNewsItem(draft: NewsItemDraft, id: string): NewsItem | nu
     summary: draft.summary.trim(),
     significance: draft.significance.trim(),
     keywords: parseKeywords(draft.keywordsText),
+    importanceScore: parseScore(draft.importanceScore) ?? 5,
+    koreaRelevanceScore: parseScore(draft.koreaRelevanceScore) ?? 5,
     url: draft.url.trim() || "#",
   };
-
-  const importance = parseScore(draft.importanceScore);
-  const koreaRelevance = parseScore(draft.koreaRelevanceScore);
-  if (importance != null) item.importanceScore = importance;
-  if (koreaRelevance != null) item.koreaRelevanceScore = koreaRelevance;
-
-  return item;
 }
 
 export function draftToPreviewItem(draft: NewsItemDraft): NewsItem {
@@ -79,8 +74,8 @@ export function draftToPreviewItem(draft: NewsItemDraft): NewsItem {
       summary: draft.summary.trim() || "(요약을 입력하세요)",
       significance: draft.significance.trim() || "(의미를 입력하세요)",
       keywords: parseKeywords(draft.keywordsText),
-      importanceScore: parseScore(draft.importanceScore),
-      koreaRelevanceScore: parseScore(draft.koreaRelevanceScore),
+      importanceScore: parseScore(draft.importanceScore) ?? 5,
+      koreaRelevanceScore: parseScore(draft.koreaRelevanceScore) ?? 5,
       url: draft.url.trim() || "#",
     }
   );

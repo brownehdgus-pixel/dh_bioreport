@@ -46,20 +46,14 @@ export function NewsCard({ item }: Props) {
           <p className="text-[13px] leading-relaxed text-memo-ink">{item.significance}</p>
         </div>
 
-        {(item.importanceScore != null || item.koreaRelevanceScore != null) && (
-          <div className="flex gap-3 text-[11px] text-memo-muted">
-            {item.importanceScore != null && (
-              <span>
-                중요도 <strong className="text-memo-ink">{item.importanceScore}</strong>/10
-              </span>
-            )}
-            {item.koreaRelevanceScore != null && (
-              <span>
-                국내 연관 <strong className="text-memo-ink">{item.koreaRelevanceScore}</strong>/10
-              </span>
-            )}
-          </div>
-        )}
+        <div className="flex gap-3 text-[11px] text-memo-muted">
+          <span>
+            중요도 <strong className="text-memo-ink">{item.importanceScore}</strong>/10
+          </span>
+          <span>
+            국내 연관 <strong className="text-memo-ink">{item.koreaRelevanceScore}</strong>/10
+          </span>
+        </div>
 
         <div>
           <h3 className="mb-1.5 text-[10px] font-bold uppercase tracking-wider text-memo-muted">

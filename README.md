@@ -1,6 +1,6 @@
 # Bio Industry Daily Memo
 
-모바일 우선 개인용 바이오 산업 뉴스 리포트 웹앱입니다. (Mock data · DB/로그인 없음)
+모바일 우선 개인용 바이오 산업 뉴스 리포트 웹앱입니다. (뉴스 데이터: `data/news.json` · DB 없음)
 
 ---
 
@@ -55,20 +55,44 @@ npm run dev
 
 | 경로 | 설명 |
 |------|------|
-| `src/data/mockNews.ts` | 브리핑 5줄 + 뉴스 목록 (여기서 내용 수정) |
-| `src/components/` | 화면 UI 컴포넌트 |
-| `src/app/page.tsx` | 메인 페이지 |
+| `data/news.json` | **모든 날짜의 뉴스 리포트** (여기서 내용 수정) |
+| `src/lib/getReports.ts` | JSON 파일을 읽어 화면에 넘기는 로직 (나중에 Supabase로 교체) |
+| `src/components/` | 화면 UI (디자인만 담당, 데이터는 직접 읽지 않음) |
+| `src/app/reports/` | 리포트 목록·날짜별 상세 페이지 |
 
 ---
 
-## 뉴스 데이터 수정하기
+## 뉴스 데이터 수정하기 (`data/news.json`)
 
-`src/data/mockNews.ts` 파일을 메모장이나 Cursor로 열어:
+코드가 아니라 **`data/news.json`** 파일 하나에 여러 날짜 리포트가 들어 있습니다.
 
-- `todayBriefing` — 상단 5줄 브리핑
-- `newsItems` — 카드별 제목, 출처, 요약, 의미, 키워드, 링크
+### 파일 구조 (간단히)
 
-저장 후 브라우저를 새로고침하면 반영됩니다.
+```text
+reports → [ 날짜별 리포트, 날짜별 리포트, ... ]
+```
+
+**각 리포트(하루치)** 에는 다음이 있습니다.
+
+| 필드 | 의미 |
+|------|------|
+| `reportDate` | 날짜 (예: `2026-06-04`) |
+| `title` | 상단 제목 |
+| `summaryLines` | 핵심 요약 줄 (배열) |
+| `sections` | 탭에 쓸 섹션 목록 |
+| `items` | 그날의 뉴스 카드 목록 |
+
+**각 뉴스 카드(`items` 안 한 건)** 에는 제목, 출처, 요약, 의미, 키워드, URL, 중요도·국내 연관 점수 등이 들어갑니다.
+
+### 수정 후 반영
+
+1. `data/news.json` 을 저장합니다.
+2. 개발 중이면 브라우저 **새로고침** (필요 시 `npm run dev` 재시작).
+3. Vercel에 배포한 경우에는 Git에 올린 뒤 **다시 배포**해야 반영됩니다.
+
+### 관리자 화면으로 추가하기
+
+`/admin` 에서 비밀번호로 로그인 → 뉴스 입력 → **JSON 복사** → `data/news.json` 의 해당 날짜 `items` 배열에 붙여넣기.
 
 ---
 
