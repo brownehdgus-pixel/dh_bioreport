@@ -1,0 +1,46 @@
+name: Daily Bio News Crawl
+
+on:
+  schedule:
+    # 09:30 KST = 00:30 UTC
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run news crawler
+        run: python scripts/collect_news.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/news.json raw_data/ data/news.backup.json
+
+          if git diff --cached --quiet -- data/news.json; then
+            echo "data/news.json unchanged — skipping commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update daily bio news report"
+          git push

@@ -96,6 +96,93 @@ reports → [ 날짜별 리포트, 날짜별 리포트, ... ]
 
 ---
 
+## 뉴스 자동 수집 (Python 크롤링 MVP)
+
+RSS에서 기사를 모아 **`data/news.json`** 을 자동으로 갱신합니다. (Supabase·LLM은 이후 단계)
+
+### 1단계: Python 설치
+
+- https://www.python.org/downloads/ 에서 **Python 3.10 이상** 설치
+- 설치 시 **「Add Python to PATH」** 체크
+
+확인:
+
+```bash
+python --version
+```
+
+### 2단계: 패키지 설치 (프로젝트 폴더에서)
+
+```bash
+cd bio-news-report
+pip install -r requirements.txt
+```
+
+### 3단계: 수집 실행
+
+```bash
+python scripts/collect_news.py
+```
+
+### 생성되는 파일
+
+| 파일 | 설명 |
+|------|------|
+| `raw_data/날짜/raw_items.json` | RSS에서 받은 **원본** |
+| `raw_data/날짜/deduplicated_items.json` | URL 기준 **중복 제거** 후 |
+| `data/news.backup.json` | 갱신 전 `news.json` **백업** |
+| `data/news.json` | 웹앱이 읽는 **최종** 데이터 |
+
+### 4단계: 웹에서 확인
+
+```bash
+npm run dev
+```
+
+브라우저에서 `/reports` → 오늘 날짜 리포트 선택.
+
+**수집 소스:** Fierce Biotech·Pharma, BioPharma Dive, Business Wire RSS, Google News 키워드 검색.
+
+**참고:** `importanceScore`·`koreaRelevanceScore`는 JSON에만 저장되고, 화면 카드에는 표시하지 않습니다.
+
+**영문 요약 한글화:** RSS 수집 시·웹 표시 시 영문 `summary`·`summaryLines`를 한국어로 번역합니다.  
+기존 `news.json`만 고치려면: `python scripts/translate_news_summaries.py`
+
+### GitHub Actions 매일 자동 수집 (권장 · 오전 09:30 KST)
+
+GitHub 클라우드에서 매일 크롤러를 실행하고, `data/news.json`이 바뀌면 **자동 commit/push** → **Vercel이 자동 재배포**합니다. PC가 꺼져 있어도 동작합니다.
+
+| 파일 | 용도 |
+|------|------|
+| `.github/workflows/daily-crawl.yml` | 매일 00:30 UTC(09:30 KST) 실행 + 수동 실행 |
+| `docs/github_actions_setup.md` | **등록·테스트 방법 (비개발자용)** |
+
+**테스트 순서 (요약):**
+
+1. workflow 파일이 포함된 코드를 GitHub **`main`** 에 push  
+2. GitHub → **Actions** → **Daily Bio News Crawl** → **Run workflow**  
+3. Run이 초록색인지 확인 → (변경 시) commit `chore: update daily bio news report`  
+4. Vercel **Deployments** → 새 배포 완료 후 `/reports` 확인  
+
+**Vercel 배포 사이트:** Actions가 push하면 Vercel이 **자동으로 다시 배포**합니다. **Supabase DB** 연결 후에는 DB만 갱신해도 재배포 없이 웹앱에 반영할 수 있습니다.
+
+### Windows 로컬 자동 수집 (선택 · PC에서만)
+
+작업 스케줄러는 **필수 아님**. 내 PC의 `data/news.json` 만 갱신할 때 사용합니다.
+
+| 파일 | 용도 |
+|------|------|
+| `scripts/test_daily_crawl.bat` | **더블클릭** 수동 테스트 |
+| `scripts/run_daily_crawl.bat` | 작업 스케줄러용 |
+| `logs/daily_crawl_YYYY-MM-DD.log` | 실행 로그 |
+| `docs/windows_task_scheduler_setup.md` | 작업 스케줄러 등록 방법 |
+
+1. `pip install -r requirements.txt` (최초 1회)  
+2. `scripts\test_daily_crawl.bat` 더블클릭 → `logs`·`data\news.json` 확인  
+3. (선택) `docs/windows_task_scheduler_setup.md` 따라 작업 스케줄러 등록  
+
+---
+
 ## 관리자 페이지 (`/admin`) 비밀번호
 
 뉴스 입력 화면은 **관리자 비밀번호**로만 들어갈 수 있습니다. (나중에 Supabase 로그인으로 바꿀 예정이며, 지금은 간단한 비밀번호 방식입니다.)
