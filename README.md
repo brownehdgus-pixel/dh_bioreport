@@ -72,6 +72,40 @@ npm run dev
 
 ---
 
+## 관리자 페이지 (`/admin`) 비밀번호
+
+뉴스 입력 화면은 **관리자 비밀번호**로만 들어갈 수 있습니다. (나중에 Supabase 로그인으로 바꿀 예정이며, 지금은 간단한 비밀번호 방식입니다.)
+
+### 로컬에서 비밀번호 설정
+
+1. 프로젝트 폴더에 있는 **`.env.local.example`** 파일을 복사해 **`.env.local`** 로 저장합니다.
+2. `.env.local` 안의 `ADMIN_PASSWORD=` 뒤에 **원하는 비밀번호**를 적습니다.
+3. 개발 서버를 **끄고** (`Ctrl + C`) 다시 **`npm run dev`** 로 실행합니다.
+4. 브라우저에서 `http://localhost:3000/admin` (또는 터미널에 나온 포트)을 엽니다.
+
+`.env.local` 은 Git에 올라가지 않으므로 비밀번호가 공개되지 않습니다.
+
+### Vercel(배포 사이트)에서 비밀번호 설정
+
+1. [Vercel](https://vercel.com) → 해당 프로젝트 선택
+2. **Settings** → **Environment Variables**
+3. **Key:** `ADMIN_PASSWORD` / **Value:** 관리자 비밀번호 입력
+4. **Production** (필요하면 Preview·Development도) 체크 후 **Save**
+5. **Deployments** → 최신 배포 **⋯** → **Redeploy** (환경 변수는 재배포 후 적용됩니다)
+
+자세한 배포 절차는 `DEPLOY.md` 를 참고하세요.
+
+### 동작 요약
+
+| 상황 | 화면 |
+|------|------|
+| `/admin` 첫 방문 | 비밀번호 입력 화면 |
+| 비밀번호 맞음 | 뉴스 입력 화면 (7일 동안 쿠키로 유지, 새로고침해도 재입력 없음) |
+| 비밀번호 틀림 | 「비밀번호가 올바르지 않습니다」 |
+| 「로그아웃」 클릭 | 다시 비밀번호 입력 화면 |
+
+---
+
 ## 기술 스택
 
 - Next.js 15 (App Router)

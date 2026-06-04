@@ -34,7 +34,21 @@
 | `next.config.ts` — Next.js 15 TypeScript 설정 | ✅ (`.js` 아님, Vercel 동일 지원) |
 | `vercel.json` — 프레임워크·빌드 명령 | ✅ |
 | `.gitignore` — node_modules, .next, .env.local | ✅ |
-| `ADMIN_PASSWORD` — Vercel 환경 변수 필요 | ⚠️ 배포 후 등록 |
+| `ADMIN_PASSWORD` — Vercel 환경 변수 필요 | ⚠️ 아래 「관리자 비밀번호」 참고 |
+
+### 관리자 비밀번호 (Vercel)
+
+배포된 `/admin` 은 서버에 등록한 비밀번호 없이는 열리지 않습니다.
+
+1. Vercel 대시보드 → 프로젝트 **dh_bioreport** (또는 연결한 이름)
+2. **Settings** → 왼쪽 메뉴 **Environment Variables**
+3. **Add New**
+   - **Key:** `ADMIN_PASSWORD`
+   - **Value:** 로컬 `.env.local` 과 동일하게 쓸 관리자 비밀번호
+   - **Environments:** Production (필요 시 Preview 포함)
+4. **Save** 후 **Deployments** 탭 → 최신 항목 **Redeploy**
+
+로컬만 설정하고 Vercel에 넣지 않으면, 배포 URL의 `/admin` 에서 「비밀번호가 아직 설정되지 않았습니다」 안내가 나옵니다.
 
 **Vercel 프로젝트 이름:** `dh_bioreport`
 

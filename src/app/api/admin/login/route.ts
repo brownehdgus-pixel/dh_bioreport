@@ -1,13 +1,12 @@
 import { NextResponse } from "next/server";
 import {
   ADMIN_SESSION_COOKIE,
+  ADMIN_SESSION_MAX_AGE,
   createSessionToken,
   getAdminPassword,
   isAdminPasswordConfigured,
   verifyPassword,
 } from "@/lib/adminAuth";
-
-const SESSION_MAX_AGE = 60 * 60 * 24 * 7; // 7일
 
 export async function POST(request: Request) {
   if (!isAdminPasswordConfigured()) {
@@ -29,10 +28,7 @@ export async function POST(request: Request) {
 
   const password = body.password ?? "";
   if (!verifyPassword(password)) {
-    return NextResponse.json(
-      { error: "비밀번호가 올바르지 않습니다. 다시 입력해 주세요." },
-      { status: 401 }
-    );
+    return NextResponse.json({ error: "비밀번호가 올바르지 않습니다" }, { status: 401 });
   }
 
   const adminPassword = getAdminPassword()!;
@@ -44,7 +40,7 @@ export async function POST(request: Request) {
     secure: process.env.NODE_ENV === "production",
     sameSite: "lax",
     path: "/",
-    maxAge: SESSION_MAX_AGE,
+    maxAge: ADMIN_SESSION_MAX_AGE,
   });
 
   return response;

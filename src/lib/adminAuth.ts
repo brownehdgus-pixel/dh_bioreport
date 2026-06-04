@@ -3,6 +3,9 @@ import { cookies } from "next/headers";
 
 export const ADMIN_SESSION_COOKIE = "admin_session";
 
+/** 로그인 후 새로고침해도 비밀번호를 다시 묻지 않는 기간(초). 추후 Supabase Auth로 대체 예정. */
+export const ADMIN_SESSION_MAX_AGE = 60 * 60 * 24 * 7; // 7일
+
 const SESSION_SALT = "bio-news-admin-v1";
 
 export function getAdminPassword(): string | undefined {
