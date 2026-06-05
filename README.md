@@ -145,26 +145,30 @@ npm run dev
 
 **참고:** `importanceScore`·`koreaRelevanceScore`는 JSON에만 저장되고, 화면 카드에는 표시하지 않습니다.
 
-**영문 요약 한글화:** RSS 수집 시·웹 표시 시 영문 `summary`·`summaryLines`를 한국어로 번역합니다.  
-기존 `news.json`만 고치려면: `python scripts/translate_news_summaries.py`
+**영문 요약 한글화:** 크롤 시 **OpenAI API**로 `summary`를 한국어로 번역합니다 (`OPENAI_API_KEY` 필요).  
+기존 `news.json`만 고치려면: `OPENAI_API_KEY` 설정 후 `python scripts/translate_news_summaries.py`
 
-### GitHub Actions 매일 자동 수집 (권장 · 오전 09:30 KST)
+**용량 관리:** `news.json`·`raw_data`는 **최근 90일**만 유지합니다.
 
-GitHub 클라우드에서 매일 크롤러를 실행하고, `data/news.json`이 바뀌면 **자동 commit/push** → **Vercel이 자동 재배포**합니다. PC가 꺼져 있어도 동작합니다.
+### GitHub Actions 매일 자동 수집 (권장 · 오전 09:12 KST)
+
+GitHub 클라우드에서 매일 크롤러를 실행하고, `data/news.json`이 바뀌면 **자동 commit/push** → **Vercel 자동 재배포** → (설정 시) **휴대폰 푸시 알림**.
 
 | 파일 | 용도 |
 |------|------|
-| `.github/workflows/daily-crawl.yml` | 매일 00:30 UTC(09:30 KST) 실행 + 수동 실행 |
-| `docs/github_actions_setup.md` | **등록·테스트 방법 (비개발자용)** |
+| `.github/workflows/daily-crawl.yml` | 매일 00:12 UTC(**09:12 KST**) + 수동 실행 |
+| `docs/github_actions_setup.md` | Secrets·ntfy 푸시·테스트 (비개발자용) |
+
+**GitHub Secrets (필수·권장):** `OPENAI_API_KEY` · `NTFY_TOPIC`(푸시) · `VERCEL_PRODUCTION_URL`
 
 **테스트 순서 (요약):**
 
-1. workflow 파일이 포함된 코드를 GitHub **`main`** 에 push  
-2. GitHub → **Actions** → **Daily Bio News Crawl** → **Run workflow**  
-3. Run이 초록색인지 확인 → (변경 시) commit `chore: update daily bio news report`  
-4. Vercel **Deployments** → 새 배포 완료 후 `/reports` 확인  
+1. Secrets 등록 후 코드를 GitHub **`main`** 에 push  
+2. **Actions** → **Daily Bio News Crawl** → **Run workflow**  
+3. Run 초록색 → commit → Vercel 배포 → `/reports` 확인  
+4. ntfy 앱에서 푸시 알림 확인  
 
-**Vercel 배포 사이트:** Actions가 push하면 Vercel이 **자동으로 다시 배포**합니다. **Supabase DB** 연결 후에는 DB만 갱신해도 재배포 없이 웹앱에 반영할 수 있습니다.
+**Vercel:** push 시 **자동 재배포**. **Supabase** 연결 후에는 DB만 갱신해도 재배포 없이 반영 가능.
 
 ### Windows 로컬 자동 수집 (선택 · PC에서만)
 

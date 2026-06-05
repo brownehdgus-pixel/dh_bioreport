@@ -25,6 +25,11 @@ from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 
 import feedparser
 
+SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS_DIR))
+from openai_translate import translate_to_korean  # noqa: E402
+
 # ---------------------------------------------------------------------------
 # 경로 · 설정
 # ---------------------------------------------------------------------------
@@ -39,6 +44,7 @@ USER_AGENT = "BioNewsReportCollector/0.1 (+https://github.com/local/bio-news-rep
 MAX_ITEM_AGE_DAYS = 14
 MAX_ITEMS_IN_REPORT = 40
 MAX_SUMMARY_LINES = 5
+REPORT_RETENTION_DAYS = 90
 
 RSS_FEEDS: list[dict[str, str]] = [
     {
@@ -387,30 +393,6 @@ def extract_keywords(title: str, snippet: str, query_keyword: str) -> list[str]:
     return keywords[:6] or ["biotech"]
 
 
-def is_mostly_english(text: str) -> bool:
-    if not text.strip():
-        return False
-    hangul = len(re.findall(r"[\uAC00-\uD7A3]", text))
-    latin = len(re.findall(r"[A-Za-z]", text))
-    if latin < 12:
-        return False
-    return latin > hangul * 1.5
-
-
-def translate_to_korean(text: str) -> str:
-    """영문 요약을 한국어로 번역 (LLM 없음, Google Translate 경유)."""
-    trimmed = text.strip()
-    if not trimmed or not is_mostly_english(trimmed):
-        return trimmed
-    try:
-        from deep_translator import GoogleTranslator
-
-        chunk = trimmed[:4500]
-        return GoogleTranslator(source="auto", target="ko").translate(chunk) or trimmed
-    except Exception:
-        return trimmed
-
-
 def build_summary(title: str, snippet: str) -> str:
     base = snippet.strip() if snippet else title.strip()
     base = re.sub(r"\s+", " ", base)
@@ -527,6 +509,43 @@ def merge_reports(existing: list[dict[str, Any]], new_report: dict[str, Any]) ->
     return sorted(by_date.values(), key=lambda r: r["reportDate"], reverse=True)
 
 
+def trim_reports_by_retention(
+    reports: list[dict[str, Any]], anchor_date: str
+) -> list[dict[str, Any]]:
+    """news.json에 최근 REPORT_RETENTION_DAYS 일만 유지."""
+    anchor = datetime.strptime(anchor_date, "%Y-%m-%d").date()
+    cutoff = anchor - timedelta(days=REPORT_RETENTION_DAYS - 1)
+    cutoff_str = cutoff.isoformat()
+    trimmed = [r for r in reports if (r.get("reportDate") or "") >= cutoff_str]
+    removed = len(reports) - len(trimmed)
+    if removed:
+        print(
+            f"  -> retention: removed {removed} report(s) older than "
+            f"{REPORT_RETENTION_DAYS} days (before {cutoff_str})"
+        )
+    return trimmed
+
+
+def prune_old_raw_data(anchor_date: str) -> None:
+    """raw_data 폴더에서 보관 기간 지난 날짜 디렉터리 삭제."""
+    if not RAW_DIR.exists():
+        return
+    anchor = datetime.strptime(anchor_date, "%Y-%m-%d").date()
+    cutoff = anchor - timedelta(days=REPORT_RETENTION_DAYS - 1)
+    cutoff_str = cutoff.isoformat()
+    removed = 0
+    for child in RAW_DIR.iterdir():
+        if not child.is_dir():
+            continue
+        if child.name < cutoff_str:
+            import shutil
+
+            shutil.rmtree(child)
+            removed += 1
+    if removed:
+        print(f"  -> pruned {removed} raw_data folder(s) before {cutoff_str}")
+
+
 def load_existing_reports() -> list[dict[str, Any]]:
     if not NEWS_JSON.exists():
         return []
@@ -576,25 +595,29 @@ def main() -> int:
     print(f"Report date: {report_date}")
     print("=" * 60)
 
-    print("\n[1/4] Fetching RSS feeds...")
+    print("\n[1/5] Fetching RSS feeds...")
     raw_items = collect_all_raw(collected_at)
     raw_items = filter_recent(raw_items, report_date)
     write_json(raw_path, {"report_date": report_date, "collected_at": collected_at, "items": raw_items})
     print(f"  -> saved raw: {len(raw_items)} items")
 
-    print("\n[2/4] Deduplicating...")
+    print("\n[2/5] Deduplicating...")
     deduped = deduplicate_items(raw_items)
     write_json(dedup_path, {"report_date": report_date, "collected_at": collected_at, "items": deduped})
     print(f"  -> saved deduplicated: {len(deduped)} items")
 
-    print("\n[3/4] Building data/news.json...")
+    print("\n[3/5] Building data/news.json...")
     existing = load_existing_reports()
     backup_news_json()
     daily = build_daily_report(report_date, deduped)
     merged = merge_reports(existing, daily)
+    merged = trim_reports_by_retention(merged, report_date)
     write_json(NEWS_JSON, {"reports": merged})
 
-    print("\n[4/4] Done - files written:")
+    print("\n[4/5] Pruning old raw_data...")
+    prune_old_raw_data(report_date)
+
+    print("\n[5/5] Done - files written:")
     created = [raw_path, dedup_path, NEWS_JSON]
     if NEWS_BACKUP.exists():
         created.insert(0, NEWS_BACKUP)

@@ -12,7 +12,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "google-translate-api-x": "^10.7.3",
     "next": "^15.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

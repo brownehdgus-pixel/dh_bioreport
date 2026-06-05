@@ -1,19 +1,16 @@
 import newsData from "../../data/news.json";
 import type { DailyReport, NewsReportsFile } from "@/data/types";
-import { localizeReports } from "@/lib/localizeReports";
 
 /**
  * 모든 리포트를 불러옵니다.
- * 현재: data/news.json 파일
- * 영문 요약은 표시 전 한국어로 번역합니다.
+ * 현재: data/news.json 파일 (요약 한글화는 크롤러에서 OpenAI로 처리)
  * 이후 Supabase로 전환 시 이 함수 내부만 DB 조회로 교체하면 됩니다.
  */
 export async function getReports(): Promise<DailyReport[]> {
   const data = newsData as NewsReportsFile;
-  const sorted = [...data.reports].sort((a, b) =>
+  return [...data.reports].sort((a, b) =>
     b.reportDate.localeCompare(a.reportDate)
   );
-  return localizeReports(sorted);
 }
 
 /** 가장 최신 리포트 (기본 화면용) */

@@ -1,4 +1,4 @@
-# GitHub Actions — 매일 오전 09:30 뉴스 자동 수집
+# GitHub Actions — 매일 오전 09:12 뉴스 자동 수집
 
 이 문서는 **비개발자**도 따라 할 수 있도록 작성했습니다.  
 Windows 작업 스케줄러 대신 **GitHub Actions**가 매일 크롤러를 실행하고, 변경이 있으면 GitHub에 올린 뒤 **Vercel**이 웹사이트를 자동으로 다시 배포합니다.
@@ -11,21 +11,24 @@ Windows 작업 스케줄러 대신 **GitHub Actions**가 매일 크롤러를 실
 
 이 프로젝트에서는:
 
-1. 매일 **오전 09:30 (한국 시간)** 에 뉴스 수집 프로그램 실행  
-2. `data/news.json`, `raw_data/` 등 갱신  
-3. 내용이 바뀌었으면 GitHub에 **자동 저장(commit·push)**  
-4. Vercel이 push를 감지해 **웹사이트 자동 재배포**
+1. 매일 **오전 09:12 (한국 시간)** 에 뉴스 수집 프로그램 실행  
+2. **OpenAI API**로 영문 요약을 한국어로 번역해 `data/news.json` 저장  
+3. **최근 90일** 리포트만 `news.json`에 유지 (용량·빌드 속도 관리)  
+4. 내용이 바뀌었으면 GitHub에 **자동 저장(commit·push)**  
+5. Vercel이 push를 감지해 **웹사이트 자동 재배포**  
+6. (설정 시) **휴대폰 푸시 알림** — 배포 완료 안내  
 
 ```text
-[09:30 KST] GitHub Actions 실행
-    → python scripts/collect_news.py
+[09:12 KST] GitHub Actions 실행
+    → python scripts/collect_news.py (OpenAI 번역 + 90일 retention)
     → data/news.json · raw_data/ 저장
     → (변경 있으면) GitHub push
     → Vercel 자동 재배포
+    → ntfy/Telegram 푸시 알림 (선택)
     → 인터넷 /reports 에 새 뉴스 반영
 ```
 
-**이번 단계에서 하지 않는 것:** Supabase DB 저장, LLM 요약, Telegram 알림, Windows 작업 스케줄러.
+**이번 단계에서 하지 않는 것:** Supabase DB 저장, Windows 작업 스케줄러.
 
 ---
 
@@ -38,22 +41,81 @@ Windows 작업 스케줄러 대신 **GitHub Actions**가 매일 크롤러를 실
 | Vercel 연결 | Vercel 대시보드 → 프로젝트 → Git 연결된 저장소 표시 |
 | Actions 활성화 | 저장소 → **Settings** → **Actions** → General에서 워크플로 실행 허용 |
 | 관리자 비밀번호 | Vercel **Environment Variables**에 `ADMIN_PASSWORD` 등록 (`/admin`용) |
+| OpenAI API 키 | GitHub **Secrets** → `OPENAI_API_KEY` ([platform.openai.com](https://platform.openai.com)) |
+| 푸시 알림 (권장) | GitHub **Secrets** → `NTFY_TOPIC` (아래 「휴대폰 푸시 알림」 참고) |
 
 로컬 PC가 꺼져 있어도 GitHub Actions는 **GitHub 서버**에서 돌아갑니다.
 
+### GitHub Secrets 등록 방법
+
+1. 저장소 → **Settings** → **Secrets and variables** → **Actions**  
+2. **New repository secret** 클릭  
+3. 아래 표 참고해 등록  
+
+| Secret 이름 | 필수 | 설명 |
+|-------------|------|------|
+| `OPENAI_API_KEY` | **예** | OpenAI API 키 (`sk-...`) — ChatGPT Plus와 **별도** |
+| `NTFY_TOPIC` | 권장 | ntfy 푸시 토픽 (다른 사람이 모를 **긴 랜덤 문자열**) |
+| `VERCEL_PRODUCTION_URL` | 권장 | 배포 사이트 주소 (예: `https://dh-bioreport.vercel.app`) |
+| `VERCEL_TOKEN` | 선택 | Vercel API 토큰 — **배포 완료까지 대기** 후 알림 |
+| `VERCEL_PROJECT_ID` | 선택 | Vercel 프로젝트 ID (`prj_...`) |
+| `TELEGRAM_BOT_TOKEN` | 선택 | Telegram 봇 토큰 (ntfy 대신) |
+| `TELEGRAM_CHAT_ID` | 선택 | Telegram 채팅 ID |
+
 ---
 
-## 매일 09:30 KST 실행 구조
+## 매일 09:12 KST 실행 구조
 
 | 구분 | 값 |
 |------|-----|
-| 한국 시간 | **매일 09:30** |
-| GitHub cron (UTC) | **00:30** (`30 0 * * *`) |
+| 한국 시간 | **매일 09:12** |
+| GitHub cron (UTC) | **00:12** (`12 0 * * *`) |
 | 워크플로 파일 | `.github/workflows/daily-crawl.yml` |
 | 실행 환경 | `ubuntu-latest` |
 | 크롤러 명령 | `python scripts/collect_news.py` |
+| news.json 보관 | **최근 90일** |
 
-한국은 서머타임이 없어서 **09:30 KST = 00:30 UTC** 로 고정합니다.
+한국은 서머타임이 없어서 **09:12 KST = 00:12 UTC** 로 고정합니다.  
+GitHub 스케줄은 **정각 실행을 보장하지 않아** 몇 분~수십 분 늦게 시작될 수 있습니다.
+
+---
+
+## 휴대폰 푸시 알림 (ntfy, 권장)
+
+**ntfy**는 무료 푸시 서비스입니다. 앱만 설치하면 GitHub Actions에서 알림을 받을 수 있습니다.
+
+### 1) 휴대폰 앱 설치
+
+- Android / iPhone: 앱 스토어에서 **ntfy** 검색 후 설치  
+- 또는 https://ntfy.sh
+
+### 2) 토픽 구독
+
+1. 앱에서 **+** 또는 **Subscribe to topic**  
+2. **다른 사람이 추측하기 어려운** 토픽 이름 입력  
+   - 예: `bio-news-brown-7f3k9x2m` (본인만 아는 문자열)  
+3. 구독 완료  
+
+### 3) GitHub Secret 등록
+
+- **Name:** `NTFY_TOPIC`  
+- **Value:** 위에서 만든 토픽 이름 (그대로)  
+
+### 4) (권장) 사이트 주소
+
+- **Name:** `VERCEL_PRODUCTION_URL`  
+- **Value:** `https://본인-버셀-도메인.vercel.app` (끝에 `/` 없이)  
+
+### 5) 동작
+
+- 크롤 후 `news.json`이 바뀌어 push되면  
+- Actions가 **Notify deploy ready** 단계에서 푸시  
+- 제목 예: 「바이오 뉴스 리포트 배포 완료」  
+- `VERCEL_TOKEN`을 넣으면 Vercel **READY** 될 때까지 기다린 뒤 알림  
+
+### Telegram 대안
+
+ntfy 대신 Telegram을 쓰려면 봇을 만들고 `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` Secret을 등록하세요.
 
 ---
 
@@ -137,11 +199,16 @@ Windows 작업 스케줄러 대신 **GitHub Actions**가 매일 크롤러를 실
 
 ---
 
+## data/news.json 90일 보관
+
+- 크롤러가 `news.json`에 **최근 90일** 리포트만 남깁니다.  
+- 그보다 오래된 날짜는 자동 삭제되어 **웹 빌드·로딩이 느려지는 것을 줄입니다.**  
+- `raw_data/90일 이전/` 폴더도 같이 정리됩니다.  
+
 ## raw_data를 GitHub에 올릴 때 (용량)
 
 - 크롤러는 `raw_data/날짜/` 아래에 **원본 JSON**을 저장합니다.  
-- Actions가 commit할 때 `raw_data/`도 함께 올라갑니다.  
-- **며칠·몇 달이 지나면 저장소 용량이 커질 수 있습니다.**  
+- 90일 지난 `raw_data`는 삭제되지만, 그 전까지는 commit에 포함됩니다.  
 
 나중에 **Supabase** 등 DB를 쓰면:
 
@@ -155,7 +222,7 @@ Windows 작업 스케줄러 대신 **GitHub Actions**가 매일 크롤러를 실
 
 | 방식 | 용도 |
 |------|------|
-| **GitHub Actions (권장)** | 매일 09:30 · GitHub push · Vercel 자동 배포 |
+| **GitHub Actions (권장)** | 매일 09:12 · GitHub push · Vercel 자동 배포 · 푸시 알림 |
 | `scripts/run_daily_crawl.bat` | **내 PC에서만** 로컬 `news.json` 갱신 (선택) |
 
 이번 자동화 단계에서는 **작업 스케줄러 등록은 필요 없습니다.**  
@@ -171,6 +238,7 @@ Windows 작업 스케줄러 대신 **GitHub Actions**가 매일 크롤러를 실
 4. [ ] (데이터 변경 시) GitHub **Commits**에 `chore: update daily bio news report`  
 5. [ ] Vercel **Deployments** 새 배포 **Ready**  
 6. [ ] Production URL **`/reports`** 에 오늘 리포트·한글 요약 확인  
+7. [ ] 휴대폰 **ntfy** 푸시 알림 수신 확인  
 
 ---
 
@@ -178,10 +246,12 @@ Windows 작업 스케줄러 대신 **GitHub Actions**가 매일 크롤러를 실
 
 | 파일 | 설명 |
 |------|------|
-| `.github/workflows/daily-crawl.yml` | Actions 워크플로 정의 |
-| `scripts/collect_news.py` | 기존 크롤러 (수정 없음) |
-| `requirements.txt` | Python 패키지 목록 |
-| `data/news.json` | 웹앱이 읽는 리포트 데이터 |
+| `.github/workflows/daily-crawl.yml` | Actions 워크플로 (09:12 KST, 알림) |
+| `scripts/collect_news.py` | RSS 수집 + OpenAI 번역 + 90일 retention |
+| `scripts/openai_translate.py` | OpenAI 한국어 번역 |
+| `scripts/notify_deploy.py` | ntfy/Telegram/Vercel 배포 알림 |
+| `requirements.txt` | Python 패키지 (`openai`, `feedparser`) |
+| `data/news.json` | 웹앱이 읽는 리포트 데이터 (최근 90일) |
 | `DEPLOY.md` | Vercel·GitHub 최초 연결 |
 
 ---

@@ -2,8 +2,8 @@ name: Daily Bio News Crawl
 
 on:
   schedule:
-    # 09:30 KST = 00:30 UTC
-    - cron: "30 0 * * *"
+    # 09:12 KST = 00:12 UTC
+    - cron: "12 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -28,19 +28,39 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run news crawler
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4o-mini
         run: python scripts/collect_news.py
 
       - name: Commit and push changes
+        id: commit_push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/news.json raw_data/ data/news.backup.json
+          git add data/news.json data/news.backup.json
+          git add -A raw_data/
 
           if git diff --cached --quiet -- data/news.json; then
             echo "data/news.json unchanged — skipping commit"
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
           git commit -m "chore: update daily bio news report"
           git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+          echo "report_date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Notify deploy ready
+        if: steps.commit_push.outputs.pushed == 'true'
+        env:
+          REPORT_DATE: ${{ steps.commit_push.outputs.report_date }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+          VERCEL_PRODUCTION_URL: ${{ secrets.VERCEL_PRODUCTION_URL }}
+        run: python scripts/notify_deploy.py

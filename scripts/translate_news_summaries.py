@@ -16,9 +16,8 @@ ROOT = Path(__file__).resolve().parent.parent
 NEWS_JSON = ROOT / "data" / "news.json"
 NEWS_BACKUP = ROOT / "data" / "news.backup.json"
 
-# collect_news 와 동일한 번역 함수 재사용
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from collect_news import is_mostly_english, translate_to_korean  # noqa: E402
+from openai_translate import is_mostly_english, translate_to_korean  # noqa: E402
 
 
 def main() -> int:
