@@ -835,7 +835,7 @@
           ],
           "importanceScore": 7,
           "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPelVCbGxaRkkwLUZEV2dQclR5OW5LaGlxR2tILVlESklIbDZwODF6T05zUXRQTldXUVpSQUc0Zjl5TGpSWDB0MW5VeVRZNTV2N3hSSk5OQ0kwU1BmZXF4MFdJdVlyek14WWh6WEpjUDdhb1hDaVJfcG1idG1naTBEWEpQZFVvY2hLakp4dklUVmNrWktlcjViRjdPRHI3LVVFazRrN2V4blVNLVg1c3hwbm9ueEI1TWRDWGFNQXdrdGh5cGNsRjU1WXdGZFBhRTZyaUNHbFJlYkFlWnlHaWNoYmgySlRnUFJDRTByRDk0RzE1VUlQOWdzR3JVLU1vVTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRDdTZFhVOVliX2ozaXNvV3k0M2pvNVB1ZXltMlV5czdJeGZNVHdkN05GOGVsekkwQU9sanVQOUs3UjV5cVZJUjlnVVhBUHZLNUxLRTU1WWFtVkI2QzhFY2lrdmo0MnE5d0VRa3VvSnp0LUJ6Ui1hNjNFY1BMcl81ZDdURXlJcXN0VG5adXUtWGxTODloMmhobjNZQXhXblJSZDBEV21feGhjcXlqUHFmbkRpY3FoU1VYNGNBMGd0V05iMzEya1V1cWE1eXU0V2I3dWZYa0pRZmxCUUtSc1FWNzd6dGFDcWFFVDlSV2xXcENzZF8ySWhNV0FRUW45LUU?oc=5"
         },
         {
           "id": "2026-06-05-0040",
@@ -865,10 +865,10 @@
       "title": "2026-06-04 바이오 뉴스 브리핑",
       "summaryLines": [
         "FDA와 생명공학 제약 경영진 간의 진화하는 관계",
-        "FDA, 희귀 대사 장애 치료를 위한 유전자 치료 후보에 대한 IND 승인 국립 중개 과학 발전 센터(NCATS)(.gov)",
         "Natera: 최근 FDA 승인 및 1분기 수익 결과(NASDAQ:NTRA)를 통해 알파를 추구하는 성장하는 생명공학",
         "Replimune은 '생산적인' FDA 논의에 이어 항암제 승인에서 세 번째 변화를 가져왔습니다. BioPharma Dive",
-        "ASCO: Bristol Myers의 8억 달러 규모의 이중특이적 ADC가 중국 유방암 연구에서 성공하여 TROP2 약물을 주목하게 되었습니다. BMS가 8억 달러를 지불한 동급 최초의 EGFRxHER3 이중특이성 ADC는 다음에서 강력한 3상…"
+        "ASCO: Bristol Myers의 8억 달러 규모의 이중특이적 ADC가 중국 유방암 연구에서 성공하여 TROP2 약물을 주목하게 되었습니다. BMS가 8억 달러를 지불한 동급 최초의 EGFRxHER3 이중특이성 ADC는 다음에서 강력한 3상…",
+        "Shionogi의 코로나 바이러스 항바이러스제 Xocova는 노출 후 예방제로 FDA의 심사를 통과했습니다. 미국 환자를 위한 코로나19 치료제로서의 프로테아제 억제제 엔시트렐비르의 잠재력을 입증하는 데 있어 이전의 실패 이후…"
       ],
       "sections": [
         "domestic",
@@ -901,27 +901,6 @@
         },
         {
           "id": "2026-06-04-0002",
-          "title": "FDA Clears IND for Gene Therapy Candidate to Treat Rare Metabolic Disorder - National Center for Advancing Translational Sciences (NCATS) (.gov)",
-          "source": "Google News",
-          "date": "2026-05-21",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FDA, 희귀 대사 장애 치료를 위한 유전자 치료 후보에 대한 IND 승인 국립 중개 과학 발전 센터(NCATS)(.gov)",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "FDA",
-            "Clears",
-            "IND",
-            "for",
-            "Gene"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSldqMjNfT2xyOHpIRUlZRzRwRk1KSWV2cTh1RU5vNF9lVVhzNVI1a280bTROcDNySzBQbXA2a3BscTFJUndFaHlWN3UwSS13cXBnc1JjWFRKbkpQczBGWXFKR3JWUnNQSkhuRWxaTXhJX2RGRk9Dc2xPMEd1alVOQS1CcWhVSEpodkRDN1BlVHlnbS16dXozVXlDQzd5U2sweU5PMUszdDE1TENBSElpcGRR?oc=5"
-        },
-        {
-          "id": "2026-06-04-0003",
           "title": "Natera: A Growing Biotech, After Recent FDA Approval And Q1 Revenue Results (NASDAQ:NTRA) - Seeking Alpha",
           "source": "Google News",
           "date": "2026-05-27",
@@ -942,7 +921,7 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkRZamRhMXpaZ0dZZ0VRSVVzMkJ5emhQRndKSldOV1A4UnZlNk4xQUtmSnZVZzdZVDkxdVAxSEdDdURNaS04UEh1MjRmblZmNVlCY1VKNWhsdk5odmVMYXQyZTN4eFpKVTIyYmNCdUtSaFlqaUdyUGNFV0cyNzBIVjRPdk5aQWNQZy1FOThCUVQ5MktPOVI5OW1nbXRyanl4cG1hV0JTcUdvZVAwYUpPX05Eelo3d1Iyenc?oc=5"
         },
         {
-          "id": "2026-06-04-0004",
+          "id": "2026-06-04-0003",
           "title": "Replimune takes third swing at cancer drug approval following ‘productive’ FDA talks - BioPharma Dive",
           "source": "Google News",
           "date": "2026-05-29",
@@ -963,7 +942,7 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakpUdmxlUUVyLUtDNjVxSWxHQjJ4ZGRuaVBnN1o0S2djX2N2ZWZGODM2eFNVaVgyaWwtQ0xDb0dOcU5aMzc3U2NFajdJNmhvVkFaWmQ1UlhoY253bjZQa18yZnN0VTVuNXpTX19EaDVoVDg2Y0t2emYzdDN3V0RkTEptUF9GTW1UaFd3RHJFaUpKbVBhTEd6bWt3SFdGYk1jVXJCTnJHbFpOZw?oc=5"
         },
         {
-          "id": "2026-06-04-0005",
+          "id": "2026-06-04-0004",
           "title": "ASCO: Bristol Myers’ $800M bispecific ADC aces China breast cancer study, putting TROP2 drugs on notice",
           "source": "Fierce Biotech",
           "date": "2026-06-01",
@@ -984,7 +963,7 @@
           "url": "https://www.fiercebiotech.com/biotech/bristol-myers-800m-bispecific-adc-aces-breast-cancer-study-putting-trop2-drugs-notice"
         },
         {
-          "id": "2026-06-04-0006",
+          "id": "2026-06-04-0005",
           "title": "Shionogi's COVID antiviral Xocova passes muster with FDA as post-exposure preventative",
           "source": "Fierce Pharma",
           "date": "2026-06-01",
@@ -1005,7 +984,7 @@
           "url": "https://www.fiercepharma.com/pharma/shionogis-covid-antiviral-xocova-passes-muster-fda-post-exposure-preventative"
         },
         {
-          "id": "2026-06-04-0007",
+          "id": "2026-06-04-0006",
           "title": "FDA, industry discuss need for flexibility in early phase clinical development of cell therapy products - RAPS.org",
           "source": "Google News",
           "date": "2026-06-01",
@@ -1026,7 +1005,7 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVmVhV2FQb2QyUThHRUhWSngxUUxNbXlfRGNua2xlT09scDNvRWdjTE1xdjFPN3p6dHJlNGFVTmNITllOeTBjS29VOFpKZEQtZDNsc3FTVnh0ZS1iZXZYZnptUUJrbWcxUlJQaWJwNlVJaTNaSFJJZGYydEFKdERlUkRPdF9IVDIxTUdTMEpnX2V6UktrRW9XX3ZrLVJvVl9oLUZ5b2FWM2RYc25qNS1lWTJqQVpfd0NKQ0FkS2Vnb19UcDFMdmdKbV9Oa1JpRlpMMW1V?oc=5"
         },
         {
-          "id": "2026-06-04-0008",
+          "id": "2026-06-04-0007",
           "title": "Voyager Receives FDA IND Clearance for VY1706, First Gene Therapy Approach to Reducing Tau Production in the Brain for Alzheimer’s Disease - markets.businessinsider.com",
           "source": "Google News",
           "date": "2026-06-01",
@@ -1047,13 +1026,13 @@
           "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOMXYyNVNsVkFYWDZZdTRIRWdGR2QwS3RtRUFUWW1mazlsSjFFaTlDYmxzU1dvUHZzWGx3RkRDS2dCTUFaeXlVX004VGJueHc2MzB5UkE1c0RwYW8tLXY3a2dOcDBVcUdxMVdFVEZ0eF9EWDZSRW8zbnJlVXMxZzJ1a1FRUEFBQVU4OGJ3Q1ZQSnFQY0pheHJTMFhmY3lxWUxiRlY5UURZT1RIMC1UYUxUS2VvZGRtZTIwejlMQVRiTXljNUxyZ2VEam1Eb3V2TjZDQUw5eGNsM0ZFSG9UUXdyWm1lNEx1SFpIWnZ3TXdaQkROM0NQS1RjenoxRGJ0aFJFU3o5eDFlUWZmOXBvZ1JlYXNMQUJaVFNaT3JTdmNZUHhOdw?oc=5"
         },
         {
-          "id": "2026-06-04-0009",
+          "id": "2026-06-04-0008",
           "title": "Samsung expands Korea biotech push with third 200 billion won fund - CHOSUNBIZ - Chosunbiz",
           "source": "Google News",
           "date": "2026-06-01",
           "section": "domestic",
           "eventType": "funding",
-          "summary": "삼성, 3차 2000억원 펀드로 한국 바이오 사업 ​​확대 - CHOSUNBIZ 조선비즈",
+          "summary": "삼성전자, 3차 2000억원 펀드로 한국 바이오 사업 ​​확대 - CHOSUNBIZ 조선비즈",
           "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
           "keywords": [
             "Korea biopharma",
@@ -1068,13 +1047,13 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmQzdjRkRnJkUlZhdTljV0hvS1hZR015R0dyalpyRU5WeGp1Ym5ldmd5Vjk0TWFfRFRua25xc3RCLS0xSWlnTlg3OTFCdUt6dFZJTnZaRm8tQ0ptdjlGZDM4TXN0MHJDUVhPRFVXNlM2TWNLdVFrODJiZmFYV0RhN9IBlAFBVV95cUxNd0hBZTBHNzJ5T1ZlREtjQUNIT1JCSGtYTHIyNXBRNmZDTXhLWTJSQUFlcThUaS13SXNfcFM3TXRwOS01RENRN3FiOEc4LVplb3MyMy0yWVluanJwcC1VcTFSdF9oaEZuOHFWenFqR0R1clJXS3VjdC1iWi1CV0MzVGFBOUxoVkpMVTNSRElDb0Q4czlR?oc=5"
         },
         {
-          "id": "2026-06-04-0010",
+          "id": "2026-06-04-0009",
           "title": "Ascidian, Lilly ink RNA exon editing pact worth up to $1.9B for genetic kidney diseases",
           "source": "Fierce Biotech",
           "date": "2026-06-02",
           "section": "global",
           "eventType": "funding",
-          "summary": "Ascidian, Lilly 잉크 RNA 엑손 편집 계약, 유전성 신장 질환에 대해 최대 19억 달러 가치 Ascidian Therapeutics와 Eli Lilly는 잠재적으로 최대 19억 달러 규모의 연구 협력을 체결하여 빅…",
+          "summary": "Ascidian, Lilly 잉크 RNA 엑손 편집 계약, 유전적 신장 질환에 대해 최대 19억 달러 가치 Ascidian Therapeutics와 Eli Lilly는 잠재적으로 최대 19억 달러 규모의 연구 협력을 체결하여 빅…",
           "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
           "keywords": [
             "Ascidian",
@@ -1089,7 +1068,7 @@
           "url": "https://www.fiercebiotech.com/biotech/ascidian-lilly-lock-19b-renal-disease-research-collaboration"
         },
         {
-          "id": "2026-06-04-0011",
+          "id": "2026-06-04-0010",
           "title": "Foundation Medicine tallies FDA nod to pair its blood test with Pfizer’s prostate cancer combo",
           "source": "Fierce Biotech",
           "date": "2026-06-02",
@@ -1110,13 +1089,13 @@
           "url": "https://www.fiercebiotech.com/medtech/foundation-medicine-tallies-fda-nod-pair-its-blood-test-pfizers-prostrate-cancer-combo"
         },
         {
-          "id": "2026-06-04-0012",
+          "id": "2026-06-04-0011",
           "title": "Fulcrum scraps SCD program, considers options after FDA takes hard line on safety risks",
           "source": "Fierce Biotech",
           "date": "2026-06-02",
           "section": "regulatory",
           "eventType": "regulatory",
-          "summary": "Fulcrum은 SCD 프로그램을 폐기하고 FDA가 안전 위험에 대해 강경한 입장을 취한 후 옵션을 고려합니다. Fulcrum Therapeutics는 FDA가 다음 양식에 대해 강경한 입장을 취한 후 유일한 임상 단계 프로그램을 폐기했습니다.",
+          "summary": "Fulcrum은 SCD 프로그램을 폐기하고 FDA가 안전 위험에 대해 강경한 조치를 취한 후 옵션을 고려합니다. Fulcrum Therapeutics는 FDA가 다음 양식에 대해 강경한 입장을 취한 후 유일한 임상 단계 프로그램을 폐기했습니다.",
           "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
           "keywords": [
             "Fulcrum",
@@ -1131,7 +1110,7 @@
           "url": "https://www.fiercebiotech.com/biotech/fulcrum-scraps-scd-program-considers-options-after-fda-takes-hard-line-safety-risks"
         },
         {
-          "id": "2026-06-04-0013",
+          "id": "2026-06-04-0012",
           "title": "Abivax stock suffers as cancer cases overshadow stellar efficacy in ulcerative colitis phase 3 trial",
           "source": "Fierce Biotech",
           "date": "2026-06-02",
@@ -1152,7 +1131,7 @@
           "url": "https://www.fiercebiotech.com/biotech/abivax-stock-crashes-cancer-cases-overshadow-stellar-efficacy-ulcerative-colitis-phase-3"
         },
         {
-          "id": "2026-06-04-0014",
+          "id": "2026-06-04-0013",
           "title": "Gilead's Livdelzi scores in rare liver disease trial, portending use in broader patient population",
           "source": "Fierce Pharma",
           "date": "2026-06-02",
@@ -1173,7 +1152,7 @@
           "url": "https://www.fiercepharma.com/pharma/gileads-livdelzi-scores-trial-setting-it-use-broader-patient-population"
         },
         {
-          "id": "2026-06-04-0015",
+          "id": "2026-06-04-0014",
           "title": "ADHD drug delivery specialist Cingulate hit with manufacturing-related FDA rejection",
           "source": "Fierce Pharma",
           "date": "2026-06-02",
@@ -1194,13 +1173,13 @@
           "url": "https://www.fiercepharma.com/manufacturing/adhd-drug-delivery-specialist-cingulate-hit-manufacturing-related-fda-rejection"
         },
         {
-          "id": "2026-06-04-0016",
+          "id": "2026-06-04-0015",
           "title": "Fulcrum exploring a potential sale after FDA sidelined its sickle cell drug",
           "source": "BioPharma Dive",
           "date": "2026-06-02",
           "section": "regulatory",
           "eventType": "regulatory",
-          "summary": "FDA가 겸상 적혈구 치료제를 제외시킨 후 Fulcrum은 판매 가능성을 모색하고 있습니다. Fulcrum의 좌절은 화이자(Pfizer), 노바티스(Novartis), 인텔리아(Intellia) 등 겸상 적혈구 치료제 개발자들의 일련의 실패 중 가장 최근의 일입니다.",
+          "summary": "FDA가 낫적혈구 치료제를 제외시킨 후 Fulcrum은 판매 가능성을 모색하고 있습니다. Fulcrum의 좌절은 화이자(Pfizer), 노바티스(Novartis), 인텔리아(Intellia) 등 겸상 적혈구 치료제 개발자들의 일련의 실패 중 가장 최근의 일입니다.",
           "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
           "keywords": [
             "Fulcrum",
@@ -1215,7 +1194,7 @@
           "url": "https://www.biopharmadive.com/news/fulcrum-strategic-review-sickle-cell-fda-pociredir/821740/"
         },
         {
-          "id": "2026-06-04-0017",
+          "id": "2026-06-04-0016",
           "title": "Stramsen Biotech Thanks the FDA for Their Review and Positive Feedback on Pre IND Application for SBX-1977 Wound Care Medicine - PR Newswire",
           "source": "Google News",
           "date": "2026-06-02",
@@ -1236,7 +1215,7 @@
           "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWGJiNnpBa0VWN1NvRE90UkU5RW5taGpoWmk2bnJOV0szeTJCYVNHQXMyRk9FUzAtNmt3Wk40cjItOHZ5eUkxT01KQlZFQzFSTW1qYXhwTlJaSDNPaUpDRWpJU1h4c2doVG1LLVVPVDM3OW1iUHY1bnlZNmlsUjQzWnpRck9TX2JlTHIteW5aMW5EWTVNaDVBQTdWQU1iM0VaYzNOUmdZeWp5emRhLWM4WFZuNlBJTjBmRnJycWFxaFlhOEl2VWZSYms5RG1uYmJ1UEtsbU5wdlhJcUJYSDVOUXJucnpWZEl5YlM4dVVEVUwwSUtrU3pFQllIMTFiVHdzd2FfWm1zMF8wUGJfZHlz?oc=5"
         },
         {
-          "id": "2026-06-04-0018",
+          "id": "2026-06-04-0017",
           "title": "Concord Biotech gets FDA nod for immunosuppressant mycophenolate mofetil - CNBC TV18",
           "source": "Google News",
           "date": "2026-06-02",
@@ -1257,13 +1236,13 @@
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSmJPLTlzeENHUzdYRFZxdG94R2F1Mm8zT2xQb2pCQ1JfRXl0cjZ6dW9pNkZzT1o4WlJITGZNTktRZ3FUREl1Y1hfOVhoclREeldhYllDQ2pyU3dWQUdpbmUtTW1pZjR5MEdMcVpaYmRVeVVRU1R0WmtJRXlxVUJuZmhWVnR0cTlJNXFDbkdWdWRFb3JQcVYtbGw2X1hKbllhOG1qdDNmaFlBeGZ6RlVQTHhKRzF5c1VRMEFOTEVoeDhVUEFBWmJJcWhWRzhvYVltM0tWa3FLajRRZUtWMVpod21hekxBak5rQ2ZXcmJMY2hYV0N6bWhmbkRYX2lXTnVIRnNlZTFET3Mya2VMMTF1MTBCVdIBmAJBVV95cUxOVzJvLVk5SU1DY1hIV3A2YmJYX3kwLVRFV1FNTEJMLUFLbEdlLU5nQk9pTjZTY1pmOF9rWm9zWUZ4U0NzcXMzekNUYmpIenI3RGMwVlF4aVlBR1JoUzRLTFluYi05bWFHSW9MU2lySFhrY1lmN2RWT3NESkZkSXEwOEd2UXF2NzFEbmtGTE9FRnVtVGlVaVBMWkJ0Z2FDTzlRWENkWG0zdHFZZEZVaG40SmFNVWdtMW9xVzl2SXJNQjVFM0F2cXAzM2JEV09fbmVmN2E3T3NwSkY2WTNjVzZpZnIwbF9UMk1LMmJtamF2elJhTlh5TXJkdktMTTNNOWc0eXNVUzk3b0J3dTNzdzhHc2p3d1ZtUnBP?oc=5"
         },
         {
-          "id": "2026-06-04-0019",
+          "id": "2026-06-04-0018",
           "title": "Voyager Gets FDA Clearance for VY1706 Gene Therapy Targeting Tau in Alzheimer’s - The Clinical Trial Vanguard",
           "source": "Google News",
           "date": "2026-06-02",
           "section": "regulatory",
           "eventType": "regulatory",
-          "summary": "보이저(Voyager), 알츠하이머병 임상시험 뱅가드(The Clinical Trial Vanguard)에서 타우(Tau)를 표적으로 하는 VY1706 유전자 치료에 대해 FDA 승인 획득",
+          "summary": "보이저(Voyager), 알츠하이머병 임상시험 뱅가드(The Clinical Trial Vanguard)에서 타우를 표적으로 하는 VY1706 유전자 치료에 대한 FDA 승인 획득",
           "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
           "keywords": [
             "gene therapy clinical trial",
@@ -1278,7 +1257,7 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDFqbHh3Nm9CVzAwM1BRenVaZGlPeThJaUFPbGJ3YnFwU2xJdEJOSm5YMURZaWE5R1U0SFdtRjF2S0ZUakJ2LVJ2N2YwU2VRd2F2M2RKbXFONTBmbHRqZ0tTQThWd3loeUM2TnpvWE5EaDZVeVlycFBDMFNzWjNXQVJIR0ludEZaSF9ZZS04eDVFRWVXb0kzdFJPcGVHUUM5WUxtb3h2SFRCWlYtVy1SQUt2VnBFS00wbEpNU28yRQ?oc=5"
         },
         {
-          "id": "2026-06-04-0020",
+          "id": "2026-06-04-0019",
           "title": "Lilly, Boehringer to slash at least $1B each from planned investments in Germany",
           "source": "Fierce Biotech",
           "date": "2026-06-03",
@@ -1299,7 +1278,7 @@
           "url": "https://www.fiercebiotech.com/pharma/lilly-boehringer-plan-slash-investment-germany-report"
         },
         {
-          "id": "2026-06-04-0021",
+          "id": "2026-06-04-0020",
           "title": "Regeneron pays $37M, adds $2B in biobucks to expand CytomX pact",
           "source": "Fierce Biotech",
           "date": "2026-06-03",
@@ -1320,7 +1299,7 @@
           "url": "https://www.fiercebiotech.com/biotech/regeneron-pays-37m-adds-2b-biobucks-expand-cytomx-pact"
         },
         {
-          "id": "2026-06-04-0022",
+          "id": "2026-06-04-0021",
           "title": "Lilly, Boehringer to slash at least $1B each from planned investments in Germany",
           "source": "Fierce Pharma",
           "date": "2026-06-03",
@@ -1341,7 +1320,7 @@
           "url": "https://www.fiercepharma.com/pharma/lilly-boehringer-plan-slash-investment-germany-report"
         },
         {
-          "id": "2026-06-04-0023",
+          "id": "2026-06-04-0022",
           "title": "FDA issues untitled letter after finding ‘eye-catching graphics’ in promotional emails",
           "source": "Fierce Pharma",
           "date": "2026-06-03",
@@ -1362,7 +1341,7 @@
           "url": "https://www.fiercepharma.com/marketing/fda-issues-untitled-letter-after-finding-eye-catching-graphics-promotional-emails"
         },
         {
-          "id": "2026-06-04-0024",
+          "id": "2026-06-04-0023",
           "title": "Lilly, Ascidian link up in RNA exon editing pact",
           "source": "BioPharma Dive",
           "date": "2026-06-03",
@@ -1383,7 +1362,7 @@
           "url": "https://www.biopharmadive.com/news/ascidian-lilly-kidney-deal-rna-exon-editing/821749/"
         },
         {
-          "id": "2026-06-04-0025",
+          "id": "2026-06-04-0024",
           "title": "Biotech Stocks Facing FDA Decision In June 2026 - RTTNews",
           "source": "Google News",
           "date": "2026-06-03",
@@ -1404,7 +1383,7 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNkI2em1xSWx4QXdlcUpkaDhNNGNTMTJDMG5aMW15a3FTbEdQOWlXLWc5X2djcE9GTy1kTm5Fd2FEQnpzeDZoMThsa1M5TmN1LWR5SWlMMy1hZFVwSkpYTThNTkFRRVB1U0VHQXlIalNBUnlIcmI1QUVrYjk5Tkc3Q3B1dEFnWUUxR3NiNFB4ODlsdw?oc=5"
         },
         {
-          "id": "2026-06-04-0026",
+          "id": "2026-06-04-0025",
           "title": "FDA clears U.S. trial of MAIA lung cancer drug for third-line patients - Stock Titan",
           "source": "Google News",
           "date": "2026-06-03",
@@ -1425,7 +1404,7 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNak1fenZuZXFNeGo4TmlEYndxemFHUWdPSkdjTlpQTllHLUZwRDZjclN4S01FZ21xTWtfRklELVp2alVVWkZnMjVCemNHTnlrSGUwdERKNDNCMUd4WENpekZKQXF6ZzFNWlhGNXBVai1Ya0tlRjFicEhkai1mYTYyd3JMYndpZ3RpRzZncXR5Y05NLVJ4MmJnSUdGbVZVLWZDZ0VfUlI3dFRtV2lPNHZaSUZKdTduRG1Pd1podzVFMA?oc=5"
         },
         {
-          "id": "2026-06-04-0027",
+          "id": "2026-06-04-0026",
           "title": "MAIA Biotechnology Receives FDA Clearance to Open U.S. Enrollment in Ongoing Phase 2 THIO-101 Trial Expansion - The Manila Times",
           "source": "Google News",
           "date": "2026-06-03",
@@ -1446,7 +1425,7 @@
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMGlGX3BDemJqTWR2OHJFZHp0YWYyczA3VExPZ09wN3lKcXVOWEZGaVR1alJ0VF9GREFLemRqVWtkSGJROVo2TGNzczF0cERQS2g5RXFWclAzRTg5MjlDV3ZlQ21YYUFlVFJVQmhaWWJOREtCLWhVOHc4WUo5MXFHWjAyTHhZZ3Z5QTNvQkk2N2Z0c2xLY0ZBRWJhLThHZGxFMnJ4SUMtYm5uMDM1RG4tckRiaVBCUk9Rd0Q5dWJCTzdfMkJ4cDd1bVVvWFM4WHFSTzhOd3p2WTBXLWtZUkxxRi1SMVJRSTBRTDRmT1M4Mk5Ya2k4Ujdka2k3SERhdEJZNHhaMldxc1piRXo0Y1HSAZMCQVVfeXFMUHFhd3JDUzl5S1lVVUtrWE5sZXN0YVlMaTN5ZG9LMHBxbVBrSzZieDFwd00xQUdiWl9vU1h6b3hSenEySW5lMVdFUEpfTDRFS09HU1lfWUZSNENrY0tKR2ExOWhPVV9RamZzY1pmUVYxUGkzWV9hcTljNElQX1BoU3Y2WnRDMmU0Z0FqSGtFSlFqRkEzenBrcE9xY2dOT3hmVXNwX2VCeDdZa3dOUGhvRFlUano1NjhKOGdqVm1aT201M0xqNlZsV3pPSHRRZ3JTNXZkQllzZDFLMGZqQk1ob0l6aW8zVW9CRHYxMFJDNlh4c2RlbGQzLU9iSlBrdkZmdk5NSFhUTDJmSXlEVmpnV2VBTWM?oc=5"
         },
         {
-          "id": "2026-06-04-0028",
+          "id": "2026-06-04-0027",
           "title": "Concord Biotech shares jump over 8% after US FDA approves latest Mycophenolate Mofetil drug - Upstox",
           "source": "Google News",
           "date": "2026-06-03",
@@ -1467,7 +1446,7 @@
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGkwU1ZZUjJPaW5Lai01cllOZ1lScmR2aV9sem9WaGNOQjNQTDdlYkZwVy1SeWh1UzRNbjZDRG5YS0JKQW10VHhFNlg5clE4R2FyMG8yTGMyeWkyckkzcWVSLXhCX1JaN2h3R2xFekNKeloyR3Y1TXdQek84QlFUcTQxOWctWVBmQ3daeGxPamc3eTFIaW81RElfZXhBOUdJeUE2aWNLeDJhR3RkN3FZV1VWcTFUMU5XTkRJaGRRNkhXdE9mcjFmSlF0Qnd6RkVuMmFzN0QwdnYxQjVCTGtVa2xZQ3puUQ?oc=5"
         },
         {
-          "id": "2026-06-04-0029",
+          "id": "2026-06-04-0028",
           "title": "Concord Biotech shares jump 8% after US FDA clears firm's new drug - Moneycontrol.com",
           "source": "Google News",
           "date": "2026-06-03",
@@ -1488,7 +1467,7 @@
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX0l6WW41am42T1BDVXJ3Vk5XODIxakZaWE9obEpHZURScmxzY3dPT0ZlcmpsTkxySEUtN0RZV0phSzVBMmhRRjl5MmVnVVVDTFBnemdSYVcwdW1UUWtVTVZWTm9LMXlwbS0wcFJjWEo2X1NwT2dveHpqZVNzeFRMZElwejAxTXU2ZEdFNWdERkw3enE3R3RoZXdGUlRzR1Z2ZWJNci1jamp6aTFuTmh2NHE0ZlNJdUhhaDIxVG8zNkZjVkVGTTdZem9B0gHPAUFVX3lxTE9maGhlSFBrWEh3S1hNWHRIZlc1UkxBYVZtcldFa0FhZzRfZTU2aHR0VVJXa2VmYjJ0V0JlX3RMZXdCU1RyaDl3RzJYSGhPVEEwbjgtdGtCVTFsSk51NjJOSENhbE9XdFZjMkpnd1JvV0VTUVQyTDk0c3ZCSlp3RFMyWElIU2tOUHBMaGxXT29ZYzlBYUpBdngteEZwcVIwTUdYbHJNM1Jrb2ppX2NhZ0pTZlFVNDFwUC02MVRfa2RBMS00T0dKa1NaTTRnMGMxYw?oc=5"
         },
         {
-          "id": "2026-06-04-0030",
+          "id": "2026-06-04-0029",
           "title": "FDA Approves Xocova as Pharmaceutical Industry Sees New Mergers and Licensing Deals - geneonline.com",
           "source": "Google News",
           "date": "2026-06-03",
@@ -1509,7 +1488,7 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUkVGRld1U0hBWnRFY3FhbzZSeEJPTVpNTGZEXzV5UE9aRjdnZjh4OVFSNjF6OWZiNXNDYnI2dXJyNm4zUGlVX2M5eDRiMnpoYk9QWG42ZW5GQk43YVFXQzRzaFdJbzdWR05fZk5iOVk4aUZCa0NUbVZsNDNleVM2eS1RWEx3LWJSc1lqbDN5NnVjR0Y0dlZzRE9FZ2wycmFKWGlVMG9jMkVHdmZDanFVNw?oc=5"
         },
         {
-          "id": "2026-06-04-0031",
+          "id": "2026-06-04-0030",
           "title": "FDA seeks to cut repeat work for gene therapy developers - The Pharma Letter",
           "source": "Google News",
           "date": "2026-06-03",
@@ -1530,13 +1509,13 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeDFkVHpySkZvRjhram5SX2tMX19CTHVNUTYzV1pmUGlGeXlvZFNsenQtamV0bEZrblNDME04Z3R2UlZwZWJvREc3OXZvSnFUVTU3REF3cURSU3hkcVN0QUpkbTVMMFhwTWs3TTlwZzg5RGJ0Q1Zua3dwdUhIUDNTUEFfQU85eHJzRHBOZHJod2tHamhmTnJhU1I5OWprU2MxdGtv?oc=5"
         },
         {
-          "id": "2026-06-04-0032",
+          "id": "2026-06-04-0031",
           "title": "Parabilis preps $413M IPO to fuel desmoid tumor drug into phase 3",
           "source": "Fierce Biotech",
           "date": "2026-06-04",
           "section": "global",
           "eventType": "funding",
-          "summary": "Parabilis는 데스모이드 종양 약물의 3단계 개발을 촉진하기 위해 4억 1300만 달러 규모의 IPO를 준비하고 있습니다. Parabilis Medicines는 데스모이드 종양의 3단계 개발에 자금을 지원하기 위해 결국 4억 7600만 달러를 가져올 수 있는 IPO를 준비하고 있습니다.",
+          "summary": "Parabilis는 데스모이드 종양 약물의 3단계 개발을 촉진하기 위해 4억 1300만 달러 규모의 IPO를 준비하고 있습니다. Parabilis Medicines는 데스모이드 종양의 3단계 개발 자금을 조달하기 위해 결국 4억 7600만 달러를 유치할 수 있는 IPO를 준비하고 있습니다.",
           "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
           "keywords": [
             "Parabilis",
@@ -1551,13 +1530,13 @@
           "url": "https://www.fiercebiotech.com/biotech/parabilis-preps-413m-ipo-fuel-desmoid-tumor-drug-phase-3"
         },
         {
-          "id": "2026-06-04-0033",
+          "id": "2026-06-04-0032",
           "title": "Innovent, fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC",
           "source": "Fierce Biotech",
           "date": "2026-06-04",
           "section": "deal",
           "eventType": "clinical",
-          "summary": "12억 달러 규모의 거래에서 새로 나온 혁신적, Takeda 파트너 ADC의 3단계 승리를 기록합니다. 이노벤트 바이오로직스(Innovent Biologics)는 IBI343의 임상 3상 승리를 보고해 다케다가 크게 걸었던 항체-약물 접합체(ADC)의 전망을 높였다.",
+          "summary": "12억 달러 규모의 거래에서 새로 나온 Innovent는 Takeda와 제휴한 ADC의 3단계 승리를 기록합니다. 이노벤트 바이오로직스(Innovent Biologics)는 IBI343의 임상 3상 승리를 보고해 다케다가 크게 걸었던 항체-약물 접합체(ADC)의 전망을 높였다.",
           "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
           "keywords": [
             "Innovent",
@@ -1572,13 +1551,13 @@
           "url": "https://www.fiercebiotech.com/biotech/innovent-fresh-12b-deal-posts-phase-3-win-cldn182-adc"
         },
         {
-          "id": "2026-06-04-0034",
+          "id": "2026-06-04-0033",
           "title": "Medline earns FDA warning letter ire for repeated toxic bacteria problems",
           "source": "Fierce Biotech",
           "date": "2026-06-04",
           "section": "regulatory",
           "eventType": "regulatory",
-          "summary": "Medline은 반복되는 독성 박테리아 문제로 인해 FDA 경고장을 받았습니다. 의료기기 유통 대기업인 Medline은 회사를 질책하는 FDA 경고 서한으로 인해 4월 이후 두 번째로 비난을 받았습니다.",
+          "summary": "Medline은 반복되는 독성 박테리아 문제에 대해 FDA 경고 편지를 받았습니다. 의료 기기 유통 대기업인 Medline은 회사를 질책하는 FDA 경고 서신으로 인해 4월 이후 두 번째로 비난을 받았습니다.",
           "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
           "keywords": [
             "Medline",
@@ -1593,13 +1572,13 @@
           "url": "https://www.fiercebiotech.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems"
         },
         {
-          "id": "2026-06-04-0035",
+          "id": "2026-06-04-0034",
           "title": "Medline earns FDA warning letter ire for repeated toxic bacteria problems",
           "source": "Fierce Pharma",
           "date": "2026-06-04",
           "section": "regulatory",
           "eventType": "regulatory",
-          "summary": "Medline은 반복되는 독성 박테리아 문제로 인해 FDA 경고장을 받았습니다. 의료기기 유통 대기업인 Medline은 회사를 질책하는 FDA 경고 서한으로 인해 4월 이후 두 번째로 비난을 받았습니다.",
+          "summary": "Medline은 반복되는 독성 박테리아 문제에 대해 FDA 경고 편지를 받았습니다. 의료 기기 유통 대기업인 Medline은 회사를 질책하는 FDA 경고 서신으로 인해 4월 이후 두 번째로 비난을 받았습니다.",
           "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
           "keywords": [
             "Medline",
@@ -1614,7 +1593,7 @@
           "url": "https://www.fiercepharma.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems"
         },
         {
-          "id": "2026-06-04-0036",
+          "id": "2026-06-04-0035",
           "title": "Biogen’s Salanersen Receives FDA Breakthrough Therapy Designation for Spinal Muscular Atrophy - Biogen",
           "source": "Google News",
           "date": "2026-06-04",
@@ -1635,7 +1614,7 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaGx4ZTZ1RzRyVTJIeEZxSk9hdzBndzFxS2ZITzR6U2tVd2tfOUNPRGprNUFTMURKbnB0OHYxNTcyOUs5RVl5cTM5Q3ZGQXlUanA5aHRzdm5fRlp1SDlFQzBsdXpjMHVFc2tiNFNQd0RzUmhuZEJxNkRRUHJXN015VVhJSmlRWEJjbWltQjNmS2JsaFJPZ3ZWcXZxTW9Dd09ZMHpWX0NrRjVIUUdxVHd5WDFnekVBNDNRYnNBTV8tQkN0QXZWekZF?oc=5"
         },
         {
-          "id": "2026-06-04-0037",
+          "id": "2026-06-04-0036",
           "title": "Obexelimab Meets Primary Endpoint in Phase 3 IgG4-RD Trial, BLA Submitted - The Clinical Trial Vanguard",
           "source": "Google News",
           "date": "2026-06-04",
@@ -1656,49 +1635,7 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnZLQm9NS1pqUjRDT1VsZTFWUzNJM3pJY3AtQ2t4XzNFSTZYWkVXeXZzdExXTkVaZWw0TWRqNTdyMVN0dFJZb2JOMkZ3Q3RmYlFUaHhxWXdSNDl3SVB5MUViRHFBUjlKWUZhU0Y1NVJSVzJUUUcxMnNHQjRBMzNobDU2N2JlcHZwMm1DVGhKZ0l6SnFKclRfMExGTkZMMHdsWlZKcXJDLWhkd0lBRVl6SzFNanpERHc?oc=5"
         },
         {
-          "id": "2026-06-04-0038",
-          "title": "Positive Clinical Data on Biomarkers in Patients Receiving Reqorsa® Gene Therapy Published at the 2026 ASCO Annual Meeting - PR Newswire",
-          "source": "Google News",
-          "date": "2026-05-26",
-          "section": "modality",
-          "eventType": "clinical",
-          "summary": "Reqorsa® 유전자 치료를 받는 환자의 바이오마커에 대한 긍정적인 임상 데이터가 2026년 ASCO 연례 회의에서 발표되었습니다. PR Newswire",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "Positive",
-            "Clinical",
-            "Data",
-            "Biomarkers",
-            "Patients"
-          ],
-          "importanceScore": 7,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNclVNRnpndGZQUGRCcmFMNURqSlJOcWRXUW9OLUFKTzZZMVV4aGpobXFHdElsMFA3aUJVaGUwdnJFTHVhRjY4TjB0QXFzY0xPVnJGenhXVlpablFyTDFZUDQxcU9uR1lRamR6V04tanVtM2lvNExzSzlKSmFNYWJrcVR2N3dCS2R5dnZ4WDRpdDh4SjlTbTRIeDdaS3lRNmFRQ0JvNWxKOWluQndxb0ZCU1lVbzBybmFkckdmcnZNWURZV3VmUjc3UElRdm9OWGRGV2RFdElOSDZiLWhiaDBKLVFDalRiMUxzVFR5NVpvSEtNeDdhdTNXQWNuVmZMSmJCSlVFdG04UDc?oc=5"
-        },
-        {
-          "id": "2026-06-04-0039",
-          "title": "Duchenne Muscular Dystrophy Clinical Trial Pipeline: - GlobeNewswire",
-          "source": "Google News",
-          "date": "2026-05-26",
-          "section": "global",
-          "eventType": "clinical",
-          "summary": "Duchenne 근이영양증 임상 시험 파이프라인: GlobeNewswire",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "Duchenne",
-            "Muscular",
-            "Dystrophy",
-            "Clinical",
-            "Trial"
-          ],
-          "importanceScore": 7,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQaklnSFlOQnM2NExURGphTlhFUUJVSDVNNFA1Mzljam0tVmtSbHc1dkRSWUNoNl9iWWk0c19pXzQwUTEyZjMwRVpyZTgyUVplUHBEZ2tlQ1E1bXFlcjBrbWVuNU5IdmJxLXhKVmtXeklRVjMwRFFmSUZSdTJNQTJvaktPV1huNXp3cmFlbWhMalZPdXZnUlVjbGt6WDhrZTd4ejlTX0c0Vmg5OUV2RVI3RFp2ald0Wll3U0prYnkxU1puY0pleWRINks4UUZzR3BmSkl5cm0tdGNqeHFwR1FMS1JsS0kyWkVyXzI4WDdsVHFmWEFUcUNJdm96U21icUYyT1BkY3VBWDFxUTZmYmNPSzlCSTFvbndzYk1KMlRwS1pBVV8zbzhBRmExOWd0NWNnai16aWpub3lMNldWVTB1UkEwdzNQcWlLaHBhbTdjR2dFdExUM1JmcTlvaVZMNUFSSGNxVg?oc=5"
-        },
-        {
-          "id": "2026-06-04-0040",
+          "id": "2026-06-04-0037",
           "title": "ETX101 shows promise in Dravet gene therapy clinical trials - Dravet Syndrome News",
           "source": "Google News",
           "date": "2026-05-27",
@@ -1717,6 +1654,69 @@
           "importanceScore": 7,
           "koreaRelevanceScore": 4,
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRzhMYzk3SU92VHdHUHNHR2NDem4yUXh5TnNOQU5WeTRldzUyY1FWNnZIOWJpV1Z4YnV6M1pNMWtEcVZlQjVwUGpkM0RfOVF2WDJrVHR4RFNkbVlCcV9hMzgxcC1fV1d6aHMtRnZ2R0UyWERXRWM1NG5wT0JoZzdHYnV4UmFKcUs0azRGejVidXk3ZnZROWM0RQ?oc=5"
+        },
+        {
+          "id": "2026-06-04-0038",
+          "title": "Trogenix doses first patient in Phase I/II clinical trial of TGX-007 gene therapy for glioblastoma - GlobeNewswire",
+          "source": "Google News",
+          "date": "2026-05-28",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "Trogenix, 교모세포종에 대한 TGX-007 유전자 치료법의 1/2상 임상시험에서 첫 번째 환자에게 투여 GlobeNewswire",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "gene therapy clinical trial",
+            "Trogenix",
+            "doses",
+            "first",
+            "patient",
+            "Phase"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPelVCbGxaRkkwLUZEV2dQclR5OW5LaGlxR2tILVlESklIbDZwODF6T05zUXRQTldXUVpSQUc0Zjl5TGpSWDB0MW5VeVRZNTV2N3hSSk5OQ0kwU1BmZXF4MFdJdVlyek14WWh6WEpjUDdhb1hDaVJfcG1idG1naTBEWEpQZFVvY2hLakp4dklUVmNrWktlcjViRjdPRHI3LVVFazRrN2V4blVNLVg1c3hwbm9ueEI1TWRDWGFNQXdrdGh5cGNsRjU1WXdGZFBhRTZyaUNHbFJlYkFlWnlHaWNoYmgySlRnUFJDRTByRDk0RzE1VUlQOWdzR3JVLU1vVTQ?oc=5"
+        },
+        {
+          "id": "2026-06-04-0039",
+          "title": "Rising Stars: WPP’s Meghan O’Hora on the ‘complex puzzle’ of oncology drug marketing",
+          "source": "Fierce Pharma",
+          "date": "2026-06-01",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "떠오르는 별: 종양학 약물 마케팅의 '복잡한 퍼즐'에 대해 WPP의 Meghan O'Hora가 설명합니다. 메건 오호라에게 제약 마케팅은 환자에 관한 것이 아닙니다. 그것은 사람들에 관한 것이며 그들이 그 너머를 볼 수 있도록 돕는 실제 연결을 만드는 것입니다…",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "Rising",
+            "Stars",
+            "WPP",
+            "Meghan",
+            "Hora",
+            "the"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/marketing/rising-stars-wpps-meghan-ohora-complex-puzzle-oncology-drug-marketing"
+        },
+        {
+          "id": "2026-06-04-0040",
+          "title": "Pharma M&A Roundup: Servier Acquiring Edgewise Therapeutics' Muscular Dystrophy Business, Hanmi Enters Licensing Agreement with Eli Lilly, Avenzo Enters Merger Agreement with Rallybio - Pharmaceutical Executive",
+          "source": "Google News",
+          "date": "2026-06-01",
+          "section": "domestic",
+          "eventType": "partnership",
+          "summary": "제약 M&A 요약: Servier, Edgewise Therapeutics의 근이영양증 사업 인수, 한미약품은 Eli Lilly와 라이선스 계약 체결, Avenzo는 Rallybio Pharmaceutical Executive와 합병 계약 체결",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "keywords": [
+            "pharmaceutical merger acquisition",
+            "Pharma",
+            "Roundup",
+            "Servier",
+            "Acquiring",
+            "Edgewise"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 8,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdUNKRVpMMldfSXBFVjNDaHZ1QzU1c3ZmSjVYQl9zV1Y4aTZGeExTbWROU0dTNjZuS2ZiWU1DQUs5X3lBcEhiU0Fvc2liMkREdmtOY2VsaFpZb09pV3h2d2NxelBEQUZ4eTM3T2d5MnhfMmtNdGFVVVBXZ2J5b3hiMUJVUmYwUHVOUmJMcTBzalhwdDdtbFRPcGIwbXhMVUVtakpSSG5sWHdHWDEzaEd5YVhFZmc5Q3BpU0w5QkwySHNPcUd4NWZTalFB?oc=5"
         }
       ]
     },
