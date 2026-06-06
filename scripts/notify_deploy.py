@@ -150,7 +150,7 @@ def main() -> int:
     if not os.environ.get("NTFY_TOPIC") and not os.environ.get("TELEGRAM_BOT_TOKEN"):
         print(
             "No notification channel configured. "
-            "Set NTFY_TOPIC or TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID in GitHub Secrets."
+            "Set NTFY_TOPIC or TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID in .env.local."
         )
         return 0
 

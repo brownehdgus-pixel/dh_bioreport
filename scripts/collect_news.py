@@ -28,7 +28,8 @@ import feedparser
 SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_DIR))
-from openai_translate import translate_to_korean  # noqa: E402
+from google_translate import translate_to_korean  # noqa: E402
+from env_local import load_env_local  # noqa: E402
 
 # ---------------------------------------------------------------------------
 # 경로 · 설정
@@ -584,6 +585,7 @@ def configure_stdout() -> None:
 
 def main() -> int:
     configure_stdout()
+    load_env_local()
     report_date = datetime.now().date().isoformat()
     collected_at = utc_now_iso()
     day_dir = RAW_DIR / report_date

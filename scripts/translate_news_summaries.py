@@ -17,7 +17,7 @@ NEWS_JSON = ROOT / "data" / "news.json"
 NEWS_BACKUP = ROOT / "data" / "news.backup.json"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from openai_translate import is_mostly_english, translate_to_korean  # noqa: E402
+from google_translate import is_mostly_english, translate_to_korean  # noqa: E402
 
 
 def main() -> int:

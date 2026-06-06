@@ -16,6 +16,7 @@ if %TEST_EXIT% equ 0 (
   echo  Test finished: SUCCESS
   echo  Check folder: logs\
   echo  Check files:  data\news.json , raw_data\
+  echo  If news changed: GitHub commit, Vercel deploy, ntfy push
 ) else (
   echo  Test finished: FAILED (code %TEST_EXIT%)
   echo  Open the latest file in logs\ folder for details.

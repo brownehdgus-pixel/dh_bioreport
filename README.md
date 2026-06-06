@@ -145,45 +145,33 @@ npm run dev
 
 **참고:** `importanceScore`·`koreaRelevanceScore`는 JSON에만 저장되고, 화면 카드에는 표시하지 않습니다.
 
-**영문 요약 한글화:** 크롤 시 **OpenAI API**로 `summary`를 한국어로 번역합니다 (`OPENAI_API_KEY` 필요).  
-기존 `news.json`만 고치려면: `OPENAI_API_KEY` 설정 후 `python scripts/translate_news_summaries.py`
+**영문 요약 한글화:** 크롤 시 **Google Translate**로 `summary`를 한국어로 번역합니다 (API 키 불필요).  
+기존 `news.json`만 고치려면: `python scripts/translate_news_summaries.py`
 
 **용량 관리:** `news.json`·`raw_data`는 **최근 90일**만 유지합니다.
 
-### GitHub Actions 매일 자동 수집 (권장 · 오전 09:12 KST)
+### Windows 작업 스케줄러 매일 자동 수집 (권장 · 오전 09:15 KST)
 
-GitHub 클라우드에서 매일 크롤러를 실행하고, `data/news.json`이 바뀌면 **자동 commit/push** → **Vercel 자동 재배포** → (설정 시) **휴대폰 푸시 알림**.
+내 PC에서 매일 크롤러를 실행하고, `data/news.json`이 바뀌면 **자동 commit/push** → **Vercel 자동 재배포** → **ntfy 푸시 알림**.
 
 | 파일 | 용도 |
 |------|------|
-| `.github/workflows/daily-crawl.yml` | 매일 00:12 UTC(**09:12 KST**) + 수동 실행 |
-| `docs/github_actions_setup.md` | Secrets·ntfy 푸시·테스트 (비개발자용) |
+| `scripts/run_daily_crawl.bat` | 크롤 → push → 알림 (작업 스케줄러) |
+| `scripts/push_and_notify.py` | Git push + ntfy |
+| `scripts/test_daily_crawl.bat` | **더블클릭** 수동 테스트 |
+| `logs/daily_crawl_YYYY-MM-DD.log` | 실행 로그 |
+| `docs/windows_task_scheduler_setup.md` | 등록 방법 (비개발자용) |
 
-**GitHub Secrets (필수·권장):** `OPENAI_API_KEY` · `NTFY_TOPIC`(푸시) · `VERCEL_PRODUCTION_URL`
+**`.env.local` (PC 전용):** `NTFY_TOPIC` · `VERCEL_PRODUCTION_URL` — `.env.local.example` 참고.
 
 **테스트 순서 (요약):**
 
-1. Secrets 등록 후 코드를 GitHub **`main`** 에 push  
-2. **Actions** → **Daily Bio News Crawl** → **Run workflow**  
-3. Run 초록색 → commit → Vercel 배포 → `/reports` 확인  
-4. ntfy 앱에서 푸시 알림 확인  
+1. `.env.local` 설정 + `pip install -r requirements.txt`  
+2. `git push` 가 수동으로 되는지 확인 (GitHub 자격 증명)  
+3. `scripts\test_daily_crawl.bat` 더블클릭 → commit → Vercel → ntfy 확인  
+4. `docs/windows_task_scheduler_setup.md` 따라 **09:15** 트리거 등록  
 
-**Vercel:** push 시 **자동 재배포**. **Supabase** 연결 후에는 DB만 갱신해도 재배포 없이 반영 가능.
-
-### Windows 로컬 자동 수집 (선택 · PC에서만)
-
-작업 스케줄러는 **필수 아님**. 내 PC의 `data/news.json` 만 갱신할 때 사용합니다.
-
-| 파일 | 용도 |
-|------|------|
-| `scripts/test_daily_crawl.bat` | **더블클릭** 수동 테스트 |
-| `scripts/run_daily_crawl.bat` | 작업 스케줄러용 |
-| `logs/daily_crawl_YYYY-MM-DD.log` | 실행 로그 |
-| `docs/windows_task_scheduler_setup.md` | 작업 스케줄러 등록 방법 |
-
-1. `pip install -r requirements.txt` (최초 1회)  
-2. `scripts\test_daily_crawl.bat` 더블클릭 → `logs`·`data\news.json` 확인  
-3. (선택) `docs/windows_task_scheduler_setup.md` 따라 작업 스케줄러 등록  
+**Vercel:** push 시 **자동 재배포**. GitHub Actions 일일 크롤은 **사용하지 않습니다** (`docs/github_actions_setup.md` 참고).
 
 ---
 

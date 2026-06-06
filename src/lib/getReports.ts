@@ -3,7 +3,7 @@ import type { DailyReport, NewsReportsFile } from "@/data/types";
 
 /**
  * 모든 리포트를 불러옵니다.
- * 현재: data/news.json 파일 (요약 한글화는 크롤러에서 OpenAI로 처리)
+ * 현재: data/news.json 파일 (요약 한글화는 크롤러에서 Google Translate로 처리)
  * 이후 Supabase로 전환 시 이 함수 내부만 DB 조회로 교체하면 됩니다.
  */
 export async function getReports(): Promise<DailyReport[]> {
