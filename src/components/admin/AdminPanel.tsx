@@ -84,13 +84,21 @@ export function AdminPanel() {
           >
             ← 리포트 목록으로
           </Link>
-          <button
-            type="button"
-            onClick={handleLogout}
-            className="text-xs text-memo-muted underline"
-          >
-            로그아웃
-          </button>
+          <div className="flex items-center gap-3">
+            <Link
+              href="/admin/crawl-settings"
+              className="text-xs font-medium text-memo-accent"
+            >
+              크롤 설정
+            </Link>
+            <button
+              type="button"
+              onClick={handleLogout}
+              className="text-xs text-memo-muted underline"
+            >
+              로그아웃
+            </button>
+          </div>
         </div>
         <p className="text-[10px] font-semibold uppercase tracking-[0.2em] text-memo-accent">
           관리자 도구

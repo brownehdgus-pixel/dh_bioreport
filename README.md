@@ -150,13 +150,25 @@ npm run dev
 
 **용량 관리:** `news.json`·`raw_data`는 **최근 90일**만 유지합니다.
 
+### 크롤 선정 기준 (`data/crawl_config.json`)
+
+RSS/Google 쿼리, 키워드 분류, 가중치, `excludeKeywords`, 리포트 한도(14일·40건 등)는 **`data/crawl_config.json`** 에 정의됩니다.
+
+| 경로 | 용도 |
+|------|------|
+| `data/crawl_config.json` | 크롤 소스·분류·점수 설정 |
+| `/admin/crawl-settings` | Admin JSON 편집 → GitHub 저장 |
+| `scripts/crawl_config.py` | Python 로드·검증 |
+
+Vercel env: `GITHUB_TOKEN`, `GITHUB_REPO` (Admin 저장용). `crawl_config.json`만 변경된 commit은 Vercel build skip (`scripts/vercel-should-build.sh`).
+
 ### Windows 작업 스케줄러 매일 자동 수집 (권장 · 오전 09:15 KST)
 
 내 PC에서 매일 크롤러를 실행하고, `data/news.json`이 바뀌면 **자동 commit/push** → **Vercel 자동 재배포** → **ntfy 푸시 알림**.
 
 | 파일 | 용도 |
 |------|------|
-| `scripts/run_daily_crawl.bat` | 크롤 → push → 알림 (작업 스케줄러) |
+| `scripts/run_daily_crawl.bat` | git pull → 크롤 → push → 알림 (작업 스케줄러) |
 | `scripts/push_and_notify.py` | Git push + ntfy |
 | `scripts/test_daily_crawl.bat` | **더블클릭** 수동 테스트 |
 | `logs/daily_crawl_YYYY-MM-DD.log` | 실행 로그 |

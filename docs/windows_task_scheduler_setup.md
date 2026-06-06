@@ -10,6 +10,8 @@
 ```text
 09:15 KST  작업 스케줄러
     │
+    ├─► git pull --rebase --autostash  (Admin이 저장한 crawl_config 반영)
+    │
     ├─► python scripts/collect_news.py     RSS 수집 → data/news.json, raw_data/
     │
     └─► python scripts/push_and_notify.py  (news.json 변경 시만)
@@ -22,6 +24,7 @@
 |--------|------|
 | RSS 뉴스 수집 | `raw_data/날짜/` 원본 저장 |
 | `data/news.json` 갱신 | Google Translate로 요약 한국어 번역 |
+| `data/crawl_config.json` | 크롤 소스·키워드·가중치 (Admin `/admin/crawl-settings`에서 편집 가능) |
 | GitHub push | 변경 있을 때만 commit |
 | Vercel 재배포 | GitHub 연동 시 자동 |
 | ntfy 푸시 | `.env.local` 의 `NTFY_TOPIC` |

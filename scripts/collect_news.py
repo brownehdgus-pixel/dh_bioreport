@@ -30,6 +30,7 @@ if str(SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_DIR))
 from google_translate import translate_to_korean  # noqa: E402
 from env_local import load_env_local  # noqa: E402
+from crawl_config import get_config, load_crawl_config  # noqa: E402
 
 # ---------------------------------------------------------------------------
 # 경로 · 설정
@@ -42,66 +43,6 @@ NEWS_JSON = DATA_DIR / "news.json"
 NEWS_BACKUP = DATA_DIR / "news.backup.json"
 
 USER_AGENT = "BioNewsReportCollector/0.1 (+https://github.com/local/bio-news-report)"
-MAX_ITEM_AGE_DAYS = 14
-MAX_ITEMS_IN_REPORT = 40
-MAX_SUMMARY_LINES = 5
-REPORT_RETENTION_DAYS = 90
-
-RSS_FEEDS: list[dict[str, str]] = [
-    {
-        "name": "Fierce Biotech",
-        "url": "https://www.fiercebiotech.com/rss/xml",
-        "source_type": "rss",
-        "query_keyword": "",
-    },
-    {
-        "name": "Fierce Pharma",
-        "url": "https://www.fiercepharma.com/rss/xml",
-        "source_type": "rss",
-        "query_keyword": "",
-    },
-    {
-        "name": "BioPharma Dive",
-        "url": "https://www.biopharmadive.com/feeds/news/",
-        "source_type": "rss",
-        "query_keyword": "",
-    },
-    {
-        "name": "Business Wire",
-        "url": "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeGVtXWg==",
-        "source_type": "rss",
-        "query_keyword": "",
-    },
-]
-
-GOOGLE_NEWS_QUERIES: list[str] = [
-    "biotech FDA approval",
-    "pharmaceutical merger acquisition",
-    "gene therapy clinical trial",
-    "Korea biopharma",
-    "mRNA vaccine pharmaceutical",
-]
-
-SECTION_ORDER = [
-    "domestic",
-    "global",
-    "regulatory",
-    "deal",
-    "modality",
-    "paper",
-]
-
-EVENT_SIGNIFICANCE: dict[str, str] = {
-    "regulatory": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-    "funding": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
-    "clinical": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-    "publication": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
-    "partnership": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
-    "policy": "정책·법안 변화는 reimbursement·심사 속도에 영향을 줄 수 있어 업종 전반의 규제 비용 가정을 점검할 시점이다.",
-    "commercial": "상업화·마케팅 이슈는 매출 가이던스와 채널 전략에 연결되므로 경쟁 제품 점유율 데이터와 함께 보면 유용하다.",
-    "market": "시장·주가 움직임은 단기 섹터 로테이션 신호일 수 있어 펀더멘털과의 괴리 여부를 함께 판단할 필요가 있다.",
-    "general": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
-}
 
 # ---------------------------------------------------------------------------
 # 유틸
@@ -236,15 +177,19 @@ def fetch_feed(
 
 
 def collect_all_raw(collected_at: str) -> list[dict[str, Any]]:
+    cfg = get_config()
     all_items: list[dict[str, Any]] = []
 
-    for feed in RSS_FEEDS:
+    for feed in cfg.rss_feeds:
+        if not feed.get("enabled", True):
+            print(f"  - {feed['name']}: skipped (disabled)")
+            continue
         try:
             batch = fetch_feed(
                 feed_url=feed["url"],
                 source_name=feed["name"],
-                source_type=feed["source_type"],
-                query_keyword=feed.get("query_keyword", ""),
+                source_type=feed.get("sourceType", "rss"),
+                query_keyword=feed.get("queryKeyword", ""),
                 collected_at=collected_at,
             )
             all_items.extend(batch)
@@ -252,7 +197,11 @@ def collect_all_raw(collected_at: str) -> list[dict[str, Any]]:
         except Exception as exc:  # noqa: BLE001 — MVP: 한 소스 실패해도 계속
             print(f"  - {feed['name']}: FAILED ({exc})")
 
-    for query in GOOGLE_NEWS_QUERIES:
+    for entry in cfg.google_news_queries:
+        if not entry.get("enabled", True):
+            print(f"  - Google News ({entry['query']}): skipped (disabled)")
+            continue
+        query = entry["query"]
         label = f"Google News ({query})"
         try:
             batch = fetch_feed(
@@ -271,7 +220,8 @@ def collect_all_raw(collected_at: str) -> list[dict[str, Any]]:
 
 
 def filter_recent(items: list[dict[str, Any]], report_date: str) -> list[dict[str, Any]]:
-    cutoff = datetime.strptime(report_date, "%Y-%m-%d").date() - timedelta(days=MAX_ITEM_AGE_DAYS)
+    max_age = get_config().max_item_age_days
+    cutoff = datetime.strptime(report_date, "%Y-%m-%d").date() - timedelta(days=max_age)
     recent: list[dict[str, Any]] = []
     for item in items:
         pub = item.get("published_at")
@@ -304,6 +254,22 @@ def deduplicate_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return list(by_url.values())
 
 
+def filter_excluded(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    keywords = get_config().exclude_keywords
+    if not keywords:
+        return items
+    kept: list[dict[str, Any]] = []
+    for item in items:
+        text = f"{item.get('title', '')} {item.get('snippet', '')}".lower()
+        if any(kw in text for kw in keywords):
+            continue
+        kept.append(item)
+    removed = len(items) - len(kept)
+    if removed:
+        print(f"  -> excluded {removed} item(s) by excludeKeywords")
+    return kept
+
+
 # ---------------------------------------------------------------------------
 # 분류 · rule-based 텍스트
 # ---------------------------------------------------------------------------
@@ -311,68 +277,17 @@ def deduplicate_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 def classify_event_type(title: str, snippet: str) -> str:
     text = f"{title} {snippet}".lower()
-    rules: list[tuple[str, list[str]]] = [
-        ("regulatory", ["fda", "ema", "mfds", "approval", "approved", "designation", " orphan", "ind ", "nda", "regulatory", "clearance"]),
-        ("funding", ["series a", "series b", "series c", "funding", "raised", "investment", "million", "billion", "financing"]),
-        ("clinical", ["phase 1", "phase 2", "phase 3", "phase i", "phase ii", "phase iii", "clinical trial", "patient", "dosing"]),
-        ("publication", ["nature", "science", "journal", "published in", "peer-reviewed", "study finds", "researchers report"]),
-        ("partnership", ["partnership", "collaboration", "license", "licensing", "co-develop", "strategic agreement"]),
-        ("policy", ["policy", "legislation", "bill", "congress", "senate", "regulation reform"]),
-        ("commercial", ["launch", "commercial", "marketing", "revenue", "sales"]),
-        ("market", ["stock", "shares", "nasdaq", "market cap", "index", "trading"]),
-    ]
-    for event_type, keywords in rules:
-        if any(kw in text for kw in keywords):
+    for event_type, kws in get_config().event_type_rules:
+        if any(kw in text for kw in kws):
             return event_type
     return "general"
 
 
 def classify_section(title: str, snippet: str, source: str) -> str:
     text = f"{title} {snippet} {source}".lower()
-    if any(
-        kw in text
-        for kw in [
-            "korea",
-            "korean",
-            "south korea",
-            "seoul",
-            "mfds",
-            "kosdaq",
-            "hanmi",
-            "celltrion",
-            "samsung biologics",
-            "sk bioscience",
-            "yuhan",
-            "국내",
-            "한국",
-        ]
-    ):
-        return "domestic"
-    if any(kw in text for kw in ["fda", "ema", "mfds", "regulatory", "approval", "orphan drug", "breakthrough", "gmp", "ind ", "nda"]):
-        return "regulatory"
-    if any(kw in text for kw in ["acquisition", "merger", "funding", "series ", "investment", "deal", "licensing", "buyout", "raised"]):
-        return "deal"
-    if any(
-        kw in text
-        for kw in [
-            "car-t",
-            "cart",
-            "mrna",
-            "adc",
-            "crispr",
-            "gene therapy",
-            "cell therapy",
-            "antibody",
-            "protein degradation",
-            "protac",
-            "rnai",
-            "aav",
-            "bispecific",
-        ]
-    ):
-        return "modality"
-    if any(kw in text for kw in ["nature", "science", "journal", "publication", "peer-reviewed", "lancet", "cell press", "study in"]):
-        return "paper"
+    for section_id, kws in get_config().section_rules:
+        if any(kw in text for kw in kws):
+            return section_id
     return "global"
 
 
@@ -410,37 +325,37 @@ def build_summary(title: str, snippet: str) -> str:
 
 
 def build_significance(event_type: str, section: str) -> str:
-    base = EVENT_SIGNIFICANCE.get(event_type, EVENT_SIGNIFICANCE["general"])
+    cfg = get_config()
+    general = cfg.event_significance.get("general", "업계 동향 파악용 기사입니다.")
+    base = cfg.event_significance.get(event_type, general)
     if section == "domestic":
         return f"{base} 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다."
     return base
 
 
 def score_importance(title: str, snippet: str, event_type: str) -> int:
+    cfg = get_config()
     text = f"{title} {snippet}".lower()
-    score = 5
-    boosts = {
-        "regulatory": 2,
-        "funding": 2,
-        "clinical": 2,
-        "partnership": 1,
-        "publication": 1,
-    }
-    score += boosts.get(event_type, 0)
-    if any(kw in text for kw in ["fda", "breakthrough", "phase 3", "acquisition", "merger", "billion"]):
-        score += 1
-    return max(1, min(10, score))
+    score = cfg.base_importance
+    score += cfg.event_type_boosts.get(event_type, 0)
+    for group in cfg.keyword_boosts:
+        kws = [str(k).lower() for k in group.get("keywords") or []]
+        boost = int(group.get("boost", 0))
+        if boost and any(kw in text for kw in kws):
+            score += boost
+    return max(cfg.min_importance, min(cfg.max_importance, score))
 
 
 def score_korea_relevance(title: str, snippet: str, section: str) -> int:
+    cfg = get_config()
     if section == "domestic":
-        return 8
+        return cfg.korea_domestic_score
     text = f"{title} {snippet}".lower()
-    if any(kw in text for kw in ["korea", "korean", "mfds", "seoul", "asia pacific"]):
-        return 6
+    if any(kw in text for kw in cfg.korea_keywords):
+        return cfg.korea_keyword_score
     if section in {"regulatory", "deal"}:
-        return 5
-    return 4
+        return cfg.korea_regulatory_deal_score
+    return cfg.korea_default_score
 
 
 def raw_to_news_item(raw: dict[str, Any], index: int, report_date: str) -> dict[str, Any]:
@@ -471,22 +386,24 @@ def build_daily_report(
     report_date: str,
     deduped: list[dict[str, Any]],
 ) -> dict[str, Any]:
+    cfg = get_config()
     sorted_raw = sorted(
         deduped,
         key=lambda r: (
             -(score_importance(r["title"], r.get("snippet", ""), classify_event_type(r["title"], r.get("snippet", "")))),
             r.get("published_at") or "",
         ),
-    )[:MAX_ITEMS_IN_REPORT]
+    )[: cfg.max_items_in_report]
 
     items = [raw_to_news_item(raw, i + 1, report_date) for i, raw in enumerate(sorted_raw)]
+    section_order = cfg.section_order
     used_sections = sorted(
         {item["section"] for item in items},
-        key=lambda s: SECTION_ORDER.index(s) if s in SECTION_ORDER else 99,
+        key=lambda s: section_order.index(s) if s in section_order else 99,
     )
 
     summary_lines: list[str] = []
-    for item in sorted(items, key=lambda x: -x["importanceScore"])[:MAX_SUMMARY_LINES]:
+    for item in sorted(items, key=lambda x: -x["importanceScore"])[: cfg.max_summary_lines]:
         line = item["summary"]
         if len(line) > 140:
             line = line[:137].rsplit(" ", 1)[0] + "…"
@@ -513,16 +430,17 @@ def merge_reports(existing: list[dict[str, Any]], new_report: dict[str, Any]) ->
 def trim_reports_by_retention(
     reports: list[dict[str, Any]], anchor_date: str
 ) -> list[dict[str, Any]]:
-    """news.json에 최근 REPORT_RETENTION_DAYS 일만 유지."""
+    """news.json에 최근 reportRetentionDays 일만 유지."""
+    retention = get_config().report_retention_days
     anchor = datetime.strptime(anchor_date, "%Y-%m-%d").date()
-    cutoff = anchor - timedelta(days=REPORT_RETENTION_DAYS - 1)
+    cutoff = anchor - timedelta(days=retention - 1)
     cutoff_str = cutoff.isoformat()
     trimmed = [r for r in reports if (r.get("reportDate") or "") >= cutoff_str]
     removed = len(reports) - len(trimmed)
     if removed:
         print(
             f"  -> retention: removed {removed} report(s) older than "
-            f"{REPORT_RETENTION_DAYS} days (before {cutoff_str})"
+            f"{retention} days (before {cutoff_str})"
         )
     return trimmed
 
@@ -531,8 +449,9 @@ def prune_old_raw_data(anchor_date: str) -> None:
     """raw_data 폴더에서 보관 기간 지난 날짜 디렉터리 삭제."""
     if not RAW_DIR.exists():
         return
+    retention = get_config().report_retention_days
     anchor = datetime.strptime(anchor_date, "%Y-%m-%d").date()
-    cutoff = anchor - timedelta(days=REPORT_RETENTION_DAYS - 1)
+    cutoff = anchor - timedelta(days=retention - 1)
     cutoff_str = cutoff.isoformat()
     removed = 0
     for child in RAW_DIR.iterdir():
@@ -586,6 +505,7 @@ def configure_stdout() -> None:
 def main() -> int:
     configure_stdout()
     load_env_local()
+    load_crawl_config()
     report_date = datetime.now().date().isoformat()
     collected_at = utc_now_iso()
     day_dir = RAW_DIR / report_date
@@ -605,6 +525,7 @@ def main() -> int:
 
     print("\n[2/5] Deduplicating...")
     deduped = deduplicate_items(raw_items)
+    deduped = filter_excluded(deduped)
     write_json(dedup_path, {"report_date": report_date, "collected_at": collected_at, "items": deduped})
     print(f"  -> saved deduplicated: {len(deduped)} items")
 

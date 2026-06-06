@@ -4,6 +4,7 @@
 
 # --- §1 자동화·크롤·배포 ---
 scripts/collect_news.py
+scripts/crawl_config.py
 scripts/google_translate.py
 scripts/translate_news_summaries.py
 scripts/env_local.py
@@ -13,6 +14,7 @@ scripts/run_daily_crawl.bat
 scripts/test_daily_crawl.bat
 scripts/log_stamp.py
 requirements.txt
+data/crawl_config.json
 
 # --- §2 문서·운영 ---
 README.md
@@ -29,6 +31,11 @@ src/app/api/admin/logout/route.ts
 src/app/admin/page.tsx
 src/components/admin/AdminLogin.tsx
 src/lib/adminNews.ts
+src/lib/crawlConfigSchema.ts
+src/lib/githubContents.ts
+src/app/api/admin/crawl-config/route.ts
+src/app/admin/crawl-settings/page.tsx
+src/components/admin/AdminCrawlSettings.tsx
 
 # --- 선택 (필요 시 주석 해제) ---
 # package.json
