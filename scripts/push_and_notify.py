@@ -58,8 +58,22 @@ def main() -> int:
 
     push = run_git(["push"])
     if push.returncode != 0:
-        print(push.stderr or push.stdout)
+        detail = (push.stderr or push.stdout or "").strip()
+        print(detail)
         print("Git push failed. Check GitHub login (Git Credential Manager / GitHub Desktop).")
+
+        report_date = date.today().isoformat()
+        message = (
+            f"날짜: {report_date}\n"
+            "news.json은 로컬에 commit되었으나 GitHub push에 실패했습니다.\n"
+            "Git Credential Manager / GitHub Desktop 로그인을 확인하세요."
+        )
+        if detail:
+            message += f"\n\n오류:\n{detail[:500]}"
+
+        from notify_deploy import notify_failure  # noqa: E402
+
+        notify_failure("바이오 뉴스 Git push 실패", message)
         return push.returncode
     print(push.stdout or "Pushed to GitHub.")
 

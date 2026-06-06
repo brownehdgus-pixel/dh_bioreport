@@ -35,3 +35,6 @@ yarn-error.log*
 
 # daily crawl logs (bat script)
 /logs/*.log
+
+# LLM review bundle (docs/llm_review_files.md §8)
+/llm_review_bundle/

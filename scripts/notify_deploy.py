@@ -37,7 +37,13 @@ def _post_json(url: str, payload: dict, headers: dict | None = None) -> bool:
         return False
 
 
-def send_ntfy(title: str, message: str) -> bool:
+def send_ntfy(
+    title: str,
+    message: str,
+    *,
+    priority: str = "default",
+    tags: str = "newspaper",
+) -> bool:
     topic = os.environ.get("NTFY_TOPIC", "").strip()
     if not topic:
         return False
@@ -48,8 +54,8 @@ def send_ntfy(title: str, message: str) -> bool:
         data=body,
         headers={
             "Title": title,
-            "Priority": "default",
-            "Tags": "newspaper",
+            "Priority": priority,
+            "Tags": tags,
         },
         method="POST",
     )
@@ -159,6 +165,29 @@ def main() -> int:
         return 1
 
     print("Notification sent")
+    return 0
+
+
+def notify_failure(title: str, message: str) -> int:
+    """실패 알림 (ntfy high / Telegram). 알림 채널 없으면 0 반환."""
+    sent = False
+    if send_ntfy(title, message, priority="high", tags="warning"):
+        sent = True
+    if send_telegram(title, message):
+        sent = True
+
+    if not os.environ.get("NTFY_TOPIC") and not os.environ.get("TELEGRAM_BOT_TOKEN"):
+        print(
+            "No notification channel configured. "
+            "Set NTFY_TOPIC or TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID in .env.local."
+        )
+        return 0
+
+    if not sent:
+        print("Failure notification failed on all configured channels")
+        return 1
+
+    print("Failure notification sent")
     return 0
 
 
