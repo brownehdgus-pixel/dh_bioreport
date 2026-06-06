@@ -3,6 +3,5 @@
   "framework": "nextjs",
   "installCommand": "npm install",
   "buildCommand": "npm run build",
-  "devCommand": "npm run dev",
-  "ignoreCommand": "bash scripts/vercel-should-build.sh"
+  "devCommand": "npm run dev"
 }
