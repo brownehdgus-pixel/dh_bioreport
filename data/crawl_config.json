@@ -38,11 +38,26 @@
       }
     ],
     "googleNewsQueries": [
-      { "query": "biotech FDA approval", "enabled": true },
-      { "query": "pharmaceutical merger acquisition", "enabled": true },
-      { "query": "gene therapy clinical trial", "enabled": true },
-      { "query": "Korea biopharma", "enabled": true },
-      { "query": "mRNA vaccine pharmaceutical", "enabled": true }
+      {
+        "query": "biotech FDA approval",
+        "enabled": true
+      },
+      {
+        "query": "pharmaceutical merger acquisition",
+        "enabled": true
+      },
+      {
+        "query": "gene therapy clinical trial",
+        "enabled": true
+      },
+      {
+        "query": "Korea biopharma",
+        "enabled": true
+      },
+      {
+        "query": "mRNA vaccine pharmaceutical",
+        "enabled": true
+      }
     ]
   },
   "scoring": {
@@ -50,80 +65,225 @@
     "minImportance": 1,
     "maxImportance": 10,
     "eventTypeBoosts": {
-      "regulatory": 2,
+      "regulatory": 1,
       "funding": 2,
-      "clinical": 2,
-      "partnership": 1,
+      "clinical": 3,
+      "partnership": 2,
       "publication": 1
     },
     "keywordBoosts": [
       {
-        "keywords": ["fda", "breakthrough", "phase 3", "acquisition", "merger", "billion"],
+        "keywords": [
+          "fda",
+          "breakthrough",
+          "phase 3",
+          "acquisition",
+          "merger",
+          "billion"
+        ],
         "boost": 1
       }
     ],
-    "koreaKeywords": ["korea", "korean", "mfds", "seoul", "asia pacific"],
+    "koreaKeywords": [
+      "korea",
+      "korean",
+      "mfds",
+      "seoul",
+      "asia pacific"
+    ],
     "koreaDomesticScore": 8,
     "koreaRegulatoryDealScore": 5,
     "koreaDefaultScore": 4,
     "koreaKeywordScore": 6
   },
   "classification": {
-    "sectionOrder": ["domestic", "global", "regulatory", "deal", "modality", "paper"],
+    "sectionOrder": [
+      "domestic",
+      "global",
+      "regulatory",
+      "deal",
+      "modality",
+      "paper"
+    ],
     "eventTypes": [
       {
         "id": "regulatory",
-        "keywords": ["fda", "ema", "mfds", "approval", "approved", "designation", " orphan", "ind ", "nda", "regulatory", "clearance"]
+        "keywords": [
+          "fda",
+          "ema",
+          "mfds",
+          "approval",
+          "approved",
+          "designation",
+          " orphan",
+          "ind ",
+          "nda",
+          "regulatory",
+          "clearance"
+        ]
       },
       {
         "id": "funding",
-        "keywords": ["series a", "series b", "series c", "funding", "raised", "investment", "million", "billion", "financing"]
+        "keywords": [
+          "series a",
+          "series b",
+          "series c",
+          "funding",
+          "raised",
+          "investment",
+          "million",
+          "billion",
+          "financing"
+        ]
       },
       {
         "id": "clinical",
-        "keywords": ["phase 1", "phase 2", "phase 3", "phase i", "phase ii", "phase iii", "clinical trial", "patient", "dosing"]
+        "keywords": [
+          "phase 1",
+          "phase 2",
+          "phase 3",
+          "phase i",
+          "phase ii",
+          "phase iii",
+          "clinical trial",
+          "patient",
+          "dosing"
+        ]
       },
       {
         "id": "publication",
-        "keywords": ["nature", "science", "journal", "published in", "peer-reviewed", "study finds", "researchers report"]
+        "keywords": [
+          "nature",
+          "science",
+          "journal",
+          "published in",
+          "peer-reviewed",
+          "study finds",
+          "researchers report"
+        ]
       },
       {
         "id": "partnership",
-        "keywords": ["partnership", "collaboration", "license", "licensing", "co-develop", "strategic agreement"]
+        "keywords": [
+          "partnership",
+          "collaboration",
+          "license",
+          "licensing",
+          "co-develop",
+          "strategic agreement"
+        ]
       },
       {
         "id": "policy",
-        "keywords": ["policy", "legislation", "bill", "congress", "senate", "regulation reform"]
+        "keywords": [
+          "policy",
+          "legislation",
+          "bill",
+          "congress",
+          "senate",
+          "regulation reform"
+        ]
       },
       {
         "id": "commercial",
-        "keywords": ["launch", "commercial", "marketing", "revenue", "sales"]
+        "keywords": [
+          "launch",
+          "commercial",
+          "marketing",
+          "revenue",
+          "sales"
+        ]
       },
       {
         "id": "market",
-        "keywords": ["stock", "shares", "nasdaq", "market cap", "index", "trading"]
+        "keywords": [
+          "stock",
+          "shares",
+          "nasdaq",
+          "market cap",
+          "index",
+          "trading"
+        ]
       }
     ],
     "sections": [
       {
         "id": "domestic",
-        "keywords": ["korea", "korean", "south korea", "seoul", "mfds", "kosdaq", "hanmi", "celltrion", "samsung biologics", "sk bioscience", "yuhan", "국내", "한국"]
+        "keywords": [
+          "korea",
+          "korean",
+          "south korea",
+          "seoul",
+          "mfds",
+          "kosdaq",
+          "hanmi",
+          "celltrion",
+          "samsung biologics",
+          "sk bioscience",
+          "yuhan",
+          "국내",
+          "한국"
+        ]
       },
       {
         "id": "regulatory",
-        "keywords": ["fda", "ema", "mfds", "regulatory", "approval", "orphan drug", "breakthrough", "gmp", "ind ", "nda"]
+        "keywords": [
+          "fda",
+          "ema",
+          "mfds",
+          "regulatory",
+          "approval",
+          "orphan drug",
+          "breakthrough",
+          "gmp",
+          "ind ",
+          "nda"
+        ]
       },
       {
         "id": "deal",
-        "keywords": ["acquisition", "merger", "funding", "series ", "investment", "deal", "licensing", "buyout", "raised"]
+        "keywords": [
+          "acquisition",
+          "merger",
+          "funding",
+          "series ",
+          "investment",
+          "deal",
+          "licensing",
+          "buyout",
+          "raised"
+        ]
       },
       {
         "id": "modality",
-        "keywords": ["car-t", "cart", "mrna", "adc", "crispr", "gene therapy", "cell therapy", "antibody", "protein degradation", "protac", "rnai", "aav", "bispecific"]
+        "keywords": [
+          "car-t",
+          "cart",
+          "mrna",
+          "adc",
+          "crispr",
+          "gene therapy",
+          "cell therapy",
+          "antibody",
+          "protein degradation",
+          "protac",
+          "rnai",
+          "aav",
+          "bispecific"
+        ]
       },
       {
         "id": "paper",
-        "keywords": ["nature", "science", "journal", "publication", "peer-reviewed", "lancet", "cell press", "study in"]
+        "keywords": [
+          "nature",
+          "science",
+          "journal",
+          "publication",
+          "peer-reviewed",
+          "lancet",
+          "cell press",
+          "study in"
+        ]
       }
     ]
   },
