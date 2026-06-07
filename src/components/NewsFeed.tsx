@@ -70,7 +70,7 @@ export function NewsFeed({ report }: Props) {
       </main>
 
       <footer className="border-t border-memo-border px-4 py-6 text-center text-[11px] text-memo-muted">
-        Bio Industry Daily Memo · v0.1
+        Daily Bio · v0.1
       </footer>
     </div>
   );

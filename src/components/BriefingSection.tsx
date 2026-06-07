@@ -10,10 +10,10 @@ export function BriefingSection({ report }: Props) {
     <section className="border-b border-memo-border bg-memo-surface px-4 pb-5 pt-6">
       <div className="mb-4 flex items-start justify-between gap-3">
         <div>
-          <p className="text-[10px] font-semibold uppercase tracking-[0.2em] text-memo-accent">
-            Daily Briefing
+          <p className="text-[12px] font-semibold uppercase tracking-[0.2em] text-memo-accent">
+            Daily Bio
           </p>
-          <h1 className="mt-1 font-serif text-xl font-semibold leading-snug text-memo-ink">
+          <h1 className="mt-1 font-serif text-2xl font-semibold leading-snug text-memo-ink">
             {report.title}
           </h1>
         </div>

@@ -7,10 +7,10 @@ export default async function ReportsPage() {
   return (
     <div className="mx-auto min-h-dvh max-w-lg">
       <header className="border-b border-memo-border bg-memo-surface px-4 pb-5 pt-6">
-        <p className="text-[10px] font-semibold uppercase tracking-[0.2em] text-memo-accent">
-          Bio Industry Memo
+        <p className="text-[12px] font-semibold uppercase tracking-[0.2em] text-memo-accent">
+          Daily Bio
         </p>
-        <h1 className="mt-1 font-serif text-xl font-semibold text-memo-ink">리포트 목록</h1>
+        <h1 className="mt-1 font-serif text-2xl font-semibold text-memo-ink">리포트 목록</h1>
         <p className="mt-2 text-[13px] text-memo-muted">
           날짜별 뉴스 리포트 · 최신순 · 총 {reports.length}개
         </p>
@@ -31,7 +31,7 @@ export default async function ReportsPage() {
       </main>
 
       <footer className="border-t border-memo-border px-4 py-6 text-center text-[11px] text-memo-muted">
-        <p>Bio Industry Daily Memo · v0.1</p>
+        <p>Daily Bio · v0.1</p>
         <a href="/admin" className="mt-2 inline-block text-memo-accent underline">
           뉴스 입력 (관리자)
         </a>

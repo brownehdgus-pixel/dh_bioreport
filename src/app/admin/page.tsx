@@ -3,7 +3,7 @@ import { AdminPanel } from "@/components/admin/AdminPanel";
 import { isAdminAuthenticated, isAdminPasswordConfigured } from "@/lib/adminAuth";
 
 export const metadata = {
-  title: "뉴스 입력 | Bio Industry Daily Memo",
+  title: "뉴스 입력 | Daily Bio",
   description: "뉴스 항목 입력 및 JSON 복사",
 };
 

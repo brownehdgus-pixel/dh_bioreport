@@ -310,6 +310,8 @@ def extract_keywords(title: str, snippet: str, query_keyword: str) -> list[str]:
 
 
 def build_summary(title: str, snippet: str) -> str:
+    """RSS snippet 기반 요약. 최대 ~8줄 분량(기존 220자 + 약 3줄)."""
+    max_chars = 370
     base = snippet.strip() if snippet else title.strip()
     base = re.sub(r"\s+", " ", base)
     if not base:
@@ -318,9 +320,9 @@ def build_summary(title: str, snippet: str) -> str:
         combined = base
     else:
         combined = f"{title.strip()}. {base}"
-    if len(combined) <= 220:
+    if len(combined) <= max_chars:
         return combined
-    cut = combined[:220].rsplit(" ", 1)[0]
+    cut = combined[:max_chars].rsplit(" ", 1)[0]
     return cut.rstrip(".,;") + "…"
 
 
@@ -405,8 +407,8 @@ def build_daily_report(
     summary_lines: list[str] = []
     for item in sorted(items, key=lambda x: -x["importanceScore"])[: cfg.max_summary_lines]:
         line = item["summary"]
-        if len(line) > 140:
-            line = line[:137].rsplit(" ", 1)[0] + "…"
+        if len(line) > 290:
+            line = line[:287].rsplit(" ", 1)[0] + "…"
         summary_lines.append(line)
 
     if not summary_lines:

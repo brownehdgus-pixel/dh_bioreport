@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Bio Industry Daily Memo",
+  title: "Daily Bio",
   description: "개인용 바이오 산업 뉴스 리포트",
 };
 

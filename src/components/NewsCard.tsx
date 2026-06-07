@@ -39,13 +39,6 @@ export function NewsCard({ item }: Props) {
           <p className="text-[13px] leading-relaxed text-memo-ink/90">{item.summary}</p>
         </div>
 
-        <div className="rounded-md border-l-2 border-memo-highlight/60 bg-memo-bg px-3 py-2">
-          <h3 className="mb-1 text-[10px] font-bold uppercase tracking-wider text-memo-highlight">
-            의미
-          </h3>
-          <p className="text-[13px] leading-relaxed text-memo-ink">{item.significance}</p>
-        </div>
-
         <div>
           <h3 className="mb-1.5 text-[10px] font-bold uppercase tracking-wider text-memo-muted">
             키워드
