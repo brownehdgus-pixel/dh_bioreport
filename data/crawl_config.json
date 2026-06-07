@@ -35,27 +35,99 @@
         "enabled": true,
         "sourceType": "rss",
         "queryKeyword": ""
+      },
+      {
+        "name": "바이오스펙테이터",
+        "url": "https://www.biospectator.com/rss",
+        "enabled": true,
+        "sourceType": "rss",
+        "queryKeyword": ""
+      },
+      {
+        "name": "히트뉴스",
+        "url": "https://www.hitnews.co.kr/rss/allArticle.xml",
+        "enabled": true,
+        "sourceType": "rss",
+        "queryKeyword": ""
+      },
+      {
+        "name": "Labiotech",
+        "url": "https://www.labiotech.eu/feed/",
+        "enabled": true,
+        "sourceType": "rss",
+        "queryKeyword": ""
+      },
+      {
+        "name": "Endpoints News",
+        "url": "https://endpoints.news/feed/",
+        "enabled": true,
+        "sourceType": "rss",
+        "queryKeyword": ""
       }
     ],
     "googleNewsQueries": [
       {
-        "query": "biotech FDA approval",
+        "query": "biotech \"FDA approval\"",
         "enabled": true
       },
       {
-        "query": "pharmaceutical merger acquisition",
+        "query": "gene therapy",
         "enabled": true
       },
       {
-        "query": "gene therapy clinical trial",
+        "query": "License Out",
         "enabled": true
       },
       {
-        "query": "Korea biopharma",
+        "query": "topline",
         "enabled": true
       },
       {
-        "query": "mRNA vaccine pharmaceutical",
+        "query": "bispecific antibody",
+        "enabled": true
+      },
+      {
+        "query": "Radiopharmaceutical Therapy RPT",
+        "enabled": true
+      },
+      {
+        "query": "AI drug discovery partnership",
+        "enabled": true
+      },
+      {
+        "query": "AI drug discovery licensing deal",
+        "enabled": true
+      },
+      {
+        "query": "AI ADMET prediction",
+        "enabled": true
+      },
+      {
+        "query": "AI 독성 예측",
+        "enabled": true
+      },
+      {
+        "query": "AI 신약개발 플랫폼",
+        "enabled": true
+      },
+      {
+        "query": "ADC DAC AOC",
+        "enabled": true
+      },
+      {
+        "query": "TDP MGD",
+        "enabled": true
+      },
+      {
+        "query": "novel modality",
+        "enabled": true
+      },
+      {
+        "query": "Synthetic Lethality",
+        "enabled": true
+      },
+      {
+        "query": "FDA IND approved",
         "enabled": true
       }
     ]
@@ -65,21 +137,21 @@
     "minImportance": 1,
     "maxImportance": 10,
     "eventTypeBoosts": {
-      "regulatory": 1,
-      "funding": 2,
+      "regulatory": 2,
+      "funding": 1,
       "clinical": 3,
-      "partnership": 2,
-      "publication": 1
+      "partnership": 3,
+      "publication": 2
     },
     "keywordBoosts": [
       {
         "keywords": [
           "fda",
-          "breakthrough",
-          "phase 3",
+          "IND",
           "acquisition",
-          "merger",
-          "billion"
+          "Licensed Out",
+          "Licensed In",
+          "Topline"
         ],
         "boost": 1
       }
@@ -115,8 +187,8 @@
           "approval",
           "approved",
           "designation",
-          " orphan",
-          "ind ",
+          "orphan",
+          "ind",
           "nda",
           "regulatory",
           "clearance"
@@ -179,8 +251,6 @@
           "policy",
           "legislation",
           "bill",
-          "congress",
-          "senate",
           "regulation reform"
         ]
       },
@@ -216,11 +286,6 @@
           "seoul",
           "mfds",
           "kosdaq",
-          "hanmi",
-          "celltrion",
-          "samsung biologics",
-          "sk bioscience",
-          "yuhan",
           "국내",
           "한국"
         ]
@@ -236,8 +301,9 @@
           "orphan drug",
           "breakthrough",
           "gmp",
-          "ind ",
-          "nda"
+          "ind",
+          "nda",
+          "fast track"
         ]
       },
       {
@@ -246,7 +312,7 @@
           "acquisition",
           "merger",
           "funding",
-          "series ",
+          "series",
           "investment",
           "deal",
           "licensing",
@@ -269,7 +335,8 @@
           "protac",
           "rnai",
           "aav",
-          "bispecific"
+          "bispecific",
+          "aoc"
         ]
       },
       {
