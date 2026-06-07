@@ -175,7 +175,7 @@ export function AdminCrawlSettings() {
         <p className="mt-2 rounded-md border border-blue-100 bg-blue-50 px-3 py-2 text-sm text-blue-900">
           이 설정은 <strong>다음 자동 크롤링부터</strong> 적용됩니다.
           <br />
-          저장 후 PC 크롤러가 <strong>09:15</strong> 실행 시 git pull로 최신 설정을 반영합니다.
+          저장 후 PC 크롤러가 <strong>09:30</strong> 실행 시 git pull로 최신 설정을 반영합니다.
         </p>
       </header>
 

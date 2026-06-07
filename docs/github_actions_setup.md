@@ -2,7 +2,7 @@
 
 **데일리 크롤은 Windows 작업 스케줄러로 실행합니다.**
 
-- 실행 시각: **매일 오전 09:15 (KST)**
+- 실행 시각: **매일 오전 09:30 (KST)**
 - 설정 가이드: **[windows_task_scheduler_setup.md](windows_task_scheduler_setup.md)**
 
 `.github/workflows/daily-crawl.yml` 은 제거되었습니다.  

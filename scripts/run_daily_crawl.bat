@@ -6,7 +6,7 @@ REM Bio News Report - Daily crawl (Task Scheduler / manual)
 REM 1. python scripts/collect_news.py
 REM 2. git push (if news.json changed) + ntfy / Vercel notify
 REM Logs: logs/daily_crawl_YYYY-MM-DD.log
-REM Schedule: KST 09:15 daily (Windows Task Scheduler)
+REM Schedule: KST 09:30 daily (Windows Task Scheduler)
 REM ============================================================
 
 set "SCRIPT_DIR=%~dp0"
@@ -141,4 +141,4 @@ if "!LOG_DATE!"=="unknown-date" (
   )
 )
 exit /b 0
-
+

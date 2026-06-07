@@ -162,7 +162,7 @@ RSS/Google 쿼리, 키워드 분류, 가중치, `excludeKeywords`, 리포트 한
 
 Vercel env: `GITHUB_TOKEN`, `GITHUB_REPO` (Admin 저장용). `crawl_config.json`만 변경된 commit은 Vercel build skip (`scripts/vercel-should-build.sh`).
 
-### Windows 작업 스케줄러 매일 자동 수집 (권장 · 오전 09:15 KST)
+### Windows 작업 스케줄러 매일 자동 수집 (권장 · 오전 09:30 KST)
 
 내 PC에서 매일 크롤러를 실행하고, `data/news.json`이 바뀌면 **자동 commit/push** → **Vercel 자동 재배포** → **ntfy 푸시 알림**.
 
@@ -181,7 +181,7 @@ Vercel env: `GITHUB_TOKEN`, `GITHUB_REPO` (Admin 저장용). `crawl_config.json`
 1. `.env.local` 설정 + `pip install -r requirements.txt`  
 2. `git push` 가 수동으로 되는지 확인 (GitHub 자격 증명)  
 3. `scripts\test_daily_crawl.bat` 더블클릭 → commit → Vercel → ntfy 확인  
-4. `docs/windows_task_scheduler_setup.md` 따라 **09:15** 트리거 등록  
+4. `docs/windows_task_scheduler_setup.md` 따라 **09:30** 트리거 등록  
 
 **Vercel:** push 시 **자동 재배포**. GitHub Actions 일일 크롤은 **사용하지 않습니다** (`docs/github_actions_setup.md` 참고).
 

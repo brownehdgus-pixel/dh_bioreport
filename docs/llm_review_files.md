@@ -52,8 +52,8 @@ flowchart LR
 
 | 파일 | 검토 포인트 |
 |------|-------------|
-| `README.md` | 전체 구조, 크롤·번역·90일·Windows 09:15 KST 흐름 요약 |
-| `docs/windows_task_scheduler_setup.md` | 권장 운영 방식 (09:15, push, ntfy, `.env.local`) |
+| `README.md` | 전체 구조, 크롤·번역·90일·Windows 09:30 KST 흐름 요약 |
+| `docs/windows_task_scheduler_setup.md` | 권장 운영 방식 (09:30, push, ntfy, `.env.local`) |
 | `docs/github_actions_setup.md` | GitHub Actions 일일 크롤 중단 안내 |
 | `.env.local.example` | 필요한 환경 변수 샘플 (비밀값 없음) |
 
@@ -116,7 +116,7 @@ flowchart LR
 - 요약 한국어화: Google Translate (deep-translator), OpenAI 아님
 - news.json / raw_data 90일 retention
 - /admin 비밀번호 보호 (ADMIN_PASSWORD, 7일 세션 쿠키)
-- GitHub Actions 일일 크롤 제거 → Windows 작업 스케줄러 09:15 KST
+- GitHub Actions 일일 크롤 제거 → Windows 작업 스케줄러 09:30 KST
 - run_daily_crawl.bat: 크롤 → git push(변경 시) → Vercel 자동 배포 → ntfy
 
 검토 요청:
