@@ -19,6 +19,12 @@ import time
 import urllib.error
 import urllib.request
 from json import dumps
+from pathlib import Path
+from urllib.parse import quote, urlencode
+
+SCRIPTS = Path(__file__).resolve().parent
+if str(SCRIPTS) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS))
 
 
 def _post_json(url: str, payload: dict, headers: dict | None = None) -> bool:
@@ -47,18 +53,11 @@ def send_ntfy(
     topic = os.environ.get("NTFY_TOPIC", "").strip()
     if not topic:
         return False
-    url = f"https://ntfy.sh/{topic}"
+    # title/priority/tags는 query param으로 전달 (한글 제목 등 UTF-8 안전; HTTP 헤더는 latin-1 제한)
+    query = urlencode({"title": title, "priority": priority, "tags": tags})
+    url = f"https://ntfy.sh/{quote(topic, safe='')}?{query}"
     body = message.encode("utf-8")
-    req = urllib.request.Request(
-        url,
-        data=body,
-        headers={
-            "Title": title,
-            "Priority": priority,
-            "Tags": tags,
-        },
-        method="POST",
-    )
+    req = urllib.request.Request(url, data=body, method="POST")
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             ok = 200 <= resp.status < 300
@@ -89,7 +88,7 @@ def wait_for_vercel_ready(max_wait_sec: int = 600) -> str | None:
     token = os.environ.get("VERCEL_TOKEN", "").strip()
     project_id = os.environ.get("VERCEL_PROJECT_ID", "").strip()
     if not token or not project_id:
-        print("Vercel token/project not set — skip deploy wait")
+        print("Vercel token/project not set - skip deploy wait")
         return None
 
     api = f"https://api.vercel.com/v6/deployments?projectId={project_id}&limit=3"
@@ -192,4 +191,7 @@ def notify_failure(title: str, message: str) -> int:
 
 
 if __name__ == "__main__":
+    from env_local import load_env_local  # noqa: E402
+
+    load_env_local()
     sys.exit(main())
