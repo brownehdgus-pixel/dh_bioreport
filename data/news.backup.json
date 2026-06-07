@@ -1,6 +1,17 @@
 {
   "reports": [
     {
+      "reportDate": "2026-06-07",
+      "title": "2026-06-07 바이오 뉴스 브리핑",
+      "summaryLines": [
+        "수집된 기사가 없습니다. RSS 소스 연결 상태를 확인해 주세요."
+      ],
+      "sections": [
+        "global"
+      ],
+      "items": []
+    },
+    {
       "reportDate": "2026-06-06",
       "title": "2026-06-06 바이오 뉴스 브리핑",
       "summaryLines": [
