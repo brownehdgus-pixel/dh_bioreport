@@ -3,8 +3,8 @@
 크롤 commit/push 후 Vercel 배포 완료를 기다려 푸시 알림을 보냅니다.
 
 지원:
-  - ntfy.sh (휴대폰 푸시, 권장) — NTFY_TOPIC
-  - Telegram — TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID
+  - ntfy.sh (휴대폰 푸시, 권장) - NTFY_TOPIC
+  - Telegram - TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID
 
 선택 (Vercel 배포 완료 대기):
   - VERCEL_TOKEN + VERCEL_PROJECT_ID
@@ -25,6 +25,9 @@ from urllib.parse import quote, urlencode
 SCRIPTS = Path(__file__).resolve().parent
 if str(SCRIPTS) not in sys.path:
     sys.path.insert(0, str(SCRIPTS))
+
+
+from console_io import configure_stdio_utf8  # noqa: E402
 
 
 def _post_json(url: str, payload: dict, headers: dict | None = None) -> bool:
@@ -123,6 +126,7 @@ def wait_for_vercel_ready(max_wait_sec: int = 600) -> str | None:
 
 
 def main() -> int:
+    configure_stdio_utf8()
     report_date = os.environ.get("REPORT_DATE", "").strip() or "today"
     production = os.environ.get("VERCEL_PRODUCTION_URL", "").strip()
 
@@ -169,6 +173,7 @@ def main() -> int:
 
 def notify_failure(title: str, message: str) -> int:
     """실패 알림 (ntfy high / Telegram). 알림 채널 없으면 0 반환."""
+    configure_stdio_utf8()
     sent = False
     if send_ntfy(title, message, priority="high", tags="warning"):
         sent = True
@@ -193,5 +198,6 @@ def notify_failure(title: str, message: str) -> int:
 if __name__ == "__main__":
     from env_local import load_env_local  # noqa: E402
 
+    configure_stdio_utf8()
     load_env_local()
     sys.exit(main())
