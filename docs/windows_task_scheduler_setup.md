@@ -179,12 +179,29 @@ Windows 키 → **「작업 스케줄러」** → **「작업 만들기…」**
 
 | 증상 | 확인 |
 |------|------|
-| Python 없음 | `python --version`, PATH |
+| Python 없음 | 로그 `[PYTHON] NOT FOUND`, `[EXIT_CODE] 9009` — `.env.local`에 `PYTHON_EXECUTABLE` 전체 경로 |
 | `ModuleNotFoundError` | `pip install -r requirements.txt` |
 | 번역 실패 | 인터넷 연결, `pip install -r requirements.txt` (`deep-translator`) |
 | `Git push failed` | GitHub 로그인·토큰, `git push` 수동 테스트 |
 | 푸시 알림 없음 | `NTFY_TOPIC`, ntfy 앱 구독, 로그의 `ntfy:` 줄 |
-| 09:30에 안 돌아감 | PC 절전, 작업 비밀번호 만료, 트리거 시간 |
+| **크롤 실패 알림** | 로그 `[FAIL_STEP]`, ntfy 「데일리 크롤 실패」 (push 전 단계 실패 시) |
+| 09:30에 안 돌아감 | PC 절전, 작업 비밀번호 만료, 트리거 시간, 작업 스케줄러 **기록** 탭 |
+
+### 로그 진단 필드 (2026-06 이후 bat)
+
+`logs\daily_crawl_날짜.log` 상단에 다음이 기록됩니다:
+
+| 줄 | 의미 |
+|----|------|
+| `[DIAG] USERNAME`, `SESSIONNAME` | 어떤 계정·세션에서 실행됐는지 |
+| `[PYTHON] C:\...\python.exe` | 실제 사용된 Python **절대 경로** |
+| `[GIT]` | git PATH 여부 |
+| `[ENV] .env.local present` | ntfy용 env 파일 존재 |
+| `[FAIL_STEP]` | `python` / `collect_news` / `push_and_notify` 중 실패 단계 |
+
+**작업 스케줄러 기록 탭:** 6/8 09:30에 **작업 시작됨(200)** 이 없으면 PC 절전·트리거 OFF 가능성이 큽니다.
+
+**수동 복구:** `scripts\test_daily_crawl.bat` 실행 → 성공 후 다음날 09:30 재확인.
 
 ---
 
