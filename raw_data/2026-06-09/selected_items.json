@@ -509,28 +509,6 @@
       }
     },
     {
-      "raw_id": "d98dc170a0663fd9ba607ed9",
-      "title": "ADA: Pfizer pads case for berobenatide in obesity, adding validation to Metsera buy",
-      "source": "Fierce Biotech",
-      "published_at": "2026-06-06",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://www.fiercebiotech.com/biotech/ada-pfizer-pads-case-berobenatide-obesity-adding-validation-metsera-buy",
-      "normalized_url": "https://www.fiercebiotech.com/biotech/ada-pfizer-pads-case-berobenatide-obesity-adding-validation-metsera-buy",
-      "snippet": "On the heels of a strong showing for the drug earlier this year, Pfizer is padding the case for the GLP-1 receptor agonist it picked up in its $10 billion purchase of obesity biotech Metsera.",
-      "query_keyword": "",
-      "source_type": "rss",
-      "raw_payload": {
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ada-pfizer-pads-case-berobenatide-obesity-adding-validation-metsera-buy\" hreflang=\"en\">ADA: Pfizer pads case for berobenatide in obesity, adding validation to Metsera buy</a>",
-        "link": "https://www.fiercebiotech.com/biotech/ada-pfizer-pads-case-berobenatide-obesity-adding-validation-metsera-buy",
-        "summary": "On the heels of a strong showing for the drug earlier this year, Pfizer is padding the case for the GLP-1 receptor agonist it picked up in its $10 billion purchase of obesity biotech Metsera.",
-        "published": "Jun 6, 2026 7:40am",
-        "published_parsed": null,
-        "author": "Fraiser Kansteiner",
-        "id": "https://www.fiercebiotech.com/61c14e2e-7cd2-4e9f-8e23-ac41a355389c",
-        "guidislink": false
-      }
-    },
-    {
       "raw_id": "8ce47b35fb11ef13c64b7641",
       "title": "‘It looks like this hypothesis will pan out’: Cullinan unveils data building case for autoimmune TCEs",
       "source": "Fierce Biotech",
@@ -729,50 +707,6 @@
       }
     },
     {
-      "raw_id": "b9c9f48460f633f70ff5cf6e",
-      "title": "Takeda takes $2.5B legal charge after pay-for-delay verdict, swings to loss for '25",
-      "source": "Fierce Pharma",
-      "published_at": "2026-06-05",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://www.fiercepharma.com/pharma/takedas-antitrust-verdict-prompts-full-year-earnings-revision-25m-legal-charge",
-      "normalized_url": "https://www.fiercepharma.com/pharma/takedas-antitrust-verdict-prompts-full-year-earnings-revision-25m-legal-charge",
-      "snippet": "The company adjusted its full-year 2025 earnings to account for a legal provision of 402.5 billion JPY ($2.5 billion).",
-      "query_keyword": "",
-      "source_type": "rss",
-      "raw_payload": {
-        "title": "<a href=\"https://www.fiercepharma.com/pharma/takedas-antitrust-verdict-prompts-full-year-earnings-revision-25m-legal-charge\" hreflang=\"en\">Takeda takes $2.5B legal charge after pay-for-delay verdict, swings to loss for '25</a>",
-        "link": "https://www.fiercepharma.com/pharma/takedas-antitrust-verdict-prompts-full-year-earnings-revision-25m-legal-charge",
-        "summary": "The company adjusted its full-year 2025 earnings to account for a legal provision of 402.5 billion JPY ($2.5 billion).",
-        "published": "Jun 5, 2026 10:58am",
-        "published_parsed": null,
-        "author": "Zoey Becker",
-        "id": "https://www.fiercepharma.com/c6858d34-f4e5-4a66-9f64-9e5a135e3a99",
-        "guidislink": false
-      }
-    },
-    {
-      "raw_id": "f1797b81c47674328c651fe6",
-      "title": "As pro-life pressure ramps up on Trump, FDA is investigating safety of abortion pill: WSJ",
-      "source": "Fierce Pharma",
-      "published_at": "2026-06-05",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://www.fiercepharma.com/pharma/pro-life-pressure-ramps-trump-fda-investigating-safety-abortion-pill-wsj",
-      "normalized_url": "https://www.fiercepharma.com/pharma/pro-life-pressure-ramps-trump-fda-investigating-safety-abortion-pill-wsj",
-      "snippet": "The FDA is going forward with an investigation into the safety of the abortion pill mifepristone, an initiative that could allow the Trump administration to impose restrictions on its use, The Wall Street Journal reports.",
-      "query_keyword": "",
-      "source_type": "rss",
-      "raw_payload": {
-        "title": "<a href=\"https://www.fiercepharma.com/pharma/pro-life-pressure-ramps-trump-fda-investigating-safety-abortion-pill-wsj\" hreflang=\"en\">As pro-life pressure ramps up on Trump, FDA is investigating safety of abortion pill: WSJ</a>",
-        "link": "https://www.fiercepharma.com/pharma/pro-life-pressure-ramps-trump-fda-investigating-safety-abortion-pill-wsj",
-        "summary": "The FDA is going forward with an&nbsp;investigation into the safety of the abortion pill mifepristone, an initiative that could allow the Trump administration to impose restrictions on its use, The Wall Street Journal reports.",
-        "published": "Jun 5, 2026 10:08am",
-        "published_parsed": null,
-        "author": "Kevin Dunleavy",
-        "id": "https://www.fiercepharma.com/61125241-b137-44e5-a194-1191f13d3c13",
-        "guidislink": false
-      }
-    },
-    {
       "raw_id": "b1a7f732c4236f1c428cce7a",
       "title": "Behind the headlines of ASCO 2026",
       "source": "Fierce Pharma",
@@ -839,28 +773,6 @@
       }
     },
     {
-      "raw_id": "17a09facf1c25de5ce113817",
-      "title": "At first public hearing for FDA’s CNPV program, industry support meets ‘deep concern’ from experts",
-      "source": "Fierce Pharma",
-      "published_at": "2026-06-04",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://www.fiercepharma.com/biotech/first-public-cnpv-hearing-support-industry-and-deep-concern-experts",
-      "normalized_url": "https://www.fiercepharma.com/biotech/first-public-cnpv-hearing-support-industry-and-deep-concern-experts",
-      "snippet": "On Thursday, the public had the first chance to air their grievances about the FDA’s controversial Commissioner’s National Priority Voucher (CNPV) pilot program, the flagship initiative of recently departed agency leader Marty Makary, M.D.",
-      "query_keyword": "",
-      "source_type": "rss",
-      "raw_payload": {
-        "title": "<a href=\"https://www.fiercepharma.com/biotech/first-public-cnpv-hearing-support-industry-and-deep-concern-experts\" hreflang=\"en\">At first public hearing for FDA’s CNPV program, industry support meets ‘deep concern’ from experts</a>",
-        "link": "https://www.fiercepharma.com/biotech/first-public-cnpv-hearing-support-industry-and-deep-concern-experts",
-        "summary": "On Thursday, the public had the first chance to air their grievances about the FDA’s controversial Commissioner’s National Priority Voucher (CNPV) pilot program, the flagship initiative of recently departed agency leader Marty Makary, M.D.",
-        "published": "Jun 4, 2026 5:28pm",
-        "published_parsed": null,
-        "author": "Darren Incorvaia",
-        "id": "https://www.fiercepharma.com/b6af977a-9416-4792-841e-9dfb19057a12",
-        "guidislink": false
-      }
-    },
-    {
       "raw_id": "afa8d29144c3b59d669043a0",
       "title": "It's unanimous: SCOTUS agrees with Hikma in 'skinny label' case vs. Amarin",
       "source": "Fierce Pharma",
@@ -879,28 +791,6 @@
         "published_parsed": null,
         "author": "Kevin Dunleavy",
         "id": "https://www.fiercepharma.com/705db63b-f907-453c-9124-fc8670f2fee0",
-        "guidislink": false
-      }
-    },
-    {
-      "raw_id": "9421e0a0ee998f44c372e97b",
-      "title": "ADC Therapeutics' shares plummet after patient deaths in trial of Zynlonta",
-      "source": "Fierce Pharma",
-      "published_at": "2026-06-04",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://www.fiercepharma.com/pharma/adcs-shares-plummet-after-patient-deaths-trial-zynlonta",
-      "normalized_url": "https://www.fiercepharma.com/pharma/adcs-shares-plummet-after-patient-deaths-trial-zynlonta",
-      "snippet": "Three times as many deaths in the study arm versus the control arm in a trial of ADC Therapeutics' Zynlonta have raised questions about the antibody-drug conjugate (ADC), which has been on the market since the FDA granted it accelerated approval in 2021.",
-      "query_keyword": "",
-      "source_type": "rss",
-      "raw_payload": {
-        "title": "<a href=\"https://www.fiercepharma.com/pharma/adcs-shares-plummet-after-patient-deaths-trial-zynlonta\" hreflang=\"en\">ADC Therapeutics' shares plummet after patient deaths in trial of Zynlonta</a>",
-        "link": "https://www.fiercepharma.com/pharma/adcs-shares-plummet-after-patient-deaths-trial-zynlonta",
-        "summary": "Three times as many deaths in the study arm versus the control arm in a trial of ADC Therapeutics' Zynlonta have raised questions about the antibody-drug conjugate (ADC), which has been on the market since the FDA granted it accelerated approval in 2021.",
-        "published": "Jun 4, 2026 11:12am",
-        "published_parsed": null,
-        "author": "Kevin Dunleavy",
-        "id": "https://www.fiercepharma.com/486f6b8f-b9c1-4093-8c9b-d837ac5927fc",
         "guidislink": false
       }
     },
@@ -949,50 +839,6 @@
       }
     },
     {
-      "raw_id": "e1de0c67850ffbdba668b3a4",
-      "title": "Medline earns FDA warning letter ire for repeated toxic bacteria problems",
-      "source": "Fierce Pharma",
-      "published_at": "2026-06-04",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://www.fiercepharma.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems",
-      "normalized_url": "https://www.fiercepharma.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems",
-      "snippet": "Medical device distribution giant Medline has been slammed for a second time since April by an FDA warning letter that has chided the company for repeated problems centered on the presence of toxic bacteria in finished products.",
-      "query_keyword": "",
-      "source_type": "rss",
-      "raw_payload": {
-        "title": "<a href=\"https://www.fiercepharma.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems\" hreflang=\"en\">Medline earns FDA warning letter ire for repeated toxic bacteria problems</a>",
-        "link": "https://www.fiercepharma.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems",
-        "summary": "Medical device distribution giant Medline has been slammed for a second time since April by an FDA warning letter that has chided the company for repeated problems centered on the presence of toxic bacteria in finished products.<br />",
-        "published": "Jun 4, 2026 7:42am",
-        "published_parsed": null,
-        "author": "Joseph Keenan",
-        "id": "https://www.fiercepharma.com/d412c9c0-971f-4a3c-a761-c4312ec4e6bf",
-        "guidislink": false
-      }
-    },
-    {
-      "raw_id": "e93449844f53c2799008b567",
-      "title": "Lilly, Boehringer to slash at least $1B each from planned investments in Germany",
-      "source": "Fierce Pharma",
-      "published_at": "2026-06-03",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://www.fiercepharma.com/pharma/lilly-boehringer-plan-slash-investment-germany-report",
-      "normalized_url": "https://www.fiercepharma.com/pharma/lilly-boehringer-plan-slash-investment-germany-report",
-      "snippet": "In response to a planned healthcare reform initiative in Germany that would reduce the prices of branded drugs, Eli Lilly and Boehringer Ingelheim have slashed their planned investments in the country, each by at least $1 billion.",
-      "query_keyword": "",
-      "source_type": "rss",
-      "raw_payload": {
-        "title": "<a href=\"https://www.fiercepharma.com/pharma/lilly-boehringer-plan-slash-investment-germany-report\" hreflang=\"en\">Lilly, Boehringer to slash at least $1B each from planned investments in Germany</a>",
-        "link": "https://www.fiercepharma.com/pharma/lilly-boehringer-plan-slash-investment-germany-report",
-        "summary": "In response to a planned healthcare reform initiative in Germany that would reduce the prices of branded drugs, Eli Lilly and Boehringer Ingelheim have slashed their planned investments in the country, each by at least $1 billion.",
-        "published": "Jun 3, 2026 2:41pm",
-        "published_parsed": null,
-        "author": "Kevin Dunleavy",
-        "id": "https://www.fiercepharma.com/184954a1-6c1d-49ce-875d-3d8f4f3fe2b7",
-        "guidislink": false
-      }
-    },
-    {
       "raw_id": "d4d33b9c81c480a8eb33c841",
       "title": "Coffee, racetracks, beaches and more coffee—inside the ASCO 2026 exhibit floor",
       "source": "Fierce Pharma",
@@ -1011,28 +857,6 @@
         "published_parsed": null,
         "author": "Zoey Becker",
         "id": "https://www.fiercepharma.com/0a4bbcd5-45c1-451b-9505-5a4129b60498",
-        "guidislink": false
-      }
-    },
-    {
-      "raw_id": "f5f5ca62fc62a57eb327964b",
-      "title": "A patient-first shift in disease language and communication",
-      "source": "Fierce Pharma",
-      "published_at": "2026-06-03",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://www.fiercepharma.com/marketing/language-disease-and-importance-patient-communication",
-      "normalized_url": "https://www.fiercepharma.com/marketing/language-disease-and-importance-patient-communication",
-      "snippet": "The words used to describe disease can shape how patients are diagnosed, treated and understood. From mpox to obesity to the Fitzpatrick scale, outdated or imprecise language can deepen stigma and obscure the full scope of a condition. Sommer Bazuro, Ph.D., chief medical officer at Omnicom Health, explains why medicine and pharma are rethinking the labels they use.",
-      "query_keyword": "",
-      "source_type": "rss",
-      "raw_payload": {
-        "title": "<a href=\"https://www.fiercepharma.com/marketing/language-disease-and-importance-patient-communication\" hreflang=\"en\">A patient-first shift in disease language and communication</a>",
-        "link": "https://www.fiercepharma.com/marketing/language-disease-and-importance-patient-communication",
-        "summary": "The words used to describe disease can shape how patients are diagnosed, treated and understood. From mpox to obesity to the Fitzpatrick scale, outdated or imprecise language can deepen stigma and obscure the full scope of a condition. Sommer Bazuro, Ph.D., chief medical officer at Omnicom Health, explains why medicine and pharma are rethinking the labels they use.",
-        "published": "Jun 3, 2026 6:47am",
-        "published_parsed": null,
-        "author": "Ben Adams",
-        "id": "https://www.fiercepharma.com/aa3dbd7e-e4c0-43b3-bc89-68eab888aaa6",
         "guidislink": false
       }
     },
@@ -2385,30 +2209,6 @@
       }
     },
     {
-      "raw_id": "30cf08aeaf530c63ac27233a",
-      "title": "Can WEE1 inhibitors finally make replication stress druggable?",
-      "source": "Labiotech",
-      "published_at": "2026-05-29",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://www.labiotech.eu/in-depth/wee1-inhibitor/",
-      "normalized_url": "https://www.labiotech.eu/in-depth/wee1-inhibitor",
-      "snippet": "Find out about how biotech companies are trying to address the limits the first generation of WEE1 inhibitors faced. The post Can WEE1 inhibitors finally make replication stress druggable? appeared first on Labiotech.eu . © Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Labiotech UG and Labiotech.eu with appropriate and specific direction to the original content.",
-      "query_keyword": "",
-      "source_type": "rss",
-      "raw_payload": {
-        "title": "Can WEE1 inhibitors finally make replication stress druggable?",
-        "link": "https://www.labiotech.eu/in-depth/wee1-inhibitor/",
-        "comments": "https://www.labiotech.eu/in-depth/wee1-inhibitor/#respond",
-        "author": "Jules Adam",
-        "published": "Fri, 29 May 2026 12:45:00 +0000",
-        "id": "https://www.labiotech.eu/?p=137049",
-        "guidislink": false,
-        "summary": "<p>Find out about how biotech companies are trying to address the limits the first generation of WEE1 inhibitors faced.</p>\n<p>The post <a href=\"https://www.labiotech.eu/in-depth/wee1-inhibitor/\">Can WEE1 inhibitors finally make replication stress druggable? </a> appeared first on <a href=\"https://www.labiotech.eu\">Labiotech.eu</a>. </p>\n<p>© Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Labiotech UG and Labiotech.eu with appropriate and specific direction to the original content.</p>",
-        "wfw_commentrss": "https://www.labiotech.eu/in-depth/wee1-inhibitor/feed/",
-        "slash_comments": "0"
-      }
-    },
-    {
       "raw_id": "cd64a93035841562da391230",
       "title": "World MS Day Special: Immunic reveals new hope for progressive MS",
       "source": "Labiotech",
@@ -2505,86 +2305,6 @@
       }
     },
     {
-      "raw_id": "545b85532eb31bc232c93b7c",
-      "title": "Biotech Stocks Facing FDA Decision In June 2026 - RTTNews",
-      "source": "Google News",
-      "published_at": "2026-06-03",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEdNOU9GYUtuSGFJdjlnakxfbTNIeFZ3aHM4X2p4dzIwMVFKTW1jQVA3Nm0ycE40bU1ldjF0dWtJNEVMQlJET3JvSWZ1S3QyNXdWQlhQa245UGVMcWJLQ3Z4OHN2RHpaMzBzSzNYb2Nvcm94ZjRsMjVSV1BGYkRoc3pCNS15VDN5dEMyYU5ieExzOW5lMnc?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEdNOU9GYUtuSGFJdjlnakxfbTNIeFZ3aHM4X2p4dzIwMVFKTW1jQVA3Nm0ycE40bU1ldjF0dWtJNEVMQlJET3JvSWZ1S3QyNXdWQlhQa245UGVMcWJLQ3Z4OHN2RHpaMzBzSzNYb2Nvcm94ZjRsMjVSV1BGYkRoc3pCNS15VDN5dEMyYU5ieExzOW5lMnc?oc=5",
-      "snippet": "Biotech Stocks Facing FDA Decision In June 2026 RTTNews",
-      "query_keyword": "biotech \"FDA approval\"",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Biotech Stocks Facing FDA Decision In June 2026 - RTTNews",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEdNOU9GYUtuSGFJdjlnakxfbTNIeFZ3aHM4X2p4dzIwMVFKTW1jQVA3Nm0ycE40bU1ldjF0dWtJNEVMQlJET3JvSWZ1S3QyNXdWQlhQa245UGVMcWJLQ3Z4OHN2RHpaMzBzSzNYb2Nvcm94ZjRsMjVSV1BGYkRoc3pCNS15VDN5dEMyYU5ieExzOW5lMnc?oc=5",
-        "id": "CBMilgFBVV95cUxPbEdNOU9GYUtuSGFJdjlnakxfbTNIeFZ3aHM4X2p4dzIwMVFKTW1jQVA3Nm0ycE40bU1ldjF0dWtJNEVMQlJET3JvSWZ1S3QyNXdWQlhQa245UGVMcWJLQ3Z4OHN2RHpaMzBzSzNYb2Nvcm94ZjRsMjVSV1BGYkRoc3pCNS15VDN5dEMyYU5ieExzOW5lMnc",
-        "guidislink": false,
-        "published": "Wed, 03 Jun 2026 11:48:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEdNOU9GYUtuSGFJdjlnakxfbTNIeFZ3aHM4X2p4dzIwMVFKTW1jQVA3Nm0ycE40bU1ldjF0dWtJNEVMQlJET3JvSWZ1S3QyNXdWQlhQa245UGVMcWJLQ3Z4OHN2RHpaMzBzSzNYb2Nvcm94ZjRsMjVSV1BGYkRoc3pCNS15VDN5dEMyYU5ieExzOW5lMnc?oc=5\" target=\"_blank\">Biotech Stocks Facing FDA Decision In June 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTTNews</font>"
-      }
-    },
-    {
-      "raw_id": "579d2c1aa2fa9483d81bb49d",
-      "title": "FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote - Fierce Biotech",
-      "source": "Google News",
-      "published_at": "2026-05-27",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmZGbTg0OGFKQTNTc2xfRjRnQnhVQWd4Q1lWblRNUEV3SHk0ME9WajVWVjcteWRUZTZlbC10T1BiR1dKMmpUNGVuZXZHdEgtUkxKeWVRVmV0LUd6b3dTd01jbm1tMmlPVFZNcTdJNnRmdVdjTnhXMDQ3SmdHZW9QWG40Ynl6Z2Nmb2N4VXBlMFEwcDdjRkxhc0hQWExaVE9tS29EbmF2U0hiYzRKY2hMTzFGako?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmZGbTg0OGFKQTNTc2xfRjRnQnhVQWd4Q1lWblRNUEV3SHk0ME9WajVWVjcteWRUZTZlbC10T1BiR1dKMmpUNGVuZXZHdEgtUkxKeWVRVmV0LUd6b3dTd01jbm1tMmlPVFZNcTdJNnRmdVdjTnhXMDQ3SmdHZW9QWG40Ynl6Z2Nmb2N4VXBlMFEwcDdjRkxhc0hQWExaVE9tS29EbmF2U0hiYzRKY2hMTzFGako?oc=5",
-      "snippet": "FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote Fierce Biotech",
-      "query_keyword": "biotech \"FDA approval\"",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote - Fierce Biotech",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmZGbTg0OGFKQTNTc2xfRjRnQnhVQWd4Q1lWblRNUEV3SHk0ME9WajVWVjcteWRUZTZlbC10T1BiR1dKMmpUNGVuZXZHdEgtUkxKeWVRVmV0LUd6b3dTd01jbm1tMmlPVFZNcTdJNnRmdVdjTnhXMDQ3SmdHZW9QWG40Ynl6Z2Nmb2N4VXBlMFEwcDdjRkxhc0hQWExaVE9tS29EbmF2U0hiYzRKY2hMTzFGako?oc=5",
-        "id": "CBMitAFBVV95cUxOZmZGbTg0OGFKQTNTc2xfRjRnQnhVQWd4Q1lWblRNUEV3SHk0ME9WajVWVjcteWRUZTZlbC10T1BiR1dKMmpUNGVuZXZHdEgtUkxKeWVRVmV0LUd6b3dTd01jbm1tMmlPVFZNcTdJNnRmdVdjTnhXMDQ3SmdHZW9QWG40Ynl6Z2Nmb2N4VXBlMFEwcDdjRkxhc0hQWExaVE9tS29EbmF2U0hiYzRKY2hMTzFGako",
-        "guidislink": false,
-        "published": "Wed, 27 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmZGbTg0OGFKQTNTc2xfRjRnQnhVQWd4Q1lWblRNUEV3SHk0ME9WajVWVjcteWRUZTZlbC10T1BiR1dKMmpUNGVuZXZHdEgtUkxKeWVRVmV0LUd6b3dTd01jbm1tMmlPVFZNcTdJNnRmdVdjTnhXMDQ3SmdHZW9QWG40Ynl6Z2Nmb2N4VXBlMFEwcDdjRkxhc0hQWExaVE9tS29EbmF2U0hiYzRKY2hMTzFGako?oc=5\" target=\"_blank\">FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Biotech</font>"
-      }
-    },
-    {
-      "raw_id": "b1ccd984e89309a1902f968e",
-      "title": "Natera: A Growing Biotech, After Recent FDA Approval And Q1 Revenue Results (NASDAQ:NTRA) - Seeking Alpha",
-      "source": "Google News",
-      "published_at": "2026-05-27",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkRZamRhMXpaZ0dZZ0VRSVVzMkJ5emhQRndKSldOV1A4UnZlNk4xQUtmSnZVZzdZVDkxdVAxSEdDdURNaS04UEh1MjRmblZmNVlCY1VKNWhsdk5odmVMYXQyZTN4eFpKVTIyYmNCdUtSaFlqaUdyUGNFV0cyNzBIVjRPdk5aQWNQZy1FOThCUVQ5MktPOVI5OW1nbXRyanl4cG1hV0JTcUdvZVAwYUpPX05Eelo3d1Iyenc?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkRZamRhMXpaZ0dZZ0VRSVVzMkJ5emhQRndKSldOV1A4UnZlNk4xQUtmSnZVZzdZVDkxdVAxSEdDdURNaS04UEh1MjRmblZmNVlCY1VKNWhsdk5odmVMYXQyZTN4eFpKVTIyYmNCdUtSaFlqaUdyUGNFV0cyNzBIVjRPdk5aQWNQZy1FOThCUVQ5MktPOVI5OW1nbXRyanl4cG1hV0JTcUdvZVAwYUpPX05Eelo3d1Iyenc?oc=5",
-      "snippet": "Natera: A Growing Biotech, After Recent FDA Approval And Q1 Revenue Results (NASDAQ:NTRA) Seeking Alpha",
-      "query_keyword": "biotech \"FDA approval\"",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Natera: A Growing Biotech, After Recent FDA Approval And Q1 Revenue Results (NASDAQ:NTRA) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkRZamRhMXpaZ0dZZ0VRSVVzMkJ5emhQRndKSldOV1A4UnZlNk4xQUtmSnZVZzdZVDkxdVAxSEdDdURNaS04UEh1MjRmblZmNVlCY1VKNWhsdk5odmVMYXQyZTN4eFpKVTIyYmNCdUtSaFlqaUdyUGNFV0cyNzBIVjRPdk5aQWNQZy1FOThCUVQ5MktPOVI5OW1nbXRyanl4cG1hV0JTcUdvZVAwYUpPX05Eelo3d1Iyenc?oc=5",
-        "id": "CBMiugFBVV95cUxNSkRZamRhMXpaZ0dZZ0VRSVVzMkJ5emhQRndKSldOV1A4UnZlNk4xQUtmSnZVZzdZVDkxdVAxSEdDdURNaS04UEh1MjRmblZmNVlCY1VKNWhsdk5odmVMYXQyZTN4eFpKVTIyYmNCdUtSaFlqaUdyUGNFV0cyNzBIVjRPdk5aQWNQZy1FOThCUVQ5MktPOVI5OW1nbXRyanl4cG1hV0JTcUdvZVAwYUpPX05Eelo3d1Iyenc",
-        "guidislink": false,
-        "published": "Wed, 27 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkRZamRhMXpaZ0dZZ0VRSVVzMkJ5emhQRndKSldOV1A4UnZlNk4xQUtmSnZVZzdZVDkxdVAxSEdDdURNaS04UEh1MjRmblZmNVlCY1VKNWhsdk5odmVMYXQyZTN4eFpKVTIyYmNCdUtSaFlqaUdyUGNFV0cyNzBIVjRPdk5aQWNQZy1FOThCUVQ5MktPOVI5OW1nbXRyanl4cG1hV0JTcUdvZVAwYUpPX05Eelo3d1Iyenc?oc=5\" target=\"_blank\">Natera: A Growing Biotech, After Recent FDA Approval And Q1 Revenue Results (NASDAQ:NTRA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>"
-      }
-    },
-    {
-      "raw_id": "41af387bd37e4449e747f5a2",
-      "title": "Stramsen Biotech Thanks the FDA for Their Review and Positive Feedback on Pre IND Application for SBX-1977 Wound Care Medicine - PR Newswire",
-      "source": "Google News",
-      "published_at": "2026-06-02",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWGJiNnpBa0VWN1NvRE90UkU5RW5taGpoWmk2bnJOV0szeTJCYVNHQXMyRk9FUzAtNmt3Wk40cjItOHZ5eUkxT01KQlZFQzFSTW1qYXhwTlJaSDNPaUpDRWpJU1h4c2doVG1LLVVPVDM3OW1iUHY1bnlZNmlsUjQzWnpRck9TX2JlTHIteW5aMW5EWTVNaDVBQTdWQU1iM0VaYzNOUmdZeWp5emRhLWM4WFZuNlBJTjBmRnJycWFxaFlhOEl2VWZSYms5RG1uYmJ1UEtsbU5wdlhJcUJYSDVOUXJucnpWZEl5YlM4dVVEVUwwSUtrU3pFQllIMTFiVHdzd2FfWm1zMF8wUGJfZHlz?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWGJiNnpBa0VWN1NvRE90UkU5RW5taGpoWmk2bnJOV0szeTJCYVNHQXMyRk9FUzAtNmt3Wk40cjItOHZ5eUkxT01KQlZFQzFSTW1qYXhwTlJaSDNPaUpDRWpJU1h4c2doVG1LLVVPVDM3OW1iUHY1bnlZNmlsUjQzWnpRck9TX2JlTHIteW5aMW5EWTVNaDVBQTdWQU1iM0VaYzNOUmdZeWp5emRhLWM4WFZuNlBJTjBmRnJycWFxaFlhOEl2VWZSYms5RG1uYmJ1UEtsbU5wdlhJcUJYSDVOUXJucnpWZEl5YlM4dVVEVUwwSUtrU3pFQllIMTFiVHdzd2FfWm1zMF8wUGJfZHlz?oc=5",
-      "snippet": "Stramsen Biotech Thanks the FDA for Their Review and Positive Feedback on Pre IND Application for SBX-1977 Wound Care Medicine PR Newswire",
-      "query_keyword": "biotech \"FDA approval\"",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Stramsen Biotech Thanks the FDA for Their Review and Positive Feedback on Pre IND Application for SBX-1977 Wound Care Medicine - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWGJiNnpBa0VWN1NvRE90UkU5RW5taGpoWmk2bnJOV0szeTJCYVNHQXMyRk9FUzAtNmt3Wk40cjItOHZ5eUkxT01KQlZFQzFSTW1qYXhwTlJaSDNPaUpDRWpJU1h4c2doVG1LLVVPVDM3OW1iUHY1bnlZNmlsUjQzWnpRck9TX2JlTHIteW5aMW5EWTVNaDVBQTdWQU1iM0VaYzNOUmdZeWp5emRhLWM4WFZuNlBJTjBmRnJycWFxaFlhOEl2VWZSYms5RG1uYmJ1UEtsbU5wdlhJcUJYSDVOUXJucnpWZEl5YlM4dVVEVUwwSUtrU3pFQllIMTFiVHdzd2FfWm1zMF8wUGJfZHlz?oc=5",
-        "id": "CBMijwJBVV95cUxNWGJiNnpBa0VWN1NvRE90UkU5RW5taGpoWmk2bnJOV0szeTJCYVNHQXMyRk9FUzAtNmt3Wk40cjItOHZ5eUkxT01KQlZFQzFSTW1qYXhwTlJaSDNPaUpDRWpJU1h4c2doVG1LLVVPVDM3OW1iUHY1bnlZNmlsUjQzWnpRck9TX2JlTHIteW5aMW5EWTVNaDVBQTdWQU1iM0VaYzNOUmdZeWp5emRhLWM4WFZuNlBJTjBmRnJycWFxaFlhOEl2VWZSYms5RG1uYmJ1UEtsbU5wdlhJcUJYSDVOUXJucnpWZEl5YlM4dVVEVUwwSUtrU3pFQllIMTFiVHdzd2FfWm1zMF8wUGJfZHlz",
-        "guidislink": false,
-        "published": "Tue, 02 Jun 2026 13:10:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNWGJiNnpBa0VWN1NvRE90UkU5RW5taGpoWmk2bnJOV0szeTJCYVNHQXMyRk9FUzAtNmt3Wk40cjItOHZ5eUkxT01KQlZFQzFSTW1qYXhwTlJaSDNPaUpDRWpJU1h4c2doVG1LLVVPVDM3OW1iUHY1bnlZNmlsUjQzWnpRck9TX2JlTHIteW5aMW5EWTVNaDVBQTdWQU1iM0VaYzNOUmdZeWp5emRhLWM4WFZuNlBJTjBmRnJycWFxaFlhOEl2VWZSYms5RG1uYmJ1UEtsbU5wdlhJcUJYSDVOUXJucnpWZEl5YlM4dVVEVUwwSUtrU3pFQllIMTFiVHdzd2FfWm1zMF8wUGJfZHlz?oc=5\" target=\"_blank\">Stramsen Biotech Thanks the FDA for Their Review and Positive Feedback on Pre IND Application for SBX-1977 Wound Care Medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
-      }
-    },
-    {
       "raw_id": "00110ba9c403432c5c74a37b",
       "title": "Innovent, fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC - Fierce Biotech",
       "source": "Google News",
@@ -2602,26 +2322,6 @@
         "guidislink": false,
         "published": "Thu, 04 Jun 2026 11:47:45 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWV6aWJEeDgza1hyMno2dzlQUHlvOXlfaGdXclFNcHMzODlIZ2lhVkpQcXhESkFjcDZQVXlYWnEwbmxLXzlBdllDTXh2WHJ2WmpvdjBEenFBNk53OV9yOHpWZFozSjF1M0JvcmNNZmxVd1VyZTk4aENjVjhOQzlqblhjeUprdXBOTVB2TEdrZ1dYaVdXMHc?oc=5\" target=\"_blank\">Innovent, fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Biotech</font>"
-      }
-    },
-    {
-      "raw_id": "6c32912317f05a54ad460fc2",
-      "title": "Replimune takes third swing at cancer drug approval following ‘productive’ FDA talks - BioPharma Dive",
-      "source": "Google News",
-      "published_at": "2026-05-29",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakpUdmxlUUVyLUtDNjVxSWxHQjJ4ZGRuaVBnN1o0S2djX2N2ZWZGODM2eFNVaVgyaWwtQ0xDb0dOcU5aMzc3U2NFajdJNmhvVkFaWmQ1UlhoY253bjZQa18yZnN0VTVuNXpTX19EaDVoVDg2Y0t2emYzdDN3V0RkTEptUF9GTW1UaFd3RHJFaUpKbVBhTEd6bWt3SFdGYk1jVXJCTnJHbFpOZw?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakpUdmxlUUVyLUtDNjVxSWxHQjJ4ZGRuaVBnN1o0S2djX2N2ZWZGODM2eFNVaVgyaWwtQ0xDb0dOcU5aMzc3U2NFajdJNmhvVkFaWmQ1UlhoY253bjZQa18yZnN0VTVuNXpTX19EaDVoVDg2Y0t2emYzdDN3V0RkTEptUF9GTW1UaFd3RHJFaUpKbVBhTEd6bWt3SFdGYk1jVXJCTnJHbFpOZw?oc=5",
-      "snippet": "Replimune takes third swing at cancer drug approval following ‘productive’ FDA talks BioPharma Dive",
-      "query_keyword": "biotech \"FDA approval\"",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Replimune takes third swing at cancer drug approval following ‘productive’ FDA talks - BioPharma Dive",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakpUdmxlUUVyLUtDNjVxSWxHQjJ4ZGRuaVBnN1o0S2djX2N2ZWZGODM2eFNVaVgyaWwtQ0xDb0dOcU5aMzc3U2NFajdJNmhvVkFaWmQ1UlhoY253bjZQa18yZnN0VTVuNXpTX19EaDVoVDg2Y0t2emYzdDN3V0RkTEptUF9GTW1UaFd3RHJFaUpKbVBhTEd6bWt3SFdGYk1jVXJCTnJHbFpOZw?oc=5",
-        "id": "CBMiqgFBVV95cUxOakpUdmxlUUVyLUtDNjVxSWxHQjJ4ZGRuaVBnN1o0S2djX2N2ZWZGODM2eFNVaVgyaWwtQ0xDb0dOcU5aMzc3U2NFajdJNmhvVkFaWmQ1UlhoY253bjZQa18yZnN0VTVuNXpTX19EaDVoVDg2Y0t2emYzdDN3V0RkTEptUF9GTW1UaFd3RHJFaUpKbVBhTEd6bWt3SFdGYk1jVXJCTnJHbFpOZw",
-        "guidislink": false,
-        "published": "Fri, 29 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakpUdmxlUUVyLUtDNjVxSWxHQjJ4ZGRuaVBnN1o0S2djX2N2ZWZGODM2eFNVaVgyaWwtQ0xDb0dOcU5aMzc3U2NFajdJNmhvVkFaWmQ1UlhoY253bjZQa18yZnN0VTVuNXpTX19EaDVoVDg2Y0t2emYzdDN3V0RkTEptUF9GTW1UaFd3RHJFaUpKbVBhTEd6bWt3SFdGYk1jVXJCTnJHbFpOZw?oc=5\" target=\"_blank\">Replimune takes third swing at cancer drug approval following ‘productive’ FDA talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioPharma Dive</font>"
       }
     },
     {
@@ -2662,26 +2362,6 @@
         "guidislink": false,
         "published": "Fri, 29 May 2026 07:00:00 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVctZVBVY2p2YVBubzFJbVVJUG0yZlg5Q3hobkxRMnp4X0ktNFN0VDVKa0ZBSW1IMkdXRmRwdG1WV21WQ2NRNVhSWHVNT3hVRTA5TmpWdTlTeVRlSUl6djhNTW1QTTBrdHhDUGR6WGhPeFN2bEtzTXVYajc3aWRJQl9ScW0zNmNDVlZBZVNvSjlpdkRFUUZtMzBkMXdoSVF3ajNjMGpITnRuelJiWXJHejZmeU96RWxEVkJaRWo0NjY?oc=5\" target=\"_blank\">12M Americans have BPH; one biotech is testing a plant-based option</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>"
-      }
-    },
-    {
-      "raw_id": "eb75bf4d559d961110a95493",
-      "title": "Concord Biotech shares jump over 8% after US FDA approves latest Mycophenolate Mofetil drug - Upstox",
-      "source": "Google News",
-      "published_at": "2026-06-03",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGkwU1ZZUjJPaW5Lai01cllOZ1lScmR2aV9sem9WaGNOQjNQTDdlYkZwVy1SeWh1UzRNbjZDRG5YS0JKQW10VHhFNlg5clE4R2FyMG8yTGMyeWkyckkzcWVSLXhCX1JaN2h3R2xFekNKeloyR3Y1TXdQek84QlFUcTQxOWctWVBmQ3daeGxPamc3eTFIaW81RElfZXhBOUdJeUE2aWNLeDJhR3RkN3FZV1VWcTFUMU5XTkRJaGRRNkhXdE9mcjFmSlF0Qnd6RkVuMmFzN0QwdnYxQjVCTGtVa2xZQ3puUQ?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGkwU1ZZUjJPaW5Lai01cllOZ1lScmR2aV9sem9WaGNOQjNQTDdlYkZwVy1SeWh1UzRNbjZDRG5YS0JKQW10VHhFNlg5clE4R2FyMG8yTGMyeWkyckkzcWVSLXhCX1JaN2h3R2xFekNKeloyR3Y1TXdQek84QlFUcTQxOWctWVBmQ3daeGxPamc3eTFIaW81RElfZXhBOUdJeUE2aWNLeDJhR3RkN3FZV1VWcTFUMU5XTkRJaGRRNkhXdE9mcjFmSlF0Qnd6RkVuMmFzN0QwdnYxQjVCTGtVa2xZQ3puUQ?oc=5",
-      "snippet": "Concord Biotech shares jump over 8% after US FDA approves latest Mycophenolate Mofetil drug Upstox",
-      "query_keyword": "biotech \"FDA approval\"",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Concord Biotech shares jump over 8% after US FDA approves latest Mycophenolate Mofetil drug - Upstox",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGkwU1ZZUjJPaW5Lai01cllOZ1lScmR2aV9sem9WaGNOQjNQTDdlYkZwVy1SeWh1UzRNbjZDRG5YS0JKQW10VHhFNlg5clE4R2FyMG8yTGMyeWkyckkzcWVSLXhCX1JaN2h3R2xFekNKeloyR3Y1TXdQek84QlFUcTQxOWctWVBmQ3daeGxPamc3eTFIaW81RElfZXhBOUdJeUE2aWNLeDJhR3RkN3FZV1VWcTFUMU5XTkRJaGRRNkhXdE9mcjFmSlF0Qnd6RkVuMmFzN0QwdnYxQjVCTGtVa2xZQ3puUQ?oc=5",
-        "id": "CBMi5gFBVV95cUxNZGkwU1ZZUjJPaW5Lai01cllOZ1lScmR2aV9sem9WaGNOQjNQTDdlYkZwVy1SeWh1UzRNbjZDRG5YS0JKQW10VHhFNlg5clE4R2FyMG8yTGMyeWkyckkzcWVSLXhCX1JaN2h3R2xFekNKeloyR3Y1TXdQek84QlFUcTQxOWctWVBmQ3daeGxPamc3eTFIaW81RElfZXhBOUdJeUE2aWNLeDJhR3RkN3FZV1VWcTFUMU5XTkRJaGRRNkhXdE9mcjFmSlF0Qnd6RkVuMmFzN0QwdnYxQjVCTGtVa2xZQ3puUQ",
-        "guidislink": false,
-        "published": "Wed, 03 Jun 2026 03:33:07 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGkwU1ZZUjJPaW5Lai01cllOZ1lScmR2aV9sem9WaGNOQjNQTDdlYkZwVy1SeWh1UzRNbjZDRG5YS0JKQW10VHhFNlg5clE4R2FyMG8yTGMyeWkyckkzcWVSLXhCX1JaN2h3R2xFekNKeloyR3Y1TXdQek84QlFUcTQxOWctWVBmQ3daeGxPamc3eTFIaW81RElfZXhBOUdJeUE2aWNLeDJhR3RkN3FZV1VWcTFUMU5XTkRJaGRRNkhXdE9mcjFmSlF0Qnd6RkVuMmFzN0QwdnYxQjVCTGtVa2xZQ3puUQ?oc=5\" target=\"_blank\">Concord Biotech shares jump over 8% after US FDA approves latest Mycophenolate Mofetil drug</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
       }
     },
     {
@@ -2802,26 +2482,6 @@
         "guidislink": false,
         "published": "Mon, 08 Jun 2026 04:04:17 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZTFySmJPRmJXWUwwUzA4bTlFY2pOOC1ZcXU1M0lKTVZ5WW1kbHAzSFlTR3FLSkRnQWVpaTUtZmd3WWJJcDAwcmlQeDZrTi1qYjRKY3NTWk13YTJya3FzaDJFVmwwbTF0TXdRcmJiaFZuSjg2WVJBMGZFTVRsc2JyeE5pMnV1NXZMc3RoemNrV0RuN1FrMGc?oc=5\" target=\"_blank\">Post-Makary, new rare disease framework faces fresh uncertainty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioSpace</font>"
-      }
-    },
-    {
-      "raw_id": "0474f306ea5c6fe5c18fef00",
-      "title": "Gene therapy, mini-pigs, organ printing: Inside Putin's $26 billion quest to beat aging - The Times of India",
-      "source": "Google News",
-      "published_at": "2026-05-30",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeEIyOExHZHdRWE0xMFhPLXVKMS1kc1g1TndudV9CcEozMzl1aURZVHk0RzhCWFZwVm41ZXhzWW9Iamo0bE9ObGVTeUs5WXlBblB6ZjlEUmY2XzZSSWtaVU54Ni1Oa0ZIa21fQldhZllUd2dhaEZ2Y3FLOU9fNkxkcGY0UTlJdnUzbkl2UkVnaGdoT1FvTk9oQVlfbTR3SUFLc0VpQlNSMnVkWm0zb0E1Zmc4cndGWWJheXZmUnpmcW1tamJ3WlBWYjFVR2tqOHkwaFhfQ2VZRFF5VEJvTTJrcjNrNjZLRDJQZlFvTUpB0gHzAUFVX3lxTFBheVZUUlpPY1lmMUNXZVVVdG1JWDFwN1NaaXVDaWY2WTBpVjN6Y3ZvMEtnczJfcnRLYlAzNFhUOFF1cjJ4Wm41WlN3Xy1sTGJsQU85UEtCOEN6blNMWG85dG4xZjhJZkQtdEZuZW14NU5JQVNsTGktaGVxUk5CVWNPVlBlaDdkOEhzYWxna0xCcEVCUUJYTHMzQTFNc29nbTktVzRTa2l2Y0ZxVHoyMmhhOXozTDF3WHdDT2ZtVDNhXzlvQy1MUVhJZjU0RUJMcnFLM2c2UGNDUURuVFAwWWJ0S2oyZnk3QklqMkp5YkJYZWdPRQ?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeEIyOExHZHdRWE0xMFhPLXVKMS1kc1g1TndudV9CcEozMzl1aURZVHk0RzhCWFZwVm41ZXhzWW9Iamo0bE9ObGVTeUs5WXlBblB6ZjlEUmY2XzZSSWtaVU54Ni1Oa0ZIa21fQldhZllUd2dhaEZ2Y3FLOU9fNkxkcGY0UTlJdnUzbkl2UkVnaGdoT1FvTk9oQVlfbTR3SUFLc0VpQlNSMnVkWm0zb0E1Zmc4cndGWWJheXZmUnpmcW1tamJ3WlBWYjFVR2tqOHkwaFhfQ2VZRFF5VEJvTTJrcjNrNjZLRDJQZlFvTUpB0gHzAUFVX3lxTFBheVZUUlpPY1lmMUNXZVVVdG1JWDFwN1NaaXVDaWY2WTBpVjN6Y3ZvMEtnczJfcnRLYlAzNFhUOFF1cjJ4Wm41WlN3Xy1sTGJsQU85UEtCOEN6blNMWG85dG4xZjhJZkQtdEZuZW14NU5JQVNsTGktaGVxUk5CVWNPVlBlaDdkOEhzYWxna0xCcEVCUUJYTHMzQTFNc29nbTktVzRTa2l2Y0ZxVHoyMmhhOXozTDF3WHdDT2ZtVDNhXzlvQy1MUVhJZjU0RUJMcnFLM2c2UGNDUURuVFAwWWJ0S2oyZnk3QklqMkp5YkJYZWdPRQ?oc=5",
-      "snippet": "Gene therapy, mini-pigs, organ printing: Inside Putin's $26 billion quest to beat aging The Times of India",
-      "query_keyword": "gene therapy",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Gene therapy, mini-pigs, organ printing: Inside Putin's $26 billion quest to beat aging - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeEIyOExHZHdRWE0xMFhPLXVKMS1kc1g1TndudV9CcEozMzl1aURZVHk0RzhCWFZwVm41ZXhzWW9Iamo0bE9ObGVTeUs5WXlBblB6ZjlEUmY2XzZSSWtaVU54Ni1Oa0ZIa21fQldhZllUd2dhaEZ2Y3FLOU9fNkxkcGY0UTlJdnUzbkl2UkVnaGdoT1FvTk9oQVlfbTR3SUFLc0VpQlNSMnVkWm0zb0E1Zmc4cndGWWJheXZmUnpmcW1tamJ3WlBWYjFVR2tqOHkwaFhfQ2VZRFF5VEJvTTJrcjNrNjZLRDJQZlFvTUpB0gHzAUFVX3lxTFBheVZUUlpPY1lmMUNXZVVVdG1JWDFwN1NaaXVDaWY2WTBpVjN6Y3ZvMEtnczJfcnRLYlAzNFhUOFF1cjJ4Wm41WlN3Xy1sTGJsQU85UEtCOEN6blNMWG85dG4xZjhJZkQtdEZuZW14NU5JQVNsTGktaGVxUk5CVWNPVlBlaDdkOEhzYWxna0xCcEVCUUJYTHMzQTFNc29nbTktVzRTa2l2Y0ZxVHoyMmhhOXozTDF3WHdDT2ZtVDNhXzlvQy1MUVhJZjU0RUJMcnFLM2c2UGNDUURuVFAwWWJ0S2oyZnk3QklqMkp5YkJYZWdPRQ?oc=5",
-        "id": "CBMi7gFBVV95cUxOeEIyOExHZHdRWE0xMFhPLXVKMS1kc1g1TndudV9CcEozMzl1aURZVHk0RzhCWFZwVm41ZXhzWW9Iamo0bE9ObGVTeUs5WXlBblB6ZjlEUmY2XzZSSWtaVU54Ni1Oa0ZIa21fQldhZllUd2dhaEZ2Y3FLOU9fNkxkcGY0UTlJdnUzbkl2UkVnaGdoT1FvTk9oQVlfbTR3SUFLc0VpQlNSMnVkWm0zb0E1Zmc4cndGWWJheXZmUnpmcW1tamJ3WlBWYjFVR2tqOHkwaFhfQ2VZRFF5VEJvTTJrcjNrNjZLRDJQZlFvTUpB0gHzAUFVX3lxTFBheVZUUlpPY1lmMUNXZVVVdG1JWDFwN1NaaXVDaWY2WTBpVjN6Y3ZvMEtnczJfcnRLYlAzNFhUOFF1cjJ4Wm41WlN3Xy1sTGJsQU85UEtCOEN6blNMWG85dG4xZjhJZkQtdEZuZW14NU5JQVNsTGktaGVxUk5CVWNPVlBlaDdkOEhzYWxna0xCcEVCUUJYTHMzQTFNc29nbTktVzRTa2l2Y0ZxVHoyMmhhOXozTDF3WHdDT2ZtVDNhXzlvQy1MUVhJZjU0RUJMcnFLM2c2UGNDUURuVFAwWWJ0S2oyZnk3QklqMkp5YkJYZWdPRQ",
-        "guidislink": false,
-        "published": "Sat, 30 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeEIyOExHZHdRWE0xMFhPLXVKMS1kc1g1TndudV9CcEozMzl1aURZVHk0RzhCWFZwVm41ZXhzWW9Iamo0bE9ObGVTeUs5WXlBblB6ZjlEUmY2XzZSSWtaVU54Ni1Oa0ZIa21fQldhZllUd2dhaEZ2Y3FLOU9fNkxkcGY0UTlJdnUzbkl2UkVnaGdoT1FvTk9oQVlfbTR3SUFLc0VpQlNSMnVkWm0zb0E1Zmc4cndGWWJheXZmUnpmcW1tamJ3WlBWYjFVR2tqOHkwaFhfQ2VZRFF5VEJvTTJrcjNrNjZLRDJQZlFvTUpB0gHzAUFVX3lxTFBheVZUUlpPY1lmMUNXZVVVdG1JWDFwN1NaaXVDaWY2WTBpVjN6Y3ZvMEtnczJfcnRLYlAzNFhUOFF1cjJ4Wm41WlN3Xy1sTGJsQU85UEtCOEN6blNMWG85dG4xZjhJZkQtdEZuZW14NU5JQVNsTGktaGVxUk5CVWNPVlBlaDdkOEhzYWxna0xCcEVCUUJYTHMzQTFNc29nbTktVzRTa2l2Y0ZxVHoyMmhhOXozTDF3WHdDT2ZtVDNhXzlvQy1MUVhJZjU0RUJMcnFLM2c2UGNDUURuVFAwWWJ0S2oyZnk3QklqMkp5YkJYZWdPRQ?oc=5\" target=\"_blank\">Gene therapy, mini-pigs, organ printing: Inside Putin's $26 billion quest to beat aging</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>"
       }
     },
     {
@@ -3025,46 +2685,6 @@
       }
     },
     {
-      "raw_id": "9a96d3a89b077a8885f396ca",
-      "title": "Opinion: The next FDA commissioner must be a champion for gene therapies - BioSpace",
-      "source": "Google News",
-      "published_at": "2026-06-05",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHlfb3loN1I4OVQ3SDdmSFFwbEtLSmppVTNDR3gxYnhVYVVNVUZFaEVsRkZQQ1U5MTFfV0dOLUlZajhacDZZaUVhTnFjcXh4SzYwRmwwdHFRUks0Rjh5dllERTNyTml6YURDcHk3TjBOZmFyVHZ0WVk0TExxMUM0MWxUU1FXdzIzWld5NlkzeWVUVXNTZy1JV0hQYUlwMFBma1E?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHlfb3loN1I4OVQ3SDdmSFFwbEtLSmppVTNDR3gxYnhVYVVNVUZFaEVsRkZQQ1U5MTFfV0dOLUlZajhacDZZaUVhTnFjcXh4SzYwRmwwdHFRUks0Rjh5dllERTNyTml6YURDcHk3TjBOZmFyVHZ0WVk0TExxMUM0MWxUU1FXdzIzWld5NlkzeWVUVXNTZy1JV0hQYUlwMFBma1E?oc=5",
-      "snippet": "Opinion: The next FDA commissioner must be a champion for gene therapies BioSpace",
-      "query_keyword": "gene therapy",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Opinion: The next FDA commissioner must be a champion for gene therapies - BioSpace",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHlfb3loN1I4OVQ3SDdmSFFwbEtLSmppVTNDR3gxYnhVYVVNVUZFaEVsRkZQQ1U5MTFfV0dOLUlZajhacDZZaUVhTnFjcXh4SzYwRmwwdHFRUks0Rjh5dllERTNyTml6YURDcHk3TjBOZmFyVHZ0WVk0TExxMUM0MWxUU1FXdzIzWld5NlkzeWVUVXNTZy1JV0hQYUlwMFBma1E?oc=5",
-        "id": "CBMiogFBVV95cUxNMHlfb3loN1I4OVQ3SDdmSFFwbEtLSmppVTNDR3gxYnhVYVVNVUZFaEVsRkZQQ1U5MTFfV0dOLUlZajhacDZZaUVhTnFjcXh4SzYwRmwwdHFRUks0Rjh5dllERTNyTml6YURDcHk3TjBOZmFyVHZ0WVk0TExxMUM0MWxUU1FXdzIzWld5NlkzeWVUVXNTZy1JV0hQYUlwMFBma1E",
-        "guidislink": false,
-        "published": "Fri, 05 Jun 2026 13:03:55 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHlfb3loN1I4OVQ3SDdmSFFwbEtLSmppVTNDR3gxYnhVYVVNVUZFaEVsRkZQQ1U5MTFfV0dOLUlZajhacDZZaUVhTnFjcXh4SzYwRmwwdHFRUks0Rjh5dllERTNyTml6YURDcHk3TjBOZmFyVHZ0WVk0TExxMUM0MWxUU1FXdzIzWld5NlkzeWVUVXNTZy1JV0hQYUlwMFBma1E?oc=5\" target=\"_blank\">Opinion: The next FDA commissioner must be a champion for gene therapies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioSpace</font>"
-      }
-    },
-    {
-      "raw_id": "4e5ba27bdc68f4afc326a842",
-      "title": "US FDA proposes using existing science to speed up gene therapy development - Reuters",
-      "source": "Google News",
-      "published_at": "2026-06-02",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTRVRTNVaFhxVFRZQW95S285WDRpRHpNM1VtZVgxVHJ5WDZpVS1QN3h6bndRZVRCdkY0YnRscFVtakJJdTdyU0pfNDRoNjdiLWZvSjZocEx2T2llWG44TUNvcU1vTFdRS2RRM0Z3WGdLRVdtS012Z0taQU9yTHlrZGsxWlY3WUxOeVFucTlGVUJ6UWN6MFhsWDhkNTZRcWM0aG92SW5qWmswcnhOc21nd09aZDkxR0tjMVB6VFIyRFljT0E?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTRVRTNVaFhxVFRZQW95S285WDRpRHpNM1VtZVgxVHJ5WDZpVS1QN3h6bndRZVRCdkY0YnRscFVtakJJdTdyU0pfNDRoNjdiLWZvSjZocEx2T2llWG44TUNvcU1vTFdRS2RRM0Z3WGdLRVdtS012Z0taQU9yTHlrZGsxWlY3WUxOeVFucTlGVUJ6UWN6MFhsWDhkNTZRcWM0aG92SW5qWmswcnhOc21nd09aZDkxR0tjMVB6VFIyRFljT0E?oc=5",
-      "snippet": "US FDA proposes using existing science to speed up gene therapy development Reuters",
-      "query_keyword": "gene therapy",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "US FDA proposes using existing science to speed up gene therapy development - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTRVRTNVaFhxVFRZQW95S285WDRpRHpNM1VtZVgxVHJ5WDZpVS1QN3h6bndRZVRCdkY0YnRscFVtakJJdTdyU0pfNDRoNjdiLWZvSjZocEx2T2llWG44TUNvcU1vTFdRS2RRM0Z3WGdLRVdtS012Z0taQU9yTHlrZGsxWlY3WUxOeVFucTlGVUJ6UWN6MFhsWDhkNTZRcWM0aG92SW5qWmswcnhOc21nd09aZDkxR0tjMVB6VFIyRFljT0E?oc=5",
-        "id": "CBMiwwFBVV95cUxNOTRVRTNVaFhxVFRZQW95S285WDRpRHpNM1VtZVgxVHJ5WDZpVS1QN3h6bndRZVRCdkY0YnRscFVtakJJdTdyU0pfNDRoNjdiLWZvSjZocEx2T2llWG44TUNvcU1vTFdRS2RRM0Z3WGdLRVdtS012Z0taQU9yTHlrZGsxWlY3WUxOeVFucTlGVUJ6UWN6MFhsWDhkNTZRcWM0aG92SW5qWmswcnhOc21nd09aZDkxR0tjMVB6VFIyRFljT0E",
-        "guidislink": false,
-        "published": "Tue, 02 Jun 2026 14:29:43 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTRVRTNVaFhxVFRZQW95S285WDRpRHpNM1VtZVgxVHJ5WDZpVS1QN3h6bndRZVRCdkY0YnRscFVtakJJdTdyU0pfNDRoNjdiLWZvSjZocEx2T2llWG44TUNvcU1vTFdRS2RRM0Z3WGdLRVdtS012Z0taQU9yTHlrZGsxWlY3WUxOeVFucTlGVUJ6UWN6MFhsWDhkNTZRcWM0aG92SW5qWmswcnhOc21nd09aZDkxR0tjMVB6VFIyRFljT0E?oc=5\" target=\"_blank\">US FDA proposes using existing science to speed up gene therapy development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
-      }
-    },
-    {
       "raw_id": "f99450b68d342186f91ca8db",
       "title": "It Takes a Village: Bringing Cell & Gene Therapy to Patients - Pharmacy Times",
       "source": "Google News",
@@ -3225,26 +2845,6 @@
       }
     },
     {
-      "raw_id": "211deb25bd4438e6c1b4e75c",
-      "title": "FDA aims to speed gene therapy development with prior scientific knowledge guidance - RAPS.org",
-      "source": "Google News",
-      "published_at": "2026-06-02",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzc0bE93VnRjeHNUdWtBTmVMd1hRQzJhZlZkOFVRanlzby1feWg0U1RmS1hrUmZ2dk1SaWUzTzZtYmxSY2JNSW9haGlrV3BIbWliVjBPS05kQXlCNHVJNktXV3phcm02dTdvS0hEQ095YVR1M1R0c1pnWkFHcmRxZWtzblgzNTU2UnItejNEWGtMSnRmbno2bmdFUzZWaTdHS0hGTnJxenlqTUxORHN1RnAtLWpHZWYyOFE?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzc0bE93VnRjeHNUdWtBTmVMd1hRQzJhZlZkOFVRanlzby1feWg0U1RmS1hrUmZ2dk1SaWUzTzZtYmxSY2JNSW9haGlrV3BIbWliVjBPS05kQXlCNHVJNktXV3phcm02dTdvS0hEQ095YVR1M1R0c1pnWkFHcmRxZWtzblgzNTU2UnItejNEWGtMSnRmbno2bmdFUzZWaTdHS0hGTnJxenlqTUxORHN1RnAtLWpHZWYyOFE?oc=5",
-      "snippet": "FDA aims to speed gene therapy development with prior scientific knowledge guidance RAPS.org",
-      "query_keyword": "gene therapy",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "FDA aims to speed gene therapy development with prior scientific knowledge guidance - RAPS.org",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzc0bE93VnRjeHNUdWtBTmVMd1hRQzJhZlZkOFVRanlzby1feWg0U1RmS1hrUmZ2dk1SaWUzTzZtYmxSY2JNSW9haGlrV3BIbWliVjBPS05kQXlCNHVJNktXV3phcm02dTdvS0hEQ095YVR1M1R0c1pnWkFHcmRxZWtzblgzNTU2UnItejNEWGtMSnRmbno2bmdFUzZWaTdHS0hGTnJxenlqTUxORHN1RnAtLWpHZWYyOFE?oc=5",
-        "id": "CBMiugFBVV95cUxQQzc0bE93VnRjeHNUdWtBTmVMd1hRQzJhZlZkOFVRanlzby1feWg0U1RmS1hrUmZ2dk1SaWUzTzZtYmxSY2JNSW9haGlrV3BIbWliVjBPS05kQXlCNHVJNktXV3phcm02dTdvS0hEQ095YVR1M1R0c1pnWkFHcmRxZWtzblgzNTU2UnItejNEWGtMSnRmbno2bmdFUzZWaTdHS0hGTnJxenlqTUxORHN1RnAtLWpHZWYyOFE",
-        "guidislink": false,
-        "published": "Tue, 02 Jun 2026 19:46:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzc0bE93VnRjeHNUdWtBTmVMd1hRQzJhZlZkOFVRanlzby1feWg0U1RmS1hrUmZ2dk1SaWUzTzZtYmxSY2JNSW9haGlrV3BIbWliVjBPS05kQXlCNHVJNktXV3phcm02dTdvS0hEQ095YVR1M1R0c1pnWkFHcmRxZWtzblgzNTU2UnItejNEWGtMSnRmbno2bmdFUzZWaTdHS0hGTnJxenlqTUxORHN1RnAtLWpHZWYyOFE?oc=5\" target=\"_blank\">FDA aims to speed gene therapy development with prior scientific knowledge guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RAPS.org</font>"
-      }
-    },
-    {
       "raw_id": "8a4d10aa7eb4fb1f23165fa2",
       "title": "How a sickle cell patient is helping drug companies connect with others like him - The Business Journals",
       "source": "Google News",
@@ -3262,26 +2862,6 @@
         "guidislink": false,
         "published": "Mon, 08 Jun 2026 12:03:00 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWFGRlVsdE43SThHazZOMjVrQTZ0TXUxcHZDZldOWXpYSzZ2cTkwR1FmWXJyZFYxemNVeTk5X0xrT0dSRl8zcm5DZ1lEUTdxY2ZZNE52Zk5pTEdYcVplalk3UXpHOGJVLXI1TEJlVFNjNmVKTVNnLVE4X0w3b2NPUUVoa0ZvQ21NbTJLRXNWZWtNbkxmdWVqQTVmUGJCWFB5dEhuXzJITF9sNjRoRFBOSg?oc=5\" target=\"_blank\">How a sickle cell patient is helping drug companies connect with others like him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>"
-      }
-    },
-    {
-      "raw_id": "a743037bfae906eafb44bcb8",
-      "title": "Exclusive: FDA issues industry-friendly gene therapy guidance - Axios",
-      "source": "Google News",
-      "published_at": "2026-06-02",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zS1REd3F4bmZ4ZlU3bHpUVkFiVklva05XbEtJTkhyR2ZUeTk0ZncyNld0aGJyWW5GWE9OZVZfMHhlb3RFY09Lbnl2NVFCSU8zaTFSajFWckRmeEtRcWVRYkgxaDdCM1daOWF6RkF5MGF6Q3Jq?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zS1REd3F4bmZ4ZlU3bHpUVkFiVklva05XbEtJTkhyR2ZUeTk0ZncyNld0aGJyWW5GWE9OZVZfMHhlb3RFY09Lbnl2NVFCSU8zaTFSajFWckRmeEtRcWVRYkgxaDdCM1daOWF6RkF5MGF6Q3Jq?oc=5",
-      "snippet": "Exclusive: FDA issues industry-friendly gene therapy guidance Axios",
-      "query_keyword": "gene therapy",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Exclusive: FDA issues industry-friendly gene therapy guidance - Axios",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zS1REd3F4bmZ4ZlU3bHpUVkFiVklva05XbEtJTkhyR2ZUeTk0ZncyNld0aGJyWW5GWE9OZVZfMHhlb3RFY09Lbnl2NVFCSU8zaTFSajFWckRmeEtRcWVRYkgxaDdCM1daOWF6RkF5MGF6Q3Jq?oc=5",
-        "id": "CBMidEFVX3lxTE8zS1REd3F4bmZ4ZlU3bHpUVkFiVklva05XbEtJTkhyR2ZUeTk0ZncyNld0aGJyWW5GWE9OZVZfMHhlb3RFY09Lbnl2NVFCSU8zaTFSajFWckRmeEtRcWVRYkgxaDdCM1daOWF6RkF5MGF6Q3Jq",
-        "guidislink": false,
-        "published": "Tue, 02 Jun 2026 15:19:07 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8zS1REd3F4bmZ4ZlU3bHpUVkFiVklva05XbEtJTkhyR2ZUeTk0ZncyNld0aGJyWW5GWE9OZVZfMHhlb3RFY09Lbnl2NVFCSU8zaTFSajFWckRmeEtRcWVRYkgxaDdCM1daOWF6RkF5MGF6Q3Jq?oc=5\" target=\"_blank\">Exclusive: FDA issues industry-friendly gene therapy guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
       }
     },
     {
@@ -3665,106 +3245,6 @@
       }
     },
     {
-      "raw_id": "55cf7e22c7cee55aa07714b7",
-      "title": "DOJ sues Massachusetts for refusing to issue ICE confidential license plates - WBUR",
-      "source": "Google News",
-      "published_at": "2026-05-28",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFhfZ0NvWjA2ZDJ6aHZkZFlPLTVYUzVLOHZ6Vk53dF80TWpETFFrdEpCWjhUS0VPYVlMUmpib2w1V1QyS2llbXdUZ2xJWFktd19hRUlITl9xUzB2N2Vud2hRUzlXcXBZRTh5MnZwVmgtZkU5aHlld0tPcDNpcXhZcVVLR0xzX2tXUVQw?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFhfZ0NvWjA2ZDJ6aHZkZFlPLTVYUzVLOHZ6Vk53dF80TWpETFFrdEpCWjhUS0VPYVlMUmpib2w1V1QyS2llbXdUZ2xJWFktd19hRUlITl9xUzB2N2Vud2hRUzlXcXBZRTh5MnZwVmgtZkU5aHlld0tPcDNpcXhZcVVLR0xzX2tXUVQw?oc=5",
-      "snippet": "DOJ sues Massachusetts for refusing to issue ICE confidential license plates WBUR",
-      "query_keyword": "License Out",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "DOJ sues Massachusetts for refusing to issue ICE confidential license plates - WBUR",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFhfZ0NvWjA2ZDJ6aHZkZFlPLTVYUzVLOHZ6Vk53dF80TWpETFFrdEpCWjhUS0VPYVlMUmpib2w1V1QyS2llbXdUZ2xJWFktd19hRUlITl9xUzB2N2Vud2hRUzlXcXBZRTh5MnZwVmgtZkU5aHlld0tPcDNpcXhZcVVLR0xzX2tXUVQw?oc=5",
-        "id": "CBMiiwFBVV95cUxNTFhfZ0NvWjA2ZDJ6aHZkZFlPLTVYUzVLOHZ6Vk53dF80TWpETFFrdEpCWjhUS0VPYVlMUmpib2w1V1QyS2llbXdUZ2xJWFktd19hRUlITl9xUzB2N2Vud2hRUzlXcXBZRTh5MnZwVmgtZkU5aHlld0tPcDNpcXhZcVVLR0xzX2tXUVQw",
-        "guidislink": false,
-        "published": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFhfZ0NvWjA2ZDJ6aHZkZFlPLTVYUzVLOHZ6Vk53dF80TWpETFFrdEpCWjhUS0VPYVlMUmpib2w1V1QyS2llbXdUZ2xJWFktd19hRUlITl9xUzB2N2Vud2hRUzlXcXBZRTh5MnZwVmgtZkU5aHlld0tPcDNpcXhZcVVLR0xzX2tXUVQw?oc=5\" target=\"_blank\">DOJ sues Massachusetts for refusing to issue ICE confidential license plates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBUR</font>"
-      }
-    },
-    {
-      "raw_id": "0251dbf26459e3ad669a08fa",
-      "title": "Chesapeake nonprofit speaks out after license plates stolen off vehicles used to feed people in need - WAVY.com",
-      "source": "Google News",
-      "published_at": "2026-06-02",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWlyaE5jNDZtbktHbFVmNmZJWHJiZjRnUlptazRWZHV0TjBQOFB1LTJ2VmdULU5IeXBPaHNkbVJjU3Zkd0hLaG4ySWYteDN2eHJxSFhFN0p6U2ttdFZPMEpQWnVvMTl3TXQyMjI0RzNhQ1Rldk9FckJTT1VBVU5wcVlkOU9BQTdDemFkWEJSVGkyMkFfVzNvMmg4b25VYjYwOF90NkdKV042N2ExUzFYREctUW93ZDlfVDRaTi1tQU9XM1FxWkVEal8tcmxqQ2RaT2U1SlhlWkhvZjhPdmxsRnFtNNIB6AFBVV95cUxNS0I2NTVMVWNab0RtOHk0bkpNOWJHY1dVMUlKZUI1Vzh3VFRoYkowRVBMbThDU1RJZU1RQ1VzdE05STJ4LUw3UUdpT0VndWdLdkNvWHR1dzRVbXlTRDRNTGNBRExNZ2NTQ0lVLWFFUWFWdkZZSFpHRXlYV2RuMlJGUHc2cDJlMjJKQVlhN29rUENTc2JRdWNjNS1FQUlXM2xDbXIzdk5Rd1owSTZ5Q1JpbzdVYXZxVUs4NTJtV090YnE5Z3NLaU1rMjZCRjVjUUFZYWJyLWFNYlRNdl91dzZSMXlZalVDdmQ5?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWlyaE5jNDZtbktHbFVmNmZJWHJiZjRnUlptazRWZHV0TjBQOFB1LTJ2VmdULU5IeXBPaHNkbVJjU3Zkd0hLaG4ySWYteDN2eHJxSFhFN0p6U2ttdFZPMEpQWnVvMTl3TXQyMjI0RzNhQ1Rldk9FckJTT1VBVU5wcVlkOU9BQTdDemFkWEJSVGkyMkFfVzNvMmg4b25VYjYwOF90NkdKV042N2ExUzFYREctUW93ZDlfVDRaTi1tQU9XM1FxWkVEal8tcmxqQ2RaT2U1SlhlWkhvZjhPdmxsRnFtNNIB6AFBVV95cUxNS0I2NTVMVWNab0RtOHk0bkpNOWJHY1dVMUlKZUI1Vzh3VFRoYkowRVBMbThDU1RJZU1RQ1VzdE05STJ4LUw3UUdpT0VndWdLdkNvWHR1dzRVbXlTRDRNTGNBRExNZ2NTQ0lVLWFFUWFWdkZZSFpHRXlYV2RuMlJGUHc2cDJlMjJKQVlhN29rUENTc2JRdWNjNS1FQUlXM2xDbXIzdk5Rd1owSTZ5Q1JpbzdVYXZxVUs4NTJtV090YnE5Z3NLaU1rMjZCRjVjUUFZYWJyLWFNYlRNdl91dzZSMXlZalVDdmQ5?oc=5",
-      "snippet": "Chesapeake nonprofit speaks out after license plates stolen off vehicles used to feed people in need WAVY.com",
-      "query_keyword": "License Out",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Chesapeake nonprofit speaks out after license plates stolen off vehicles used to feed people in need - WAVY.com",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWlyaE5jNDZtbktHbFVmNmZJWHJiZjRnUlptazRWZHV0TjBQOFB1LTJ2VmdULU5IeXBPaHNkbVJjU3Zkd0hLaG4ySWYteDN2eHJxSFhFN0p6U2ttdFZPMEpQWnVvMTl3TXQyMjI0RzNhQ1Rldk9FckJTT1VBVU5wcVlkOU9BQTdDemFkWEJSVGkyMkFfVzNvMmg4b25VYjYwOF90NkdKV042N2ExUzFYREctUW93ZDlfVDRaTi1tQU9XM1FxWkVEal8tcmxqQ2RaT2U1SlhlWkhvZjhPdmxsRnFtNNIB6AFBVV95cUxNS0I2NTVMVWNab0RtOHk0bkpNOWJHY1dVMUlKZUI1Vzh3VFRoYkowRVBMbThDU1RJZU1RQ1VzdE05STJ4LUw3UUdpT0VndWdLdkNvWHR1dzRVbXlTRDRNTGNBRExNZ2NTQ0lVLWFFUWFWdkZZSFpHRXlYV2RuMlJGUHc2cDJlMjJKQVlhN29rUENTc2JRdWNjNS1FQUlXM2xDbXIzdk5Rd1owSTZ5Q1JpbzdVYXZxVUs4NTJtV090YnE5Z3NLaU1rMjZCRjVjUUFZYWJyLWFNYlRNdl91dzZSMXlZalVDdmQ5?oc=5",
-        "id": "CBMi4wFBVV95cUxORWlyaE5jNDZtbktHbFVmNmZJWHJiZjRnUlptazRWZHV0TjBQOFB1LTJ2VmdULU5IeXBPaHNkbVJjU3Zkd0hLaG4ySWYteDN2eHJxSFhFN0p6U2ttdFZPMEpQWnVvMTl3TXQyMjI0RzNhQ1Rldk9FckJTT1VBVU5wcVlkOU9BQTdDemFkWEJSVGkyMkFfVzNvMmg4b25VYjYwOF90NkdKV042N2ExUzFYREctUW93ZDlfVDRaTi1tQU9XM1FxWkVEal8tcmxqQ2RaT2U1SlhlWkhvZjhPdmxsRnFtNNIB6AFBVV95cUxNS0I2NTVMVWNab0RtOHk0bkpNOWJHY1dVMUlKZUI1Vzh3VFRoYkowRVBMbThDU1RJZU1RQ1VzdE05STJ4LUw3UUdpT0VndWdLdkNvWHR1dzRVbXlTRDRNTGNBRExNZ2NTQ0lVLWFFUWFWdkZZSFpHRXlYV2RuMlJGUHc2cDJlMjJKQVlhN29rUENTc2JRdWNjNS1FQUlXM2xDbXIzdk5Rd1owSTZ5Q1JpbzdVYXZxVUs4NTJtV090YnE5Z3NLaU1rMjZCRjVjUUFZYWJyLWFNYlRNdl91dzZSMXlZalVDdmQ5",
-        "guidislink": false,
-        "published": "Tue, 02 Jun 2026 02:15:21 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWlyaE5jNDZtbktHbFVmNmZJWHJiZjRnUlptazRWZHV0TjBQOFB1LTJ2VmdULU5IeXBPaHNkbVJjU3Zkd0hLaG4ySWYteDN2eHJxSFhFN0p6U2ttdFZPMEpQWnVvMTl3TXQyMjI0RzNhQ1Rldk9FckJTT1VBVU5wcVlkOU9BQTdDemFkWEJSVGkyMkFfVzNvMmg4b25VYjYwOF90NkdKV042N2ExUzFYREctUW93ZDlfVDRaTi1tQU9XM1FxWkVEal8tcmxqQ2RaT2U1SlhlWkhvZjhPdmxsRnFtNNIB6AFBVV95cUxNS0I2NTVMVWNab0RtOHk0bkpNOWJHY1dVMUlKZUI1Vzh3VFRoYkowRVBMbThDU1RJZU1RQ1VzdE05STJ4LUw3UUdpT0VndWdLdkNvWHR1dzRVbXlTRDRNTGNBRExNZ2NTQ0lVLWFFUWFWdkZZSFpHRXlYV2RuMlJGUHc2cDJlMjJKQVlhN29rUENTc2JRdWNjNS1FQUlXM2xDbXIzdk5Rd1owSTZ5Q1JpbzdVYXZxVUs4NTJtV090YnE5Z3NLaU1rMjZCRjVjUUFZYWJyLWFNYlRNdl91dzZSMXlZalVDdmQ5?oc=5\" target=\"_blank\">Chesapeake nonprofit speaks out after license plates stolen off vehicles used to feed people in need</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAVY.com</font>"
-      }
-    },
-    {
-      "raw_id": "8fcd743153b1ed489e55bfb6",
-      "title": "Former employee speaks out as Eau Claire assisted living facility set to close after license revoked - WEAU",
-      "source": "Google News",
-      "published_at": "2026-05-28",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZWpDRXhFSkxwaVdObEJad0pXQVV4bTg1Z1o1NFNrN1B2bDFZcVRJUF85Z1pfYTl1bkwtU05Nc0pqem16c2M4eWp6amFpQ0tFTXU0aHFoYjdqeWtVOG5TNkUyRDVteUVrVy1oSURPMGVENWQ2SUZEVFYzY2R5RVhGN0VxRWhJSmxhTXlERVhQZi0zcnVoQW5pLW5mdUV5dUlEUW40SjNJXzZiX29xVVlDU0ZCOE9UeVRwVVRDOG1IRlhxLXFBWGJvSXdLZ2p5dw?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZWpDRXhFSkxwaVdObEJad0pXQVV4bTg1Z1o1NFNrN1B2bDFZcVRJUF85Z1pfYTl1bkwtU05Nc0pqem16c2M4eWp6amFpQ0tFTXU0aHFoYjdqeWtVOG5TNkUyRDVteUVrVy1oSURPMGVENWQ2SUZEVFYzY2R5RVhGN0VxRWhJSmxhTXlERVhQZi0zcnVoQW5pLW5mdUV5dUlEUW40SjNJXzZiX29xVVlDU0ZCOE9UeVRwVVRDOG1IRlhxLXFBWGJvSXdLZ2p5dw?oc=5",
-      "snippet": "Former employee speaks out as Eau Claire assisted living facility set to close after license revoked WEAU",
-      "query_keyword": "License Out",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Former employee speaks out as Eau Claire assisted living facility set to close after license revoked - WEAU",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZWpDRXhFSkxwaVdObEJad0pXQVV4bTg1Z1o1NFNrN1B2bDFZcVRJUF85Z1pfYTl1bkwtU05Nc0pqem16c2M4eWp6amFpQ0tFTXU0aHFoYjdqeWtVOG5TNkUyRDVteUVrVy1oSURPMGVENWQ2SUZEVFYzY2R5RVhGN0VxRWhJSmxhTXlERVhQZi0zcnVoQW5pLW5mdUV5dUlEUW40SjNJXzZiX29xVVlDU0ZCOE9UeVRwVVRDOG1IRlhxLXFBWGJvSXdLZ2p5dw?oc=5",
-        "id": "CBMizgFBVV95cUxOZWpDRXhFSkxwaVdObEJad0pXQVV4bTg1Z1o1NFNrN1B2bDFZcVRJUF85Z1pfYTl1bkwtU05Nc0pqem16c2M4eWp6amFpQ0tFTXU0aHFoYjdqeWtVOG5TNkUyRDVteUVrVy1oSURPMGVENWQ2SUZEVFYzY2R5RVhGN0VxRWhJSmxhTXlERVhQZi0zcnVoQW5pLW5mdUV5dUlEUW40SjNJXzZiX29xVVlDU0ZCOE9UeVRwVVRDOG1IRlhxLXFBWGJvSXdLZ2p5dw",
-        "guidislink": false,
-        "published": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZWpDRXhFSkxwaVdObEJad0pXQVV4bTg1Z1o1NFNrN1B2bDFZcVRJUF85Z1pfYTl1bkwtU05Nc0pqem16c2M4eWp6amFpQ0tFTXU0aHFoYjdqeWtVOG5TNkUyRDVteUVrVy1oSURPMGVENWQ2SUZEVFYzY2R5RVhGN0VxRWhJSmxhTXlERVhQZi0zcnVoQW5pLW5mdUV5dUlEUW40SjNJXzZiX29xVVlDU0ZCOE9UeVRwVVRDOG1IRlhxLXFBWGJvSXdLZ2p5dw?oc=5\" target=\"_blank\">Former employee speaks out as Eau Claire assisted living facility set to close after license revoked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAU</font>"
-      }
-    },
-    {
-      "raw_id": "dd829a14087a3d2a1235042a",
-      "title": "Former employee speaks out as Eau Claire assisted living facility set to close after license revoked - WEAU",
-      "source": "Google News",
-      "published_at": "2026-05-28",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSmVyVnBkZ3FJN1d5cGd0NlU4UDN5VlM2ZzhhSkZWd3kwMVFGcm1lTENpMkEyUEJmbjBGa1A4T1lZYzdsUzhiWlBVYTgxQzlDekk1aWszUlVvZTJuTGVjUXd6SWVjaHV3cXprbS01eklNY2l6RDdwTXlJSWtuRXVWb21Nc2d5VWJpQWFoUnFreXdYZDNRNXRISG00UlNHVE1wYjdHWkRRbVlRUzd6NXhWamlBc3I2cjZPbHU2SEVqazhaVXRudVHSAdoBQVVfeXFMTUhmQ3JQUDd0LWlQUlBmREJoUmplV1VGYTdZc0c4cmthcEFucUNoYjFoTHZ0TklIT1d3X3o1UU9UbVJQTFpOelktRmRaRnd5Q2NlTVdvOHVPVDVPSTlzMzhaTk50YkViYTIxejJfNlRFdENhWjM4R1BEZDdqaFprUVk2aTd1TjdZUkJZNzNNWlZtY0Z6MVE3V3RVS1dKVUFMZGtTRHFXTnRsTmY2R2hQR2VGYVZ1dkZfaXpJdGctNmhiU2d6Tl9PcHlHS0prNS1mSWQ3ZWdsUk1pS3c?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSmVyVnBkZ3FJN1d5cGd0NlU4UDN5VlM2ZzhhSkZWd3kwMVFGcm1lTENpMkEyUEJmbjBGa1A4T1lZYzdsUzhiWlBVYTgxQzlDekk1aWszUlVvZTJuTGVjUXd6SWVjaHV3cXprbS01eklNY2l6RDdwTXlJSWtuRXVWb21Nc2d5VWJpQWFoUnFreXdYZDNRNXRISG00UlNHVE1wYjdHWkRRbVlRUzd6NXhWamlBc3I2cjZPbHU2SEVqazhaVXRudVHSAdoBQVVfeXFMTUhmQ3JQUDd0LWlQUlBmREJoUmplV1VGYTdZc0c4cmthcEFucUNoYjFoTHZ0TklIT1d3X3o1UU9UbVJQTFpOelktRmRaRnd5Q2NlTVdvOHVPVDVPSTlzMzhaTk50YkViYTIxejJfNlRFdENhWjM4R1BEZDdqaFprUVk2aTd1TjdZUkJZNzNNWlZtY0Z6MVE3V3RVS1dKVUFMZGtTRHFXTnRsTmY2R2hQR2VGYVZ1dkZfaXpJdGctNmhiU2d6Tl9PcHlHS0prNS1mSWQ3ZWdsUk1pS3c?oc=5",
-      "snippet": "Former employee speaks out as Eau Claire assisted living facility set to close after license revoked WEAU",
-      "query_keyword": "License Out",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Former employee speaks out as Eau Claire assisted living facility set to close after license revoked - WEAU",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSmVyVnBkZ3FJN1d5cGd0NlU4UDN5VlM2ZzhhSkZWd3kwMVFGcm1lTENpMkEyUEJmbjBGa1A4T1lZYzdsUzhiWlBVYTgxQzlDekk1aWszUlVvZTJuTGVjUXd6SWVjaHV3cXprbS01eklNY2l6RDdwTXlJSWtuRXVWb21Nc2d5VWJpQWFoUnFreXdYZDNRNXRISG00UlNHVE1wYjdHWkRRbVlRUzd6NXhWamlBc3I2cjZPbHU2SEVqazhaVXRudVHSAdoBQVVfeXFMTUhmQ3JQUDd0LWlQUlBmREJoUmplV1VGYTdZc0c4cmthcEFucUNoYjFoTHZ0TklIT1d3X3o1UU9UbVJQTFpOelktRmRaRnd5Q2NlTVdvOHVPVDVPSTlzMzhaTk50YkViYTIxejJfNlRFdENhWjM4R1BEZDdqaFprUVk2aTd1TjdZUkJZNzNNWlZtY0Z6MVE3V3RVS1dKVUFMZGtTRHFXTnRsTmY2R2hQR2VGYVZ1dkZfaXpJdGctNmhiU2d6Tl9PcHlHS0prNS1mSWQ3ZWdsUk1pS3c?oc=5",
-        "id": "CBMixgFBVV95cUxQSmVyVnBkZ3FJN1d5cGd0NlU4UDN5VlM2ZzhhSkZWd3kwMVFGcm1lTENpMkEyUEJmbjBGa1A4T1lZYzdsUzhiWlBVYTgxQzlDekk1aWszUlVvZTJuTGVjUXd6SWVjaHV3cXprbS01eklNY2l6RDdwTXlJSWtuRXVWb21Nc2d5VWJpQWFoUnFreXdYZDNRNXRISG00UlNHVE1wYjdHWkRRbVlRUzd6NXhWamlBc3I2cjZPbHU2SEVqazhaVXRudVHSAdoBQVVfeXFMTUhmQ3JQUDd0LWlQUlBmREJoUmplV1VGYTdZc0c4cmthcEFucUNoYjFoTHZ0TklIT1d3X3o1UU9UbVJQTFpOelktRmRaRnd5Q2NlTVdvOHVPVDVPSTlzMzhaTk50YkViYTIxejJfNlRFdENhWjM4R1BEZDdqaFprUVk2aTd1TjdZUkJZNzNNWlZtY0Z6MVE3V3RVS1dKVUFMZGtTRHFXTnRsTmY2R2hQR2VGYVZ1dkZfaXpJdGctNmhiU2d6Tl9PcHlHS0prNS1mSWQ3ZWdsUk1pS3c",
-        "guidislink": false,
-        "published": "Thu, 28 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQSmVyVnBkZ3FJN1d5cGd0NlU4UDN5VlM2ZzhhSkZWd3kwMVFGcm1lTENpMkEyUEJmbjBGa1A4T1lZYzdsUzhiWlBVYTgxQzlDekk1aWszUlVvZTJuTGVjUXd6SWVjaHV3cXprbS01eklNY2l6RDdwTXlJSWtuRXVWb21Nc2d5VWJpQWFoUnFreXdYZDNRNXRISG00UlNHVE1wYjdHWkRRbVlRUzd6NXhWamlBc3I2cjZPbHU2SEVqazhaVXRudVHSAdoBQVVfeXFMTUhmQ3JQUDd0LWlQUlBmREJoUmplV1VGYTdZc0c4cmthcEFucUNoYjFoTHZ0TklIT1d3X3o1UU9UbVJQTFpOelktRmRaRnd5Q2NlTVdvOHVPVDVPSTlzMzhaTk50YkViYTIxejJfNlRFdENhWjM4R1BEZDdqaFprUVk2aTd1TjdZUkJZNzNNWlZtY0Z6MVE3V3RVS1dKVUFMZGtTRHFXTnRsTmY2R2hQR2VGYVZ1dkZfaXpJdGctNmhiU2d6Tl9PcHlHS0prNS1mSWQ3ZWdsUk1pS3c?oc=5\" target=\"_blank\">Former employee speaks out as Eau Claire assisted living facility set to close after license revoked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAU</font>"
-      }
-    },
-    {
-      "raw_id": "167809dfc0726bfdd608e4ba",
-      "title": "Apple Just Expanded iPhone Driver's License Feature to Arkansas - MacRumors",
-      "source": "Google News",
-      "published_at": "2026-05-27",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54LWNRRE4tTFFYclNCZWNud09wdkdXVzJYUEJYWWhydzhDYlR4NlpkVFY4Y19VZjdwcl9GemhXVEJhS0g5b1lwMGdYaTgyazFaQzdyYkxuSnZ4Q3pKekxOZmZobEgySl9IZG9JN0k5N3U5Njg?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54LWNRRE4tTFFYclNCZWNud09wdkdXVzJYUEJYWWhydzhDYlR4NlpkVFY4Y19VZjdwcl9GemhXVEJhS0g5b1lwMGdYaTgyazFaQzdyYkxuSnZ4Q3pKekxOZmZobEgySl9IZG9JN0k5N3U5Njg?oc=5",
-      "snippet": "Apple Just Expanded iPhone Driver's License Feature to Arkansas MacRumors",
-      "query_keyword": "License Out",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Apple Just Expanded iPhone Driver's License Feature to Arkansas - MacRumors",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54LWNRRE4tTFFYclNCZWNud09wdkdXVzJYUEJYWWhydzhDYlR4NlpkVFY4Y19VZjdwcl9GemhXVEJhS0g5b1lwMGdYaTgyazFaQzdyYkxuSnZ4Q3pKekxOZmZobEgySl9IZG9JN0k5N3U5Njg?oc=5",
-        "id": "CBMic0FVX3lxTE54LWNRRE4tTFFYclNCZWNud09wdkdXVzJYUEJYWWhydzhDYlR4NlpkVFY4Y19VZjdwcl9GemhXVEJhS0g5b1lwMGdYaTgyazFaQzdyYkxuSnZ4Q3pKekxOZmZobEgySl9IZG9JN0k5N3U5Njg",
-        "guidislink": false,
-        "published": "Wed, 27 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE54LWNRRE4tTFFYclNCZWNud09wdkdXVzJYUEJYWWhydzhDYlR4NlpkVFY4Y19VZjdwcl9GemhXVEJhS0g5b1lwMGdYaTgyazFaQzdyYkxuSnZ4Q3pKekxOZmZobEgySl9IZG9JN0k5N3U5Njg?oc=5\" target=\"_blank\">Apple Just Expanded iPhone Driver's License Feature to Arkansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>"
-      }
-    },
-    {
       "raw_id": "5d56f22ff6d7a3b2dfb0898d",
       "title": "[Press release] Gilead and Merck announce positive topline results from two Phase 3 studies evaluating islatravir/lenacapavir, an oral once-weekly HIV treatment - European AIDS Treatment Group",
       "source": "Google News",
@@ -3925,26 +3405,6 @@
       }
     },
     {
-      "raw_id": "b8ec323d718bcf43518ea095",
-      "title": "New Positive Phase 2 Topline Data on Elunetirom for the Treatment of Bipolar Depression - Psychiatric Times",
-      "source": "Google News",
-      "published_at": "2026-06-04",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjdIWWMzRUlOZ0hRWklsZE1JSDJieFlRTVU0aU1VTEJoOGk3dkZfNmMxYlBxRmN0ZVJkUFhYelZUOUlSYXd2VnhtZ21fdWE3RHN1TVN2cFpNZm9md0QwVnVCOHF1Z2c5UFhOUDlmblJFRmEzd1FOWFFudl9vNUFOdmNmblREX2ZqZmRwWFNVSHEwMVN1blJERDdPejlvc3dfakUtZllkVW1ZVkp3TnNDbmllX2hELVZ0TC1meVJqNFdnR2M?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjdIWWMzRUlOZ0hRWklsZE1JSDJieFlRTVU0aU1VTEJoOGk3dkZfNmMxYlBxRmN0ZVJkUFhYelZUOUlSYXd2VnhtZ21fdWE3RHN1TVN2cFpNZm9md0QwVnVCOHF1Z2c5UFhOUDlmblJFRmEzd1FOWFFudl9vNUFOdmNmblREX2ZqZmRwWFNVSHEwMVN1blJERDdPejlvc3dfakUtZllkVW1ZVkp3TnNDbmllX2hELVZ0TC1meVJqNFdnR2M?oc=5",
-      "snippet": "New Positive Phase 2 Topline Data on Elunetirom for the Treatment of Bipolar Depression Psychiatric Times",
-      "query_keyword": "topline",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "New Positive Phase 2 Topline Data on Elunetirom for the Treatment of Bipolar Depression - Psychiatric Times",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjdIWWMzRUlOZ0hRWklsZE1JSDJieFlRTVU0aU1VTEJoOGk3dkZfNmMxYlBxRmN0ZVJkUFhYelZUOUlSYXd2VnhtZ21fdWE3RHN1TVN2cFpNZm9md0QwVnVCOHF1Z2c5UFhOUDlmblJFRmEzd1FOWFFudl9vNUFOdmNmblREX2ZqZmRwWFNVSHEwMVN1blJERDdPejlvc3dfakUtZllkVW1ZVkp3TnNDbmllX2hELVZ0TC1meVJqNFdnR2M?oc=5",
-        "id": "CBMiwwFBVV95cUxONjdIWWMzRUlOZ0hRWklsZE1JSDJieFlRTVU0aU1VTEJoOGk3dkZfNmMxYlBxRmN0ZVJkUFhYelZUOUlSYXd2VnhtZ21fdWE3RHN1TVN2cFpNZm9md0QwVnVCOHF1Z2c5UFhOUDlmblJFRmEzd1FOWFFudl9vNUFOdmNmblREX2ZqZmRwWFNVSHEwMVN1blJERDdPejlvc3dfakUtZllkVW1ZVkp3TnNDbmllX2hELVZ0TC1meVJqNFdnR2M",
-        "guidislink": false,
-        "published": "Thu, 04 Jun 2026 13:31:54 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjdIWWMzRUlOZ0hRWklsZE1JSDJieFlRTVU0aU1VTEJoOGk3dkZfNmMxYlBxRmN0ZVJkUFhYelZUOUlSYXd2VnhtZ21fdWE3RHN1TVN2cFpNZm9md0QwVnVCOHF1Z2c5UFhOUDlmblJFRmEzd1FOWFFudl9vNUFOdmNmblREX2ZqZmRwWFNVSHEwMVN1blJERDdPejlvc3dfakUtZllkVW1ZVkp3TnNDbmllX2hELVZ0TC1meVJqNFdnR2M?oc=5\" target=\"_blank\">New Positive Phase 2 Topline Data on Elunetirom for the Treatment of Bipolar Depression</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Psychiatric Times</font>"
-      }
-    },
-    {
       "raw_id": "f53c343a2ec67a37a89699a1",
       "title": "Government focused on topline, not working class: Batya Ungar-Sargon - NewsNation",
       "source": "Google News",
@@ -4022,26 +3482,6 @@
         "guidislink": false,
         "published": "Thu, 04 Jun 2026 22:01:20 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUxBMERxY011VkF0RHF5bFlFbDBVQmRPa0xDVWZPT3FEUFBfVEZCOXFMRlRTNGxpOXJvNnl5cExNZFNQeFhna0VFTjBZdThFTVpwY2J5QVhIY3JKcmNoMk9tVTBQRllMLVBfWnRKeC1oWm1FM0xGTHE0VDh0VXdibDhzMUFHRFptbktsRzMzeHF3bHVGeVRxMm4zRmFzb0IxcTZwVzh6MEdTLUNwUmdTYlZQZ2p0SVZWRU5JUVBsUFQ?oc=5\" target=\"_blank\">HASC Rejects $150 Billion Topline Cut, Iran Cost Transparency Proposals At NDAA Markup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defense Daily</font>"
-      }
-    },
-    {
-      "raw_id": "7e51bf5cd39de8f436f60cb1",
-      "title": "Autobahn Therapeutics Reports Positive Phase 2 Topline Data for Elunetirom in Bipolar Depression, Demonstrating Rapid, Robust, and Durable Antidepressant Effects - BioSpace",
-      "source": "Google News",
-      "published_at": "2026-06-04",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZklQaDNWNlhCLXQ3blVNUC10elB3Nk43LTlXZlVYSFdLcVA4LUpYQjdPZ2l2U0Z1c2hCU2dpR3dqSUdkS2tmeHdYMTFXMGxFVEtUMFdUbHRLLXNtc2xwMkloNE1qX0oyaWttYW8tRTc5MVZGTjdZUU9tR3dfOU1YY2Rya1liUUtxdV9jY1EwYXR5UHBHVk53eE9YaWtjOUhndWxyek93UmV0ODlvM2ZfLXBxTkstN3ZMYkIxb1k5ZXJCMGhQb216aXhHaGRJeHZJU0QycE1LRlN6dVJiQ2ZYZHR3X0FIcy02RXVycHpRb29YWndGeHJyMXZOVjRGQlNDUXFHUXRHN1ZHc1NFVmZlODJ3MnFOdnBPNVc1Z2JQRl9LNFdn?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZklQaDNWNlhCLXQ3blVNUC10elB3Nk43LTlXZlVYSFdLcVA4LUpYQjdPZ2l2U0Z1c2hCU2dpR3dqSUdkS2tmeHdYMTFXMGxFVEtUMFdUbHRLLXNtc2xwMkloNE1qX0oyaWttYW8tRTc5MVZGTjdZUU9tR3dfOU1YY2Rya1liUUtxdV9jY1EwYXR5UHBHVk53eE9YaWtjOUhndWxyek93UmV0ODlvM2ZfLXBxTkstN3ZMYkIxb1k5ZXJCMGhQb216aXhHaGRJeHZJU0QycE1LRlN6dVJiQ2ZYZHR3X0FIcy02RXVycHpRb29YWndGeHJyMXZOVjRGQlNDUXFHUXRHN1ZHc1NFVmZlODJ3MnFOdnBPNVc1Z2JQRl9LNFdn?oc=5",
-      "snippet": "Autobahn Therapeutics Reports Positive Phase 2 Topline Data for Elunetirom in Bipolar Depression, Demonstrating Rapid, Robust, and Durable Antidepressant Effects BioSpace",
-      "query_keyword": "topline",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Autobahn Therapeutics Reports Positive Phase 2 Topline Data for Elunetirom in Bipolar Depression, Demonstrating Rapid, Robust, and Durable Antidepressant Effects - BioSpace",
-        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZklQaDNWNlhCLXQ3blVNUC10elB3Nk43LTlXZlVYSFdLcVA4LUpYQjdPZ2l2U0Z1c2hCU2dpR3dqSUdkS2tmeHdYMTFXMGxFVEtUMFdUbHRLLXNtc2xwMkloNE1qX0oyaWttYW8tRTc5MVZGTjdZUU9tR3dfOU1YY2Rya1liUUtxdV9jY1EwYXR5UHBHVk53eE9YaWtjOUhndWxyek93UmV0ODlvM2ZfLXBxTkstN3ZMYkIxb1k5ZXJCMGhQb216aXhHaGRJeHZJU0QycE1LRlN6dVJiQ2ZYZHR3X0FIcy02RXVycHpRb29YWndGeHJyMXZOVjRGQlNDUXFHUXRHN1ZHc1NFVmZlODJ3MnFOdnBPNVc1Z2JQRl9LNFdn?oc=5",
-        "id": "CBMipAJBVV95cUxQZklQaDNWNlhCLXQ3blVNUC10elB3Nk43LTlXZlVYSFdLcVA4LUpYQjdPZ2l2U0Z1c2hCU2dpR3dqSUdkS2tmeHdYMTFXMGxFVEtUMFdUbHRLLXNtc2xwMkloNE1qX0oyaWttYW8tRTc5MVZGTjdZUU9tR3dfOU1YY2Rya1liUUtxdV9jY1EwYXR5UHBHVk53eE9YaWtjOUhndWxyek93UmV0ODlvM2ZfLXBxTkstN3ZMYkIxb1k5ZXJCMGhQb216aXhHaGRJeHZJU0QycE1LRlN6dVJiQ2ZYZHR3X0FIcy02RXVycHpRb29YWndGeHJyMXZOVjRGQlNDUXFHUXRHN1ZHc1NFVmZlODJ3MnFOdnBPNVc1Z2JQRl9LNFdn",
-        "guidislink": false,
-        "published": "Thu, 04 Jun 2026 13:08:04 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxQZklQaDNWNlhCLXQ3blVNUC10elB3Nk43LTlXZlVYSFdLcVA4LUpYQjdPZ2l2U0Z1c2hCU2dpR3dqSUdkS2tmeHdYMTFXMGxFVEtUMFdUbHRLLXNtc2xwMkloNE1qX0oyaWttYW8tRTc5MVZGTjdZUU9tR3dfOU1YY2Rya1liUUtxdV9jY1EwYXR5UHBHVk53eE9YaWtjOUhndWxyek93UmV0ODlvM2ZfLXBxTkstN3ZMYkIxb1k5ZXJCMGhQb216aXhHaGRJeHZJU0QycE1LRlN6dVJiQ2ZYZHR3X0FIcy02RXVycHpRb29YWndGeHJyMXZOVjRGQlNDUXFHUXRHN1ZHc1NFVmZlODJ3MnFOdnBPNVc1Z2JQRl9LNFdn?oc=5\" target=\"_blank\">Autobahn Therapeutics Reports Positive Phase 2 Topline Data for Elunetirom in Bipolar Depression, Demonstrating Rapid, Robust, and Durable Antidepressant Effects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioSpace</font>"
       }
     },
     {
@@ -4125,26 +3565,6 @@
       }
     },
     {
-      "raw_id": "a9a76118a1bef0933b6e2f18",
-      "title": "SELLAS Life Sciences Group (SLS) Is Up 21.4% After REGAL Nears Topline Readout And Cramer Endorsement - Yahoo Finance",
-      "source": "Google News",
-      "published_at": "2026-05-29",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMG1yc052UjQyTmxGbjV0anJQdXQtZXJJbWxQTWptTkt1M1hOeDJuSG9vU1pJdVAwbFFEdlc2VGJGWGpKWnFTOTJRZzdTb1c1Y1VoMFRtbGdFZlpjazBTWTBrX21hVXRlOEw2QVVJdms3MlhnYTU3NDdzMlpDNmV5WmdlSVlRX05wbHdDbmwyMW5yRExwM0FWRHE5VQ?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMG1yc052UjQyTmxGbjV0anJQdXQtZXJJbWxQTWptTkt1M1hOeDJuSG9vU1pJdVAwbFFEdlc2VGJGWGpKWnFTOTJRZzdTb1c1Y1VoMFRtbGdFZlpjazBTWTBrX21hVXRlOEw2QVVJdms3MlhnYTU3NDdzMlpDNmV5WmdlSVlRX05wbHdDbmwyMW5yRExwM0FWRHE5VQ?oc=5",
-      "snippet": "SELLAS Life Sciences Group (SLS) Is Up 21.4% After REGAL Nears Topline Readout And Cramer Endorsement Yahoo Finance",
-      "query_keyword": "topline",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "SELLAS Life Sciences Group (SLS) Is Up 21.4% After REGAL Nears Topline Readout And Cramer Endorsement - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMG1yc052UjQyTmxGbjV0anJQdXQtZXJJbWxQTWptTkt1M1hOeDJuSG9vU1pJdVAwbFFEdlc2VGJGWGpKWnFTOTJRZzdTb1c1Y1VoMFRtbGdFZlpjazBTWTBrX21hVXRlOEw2QVVJdms3MlhnYTU3NDdzMlpDNmV5WmdlSVlRX05wbHdDbmwyMW5yRExwM0FWRHE5VQ?oc=5",
-        "id": "CBMimwFBVV95cUxQMG1yc052UjQyTmxGbjV0anJQdXQtZXJJbWxQTWptTkt1M1hOeDJuSG9vU1pJdVAwbFFEdlc2VGJGWGpKWnFTOTJRZzdTb1c1Y1VoMFRtbGdFZlpjazBTWTBrX21hVXRlOEw2QVVJdms3MlhnYTU3NDdzMlpDNmV5WmdlSVlRX05wbHdDbmwyMW5yRExwM0FWRHE5VQ",
-        "guidislink": false,
-        "published": "Fri, 29 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMG1yc052UjQyTmxGbjV0anJQdXQtZXJJbWxQTWptTkt1M1hOeDJuSG9vU1pJdVAwbFFEdlc2VGJGWGpKWnFTOTJRZzdTb1c1Y1VoMFRtbGdFZlpjazBTWTBrX21hVXRlOEw2QVVJdms3MlhnYTU3NDdzMlpDNmV5WmdlSVlRX05wbHdDbmwyMW5yRExwM0FWRHE5VQ?oc=5\" target=\"_blank\">SELLAS Life Sciences Group (SLS) Is Up 21.4% After REGAL Nears Topline Readout And Cramer Endorsement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
-      }
-    },
-    {
       "raw_id": "327b047a3fdd08c2e2e7de3f",
       "title": "Government focused on topline, not working class: Batya Ungar-Sargon - AOL.com",
       "source": "Google News",
@@ -4205,46 +3625,6 @@
       }
     },
     {
-      "raw_id": "273da3773d90aaf47aa58d48",
-      "title": "Oculis Announces Topline Results from DIAMOND Phase 3 Trials with OCS-01 in Diabetic Macular Edema - Yahoo Finance",
-      "source": "Google News",
-      "published_at": "2026-05-29",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGRSeDVxaFRpY3Bvd2JYWE5lcVZNeVpRSGpEaDVEcENSY0R5UXRVVktPQ1FVdHVGNWVBSVNQSlYxRkpWNWtreFh6Slh3TlBhczdnMDlPSTJGZU0wbFBBdDFYUjFNYjNkdzJrZmpQUENqM09oVEp6UXJZNi04alo3eThVTEhwcENoVUNRU1dNem8xRmtZektWVTB2T2Z6cy1VZVUyb3RBVmtFdmtzMlE?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGRSeDVxaFRpY3Bvd2JYWE5lcVZNeVpRSGpEaDVEcENSY0R5UXRVVktPQ1FVdHVGNWVBSVNQSlYxRkpWNWtreFh6Slh3TlBhczdnMDlPSTJGZU0wbFBBdDFYUjFNYjNkdzJrZmpQUENqM09oVEp6UXJZNi04alo3eThVTEhwcENoVUNRU1dNem8xRmtZektWVTB2T2Z6cy1VZVUyb3RBVmtFdmtzMlE?oc=5",
-      "snippet": "Oculis Announces Topline Results from DIAMOND Phase 3 Trials with OCS-01 in Diabetic Macular Edema Yahoo Finance",
-      "query_keyword": "topline",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Oculis Announces Topline Results from DIAMOND Phase 3 Trials with OCS-01 in Diabetic Macular Edema - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGRSeDVxaFRpY3Bvd2JYWE5lcVZNeVpRSGpEaDVEcENSY0R5UXRVVktPQ1FVdHVGNWVBSVNQSlYxRkpWNWtreFh6Slh3TlBhczdnMDlPSTJGZU0wbFBBdDFYUjFNYjNkdzJrZmpQUENqM09oVEp6UXJZNi04alo3eThVTEhwcENoVUNRU1dNem8xRmtZektWVTB2T2Z6cy1VZVUyb3RBVmtFdmtzMlE?oc=5",
-        "id": "CBMirgFBVV95cUxNaGRSeDVxaFRpY3Bvd2JYWE5lcVZNeVpRSGpEaDVEcENSY0R5UXRVVktPQ1FVdHVGNWVBSVNQSlYxRkpWNWtreFh6Slh3TlBhczdnMDlPSTJGZU0wbFBBdDFYUjFNYjNkdzJrZmpQUENqM09oVEp6UXJZNi04alo3eThVTEhwcENoVUNRU1dNem8xRmtZektWVTB2T2Z6cy1VZVUyb3RBVmtFdmtzMlE",
-        "guidislink": false,
-        "published": "Fri, 29 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGRSeDVxaFRpY3Bvd2JYWE5lcVZNeVpRSGpEaDVEcENSY0R5UXRVVktPQ1FVdHVGNWVBSVNQSlYxRkpWNWtreFh6Slh3TlBhczdnMDlPSTJGZU0wbFBBdDFYUjFNYjNkdzJrZmpQUENqM09oVEp6UXJZNi04alo3eThVTEhwcENoVUNRU1dNem8xRmtZektWVTB2T2Z6cy1VZVUyb3RBVmtFdmtzMlE?oc=5\" target=\"_blank\">Oculis Announces Topline Results from DIAMOND Phase 3 Trials with OCS-01 in Diabetic Macular Edema</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
-      }
-    },
-    {
-      "raw_id": "e1d1f2c778423a1ea8128556",
-      "title": "TG Therapeutics Announces Positive Topline Results from Phase 3 ENHANCE Trial - Yahoo Finance",
-      "source": "Google News",
-      "published_at": "2026-05-27",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOURTa2pLN0R6Xy11LXJsU3ZWUlZFcmxUR3B0TWJJdXI4WGlLZXJta09HZkFBN0tvTTZ6UFhqMmhQODlpZXFEdmJsaDJHLUQyV09TeWpQRG9oLVdvT2g5aUt2TTltM2pwZmpEWktpRmdLUjJ6N3IwanR4blFkSmJTcnJnZTh1TXBvQnZwUmVsTXhMR0lJNXFvcnQ2T2ZYNVlyWXhncHF2ZDFWSjdib0lzUg?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOURTa2pLN0R6Xy11LXJsU3ZWUlZFcmxUR3B0TWJJdXI4WGlLZXJta09HZkFBN0tvTTZ6UFhqMmhQODlpZXFEdmJsaDJHLUQyV09TeWpQRG9oLVdvT2g5aUt2TTltM2pwZmpEWktpRmdLUjJ6N3IwanR4blFkSmJTcnJnZTh1TXBvQnZwUmVsTXhMR0lJNXFvcnQ2T2ZYNVlyWXhncHF2ZDFWSjdib0lzUg?oc=5",
-      "snippet": "TG Therapeutics Announces Positive Topline Results from Phase 3 ENHANCE Trial Yahoo Finance",
-      "query_keyword": "topline",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "TG Therapeutics Announces Positive Topline Results from Phase 3 ENHANCE Trial - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOURTa2pLN0R6Xy11LXJsU3ZWUlZFcmxUR3B0TWJJdXI4WGlLZXJta09HZkFBN0tvTTZ6UFhqMmhQODlpZXFEdmJsaDJHLUQyV09TeWpQRG9oLVdvT2g5aUt2TTltM2pwZmpEWktpRmdLUjJ6N3IwanR4blFkSmJTcnJnZTh1TXBvQnZwUmVsTXhMR0lJNXFvcnQ2T2ZYNVlyWXhncHF2ZDFWSjdib0lzUg?oc=5",
-        "id": "CBMisAFBVV95cUxNOURTa2pLN0R6Xy11LXJsU3ZWUlZFcmxUR3B0TWJJdXI4WGlLZXJta09HZkFBN0tvTTZ6UFhqMmhQODlpZXFEdmJsaDJHLUQyV09TeWpQRG9oLVdvT2g5aUt2TTltM2pwZmpEWktpRmdLUjJ6N3IwanR4blFkSmJTcnJnZTh1TXBvQnZwUmVsTXhMR0lJNXFvcnQ2T2ZYNVlyWXhncHF2ZDFWSjdib0lzUg",
-        "guidislink": false,
-        "published": "Wed, 27 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNOURTa2pLN0R6Xy11LXJsU3ZWUlZFcmxUR3B0TWJJdXI4WGlLZXJta09HZkFBN0tvTTZ6UFhqMmhQODlpZXFEdmJsaDJHLUQyV09TeWpQRG9oLVdvT2g5aUt2TTltM2pwZmpEWktpRmdLUjJ6N3IwanR4blFkSmJTcnJnZTh1TXBvQnZwUmVsTXhMR0lJNXFvcnQ2T2ZYNVlyWXhncHF2ZDFWSjdib0lzUg?oc=5\" target=\"_blank\">TG Therapeutics Announces Positive Topline Results from Phase 3 ENHANCE Trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
-      }
-    },
-    {
       "raw_id": "b648b1d04382e62786b1ac0c",
       "title": "Real-Time Pitch Correction: Universal Audio Launches Topline Vocal Tune - Gear Gods",
       "source": "Google News",
@@ -4282,46 +3662,6 @@
         "guidislink": false,
         "published": "Fri, 05 Jun 2026 12:37:26 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmp0ZVZWcExIZ2dQbWYwTHpEMlFkQUY2SUgydFVNY1I3cW1qelZLbUJmbXd2RlhqdWZDWTE2c0toVTdlOEFFS2JWTGh0RS10YnJTdV9CVHEtbFVBZ3hjRjMwNDduM1dhdXM3Mld0QnBEY2c3bHhVSTBhN3hPbVotbXlSYnlQUThOVnlWekZUcUtSVDlsTU9iZUJPNVlydjdPTVNFbmNqMmgxVkU0QXAxTm1FWl9CVkdMdHBOWkhLZi1nUU54R3k4OXJtcmlnTDByMGZyZEhNd1RLZw?oc=5\" target=\"_blank\">SPCX IPO: Morgan Stanley Sees SpaceX Revenue Soar 182-Fold To $3.4 Trillion By 2040</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
-      }
-    },
-    {
-      "raw_id": "6ed19a91ea132ad3891a05cb",
-      "title": "Veradermics Announces Poster Presentation on Topline Results from Phase 2/3 ‘302’ Study of VDPHL01 at the 2026 World Congress for Hair Research - Business Wire",
-      "source": "Google News",
-      "published_at": "2026-05-27",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVlFfZ3FCTGtzc0I3U0s2WXQyVTFSaXNMd1VkQ0FKNXk2WDdsODlfM1F6cWpJSWotZWR5Z0xoMGplaUw1Y3dtc3ZRaDFuWHE3Qk94SnBoSlM3X1k3djBsSVRyM3VZN1RBNkRxWVFLaEdISzd1bnlOVlQtU1o2azJXZ1RUOWdIc29Tc2YxTkwwaUR2Q2JPNnMzRGhKXzlXQnBpbWdzSXFpNU1Xb1ByV1FCcWVKNVRfM1htblZuSGdod2V1X2dLTjFoX3hkb1loMlZzTnNQSjBBenA4QnVLMFliNEpSaE1OWVdpN25FTWhmR0dtUGxqUXd2YlEwYlpVZDFueUk3R254dGw5LUF1YnUwUk9YMVBDLVNRUXdtb1ZpZ1pNVEE?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVlFfZ3FCTGtzc0I3U0s2WXQyVTFSaXNMd1VkQ0FKNXk2WDdsODlfM1F6cWpJSWotZWR5Z0xoMGplaUw1Y3dtc3ZRaDFuWHE3Qk94SnBoSlM3X1k3djBsSVRyM3VZN1RBNkRxWVFLaEdISzd1bnlOVlQtU1o2azJXZ1RUOWdIc29Tc2YxTkwwaUR2Q2JPNnMzRGhKXzlXQnBpbWdzSXFpNU1Xb1ByV1FCcWVKNVRfM1htblZuSGdod2V1X2dLTjFoX3hkb1loMlZzTnNQSjBBenA4QnVLMFliNEpSaE1OWVdpN25FTWhmR0dtUGxqUXd2YlEwYlpVZDFueUk3R254dGw5LUF1YnUwUk9YMVBDLVNRUXdtb1ZpZ1pNVEE?oc=5",
-      "snippet": "Veradermics Announces Poster Presentation on Topline Results from Phase 2/3 ‘302’ Study of VDPHL01 at the 2026 World Congress for Hair Research Business Wire",
-      "query_keyword": "topline",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Veradermics Announces Poster Presentation on Topline Results from Phase 2/3 ‘302’ Study of VDPHL01 at the 2026 World Congress for Hair Research - Business Wire",
-        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVlFfZ3FCTGtzc0I3U0s2WXQyVTFSaXNMd1VkQ0FKNXk2WDdsODlfM1F6cWpJSWotZWR5Z0xoMGplaUw1Y3dtc3ZRaDFuWHE3Qk94SnBoSlM3X1k3djBsSVRyM3VZN1RBNkRxWVFLaEdISzd1bnlOVlQtU1o2azJXZ1RUOWdIc29Tc2YxTkwwaUR2Q2JPNnMzRGhKXzlXQnBpbWdzSXFpNU1Xb1ByV1FCcWVKNVRfM1htblZuSGdod2V1X2dLTjFoX3hkb1loMlZzTnNQSjBBenA4QnVLMFliNEpSaE1OWVdpN25FTWhmR0dtUGxqUXd2YlEwYlpVZDFueUk3R254dGw5LUF1YnUwUk9YMVBDLVNRUXdtb1ZpZ1pNVEE?oc=5",
-        "id": "CBMiowJBVV95cUxNVlFfZ3FCTGtzc0I3U0s2WXQyVTFSaXNMd1VkQ0FKNXk2WDdsODlfM1F6cWpJSWotZWR5Z0xoMGplaUw1Y3dtc3ZRaDFuWHE3Qk94SnBoSlM3X1k3djBsSVRyM3VZN1RBNkRxWVFLaEdISzd1bnlOVlQtU1o2azJXZ1RUOWdIc29Tc2YxTkwwaUR2Q2JPNnMzRGhKXzlXQnBpbWdzSXFpNU1Xb1ByV1FCcWVKNVRfM1htblZuSGdod2V1X2dLTjFoX3hkb1loMlZzTnNQSjBBenA4QnVLMFliNEpSaE1OWVdpN25FTWhmR0dtUGxqUXd2YlEwYlpVZDFueUk3R254dGw5LUF1YnUwUk9YMVBDLVNRUXdtb1ZpZ1pNVEE",
-        "guidislink": false,
-        "published": "Wed, 27 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNVlFfZ3FCTGtzc0I3U0s2WXQyVTFSaXNMd1VkQ0FKNXk2WDdsODlfM1F6cWpJSWotZWR5Z0xoMGplaUw1Y3dtc3ZRaDFuWHE3Qk94SnBoSlM3X1k3djBsSVRyM3VZN1RBNkRxWVFLaEdISzd1bnlOVlQtU1o2azJXZ1RUOWdIc29Tc2YxTkwwaUR2Q2JPNnMzRGhKXzlXQnBpbWdzSXFpNU1Xb1ByV1FCcWVKNVRfM1htblZuSGdod2V1X2dLTjFoX3hkb1loMlZzTnNQSjBBenA4QnVLMFliNEpSaE1OWVdpN25FTWhmR0dtUGxqUXd2YlEwYlpVZDFueUk3R254dGw5LUF1YnUwUk9YMVBDLVNRUXdtb1ZpZ1pNVEE?oc=5\" target=\"_blank\">Veradermics Announces Poster Presentation on Topline Results from Phase 2/3 ‘302’ Study of VDPHL01 at the 2026 World Congress for Hair Research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
-      }
-    },
-    {
-      "raw_id": "bf20aff1c7ab761ddfbb5e1c",
-      "title": "ADC Therapeutics Announces Topline Results From LOTIS-5 Phase 3 Confirmatory Trial Of ZYNLONTA In Combination with Rituximab In Relapsed or Refractory Diffuse Large B-Cell Lymphoma - marketscreener.com",
-      "source": "Google News",
-      "published_at": "2026-06-03",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLXFQbTRMUHd3cjFFYXpmaHZzcHhDUWFYWUcyWXZpMmxybFNzRzhUOGtBRmhPOVNFY2QtTW50ZFV1YzgzNTI5U3dmUnhxV3hkWUIxeGZITFI2Q2gtT3d3S0p4bFpCU3NfSjFJVk16QlRVRGU3aDNmUHVTMnRRNGJoM2Itb2FIRTNlQURoemgyc0tabnI5ZFVtZ1VsWUo5OUNWcmVXeTlNMmQyYmJPRkNIMTdqWVZPSGVWRWpYdFAweW5aT1RlODZ1WThwYjZubUlDWC1PTGx2RDR1YVlYYmVwV1k3dFRMUE1x?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLXFQbTRMUHd3cjFFYXpmaHZzcHhDUWFYWUcyWXZpMmxybFNzRzhUOGtBRmhPOVNFY2QtTW50ZFV1YzgzNTI5U3dmUnhxV3hkWUIxeGZITFI2Q2gtT3d3S0p4bFpCU3NfSjFJVk16QlRVRGU3aDNmUHVTMnRRNGJoM2Itb2FIRTNlQURoemgyc0tabnI5ZFVtZ1VsWUo5OUNWcmVXeTlNMmQyYmJPRkNIMTdqWVZPSGVWRWpYdFAweW5aT1RlODZ1WThwYjZubUlDWC1PTGx2RDR1YVlYYmVwV1k3dFRMUE1x?oc=5",
-      "snippet": "ADC Therapeutics Announces Topline Results From LOTIS-5 Phase 3 Confirmatory Trial Of ZYNLONTA In Combination with Rituximab In Relapsed or Refractory Diffuse Large B-Cell Lymphoma marketscreener.com",
-      "query_keyword": "topline",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "ADC Therapeutics Announces Topline Results From LOTIS-5 Phase 3 Confirmatory Trial Of ZYNLONTA In Combination with Rituximab In Relapsed or Refractory Diffuse Large B-Cell Lymphoma - marketscreener.com",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLXFQbTRMUHd3cjFFYXpmaHZzcHhDUWFYWUcyWXZpMmxybFNzRzhUOGtBRmhPOVNFY2QtTW50ZFV1YzgzNTI5U3dmUnhxV3hkWUIxeGZITFI2Q2gtT3d3S0p4bFpCU3NfSjFJVk16QlRVRGU3aDNmUHVTMnRRNGJoM2Itb2FIRTNlQURoemgyc0tabnI5ZFVtZ1VsWUo5OUNWcmVXeTlNMmQyYmJPRkNIMTdqWVZPSGVWRWpYdFAweW5aT1RlODZ1WThwYjZubUlDWC1PTGx2RDR1YVlYYmVwV1k3dFRMUE1x?oc=5",
-        "id": "CBMi6AFBVV95cUxNLXFQbTRMUHd3cjFFYXpmaHZzcHhDUWFYWUcyWXZpMmxybFNzRzhUOGtBRmhPOVNFY2QtTW50ZFV1YzgzNTI5U3dmUnhxV3hkWUIxeGZITFI2Q2gtT3d3S0p4bFpCU3NfSjFJVk16QlRVRGU3aDNmUHVTMnRRNGJoM2Itb2FIRTNlQURoemgyc0tabnI5ZFVtZ1VsWUo5OUNWcmVXeTlNMmQyYmJPRkNIMTdqWVZPSGVWRWpYdFAweW5aT1RlODZ1WThwYjZubUlDWC1PTGx2RDR1YVlYYmVwV1k3dFRMUE1x",
-        "guidislink": false,
-        "published": "Wed, 03 Jun 2026 20:05:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLXFQbTRMUHd3cjFFYXpmaHZzcHhDUWFYWUcyWXZpMmxybFNzRzhUOGtBRmhPOVNFY2QtTW50ZFV1YzgzNTI5U3dmUnhxV3hkWUIxeGZITFI2Q2gtT3d3S0p4bFpCU3NfSjFJVk16QlRVRGU3aDNmUHVTMnRRNGJoM2Itb2FIRTNlQURoemgyc0tabnI5ZFVtZ1VsWUo5OUNWcmVXeTlNMmQyYmJPRkNIMTdqWVZPSGVWRWpYdFAweW5aT1RlODZ1WThwYjZubUlDWC1PTGx2RDR1YVlYYmVwV1k3dFRMUE1x?oc=5\" target=\"_blank\">ADC Therapeutics Announces Topline Results From LOTIS-5 Phase 3 Confirmatory Trial Of ZYNLONTA In Combination with Rituximab In Relapsed or Refractory Diffuse Large B-Cell Lymphoma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
       }
     },
     {
@@ -4482,26 +3822,6 @@
         "guidislink": false,
         "published": "Fri, 05 Jun 2026 18:20:55 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdXJ2M2pLcTk3Wm5XdjkydGtfdDllbGxuQm54TDNKU3FKYlJ5R2tLZHg3TzdDbjJwa29ialNEZ21wSzNEM2dTeWJLdTBTV0dweENPN3JHSFNfNEE2UHRTdk5KS0t0dGt2T3VybnV0Zy1aYktxRzAyRDR4MC1FWW80SVJmeGFIYU9hWUVGTlRMOEs3aEdqVlpMa3FfQkVWQ014bUJIS1Y3VHNxQTAtU3NsMG5TSlM4UHpOZnNEZElMcDFONkpuMGtBUDRTTUMzM0ZvTzJzbA?oc=5\" target=\"_blank\">Bio-Techne, Refeyn Partner on Workflow for Bispecific Antibody, Biosimilar Characterization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Genetic Engineering and Biotechnology News</font>"
-      }
-    },
-    {
-      "raw_id": "97c3cd8780553b220ad62ff6",
-      "title": "Tocilizumab Supports Outpatient Bispecific Antibody Use in Multiple Myeloma - CancerNetwork",
-      "source": "Google News",
-      "published_at": "2026-05-31",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXlrU2xKME1xME5QWHpUenkwMU83MUI2YmJNS0cyWWtGVWNSMEl5NmJaTHk0QjJZOWFiN3lxb2syV1RKeUlCLWxLTFVBTktSNTNEZ0lrbkViRUpiYkIwbzRuZHlfSWctM1RlTVBzcUJGcFJIdjBqRnBWOVkxaXo0RDlBR0pyaEw4VU90NTQ3M3RIRnBjTU9qMFVZaGpmRkhRS0pkMU5IRW5BcEIwQUZv?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXlrU2xKME1xME5QWHpUenkwMU83MUI2YmJNS0cyWWtGVWNSMEl5NmJaTHk0QjJZOWFiN3lxb2syV1RKeUlCLWxLTFVBTktSNTNEZ0lrbkViRUpiYkIwbzRuZHlfSWctM1RlTVBzcUJGcFJIdjBqRnBWOVkxaXo0RDlBR0pyaEw4VU90NTQ3M3RIRnBjTU9qMFVZaGpmRkhRS0pkMU5IRW5BcEIwQUZv?oc=5",
-      "snippet": "Tocilizumab Supports Outpatient Bispecific Antibody Use in Multiple Myeloma CancerNetwork",
-      "query_keyword": "bispecific antibody",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Tocilizumab Supports Outpatient Bispecific Antibody Use in Multiple Myeloma - CancerNetwork",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXlrU2xKME1xME5QWHpUenkwMU83MUI2YmJNS0cyWWtGVWNSMEl5NmJaTHk0QjJZOWFiN3lxb2syV1RKeUlCLWxLTFVBTktSNTNEZ0lrbkViRUpiYkIwbzRuZHlfSWctM1RlTVBzcUJGcFJIdjBqRnBWOVkxaXo0RDlBR0pyaEw4VU90NTQ3M3RIRnBjTU9qMFVZaGpmRkhRS0pkMU5IRW5BcEIwQUZv?oc=5",
-        "id": "CBMirwFBVV95cUxPOXlrU2xKME1xME5QWHpUenkwMU83MUI2YmJNS0cyWWtGVWNSMEl5NmJaTHk0QjJZOWFiN3lxb2syV1RKeUlCLWxLTFVBTktSNTNEZ0lrbkViRUpiYkIwbzRuZHlfSWctM1RlTVBzcUJGcFJIdjBqRnBWOVkxaXo0RDlBR0pyaEw4VU90NTQ3M3RIRnBjTU9qMFVZaGpmRkhRS0pkMU5IRW5BcEIwQUZv",
-        "guidislink": false,
-        "published": "Sun, 31 May 2026 18:06:57 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXlrU2xKME1xME5QWHpUenkwMU83MUI2YmJNS0cyWWtGVWNSMEl5NmJaTHk0QjJZOWFiN3lxb2syV1RKeUlCLWxLTFVBTktSNTNEZ0lrbkViRUpiYkIwbzRuZHlfSWctM1RlTVBzcUJGcFJIdjBqRnBWOVkxaXo0RDlBR0pyaEw4VU90NTQ3M3RIRnBjTU9qMFVZaGpmRkhRS0pkMU5IRW5BcEIwQUZv?oc=5\" target=\"_blank\">Tocilizumab Supports Outpatient Bispecific Antibody Use in Multiple Myeloma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CancerNetwork</font>"
       }
     },
     {
@@ -4945,26 +4265,6 @@
       }
     },
     {
-      "raw_id": "ff77e06701daad1d0e5917b9",
-      "title": "Archeus doses first patient in phase I RPT trial - AuntMinnie",
-      "source": "Google News",
-      "published_at": "2026-05-27",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXppYy1ZemZiOUJPYUFPR0YtLW9RZlExOEZlSnh0RTR4cWhJaHkyNExzeEs5cUJHdC1UXzBHZHV5YmxSRV95d1RkYjNRRVNtbVhoTFhqU2d0RmtRMnB0bHg3NVBEZnlidktuVTBBSUo1d3lwRlpIMGJGYk9Hem5OekdMMVhDQ0NCcUpEQmdjWW13Sk1Wc3B3LV9qdFlTNk0zWnZFbzBtcFNxOFl4SFhCZDY4bE0zZEx6SVNSZy00Q1JNUG1rM2FJN0VlQ3gySXJtMEt3Mw?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXppYy1ZemZiOUJPYUFPR0YtLW9RZlExOEZlSnh0RTR4cWhJaHkyNExzeEs5cUJHdC1UXzBHZHV5YmxSRV95d1RkYjNRRVNtbVhoTFhqU2d0RmtRMnB0bHg3NVBEZnlidktuVTBBSUo1d3lwRlpIMGJGYk9Hem5OekdMMVhDQ0NCcUpEQmdjWW13Sk1Wc3B3LV9qdFlTNk0zWnZFbzBtcFNxOFl4SFhCZDY4bE0zZEx6SVNSZy00Q1JNUG1rM2FJN0VlQ3gySXJtMEt3Mw?oc=5",
-      "snippet": "Archeus doses first patient in phase I RPT trial AuntMinnie",
-      "query_keyword": "Radiopharmaceutical Therapy RPT",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Archeus doses first patient in phase I RPT trial - AuntMinnie",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXppYy1ZemZiOUJPYUFPR0YtLW9RZlExOEZlSnh0RTR4cWhJaHkyNExzeEs5cUJHdC1UXzBHZHV5YmxSRV95d1RkYjNRRVNtbVhoTFhqU2d0RmtRMnB0bHg3NVBEZnlidktuVTBBSUo1d3lwRlpIMGJGYk9Hem5OekdMMVhDQ0NCcUpEQmdjWW13Sk1Wc3B3LV9qdFlTNk0zWnZFbzBtcFNxOFl4SFhCZDY4bE0zZEx6SVNSZy00Q1JNUG1rM2FJN0VlQ3gySXJtMEt3Mw?oc=5",
-        "id": "CBMi1AFBVV95cUxNSXppYy1ZemZiOUJPYUFPR0YtLW9RZlExOEZlSnh0RTR4cWhJaHkyNExzeEs5cUJHdC1UXzBHZHV5YmxSRV95d1RkYjNRRVNtbVhoTFhqU2d0RmtRMnB0bHg3NVBEZnlidktuVTBBSUo1d3lwRlpIMGJGYk9Hem5OekdMMVhDQ0NCcUpEQmdjWW13Sk1Wc3B3LV9qdFlTNk0zWnZFbzBtcFNxOFl4SFhCZDY4bE0zZEx6SVNSZy00Q1JNUG1rM2FJN0VlQ3gySXJtMEt3Mw",
-        "guidislink": false,
-        "published": "Wed, 27 May 2026 20:07:52 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXppYy1ZemZiOUJPYUFPR0YtLW9RZlExOEZlSnh0RTR4cWhJaHkyNExzeEs5cUJHdC1UXzBHZHV5YmxSRV95d1RkYjNRRVNtbVhoTFhqU2d0RmtRMnB0bHg3NVBEZnlidktuVTBBSUo1d3lwRlpIMGJGYk9Hem5OekdMMVhDQ0NCcUpEQmdjWW13Sk1Wc3B3LV9qdFlTNk0zWnZFbzBtcFNxOFl4SFhCZDY4bE0zZEx6SVNSZy00Q1JNUG1rM2FJN0VlQ3gySXJtMEt3Mw?oc=5\" target=\"_blank\">Archeus doses first patient in phase I RPT trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AuntMinnie</font>"
-      }
-    },
-    {
       "raw_id": "5841cf211c148530bd22865c",
       "title": "FutureChem to raise ₩40 billion through rights offering to speed up global expansion - koreabiomed.com",
       "source": "Google News",
@@ -5302,26 +4602,6 @@
         "guidislink": false,
         "published": "Thu, 04 Jun 2026 00:14:50 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlBpQmJHS0pGcVZ3aHF3c0ZTaTk2ejZ6ckQ5ZjdodmpGdk54VzdMclJ4ZC1fT3A5SjFQbERLcXRQT0J1WE1fNHB2ZFZLNWVsSW56ZmtRYzcyRzFmQzJ0bEJnOGU1ZkhabkIyZm1KNnp4c3MwYkM4djdPWVVjZG84UHZ2WFJfZXVwSnZYUUJHQkFBQXdtZnplemdJTE1oNk12Y1JCX25WQXlFOEJVSjRNVA?oc=5\" target=\"_blank\">Alnylam, Inceptive form AI drug discovery collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>"
-      }
-    },
-    {
-      "raw_id": "afd70e21e069faa0566fca03",
-      "title": "Q1 2026: When Pharma AI Partnerships Crossed a Threshold - HLTH",
-      "source": "Google News",
-      "published_at": "2026-06-02",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGlGcWJiazlTQ0c0LUdVRWRmUVZjOURDUl94ZmZCMW9iOGMyR0w4WWNGYUprQ2VlRWNHMmdIWFNDcnduQ3BMajFhZzNYVk45cE5mSk9QXzBaalJuVEFxLWNFeHJqX1NueGhBaUdjVjBwNm5heWRLeHhnUk9aOXVaem9Jc0sxbkpFS3V0VXVMRjFsTzQ5?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGlGcWJiazlTQ0c0LUdVRWRmUVZjOURDUl94ZmZCMW9iOGMyR0w4WWNGYUprQ2VlRWNHMmdIWFNDcnduQ3BMajFhZzNYVk45cE5mSk9QXzBaalJuVEFxLWNFeHJqX1NueGhBaUdjVjBwNm5heWRLeHhnUk9aOXVaem9Jc0sxbkpFS3V0VXVMRjFsTzQ5?oc=5",
-      "snippet": "Q1 2026: When Pharma AI Partnerships Crossed a Threshold HLTH",
-      "query_keyword": "AI drug discovery partnership",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Q1 2026: When Pharma AI Partnerships Crossed a Threshold - HLTH",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGlGcWJiazlTQ0c0LUdVRWRmUVZjOURDUl94ZmZCMW9iOGMyR0w4WWNGYUprQ2VlRWNHMmdIWFNDcnduQ3BMajFhZzNYVk45cE5mSk9QXzBaalJuVEFxLWNFeHJqX1NueGhBaUdjVjBwNm5heWRLeHhnUk9aOXVaem9Jc0sxbkpFS3V0VXVMRjFsTzQ5?oc=5",
-        "id": "CBMilAFBVV95cUxQdGlGcWJiazlTQ0c0LUdVRWRmUVZjOURDUl94ZmZCMW9iOGMyR0w4WWNGYUprQ2VlRWNHMmdIWFNDcnduQ3BMajFhZzNYVk45cE5mSk9QXzBaalJuVEFxLWNFeHJqX1NueGhBaUdjVjBwNm5heWRLeHhnUk9aOXVaem9Jc0sxbkpFS3V0VXVMRjFsTzQ5",
-        "guidislink": false,
-        "published": "Tue, 02 Jun 2026 08:20:27 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGlGcWJiazlTQ0c0LUdVRWRmUVZjOURDUl94ZmZCMW9iOGMyR0w4WWNGYUprQ2VlRWNHMmdIWFNDcnduQ3BMajFhZzNYVk45cE5mSk9QXzBaalJuVEFxLWNFeHJqX1NueGhBaUdjVjBwNm5heWRLeHhnUk9aOXVaem9Jc0sxbkpFS3V0VXVMRjFsTzQ5?oc=5\" target=\"_blank\">Q1 2026: When Pharma AI Partnerships Crossed a Threshold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HLTH</font>"
       }
     },
     {
@@ -5682,46 +4962,6 @@
         "guidislink": false,
         "published": "Sat, 30 May 2026 07:00:00 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkZ4bXdkaGFBT3Bmajk4UHZYNUxxcHE1NFMxeWk0R0p6RDhuSkRXZmdBQ3hYd1F4OGZaUVdObjdBbXk1TGUtWUt0aXUyOHh2cDhMNWJyYnFYRVBZUjV1WVRPV2V5MEhLNWZvU3VtUy1pOThOUV91Zll2Smx3cUh5RkZISkdFZjdWTFVDVWppQ3lWMXZSSGpaVFo5TmY4ZG9WQ1Fnd0dB?oc=5\" target=\"_blank\">FDA Clears IND for EOM613 Trial in Cancer Cachexia Patients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Clinical Trial Vanguard</font>"
-      }
-    },
-    {
-      "raw_id": "ce37748331cfd5afcfb63d17",
-      "title": "FLUO: FDA Fast Track and IND approval for FG001 drive clinical and strategic momentum in Q1 2026 - TradingView",
-      "source": "Google News",
-      "published_at": "2026-05-26",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOR25ZYlRyN2hJc0NPNHd1UFBHMHFYQWI1TUg2MVdibTVQR05rZVg1OFNZcDJlVmRVY1Q1QmlETHFhVXdsRGJPQnpxZEhoSE1rZlJOMXFjV3dRZS1NaS1QeVhKMnZrSFNQZ2RvNVhrUFJPYUtLX1BMSXdENmtxNjRGc0J0Um53Z1hxdUdOZ1VCbWZqLUFZbXhyTDFaZTJxcURZSVJCMDJkWEh4LWtlcG5BSzhRRXcxUGlUSEd1aWd0YnFNZjRsQk55Yk5OUElwN3VmYk12NHRXWGUwekU2WlhpLWlRVFh6cWtLM1hraTkzYzdOR3EzeldHRXhOa3pSRzdwNmd2Zld5dnh5UQ?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOR25ZYlRyN2hJc0NPNHd1UFBHMHFYQWI1TUg2MVdibTVQR05rZVg1OFNZcDJlVmRVY1Q1QmlETHFhVXdsRGJPQnpxZEhoSE1rZlJOMXFjV3dRZS1NaS1QeVhKMnZrSFNQZ2RvNVhrUFJPYUtLX1BMSXdENmtxNjRGc0J0Um53Z1hxdUdOZ1VCbWZqLUFZbXhyTDFaZTJxcURZSVJCMDJkWEh4LWtlcG5BSzhRRXcxUGlUSEd1aWd0YnFNZjRsQk55Yk5OUElwN3VmYk12NHRXWGUwekU2WlhpLWlRVFh6cWtLM1hraTkzYzdOR3EzeldHRXhOa3pSRzdwNmd2Zld5dnh5UQ?oc=5",
-      "snippet": "FLUO: FDA Fast Track and IND approval for FG001 drive clinical and strategic momentum in Q1 2026 TradingView",
-      "query_keyword": "FDA IND approved",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "FLUO: FDA Fast Track and IND approval for FG001 drive clinical and strategic momentum in Q1 2026 - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOR25ZYlRyN2hJc0NPNHd1UFBHMHFYQWI1TUg2MVdibTVQR05rZVg1OFNZcDJlVmRVY1Q1QmlETHFhVXdsRGJPQnpxZEhoSE1rZlJOMXFjV3dRZS1NaS1QeVhKMnZrSFNQZ2RvNVhrUFJPYUtLX1BMSXdENmtxNjRGc0J0Um53Z1hxdUdOZ1VCbWZqLUFZbXhyTDFaZTJxcURZSVJCMDJkWEh4LWtlcG5BSzhRRXcxUGlUSEd1aWd0YnFNZjRsQk55Yk5OUElwN3VmYk12NHRXWGUwekU2WlhpLWlRVFh6cWtLM1hraTkzYzdOR3EzeldHRXhOa3pSRzdwNmd2Zld5dnh5UQ?oc=5",
-        "id": "CBMiigJBVV95cUxOR25ZYlRyN2hJc0NPNHd1UFBHMHFYQWI1TUg2MVdibTVQR05rZVg1OFNZcDJlVmRVY1Q1QmlETHFhVXdsRGJPQnpxZEhoSE1rZlJOMXFjV3dRZS1NaS1QeVhKMnZrSFNQZ2RvNVhrUFJPYUtLX1BMSXdENmtxNjRGc0J0Um53Z1hxdUdOZ1VCbWZqLUFZbXhyTDFaZTJxcURZSVJCMDJkWEh4LWtlcG5BSzhRRXcxUGlUSEd1aWd0YnFNZjRsQk55Yk5OUElwN3VmYk12NHRXWGUwekU2WlhpLWlRVFh6cWtLM1hraTkzYzdOR3EzeldHRXhOa3pSRzdwNmd2Zld5dnh5UQ",
-        "guidislink": false,
-        "published": "Tue, 26 May 2026 07:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOR25ZYlRyN2hJc0NPNHd1UFBHMHFYQWI1TUg2MVdibTVQR05rZVg1OFNZcDJlVmRVY1Q1QmlETHFhVXdsRGJPQnpxZEhoSE1rZlJOMXFjV3dRZS1NaS1QeVhKMnZrSFNQZ2RvNVhrUFJPYUtLX1BMSXdENmtxNjRGc0J0Um53Z1hxdUdOZ1VCbWZqLUFZbXhyTDFaZTJxcURZSVJCMDJkWEh4LWtlcG5BSzhRRXcxUGlUSEd1aWd0YnFNZjRsQk55Yk5OUElwN3VmYk12NHRXWGUwekU2WlhpLWlRVFh6cWtLM1hraTkzYzdOR3EzeldHRXhOa3pSRzdwNmd2Zld5dnh5UQ?oc=5\" target=\"_blank\">FLUO: FDA Fast Track and IND approval for FG001 drive clinical and strategic momentum in Q1 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
-      }
-    },
-    {
-      "raw_id": "227fb1b40388cc6176a7cd96",
-      "title": "Alzprotect Announces FDA Clearance of IND for AZP2006 (Ezeprogind®) in Progressive Supranuclear Palsy (PSP) - Business Wire",
-      "source": "Google News",
-      "published_at": "2026-05-28",
-      "collected_at": "2026-06-09T04:41:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQURwRWxzT3NKcFpHTHRiREVMcDJ6SDYzVGFxT3NpVkZYa29qNzQ0M1VYMTVqSjY1RWJDc3E5WGdxQ2h3MjVhZXJIWDY0dlMxOUF1bHhFczNKcWxWZXZXT0Z3UVJBRDdNZkYzRUN5QlBmckh0bDNhMXpvSXdVYXdzS1dTTGN6MHUzUHF1TDBaMTAwS3FfMmxPY001NTB4dEFINE9SZ3VqdTdyQU9DbnY3eU5vU0pyLXJCRDRHdENFS0ZadGNwaXVDLUpteHZjWFpCSnU3WFgyQ2cyMlRMckp3X09JMWpfQ0pLTVdMd05hZVM?oc=5",
-      "normalized_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQURwRWxzT3NKcFpHTHRiREVMcDJ6SDYzVGFxT3NpVkZYa29qNzQ0M1VYMTVqSjY1RWJDc3E5WGdxQ2h3MjVhZXJIWDY0dlMxOUF1bHhFczNKcWxWZXZXT0Z3UVJBRDdNZkYzRUN5QlBmckh0bDNhMXpvSXdVYXdzS1dTTGN6MHUzUHF1TDBaMTAwS3FfMmxPY001NTB4dEFINE9SZ3VqdTdyQU9DbnY3eU5vU0pyLXJCRDRHdENFS0ZadGNwaXVDLUpteHZjWFpCSnU3WFgyQ2cyMlRMckp3X09JMWpfQ0pLTVdMd05hZVM?oc=5",
-      "snippet": "Alzprotect Announces FDA Clearance of IND for AZP2006 (Ezeprogind®) in Progressive Supranuclear Palsy (PSP) Business Wire",
-      "query_keyword": "FDA IND approved",
-      "source_type": "google_news_rss",
-      "raw_payload": {
-        "title": "Alzprotect Announces FDA Clearance of IND for AZP2006 (Ezeprogind®) in Progressive Supranuclear Palsy (PSP) - Business Wire",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQURwRWxzT3NKcFpHTHRiREVMcDJ6SDYzVGFxT3NpVkZYa29qNzQ0M1VYMTVqSjY1RWJDc3E5WGdxQ2h3MjVhZXJIWDY0dlMxOUF1bHhFczNKcWxWZXZXT0Z3UVJBRDdNZkYzRUN5QlBmckh0bDNhMXpvSXdVYXdzS1dTTGN6MHUzUHF1TDBaMTAwS3FfMmxPY001NTB4dEFINE9SZ3VqdTdyQU9DbnY3eU5vU0pyLXJCRDRHdENFS0ZadGNwaXVDLUpteHZjWFpCSnU3WFgyQ2cyMlRMckp3X09JMWpfQ0pLTVdMd05hZVM?oc=5",
-        "id": "CBMi8AFBVV95cUxPQURwRWxzT3NKcFpHTHRiREVMcDJ6SDYzVGFxT3NpVkZYa29qNzQ0M1VYMTVqSjY1RWJDc3E5WGdxQ2h3MjVhZXJIWDY0dlMxOUF1bHhFczNKcWxWZXZXT0Z3UVJBRDdNZkYzRUN5QlBmckh0bDNhMXpvSXdVYXdzS1dTTGN6MHUzUHF1TDBaMTAwS3FfMmxPY001NTB4dEFINE9SZ3VqdTdyQU9DbnY3eU5vU0pyLXJCRDRHdENFS0ZadGNwaXVDLUpteHZjWFpCSnU3WFgyQ2cyMlRMckp3X09JMWpfQ0pLTVdMd05hZVM",
-        "guidislink": false,
-        "published": "Thu, 28 May 2026 10:28:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQURwRWxzT3NKcFpHTHRiREVMcDJ6SDYzVGFxT3NpVkZYa29qNzQ0M1VYMTVqSjY1RWJDc3E5WGdxQ2h3MjVhZXJIWDY0dlMxOUF1bHhFczNKcWxWZXZXT0Z3UVJBRDdNZkYzRUN5QlBmckh0bDNhMXpvSXdVYXdzS1dTTGN6MHUzUHF1TDBaMTAwS3FfMmxPY001NTB4dEFINE9SZ3VqdTdyQU9DbnY3eU5vU0pyLXJCRDRHdENFS0ZadGNwaXVDLUpteHZjWFpCSnU3WFgyQ2cyMlRMckp3X09JMWpfQ0pLTVdMd05hZVM?oc=5\" target=\"_blank\">Alzprotect Announces FDA Clearance of IND for AZP2006 (Ezeprogind®) in Progressive Supranuclear Palsy (PSP)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>"
       }
     }
   ]
