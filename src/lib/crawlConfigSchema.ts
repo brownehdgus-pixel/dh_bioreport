@@ -89,6 +89,18 @@ export function validateCrawlConfig(input: unknown): CrawlConfigValidationResult
     errors.push("excludeKeywords must be an array");
   }
 
+  const dedup = data.deduplication;
+  if (dedup !== undefined) {
+    if (!dedup || typeof dedup !== "object" || Array.isArray(dedup)) {
+      errors.push("deduplication must be an object");
+    } else {
+      const d = dedup as Record<string, unknown>;
+      asBool(d.excludePreviouslyReported, true);
+      asBool(d.excludeSameUrl, true);
+      asBool(d.excludeSameTitle, true);
+    }
+  }
+
   for (const key of ["eventTypes", "sections"] as const) {
     const rules = classification[key];
     if (rules === undefined) continue;

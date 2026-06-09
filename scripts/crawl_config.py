@@ -38,8 +38,20 @@ DEFAULT_CONFIG: dict[str, Any] = {
         "sections": [],
     },
     "excludeKeywords": [],
+    "deduplication": {
+        "excludePreviouslyReported": True,
+        "excludeSameUrl": True,
+        "excludeSameTitle": True,
+    },
     "eventSignificance": {"general": "업계 동향 파악용 기사입니다."},
 }
+
+
+@dataclass
+class DeduplicationConfig:
+    exclude_previously_reported: bool = True
+    exclude_same_url: bool = True
+    exclude_same_title: bool = True
 
 
 @dataclass
@@ -66,6 +78,7 @@ class CrawlConfig:
     section_rules: list[tuple[str, list[str]]]
     exclude_keywords: list[str]
     event_significance: dict[str, str]
+    deduplication: DeduplicationConfig
     raw: dict[str, Any] = field(repr=False)
 
 
@@ -176,6 +189,17 @@ def validate_config(data: dict[str, Any]) -> dict[str, Any]:
         raise ConfigValidationError("excludeKeywords must be an array")
     merged["excludeKeywords"] = [str(k).strip().lower() for k in exclude if str(k).strip()]
 
+    dedup = merged.get("deduplication")
+    if dedup is None:
+        dedup = {}
+    if not isinstance(dedup, dict):
+        raise ConfigValidationError("deduplication must be an object")
+    merged["deduplication"] = {
+        "excludePreviouslyReported": _as_bool(dedup.get("excludePreviouslyReported"), True),
+        "excludeSameUrl": _as_bool(dedup.get("excludeSameUrl"), True),
+        "excludeSameTitle": _as_bool(dedup.get("excludeSameTitle"), True),
+    }
+
     classification = merged["classification"]
     for key in ("eventTypes", "sections"):
         rules = classification.get(key) or []
@@ -221,6 +245,13 @@ def _to_crawl_config(data: dict[str, Any]) -> CrawlConfig:
     for key, val in (scoring.get("eventTypeBoosts") or {}).items():
         event_boosts[str(key)] = int(val)
 
+    dedup_raw = data.get("deduplication") or {}
+    dedup_cfg = DeduplicationConfig(
+        exclude_previously_reported=_as_bool(dedup_raw.get("excludePreviouslyReported"), True),
+        exclude_same_url=_as_bool(dedup_raw.get("excludeSameUrl"), True),
+        exclude_same_title=_as_bool(dedup_raw.get("excludeSameTitle"), True),
+    )
+
     return CrawlConfig(
         version=int(data.get("version", 1)),
         max_item_age_days=int(limits["maxItemAgeDays"]),
@@ -244,6 +275,7 @@ def _to_crawl_config(data: dict[str, Any]) -> CrawlConfig:
         section_rules=section_rules,
         exclude_keywords=list(data.get("excludeKeywords") or []),
         event_significance=dict(data.get("eventSignificance") or {}),
+        deduplication=dedup_cfg,
         raw=data,
     )
 

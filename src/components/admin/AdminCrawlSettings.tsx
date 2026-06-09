@@ -259,6 +259,52 @@ export function AdminCrawlSettings() {
               </div>
             </section>
 
+            {/* 과거 리포트 중복 제외 */}
+            <section className={sectionClass}>
+              <SectionTitle>과거 리포트 중복 제외</SectionTitle>
+              <p className="text-xs text-memo-muted">
+                이미 지난 날짜 리포트에 실린 기사는 오늘 리포트 후보에서 제외합니다. 같은 날 다시
+                실행할 때는 오늘 리포트는 비교 대상에서 빠집니다.
+              </p>
+              <div className="space-y-2">
+                <label className="flex items-center gap-2 text-sm text-memo-ink">
+                  <input
+                    type="checkbox"
+                    checked={form.excludePreviouslyReported}
+                    onChange={(e) =>
+                      updateForm((p) => ({
+                        ...p,
+                        excludePreviouslyReported: e.target.checked,
+                      }))
+                    }
+                  />
+                  과거 리포트에 이미 실린 뉴스 제외
+                </label>
+                <label className="flex items-center gap-2 text-sm text-memo-ink">
+                  <input
+                    type="checkbox"
+                    checked={form.excludeSameUrl}
+                    disabled={!form.excludePreviouslyReported}
+                    onChange={(e) =>
+                      updateForm((p) => ({ ...p, excludeSameUrl: e.target.checked }))
+                    }
+                  />
+                  동일 URL 제외
+                </label>
+                <label className="flex items-center gap-2 text-sm text-memo-ink">
+                  <input
+                    type="checkbox"
+                    checked={form.excludeSameTitle}
+                    disabled={!form.excludePreviouslyReported}
+                    onChange={(e) =>
+                      updateForm((p) => ({ ...p, excludeSameTitle: e.target.checked }))
+                    }
+                  />
+                  동일 제목 제외
+                </label>
+              </div>
+            </section>
+
             {/* Google News */}
             <section className={sectionClass}>
               <SectionTitle>Google News 검색 키워드</SectionTitle>

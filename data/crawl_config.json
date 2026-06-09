@@ -355,6 +355,11 @@
     ]
   },
   "excludeKeywords": [],
+  "deduplication": {
+    "excludePreviouslyReported": true,
+    "excludeSameUrl": true,
+    "excludeSameTitle": true
+  },
   "eventSignificance": {
     "regulatory": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
     "funding": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",

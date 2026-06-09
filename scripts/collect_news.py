@@ -7,6 +7,7 @@ Bio Industry Daily Memo — RSS 뉴스 수집 MVP.
 출력:
   raw_data/YYYY-MM-DD/raw_items.json
   raw_data/YYYY-MM-DD/deduplicated_items.json
+  raw_data/YYYY-MM-DD/selected_items.json
   data/news.backup.json  (기존 news.json 백업)
   data/news.json         (웹앱 표시용, 기존 구조)
 """
@@ -17,6 +18,7 @@ import hashlib
 import json
 import re
 import sys
+from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
 from html import unescape
 from pathlib import Path
@@ -44,6 +46,29 @@ NEWS_BACKUP = DATA_DIR / "news.backup.json"
 
 USER_AGENT = "BioNewsReportCollector/0.1 (+https://github.com/local/bio-news-report)"
 
+TRACKING_QUERY_KEYS = frozenset(
+    {
+        "fbclid",
+        "gclid",
+        "mc_cid",
+        "mc_eid",
+        "msclkid",
+        "dclid",
+        "igshid",
+        "mkt_tok",
+        "ref",
+        "ref_src",
+        "source",
+        "vero_id",
+        "vero_conv",
+    }
+)
+
+_TITLE_PREFIX_RE = re.compile(
+    r"^(?:breaking|exclusive|updated|update|watch|just in|analysis)\s*[:\-–—|]\s*",
+    re.IGNORECASE,
+)
+
 # ---------------------------------------------------------------------------
 # 유틸
 # ---------------------------------------------------------------------------
@@ -65,13 +90,36 @@ def normalize_url(url: str) -> str:
     if not url:
         return ""
     parsed = urlparse(url.strip())
+    scheme = (parsed.scheme or "https").lower()
+    if scheme == "http":
+        scheme = "https"
     query = parse_qs(parsed.query, keep_blank_values=False)
     for key in list(query.keys()):
-        if key.lower().startswith("utm_") or key.lower() in {"fbclid", "gclid", "mc_cid", "mc_eid"}:
+        key_lower = key.lower()
+        if key_lower.startswith("utm_") or key_lower in TRACKING_QUERY_KEYS:
             del query[key]
     new_query = urlencode({k: v[0] if len(v) == 1 else v for k, v in query.items()}, doseq=True)
     path = parsed.path.rstrip("/") or "/"
-    return urlunparse((parsed.scheme, parsed.netloc.lower(), path, "", new_query, ""))
+    return urlunparse((scheme, parsed.netloc.lower(), path, "", new_query, ""))
+
+
+def normalize_title(title: str) -> str:
+    if not title:
+        return ""
+    t = unescape(title).strip().lower()
+    t = re.sub(r"[\u2010-\u2015\u2212]", "-", t)
+    t = re.sub(r"[\"'`´\u2018\u2019\u201c\u201d]", "", t)
+    t = re.sub(r":+", " ", t)
+    for _ in range(3):
+        stripped = _TITLE_PREFIX_RE.sub("", t).strip()
+        if stripped == t:
+            break
+        t = stripped
+    for prefix in ("breaking ", "exclusive ", "updated ", "update "):
+        if t.startswith(prefix):
+            t = t[len(prefix) :].strip()
+    t = re.sub(r"[^\w\s-]", " ", t, flags=re.UNICODE)
+    return re.sub(r"\s+", " ", t).strip()
 
 
 def make_raw_id(normalized_url: str, title: str) -> str:
@@ -268,6 +316,89 @@ def filter_excluded(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     if removed:
         print(f"  -> excluded {removed} item(s) by excludeKeywords")
     return kept
+
+
+# ---------------------------------------------------------------------------
+# 과거 리포트 중복 제외 (historical dedup)
+# ---------------------------------------------------------------------------
+
+
+@dataclass
+class HistoricalDedupStats:
+    excluded_by_url: int = 0
+    excluded_by_title: int = 0
+    examples: list[str] = field(default_factory=list)
+
+
+def report_date_of(report: dict[str, Any]) -> str:
+    return str(report.get("reportDate") or report.get("report_date") or "")
+
+
+def build_historical_index(
+    reports: list[dict[str, Any]], exclude_report_date: str
+) -> tuple[set[str], set[str], int]:
+    """과거 리포트 URL/제목 인덱스. exclude_report_date(오늘) 리포트는 제외."""
+    urls: set[str] = set()
+    titles: set[str] = set()
+    indexed_items = 0
+    for report in reports:
+        if report_date_of(report) == exclude_report_date:
+            continue
+        for item in report.get("items") or []:
+            url = normalize_url(str(item.get("url") or ""))
+            title = normalize_title(str(item.get("title") or ""))
+            if url:
+                urls.add(url)
+            if title:
+                titles.add(title)
+            indexed_items += 1
+    return urls, titles, indexed_items
+
+
+def filter_historical_duplicates(
+    items: list[dict[str, Any]],
+    historical_urls: set[str],
+    historical_titles: set[str],
+) -> tuple[list[dict[str, Any]], HistoricalDedupStats]:
+    dedup_cfg = get_config().deduplication
+    if not dedup_cfg.exclude_previously_reported:
+        return items, HistoricalDedupStats()
+
+    selected: list[dict[str, Any]] = []
+    stats = HistoricalDedupStats()
+
+    for item in items:
+        url = item.get("normalized_url") or normalize_url(str(item.get("url") or ""))
+        title_norm = normalize_title(str(item.get("title") or ""))
+        title_display = str(item.get("title") or "").strip()
+
+        if dedup_cfg.exclude_same_url and url and url in historical_urls:
+            stats.excluded_by_url += 1
+            if len(stats.examples) < 5:
+                stats.examples.append(title_display or url)
+            continue
+        if dedup_cfg.exclude_same_title and title_norm and title_norm in historical_titles:
+            stats.excluded_by_title += 1
+            if len(stats.examples) < 5:
+                stats.examples.append(title_display or title_norm)
+            continue
+        selected.append(item)
+
+    return selected, stats
+
+
+def log_historical_dedup(indexed_items: int, stats: HistoricalDedupStats) -> None:
+    dedup_cfg = get_config().deduplication
+    if not dedup_cfg.exclude_previously_reported:
+        print("  -> historical dedup: disabled (excludePreviouslyReported=false)")
+        return
+    print(f"  -> historical index: {indexed_items} past report item(s) (today excluded)")
+    print(f"[HISTORICAL_DEDUP] excluded by url: {stats.excluded_by_url}")
+    print(f"[HISTORICAL_DEDUP] excluded by title: {stats.excluded_by_title}")
+    if stats.examples:
+        print("[HISTORICAL_DEDUP] examples:")
+        for example in stats.examples:
+            print(f"  - {example}")
 
 
 # ---------------------------------------------------------------------------
@@ -513,37 +644,66 @@ def main() -> int:
     day_dir = RAW_DIR / report_date
     raw_path = day_dir / "raw_items.json"
     dedup_path = day_dir / "deduplicated_items.json"
+    selected_path = day_dir / "selected_items.json"
 
     print("=" * 60)
     print("Bio News Report - RSS collection")
     print(f"Report date: {report_date}")
     print("=" * 60)
 
-    print("\n[1/5] Fetching RSS feeds...")
-    raw_items = collect_all_raw(collected_at)
-    raw_items = filter_recent(raw_items, report_date)
-    write_json(raw_path, {"report_date": report_date, "collected_at": collected_at, "items": raw_items})
-    print(f"  -> saved raw: {len(raw_items)} items")
+    print("\n[1/6] Fetching RSS feeds...")
+    all_raw = collect_all_raw(collected_at)
+    write_json(
+        raw_path,
+        {"report_date": report_date, "collected_at": collected_at, "items": all_raw},
+    )
+    print(f"  -> saved raw: {len(all_raw)} items")
 
-    print("\n[2/5] Deduplicating...")
+    print("\n[2/6] Age filter...")
+    raw_items = filter_recent(all_raw, report_date)
+    after_age_filter = len(raw_items)
+    print(f"  -> after age filter: {after_age_filter} items")
+
+    print("\n[3/6] Deduplicating (within batch)...")
     deduped = deduplicate_items(raw_items)
     deduped = filter_excluded(deduped)
-    write_json(dedup_path, {"report_date": report_date, "collected_at": collected_at, "items": deduped})
-    print(f"  -> saved deduplicated: {len(deduped)} items")
+    after_url_dedup = len(deduped)
+    write_json(
+        dedup_path,
+        {"report_date": report_date, "collected_at": collected_at, "items": deduped},
+    )
+    print(f"  -> saved deduplicated: {after_url_dedup} items")
 
-    print("\n[3/5] Building data/news.json...")
+    print("\n[4/6] Historical dedup (past reports)...")
     existing = load_existing_reports()
+    hist_urls, hist_titles, hist_index_count = build_historical_index(existing, report_date)
+    selected, hist_stats = filter_historical_duplicates(deduped, hist_urls, hist_titles)
+    log_historical_dedup(hist_index_count, hist_stats)
+    write_json(
+        selected_path,
+        {"report_date": report_date, "collected_at": collected_at, "items": selected},
+    )
+    print(f"  -> saved selected: {len(selected)} items")
+
+    if len(selected) == 0:
+        print(
+            "[WARN] No items left after historical dedup — today's report will be empty. "
+            "Check crawl window, sources, or deduplication settings."
+        )
+
+    print("\n[5/6] Building data/news.json...")
     backup_news_json()
-    daily = build_daily_report(report_date, deduped)
+    daily = build_daily_report(report_date, selected)
+    final_report_items = len(daily["items"])
     merged = merge_reports(existing, daily)
     merged = trim_reports_by_retention(merged, report_date)
     write_json(NEWS_JSON, {"reports": merged})
 
-    print("\n[4/5] Pruning old raw_data...")
+    print("\n[6/6] Pruning old raw_data...")
     prune_old_raw_data(report_date)
 
-    print("\n[5/5] Done - files written:")
-    created = [raw_path, dedup_path, NEWS_JSON]
+    print("\nDone - files written:")
+    created = [raw_path, dedup_path, selected_path, NEWS_JSON]
     if NEWS_BACKUP.exists():
         created.insert(0, NEWS_BACKUP)
     for path in created:
@@ -551,9 +711,13 @@ def main() -> int:
         print(f"  OK {path.relative_to(ROOT)}  ({size_kb:.1f} KB)")
 
     print("\nSummary:")
-    print(f"  - raw items: {len(raw_items)}")
-    print(f"  - after dedup: {len(deduped)}")
-    print(f"  - today report news: {len(daily['items'])}")
+    print(f"  - raw_items: {len(all_raw)}")
+    print(f"  - after_age_filter: {after_age_filter}")
+    print(f"  - after_url_dedup: {after_url_dedup}")
+    print(f"  - excluded_by_historical_url: {hist_stats.excluded_by_url}")
+    print(f"  - excluded_by_historical_title: {hist_stats.excluded_by_title}")
+    print(f"  - selected_items: {len(selected)}")
+    print(f"  - final_report_items: {final_report_items}")
     print(f"  - total reports in news.json: {len(merged)}")
     print("\nNext: npm run dev, then open /reports in the browser.")
     return 0

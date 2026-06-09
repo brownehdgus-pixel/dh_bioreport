@@ -58,6 +58,9 @@ export type CrawlConfigFormState = {
   maxItemAgeDays: number;
   maxItemsInReport: number;
   maxSummaryLines: number;
+  excludePreviouslyReported: boolean;
+  excludeSameUrl: boolean;
+  excludeSameTitle: boolean;
   googleQueries: GoogleQueryRow[];
   rssFeeds: RssFeedRow[];
   excludeKeywords: string[];
@@ -155,10 +158,15 @@ export function configToFormState(config: Record<string, unknown>): CrawlConfigF
     eventTypeBoosts[key] = Number(boosts[key]) || 0;
   }
 
+  const dedup = asRecord(config.deduplication);
+
   return {
     maxItemAgeDays: Number(limits.maxItemAgeDays) || 14,
     maxItemsInReport: Number(limits.maxItemsInReport) || 40,
     maxSummaryLines: Number(limits.maxSummaryLines) || 5,
+    excludePreviouslyReported: dedup.excludePreviouslyReported !== false,
+    excludeSameUrl: dedup.excludeSameUrl !== false,
+    excludeSameTitle: dedup.excludeSameTitle !== false,
     googleQueries,
     rssFeeds,
     excludeKeywords: asArray(config.excludeKeywords).map((k) => String(k).trim()).filter(Boolean),
@@ -201,6 +209,12 @@ export function applyFormToConfig(
   merged.sources = sources;
 
   merged.excludeKeywords = form.excludeKeywords.map((k) => k.trim()).filter(Boolean);
+
+  merged.deduplication = {
+    excludePreviouslyReported: form.excludePreviouslyReported,
+    excludeSameUrl: form.excludeSameUrl,
+    excludeSameTitle: form.excludeSameTitle,
+  };
 
   const scoring = asRecord(merged.scoring);
   const existingBoosts = asRecord(scoring.eventTypeBoosts);
@@ -350,6 +364,9 @@ export function defaultEmptyForm(): CrawlConfigFormState {
     maxItemAgeDays: 14,
     maxItemsInReport: 40,
     maxSummaryLines: 5,
+    excludePreviouslyReported: true,
+    excludeSameUrl: true,
+    excludeSameTitle: true,
     googleQueries: [],
     rssFeeds: [],
     excludeKeywords: [],
