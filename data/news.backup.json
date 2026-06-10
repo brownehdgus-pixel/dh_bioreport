@@ -4,127 +4,21 @@
       "reportDate": "2026-06-09",
       "title": "2026-06-09 바이오 뉴스 브리핑",
       "summaryLines": [
-        "TG Therapeutics, 3상 ENHANCE 시험에서 긍정적인 톱라인 결과 발표 Yahoo Finance",
-        "베라더믹스, 2026 세계 모발 연구 회의에서 VDPHL01의 2/3상 '302' 연구의 톱라인 결과에 대한 포스터 발표 발표 - 뉴스와이어",
-        "ADC Therapeutics, 재발성 또는 불응성 확산성 대형 B세포 림프종에 대한 ZYNLONTA와 Rituximab의 병용 LOTIS-5 확증 3상 임상시험의 주요 결과 발표 marketscreener.com",
-        "양극성 우울증 치료를 위한 Elunetirom의 새로운 긍정적인 2상 톱라인 데이터",
-        "Autobahn Therapeutics, 양극성 우울증에 대한 Elunetirom의 긍정적인 2상 임상 데이터를 보고하여 신속하고 강력하며 지속적인 항우울 효과 입증 BioSpace"
+        "[보도 자료] 길리어드와 머크, 주 1회 경구용 HIV 치료제인 이슬라트라비르/레나카파비르를 평가한 2개의 3상 연구에서 긍정적인 톱라인 결과 발표 유럽 에이즈 치료 그룹(European AIDS Treatment Group)",
+        "길리어드와 머크, 주 1회 경구용 HIV 치료제인 이슬라트라비르/레나카파비르를 평가한 2개의 3상 연구에서 긍정적인 톱라인 결과 발표 - 뉴스와이어",
+        "Neurogene은 Embolden 시험에서 투여를 완료하고 25명의 참가자에게 투여했습니다. 톱라인 데이터 2027년 하반기 마감 TradingView",
+        "Dayspring Pharma, 남성형 탈모증(AGA) 치료를 위한 CG2001의 2상 임상 시험에서 긍정적인 톱라인 결과 발표 Yahoo Finance",
+        "바이오제약 IPO: 시기, 자본 및 유연성 유지. 규제 변화, 자본 부족, 불안정한 IPO 기간으로 인해 바이오제약 전략이 재편되고 있습니다. 리더들이 어떻게 적응하고 있는지 들어보세요."
       ],
       "sections": [
         "global",
         "regulatory",
         "deal",
-        "modality",
-        "paper"
+        "modality"
       ],
       "items": [
         {
           "id": "2026-06-09-0001",
-          "title": "TG Therapeutics Announces Positive Topline Results from Phase 3 ENHANCE Trial - Yahoo Finance",
-          "source": "Google News",
-          "date": "2026-05-27",
-          "section": "global",
-          "eventType": "clinical",
-          "summary": "TG Therapeutics, 3상 ENHANCE 시험에서 긍정적인 톱라인 결과 발표 Yahoo Finance",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "topline",
-            "Therapeutics",
-            "Announces",
-            "Positive",
-            "Topline",
-            "Results"
-          ],
-          "importanceScore": 9,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOURTa2pLN0R6Xy11LXJsU3ZWUlZFcmxUR3B0TWJJdXI4WGlLZXJta09HZkFBN0tvTTZ6UFhqMmhQODlpZXFEdmJsaDJHLUQyV09TeWpQRG9oLVdvT2g5aUt2TTltM2pwZmpEWktpRmdLUjJ6N3IwanR4blFkSmJTcnJnZTh1TXBvQnZwUmVsTXhMR0lJNXFvcnQ2T2ZYNVlyWXhncHF2ZDFWSjdib0lzUg?oc=5"
-        },
-        {
-          "id": "2026-06-09-0002",
-          "title": "Veradermics Announces Poster Presentation on Topline Results from Phase 2/3 ‘302’ Study of VDPHL01 at the 2026 World Congress for Hair Research - Business Wire",
-          "source": "Google News",
-          "date": "2026-05-27",
-          "section": "global",
-          "eventType": "clinical",
-          "summary": "베라더믹스, 2026 세계 모발 연구 회의에서 VDPHL01의 2/3상 '302' 연구의 톱라인 결과에 대한 포스터 발표 발표 - 뉴스와이어",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "topline",
-            "Veradermics",
-            "Announces",
-            "Poster",
-            "Presentation",
-            "Topline"
-          ],
-          "importanceScore": 9,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVlFfZ3FCTGtzc0I3U0s2WXQyVTFSaXNMd1VkQ0FKNXk2WDdsODlfM1F6cWpJSWotZWR5Z0xoMGplaUw1Y3dtc3ZRaDFuWHE3Qk94SnBoSlM3X1k3djBsSVRyM3VZN1RBNkRxWVFLaEdISzd1bnlOVlQtU1o2azJXZ1RUOWdIc29Tc2YxTkwwaUR2Q2JPNnMzRGhKXzlXQnBpbWdzSXFpNU1Xb1ByV1FCcWVKNVRfM1htblZuSGdod2V1X2dLTjFoX3hkb1loMlZzTnNQSjBBenA4QnVLMFliNEpSaE1OWVdpN25FTWhmR0dtUGxqUXd2YlEwYlpVZDFueUk3R254dGw5LUF1YnUwUk9YMVBDLVNRUXdtb1ZpZ1pNVEE?oc=5"
-        },
-        {
-          "id": "2026-06-09-0003",
-          "title": "ADC Therapeutics Announces Topline Results From LOTIS-5 Phase 3 Confirmatory Trial Of ZYNLONTA In Combination with Rituximab In Relapsed or Refractory Diffuse Large B-Cell Lymphoma - marketscreener.com",
-          "source": "Google News",
-          "date": "2026-06-03",
-          "section": "modality",
-          "eventType": "clinical",
-          "summary": "ADC Therapeutics, 재발성 또는 불응성 확산성 대형 B세포 림프종에 대한 ZYNLONTA와 Rituximab의 병용 LOTIS-5 확증 3상 임상시험의 주요 결과 발표 marketscreener.com",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "topline",
-            "ADC",
-            "Therapeutics",
-            "Announces",
-            "Topline",
-            "Results"
-          ],
-          "importanceScore": 9,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLXFQbTRMUHd3cjFFYXpmaHZzcHhDUWFYWUcyWXZpMmxybFNzRzhUOGtBRmhPOVNFY2QtTW50ZFV1YzgzNTI5U3dmUnhxV3hkWUIxeGZITFI2Q2gtT3d3S0p4bFpCU3NfSjFJVk16QlRVRGU3aDNmUHVTMnRRNGJoM2Itb2FIRTNlQURoemgyc0tabnI5ZFVtZ1VsWUo5OUNWcmVXeTlNMmQyYmJPRkNIMTdqWVZPSGVWRWpYdFAweW5aT1RlODZ1WThwYjZubUlDWC1PTGx2RDR1YVlYYmVwV1k3dFRMUE1x?oc=5"
-        },
-        {
-          "id": "2026-06-09-0004",
-          "title": "New Positive Phase 2 Topline Data on Elunetirom for the Treatment of Bipolar Depression - Psychiatric Times",
-          "source": "Google News",
-          "date": "2026-06-04",
-          "section": "global",
-          "eventType": "clinical",
-          "summary": "양극성 우울증 치료를 위한 Elunetirom의 새로운 긍정적인 2상 톱라인 데이터",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "topline",
-            "New",
-            "Positive",
-            "Phase",
-            "Topline",
-            "Data"
-          ],
-          "importanceScore": 9,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjdIWWMzRUlOZ0hRWklsZE1JSDJieFlRTVU0aU1VTEJoOGk3dkZfNmMxYlBxRmN0ZVJkUFhYelZUOUlSYXd2VnhtZ21fdWE3RHN1TVN2cFpNZm9md0QwVnVCOHF1Z2c5UFhOUDlmblJFRmEzd1FOWFFudl9vNUFOdmNmblREX2ZqZmRwWFNVSHEwMVN1blJERDdPejlvc3dfakUtZllkVW1ZVkp3TnNDbmllX2hELVZ0TC1meVJqNFdnR2M?oc=5"
-        },
-        {
-          "id": "2026-06-09-0005",
-          "title": "Autobahn Therapeutics Reports Positive Phase 2 Topline Data for Elunetirom in Bipolar Depression, Demonstrating Rapid, Robust, and Durable Antidepressant Effects - BioSpace",
-          "source": "Google News",
-          "date": "2026-06-04",
-          "section": "global",
-          "eventType": "clinical",
-          "summary": "Autobahn Therapeutics, 양극성 우울증에 대한 Elunetirom의 긍정적인 2상 임상 데이터를 보고하여 신속하고 강력하며 지속적인 항우울 효과 입증 BioSpace",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "topline",
-            "Autobahn",
-            "Therapeutics",
-            "Reports",
-            "Positive",
-            "Phase"
-          ],
-          "importanceScore": 9,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZklQaDNWNlhCLXQ3blVNUC10elB3Nk43LTlXZlVYSFdLcVA4LUpYQjdPZ2l2U0Z1c2hCU2dpR3dqSUdkS2tmeHdYMTFXMGxFVEtUMFdUbHRLLXNtc2xwMkloNE1qX0oyaWttYW8tRTc5MVZGTjdZUU9tR3dfOU1YY2Rya1liUUtxdV9jY1EwYXR5UHBHVk53eE9YaWtjOUhndWxyek93UmV0ODlvM2ZfLXBxTkstN3ZMYkIxb1k5ZXJCMGhQb216aXhHaGRJeHZJU0QycE1LRlN6dVJiQ2ZYZHR3X0FIcy02RXVycHpRb29YWndGeHJyMXZOVjRGQlNDUXFHUXRHN1ZHc1NFVmZlODJ3MnFOdnBPNVc1Z2JQRl9LNFdn?oc=5"
-        },
-        {
-          "id": "2026-06-09-0006",
           "title": "[Press release] Gilead and Merck announce positive topline results from two Phase 3 studies evaluating islatravir/lenacapavir, an oral once-weekly HIV treatment - European AIDS Treatment Group",
           "source": "Google News",
           "date": "2026-06-08",
@@ -145,7 +39,7 @@
           "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPTUt3MW1ZWHNZLXl6ZGU4NWJQSV9BQkFSSnE2UnFhdG05Rl91Q2hLZGZyUkhBeldsYVY5aWNJRW80N2M5WjJNa1h5dzJnWW5YN2R2amQyenB5ZjBmWkFQU3hPQUhMLVpxM3UwUTk0TTFYSUhDR1E4aFNiWDRNSGh3N19pTEo0SzhTdnN4MzdXWi0xaXFZS2xPblNFdlVWOEg0MFlqS1p1QTFJU2FSMkduLTJqeFZndU1RX0cwVXNzTkcwamZOMlNnX0N5bzFZaklXOWY4QTFET3JfcU5ERFQyejFuX1pqQnpsdFhMRWlfQk1Ra0swbHhVY1ZZZWJoUWo1d2NJSXpnWUx4c1VWM0NHRDBnaU0yeVU?oc=5"
         },
         {
-          "id": "2026-06-09-0007",
+          "id": "2026-06-09-0002",
           "title": "Gilead and Merck Announce Positive Topline Results From Two Phase 3 Studies Evaluating Islatravir/Lenacapavir, an Oral Once-Weekly HIV Treatment - Business Wire",
           "source": "Google News",
           "date": "2026-06-08",
@@ -166,7 +60,7 @@
           "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQeXVPdjJoRThlZ0E2bGY0dUtKUGhuZnVVVEQ2MTJOYUE3OUEyOERUTFJySGZrWHJwdko2YVBvN3BGMlJQYzVlUEg1MXdFbk1JQVJEVGdoSzA0RnR5UWZVazd1SHFfbFk2azNpLTV2Q2hpbkZPOC1kMHVrT095YmpBdHpFUWg0eDhPTGFfVDJxU0xFS1EwT2tacC10MTNlcXBsbFdvX18zRVBtS2lHVVdFY3NxZ2xES0hteExIM3VETDNKSkIxbHlzM0pvR0M1b014UGoyNFFReTFMSFIyak5KYU55eTdJQ3R3aTNId0trNmE5QmRJQ0pKOUYyRmRDLU11UERaUlNtNEZKSkY1bGNsMVdIUWxGLUFLNmp0UXFfQ3FLVm0yVFE?oc=5"
         },
         {
-          "id": "2026-06-09-0008",
+          "id": "2026-06-09-0003",
           "title": "Neurogene completes dosing in Embolden trial, doses 25 participants; topline data due 2H 2027 - TradingView",
           "source": "Google News",
           "date": "2026-06-08",
@@ -187,7 +81,7 @@
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOEFlUHBpQzdIUUFqU0JWS2ZBV3Zfc1Z0QjBGNC1jZElEQlNFcHlTcXZLdm1TTjM2NDVranRTQ216WGYtNmo4UXRBbHJtbmxLNmFoWFkzV2kxU0ZNX2tKa0NOSWJWOWE1VG94UWt1NE5RREFKMGhaY01MbUtrVkZFX3RNUEk1aUtkb1FQWnMzN1NZNjBtUnNYSHdXbE1ZeTIyQ19BbG5ISlV3TUpiTFVuOXAzQTRNakF2NmVicTBHUGdGZU5zWTRiZ1BIamZiUDByNk85UEkyYzVKQlh1eWpwbkZKeldsTTh3?oc=5"
         },
         {
-          "id": "2026-06-09-0009",
+          "id": "2026-06-09-0004",
           "title": "Dayspring Pharma Announces Positive Topline Results from Phase II Clinical Trial of CG2001 for the Treatment of Androgenetic Alopecia (AGA) - Yahoo Finance",
           "source": "Google News",
           "date": "2026-06-08",
@@ -208,28 +102,7 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUzdWUzNUZjZXVU03Z0F2cnM2T1I1WndjUlM1MDMtSFF3NXZmbVZLZTd1STJiOWN5UEtPbm9GZFNMWWo5S2RpVzVrMHNYWVBOY0x4c0Y2dTg4dXNMalc5Z0p6Z0g5bmtBSVlRdG5nOWNiNjNQc1lHOV82c05RTmJESHV2d0dQNUpBV09WdXpqUEdTek4ySWhaMndVR2c5Q3FmNXJWTFNFcVpmV2JmVFRJQk1R?oc=5"
         },
         {
-          "id": "2026-06-09-0010",
-          "title": "FLUO: FDA Fast Track and IND approval for FG001 drive clinical and strategic momentum in Q1 2026 - TradingView",
-          "source": "Google News",
-          "date": "2026-05-26",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FLUO: FG001에 대한 FDA Fast Track 및 IND 승인으로 2026년 1분기 임상 및 전략적 모멘텀을 주도합니다 TradingView",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "FDA IND approved",
-            "FLUO",
-            "FDA",
-            "Fast",
-            "Track",
-            "and"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOR25ZYlRyN2hJc0NPNHd1UFBHMHFYQWI1TUg2MVdibTVQR05rZVg1OFNZcDJlVmRVY1Q1QmlETHFhVXdsRGJPQnpxZEhoSE1rZlJOMXFjV3dRZS1NaS1QeVhKMnZrSFNQZ2RvNVhrUFJPYUtLX1BMSXdENmtxNjRGc0J0Um53Z1hxdUdOZ1VCbWZqLUFZbXhyTDFaZTJxcURZSVJCMDJkWEh4LWtlcG5BSzhRRXcxUGlUSEd1aWd0YnFNZjRsQk55Yk5OUElwN3VmYk12NHRXWGUwekU2WlhpLWlRVFh6cWtLM1hraTkzYzdOR3EzeldHRXhOa3pSRzdwNmd2Zld5dnh5UQ?oc=5"
-        },
-        {
-          "id": "2026-06-09-0011",
+          "id": "2026-06-09-0005",
           "title": "Biopharma IPOs: Timing, capital and staying flexible",
           "source": "Fierce Biotech",
           "date": "2026-05-27",
@@ -250,196 +123,7 @@
           "url": "https://www.fiercebiotech.com/sponsored/biopharma-ipos-timing-capital-and-staying-flexible"
         },
         {
-          "id": "2026-06-09-0012",
-          "title": "FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote - Fierce Biotech",
-          "source": "Google News",
-          "date": "2026-05-27",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FDA, 아스트라제네카의 유방암 치료제에 대한 부정적인 광고 투표 이후 판결 연기 Fierce Biotech",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech \"FDA approval\"",
-            "FDA",
-            "delays",
-            "ruling",
-            "AstraZeneca",
-            "breast"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmZGbTg0OGFKQTNTc2xfRjRnQnhVQWd4Q1lWblRNUEV3SHk0ME9WajVWVjcteWRUZTZlbC10T1BiR1dKMmpUNGVuZXZHdEgtUkxKeWVRVmV0LUd6b3dTd01jbm1tMmlPVFZNcTdJNnRmdVdjTnhXMDQ3SmdHZW9QWG40Ynl6Z2Nmb2N4VXBlMFEwcDdjRkxhc0hQWExaVE9tS29EbmF2U0hiYzRKY2hMTzFGako?oc=5"
-        },
-        {
-          "id": "2026-06-09-0013",
-          "title": "Natera: A Growing Biotech, After Recent FDA Approval And Q1 Revenue Results (NASDAQ:NTRA) - Seeking Alpha",
-          "source": "Google News",
-          "date": "2026-05-27",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Natera: 최근 FDA 승인 및 1분기 수익 결과(NASDAQ:NTRA)를 통해 알파를 추구하는 성장하는 생명공학",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech \"FDA approval\"",
-            "Natera",
-            "Growing",
-            "Biotech",
-            "After",
-            "Recent"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkRZamRhMXpaZ0dZZ0VRSVVzMkJ5emhQRndKSldOV1A4UnZlNk4xQUtmSnZVZzdZVDkxdVAxSEdDdURNaS04UEh1MjRmblZmNVlCY1VKNWhsdk5odmVMYXQyZTN4eFpKVTIyYmNCdUtSaFlqaUdyUGNFV0cyNzBIVjRPdk5aQWNQZy1FOThCUVQ5MktPOVI5OW1nbXRyanl4cG1hV0JTcUdvZVAwYUpPX05Eelo3d1Iyenc?oc=5"
-        },
-        {
-          "id": "2026-06-09-0014",
-          "title": "Archeus doses first patient in phase I RPT trial - AuntMinnie",
-          "source": "Google News",
-          "date": "2026-05-27",
-          "section": "global",
-          "eventType": "clinical",
-          "summary": "Archeus는 1상 RPT 시험에서 첫 번째 환자에게 투여합니다.",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "Radiopharmaceutical Therapy RPT",
-            "Archeus",
-            "doses",
-            "first",
-            "patient",
-            "phase"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXppYy1ZemZiOUJPYUFPR0YtLW9RZlExOEZlSnh0RTR4cWhJaHkyNExzeEs5cUJHdC1UXzBHZHV5YmxSRV95d1RkYjNRRVNtbVhoTFhqU2d0RmtRMnB0bHg3NVBEZnlidktuVTBBSUo1d3lwRlpIMGJGYk9Hem5OekdMMVhDQ0NCcUpEQmdjWW13Sk1Wc3B3LV9qdFlTNk0zWnZFbzBtcFNxOFl4SFhCZDY4bE0zZEx6SVNSZy00Q1JNUG1rM2FJN0VlQ3gySXJtMEt3Mw?oc=5"
-        },
-        {
-          "id": "2026-06-09-0015",
-          "title": "Alzprotect Announces FDA Clearance of IND for AZP2006 (Ezeprogind®) in Progressive Supranuclear Palsy (PSP) - Business Wire",
-          "source": "Google News",
-          "date": "2026-05-28",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "알즈프로텍트, 진행성 핵상 마비(PSP)에 대한 AZP2006(Ezeprogind®)에 대한 FDA의 IND 승인 발표 - 뉴스와이어",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "FDA IND approved",
-            "Alzprotect",
-            "Announces",
-            "FDA",
-            "Clearance",
-            "IND"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQURwRWxzT3NKcFpHTHRiREVMcDJ6SDYzVGFxT3NpVkZYa29qNzQ0M1VYMTVqSjY1RWJDc3E5WGdxQ2h3MjVhZXJIWDY0dlMxOUF1bHhFczNKcWxWZXZXT0Z3UVJBRDdNZkYzRUN5QlBmckh0bDNhMXpvSXdVYXdzS1dTTGN6MHUzUHF1TDBaMTAwS3FfMmxPY001NTB4dEFINE9SZ3VqdTdyQU9DbnY3eU5vU0pyLXJCRDRHdENFS0ZadGNwaXVDLUpteHZjWFpCSnU3WFgyQ2cyMlRMckp3X09JMWpfQ0pLTVdMd05hZVM?oc=5"
-        },
-        {
-          "id": "2026-06-09-0016",
-          "title": "Can WEE1 inhibitors finally make replication stress druggable?",
-          "source": "Labiotech",
-          "date": "2026-05-29",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "WEE1 억제제가 마침내 복제 스트레스를 약물화할 수 있게 만들 수 있습니까? 생명공학 회사들이 1세대 WEE1 억제제가 직면한 한계를 해결하기 위해 어떻게 노력하고 있는지 알아보세요. The post WEE1 억제제가 마침내 복제 스트레스를 약물화할 수 있게 만들 수 있습니까? Labiotech.eu에 처음 등장했습니다. © Labiotech UG 및 Labiotech.eu. 무단도용 및/또는 복제...",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "Can",
-            "WEE1",
-            "inhibitors",
-            "finally",
-            "make",
-            "replication"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.labiotech.eu/in-depth/wee1-inhibitor/"
-        },
-        {
-          "id": "2026-06-09-0017",
-          "title": "Replimune takes third swing at cancer drug approval following ‘productive’ FDA talks - BioPharma Dive",
-          "source": "Google News",
-          "date": "2026-05-29",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Replimune은 '생산적인' FDA 논의에 이어 항암제 승인에서 세 번째 변화를 가져왔습니다. BioPharma Dive",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech \"FDA approval\"",
-            "Replimune",
-            "takes",
-            "third",
-            "swing",
-            "cancer"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakpUdmxlUUVyLUtDNjVxSWxHQjJ4ZGRuaVBnN1o0S2djX2N2ZWZGODM2eFNVaVgyaWwtQ0xDb0dOcU5aMzc3U2NFajdJNmhvVkFaWmQ1UlhoY253bjZQa18yZnN0VTVuNXpTX19EaDVoVDg2Y0t2emYzdDN3V0RkTEptUF9GTW1UaFd3RHJFaUpKbVBhTEd6bWt3SFdGYk1jVXJCTnJHbFpOZw?oc=5"
-        },
-        {
-          "id": "2026-06-09-0018",
-          "title": "SELLAS Life Sciences Group (SLS) Is Up 21.4% After REGAL Nears Topline Readout And Cramer Endorsement - Yahoo Finance",
-          "source": "Google News",
-          "date": "2026-05-29",
-          "section": "paper",
-          "eventType": "publication",
-          "summary": "SELLAS Life Sciences Group(SLS)은 REGAL이 톱라인 판독 및 Cramer 승인에 가까워진 후 21.4% 상승했습니다. Yahoo Finance",
-          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
-          "keywords": [
-            "topline",
-            "SELLAS",
-            "Life",
-            "Sciences",
-            "Group",
-            "SLS"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMG1yc052UjQyTmxGbjV0anJQdXQtZXJJbWxQTWptTkt1M1hOeDJuSG9vU1pJdVAwbFFEdlc2VGJGWGpKWnFTOTJRZzdTb1c1Y1VoMFRtbGdFZlpjazBTWTBrX21hVXRlOEw2QVVJdms3MlhnYTU3NDdzMlpDNmV5WmdlSVlRX05wbHdDbmwyMW5yRExwM0FWRHE5VQ?oc=5"
-        },
-        {
-          "id": "2026-06-09-0019",
-          "title": "Oculis Announces Topline Results from DIAMOND Phase 3 Trials with OCS-01 in Diabetic Macular Edema - Yahoo Finance",
-          "source": "Google News",
-          "date": "2026-05-29",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Oculis, 당뇨병성 황반부종에 대한 OCS-01의 DIAMOND 3상 임상시험의 주요 결과 발표 Yahoo Finance",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "topline",
-            "Oculis",
-            "Announces",
-            "Topline",
-            "Results",
-            "from"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGRSeDVxaFRpY3Bvd2JYWE5lcVZNeVpRSGpEaDVEcENSY0R5UXRVVktPQ1FVdHVGNWVBSVNQSlYxRkpWNWtreFh6Slh3TlBhczdnMDlPSTJGZU0wbFBBdDFYUjFNYjNkdzJrZmpQUENqM09oVEp6UXJZNi04alo3eThVTEhwcENoVUNRU1dNem8xRmtZektWVTB2T2Z6cy1VZVUyb3RBVmtFdmtzMlE?oc=5"
-        },
-        {
-          "id": "2026-06-09-0020",
-          "title": "Gene therapy, mini-pigs, organ printing: Inside Putin's $26 billion quest to beat aging - The Times of India",
-          "source": "Google News",
-          "date": "2026-05-30",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "유전자 치료, 미니돼지, 장기 인쇄: 노화를 극복하기 위한 푸틴의 260억 달러 노력 The Times of India",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "gene therapy",
-            "Gene",
-            "therapy",
-            "mini-pigs",
-            "organ",
-            "printing"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeEIyOExHZHdRWE0xMFhPLXVKMS1kc1g1TndudV9CcEozMzl1aURZVHk0RzhCWFZwVm41ZXhzWW9Iamo0bE9ObGVTeUs5WXlBblB6ZjlEUmY2XzZSSWtaVU54Ni1Oa0ZIa21fQldhZllUd2dhaEZ2Y3FLOU9fNkxkcGY0UTlJdnUzbkl2UkVnaGdoT1FvTk9oQVlfbTR3SUFLc0VpQlNSMnVkWm0zb0E1Zmc4cndGWWJheXZmUnpmcW1tamJ3WlBWYjFVR2tqOHkwaFhfQ2VZRFF5VEJvTTJrcjNrNjZLRDJQZlFvTUpB0gHzAUFVX3lxTFBheVZUUlpPY1lmMUNXZVVVdG1JWDFwN1NaaXVDaWY2WTBpVjN6Y3ZvMEtnczJfcnRLYlAzNFhUOFF1cjJ4Wm41WlN3Xy1sTGJsQU85UEtCOEN6blNMWG85dG4xZjhJZkQtdEZuZW14NU5JQVNsTGktaGVxUk5CVWNPVlBlaDdkOEhzYWxna0xCcEVCUUJYTHMzQTFNc29nbTktVzRTa2l2Y0ZxVHoyMmhhOXozTDF3WHdDT2ZtVDNhXzlvQy1MUVhJZjU0RUJMcnFLM2c2UGNDUURuVFAwWWJ0S2oyZnk3QklqMkp5YkJYZWdPRQ?oc=5"
-        },
-        {
-          "id": "2026-06-09-0021",
+          "id": "2026-06-09-0006",
           "title": "FDA Clears IND for EOM613 Trial in Cancer Cachexia Patients - The Clinical Trial Vanguard",
           "source": "Google News",
           "date": "2026-05-30",
@@ -460,28 +144,7 @@
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkZ4bXdkaGFBT3Bmajk4UHZYNUxxcHE1NFMxeWk0R0p6RDhuSkRXZmdBQ3hYd1F4OGZaUVdObjdBbXk1TGUtWUt0aXUyOHh2cDhMNWJyYnFYRVBZUjV1WVRPV2V5MEhLNWZvU3VtUy1pOThOUV91Zll2Smx3cUh5RkZISkdFZjdWTFVDVWppQ3lWMXZSSGpaVFo5TmY4ZG9WQ1Fnd0dB?oc=5"
         },
         {
-          "id": "2026-06-09-0022",
-          "title": "Tocilizumab Supports Outpatient Bispecific Antibody Use in Multiple Myeloma - CancerNetwork",
-          "source": "Google News",
-          "date": "2026-05-31",
-          "section": "modality",
-          "eventType": "clinical",
-          "summary": "Tocilizumab은 다발성 골수종 암에서 외래 환자 이중 특이성 항체 사용을 지원합니다.",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "bispecific antibody",
-            "Tocilizumab",
-            "Supports",
-            "Outpatient",
-            "Bispecific",
-            "Antibody"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXlrU2xKME1xME5QWHpUenkwMU83MUI2YmJNS0cyWWtGVWNSMEl5NmJaTHk0QjJZOWFiN3lxb2syV1RKeUlCLWxLTFVBTktSNTNEZ0lrbkViRUpiYkIwbzRuZHlfSWctM1RlTVBzcUJGcFJIdjBqRnBWOVkxaXo0RDlBR0pyaEw4VU90NTQ3M3RIRnBjTU9qMFVZaGpmRkhRS0pkMU5IRW5BcEIwQUZv?oc=5"
-        },
-        {
-          "id": "2026-06-09-0023",
+          "id": "2026-06-09-0007",
           "title": "Lilly and Hanmi sign $1.26bn licensing deal for sonefpeglutide - Pharmaceutical Business review -",
           "source": "Google News",
           "date": "2026-06-01",
@@ -502,133 +165,7 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMU1PWEY3azVuclU1YjNBaTJSeXMxMEJYSGxud2J4UkdkcjUyek9ZWUpqbmtfR1kzWWNvaDN1QklFUENwU3Vmc1BVcWtEcHY3X3JsVmN1RW1Pb1l0eDBVakxMTi1odUhlNVFXcXRGYUV0TmotWUtDV2VGcXFienBTYUg0VmVFZmhPZUc4THNMaDFWeENEdFpVYjdR?oc=5"
         },
         {
-          "id": "2026-06-09-0024",
-          "title": "Stramsen Biotech Thanks the FDA for Their Review and Positive Feedback on Pre IND Application for SBX-1977 Wound Care Medicine - PR Newswire",
-          "source": "Google News",
-          "date": "2026-06-02",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Stramsen Biotech, SBX-1977 상처 치료 의약품에 대한 Pre IND 신청에 대한 검토와 긍정적인 피드백에 대해 FDA에 감사 인사 PR Newswire",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech \"FDA approval\"",
-            "Stramsen",
-            "Biotech",
-            "Thanks",
-            "the",
-            "FDA"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWGJiNnpBa0VWN1NvRE90UkU5RW5taGpoWmk2bnJOV0szeTJCYVNHQXMyRk9FUzAtNmt3Wk40cjItOHZ5eUkxT01KQlZFQzFSTW1qYXhwTlJaSDNPaUpDRWpJU1h4c2doVG1LLVVPVDM3OW1iUHY1bnlZNmlsUjQzWnpRck9TX2JlTHIteW5aMW5EWTVNaDVBQTdWQU1iM0VaYzNOUmdZeWp5emRhLWM4WFZuNlBJTjBmRnJycWFxaFlhOEl2VWZSYms5RG1uYmJ1UEtsbU5wdlhJcUJYSDVOUXJucnpWZEl5YlM4dVVEVUwwSUtrU3pFQllIMTFiVHdzd2FfWm1zMF8wUGJfZHlz?oc=5"
-        },
-        {
-          "id": "2026-06-09-0025",
-          "title": "US FDA proposes using existing science to speed up gene therapy development - Reuters",
-          "source": "Google News",
-          "date": "2026-06-02",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "미국 FDA는 기존 과학을 활용하여 유전자 치료법 개발 속도를 높일 것을 제안했습니다.",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "gene therapy",
-            "FDA",
-            "proposes",
-            "using",
-            "existing",
-            "science"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTRVRTNVaFhxVFRZQW95S285WDRpRHpNM1VtZVgxVHJ5WDZpVS1QN3h6bndRZVRCdkY0YnRscFVtakJJdTdyU0pfNDRoNjdiLWZvSjZocEx2T2llWG44TUNvcU1vTFdRS2RRM0Z3WGdLRVdtS012Z0taQU9yTHlrZGsxWlY3WUxOeVFucTlGVUJ6UWN6MFhsWDhkNTZRcWM0aG92SW5qWmswcnhOc21nd09aZDkxR0tjMVB6VFIyRFljT0E?oc=5"
-        },
-        {
-          "id": "2026-06-09-0026",
-          "title": "FDA aims to speed gene therapy development with prior scientific knowledge guidance - RAPS.org",
-          "source": "Google News",
-          "date": "2026-06-02",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FDA는 사전 과학 지식 지침을 통해 유전자 치료법 개발 속도를 높이는 것을 목표로 하고 있습니다. RAPS.org",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "gene therapy",
-            "FDA",
-            "aims",
-            "speed",
-            "gene",
-            "therapy"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzc0bE93VnRjeHNUdWtBTmVMd1hRQzJhZlZkOFVRanlzby1feWg0U1RmS1hrUmZ2dk1SaWUzTzZtYmxSY2JNSW9haGlrV3BIbWliVjBPS05kQXlCNHVJNktXV3phcm02dTdvS0hEQ095YVR1M1R0c1pnWkFHcmRxZWtzblgzNTU2UnItejNEWGtMSnRmbno2bmdFUzZWaTdHS0hGTnJxenlqTUxORHN1RnAtLWpHZWYyOFE?oc=5"
-        },
-        {
-          "id": "2026-06-09-0027",
-          "title": "Exclusive: FDA issues industry-friendly gene therapy guidance - Axios",
-          "source": "Google News",
-          "date": "2026-06-02",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "독점: FDA, 업계 친화적인 유전자 치료 지침 발표 Axios",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "gene therapy",
-            "Exclusive",
-            "FDA",
-            "issues",
-            "industry-friendly",
-            "gene"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zS1REd3F4bmZ4ZlU3bHpUVkFiVklva05XbEtJTkhyR2ZUeTk0ZncyNld0aGJyWW5GWE9OZVZfMHhlb3RFY09Lbnl2NVFCSU8zaTFSajFWckRmeEtRcWVRYkgxaDdCM1daOWF6RkF5MGF6Q3Jq?oc=5"
-        },
-        {
-          "id": "2026-06-09-0028",
-          "title": "Chesapeake nonprofit speaks out after license plates stolen off vehicles used to feed people in need - WAVY.com",
-          "source": "Google News",
-          "date": "2026-06-02",
-          "section": "global",
-          "eventType": "partnership",
-          "summary": "체사피크 비영리 단체는 도움이 필요한 사람들에게 식량을 제공하는 데 사용되는 차량에서 번호판을 도난당한 후 발언합니다. WAVY.com",
-          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
-          "keywords": [
-            "License Out",
-            "Chesapeake",
-            "nonprofit",
-            "speaks",
-            "out",
-            "after"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWlyaE5jNDZtbktHbFVmNmZJWHJiZjRnUlptazRWZHV0TjBQOFB1LTJ2VmdULU5IeXBPaHNkbVJjU3Zkd0hLaG4ySWYteDN2eHJxSFhFN0p6U2ttdFZPMEpQWnVvMTl3TXQyMjI0RzNhQ1Rldk9FckJTT1VBVU5wcVlkOU9BQTdDemFkWEJSVGkyMkFfVzNvMmg4b25VYjYwOF90NkdKV042N2ExUzFYREctUW93ZDlfVDRaTi1tQU9XM1FxWkVEal8tcmxqQ2RaT2U1SlhlWkhvZjhPdmxsRnFtNNIB6AFBVV95cUxNS0I2NTVMVWNab0RtOHk0bkpNOWJHY1dVMUlKZUI1Vzh3VFRoYkowRVBMbThDU1RJZU1RQ1VzdE05STJ4LUw3UUdpT0VndWdLdkNvWHR1dzRVbXlTRDRNTGNBRExNZ2NTQ0lVLWFFUWFWdkZZSFpHRXlYV2RuMlJGUHc2cDJlMjJKQVlhN29rUENTc2JRdWNjNS1FQUlXM2xDbXIzdk5Rd1owSTZ5Q1JpbzdVYXZxVUs4NTJtV090YnE5Z3NLaU1rMjZCRjVjUUFZYWJyLWFNYlRNdl91dzZSMXlZalVDdmQ5?oc=5"
-        },
-        {
-          "id": "2026-06-09-0029",
-          "title": "Q1 2026: When Pharma AI Partnerships Crossed a Threshold - HLTH",
-          "source": "Google News",
-          "date": "2026-06-02",
-          "section": "global",
-          "eventType": "partnership",
-          "summary": "2026년 1분기: Pharma AI 파트너십이 임계점을 넘었을 때 HLTH",
-          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
-          "keywords": [
-            "AI drug discovery partnership",
-            "When",
-            "Pharma",
-            "Partnerships",
-            "Crossed",
-            "Threshold"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGlGcWJiazlTQ0c0LUdVRWRmUVZjOURDUl94ZmZCMW9iOGMyR0w4WWNGYUprQ2VlRWNHMmdIWFNDcnduQ3BMajFhZzNYVk45cE5mSk9QXzBaalJuVEFxLWNFeHJqX1NueGhBaUdjVjBwNm5heWRLeHhnUk9aOXVaem9Jc0sxbkpFS3V0VXVMRjFsTzQ5?oc=5"
-        },
-        {
-          "id": "2026-06-09-0030",
+          "id": "2026-06-09-0008",
           "title": "Why City of Hope Built a National Clinical Trials Platform Designed to Scale With Oncology Innovation",
           "source": "Fierce Biotech",
           "date": "2026-06-03",
@@ -649,28 +186,7 @@
           "url": "https://www.fiercebiotech.com/sponsored/why-city-hope-built-national-clinical-trials-platform-designed-scale-oncology-innovation"
         },
         {
-          "id": "2026-06-09-0031",
-          "title": "A patient-first shift in disease language and communication",
-          "source": "Fierce Pharma",
-          "date": "2026-06-03",
-          "section": "global",
-          "eventType": "clinical",
-          "summary": "질병 언어 및 의사소통의 환자 우선 변화. 질병을 설명하는 데 사용되는 단어는 환자가 진단, 치료 및 이해되는 방식을 형성할 수 있습니다. Mpox에서 비만, Fitzpatrick 척도에 이르기까지 오래되거나 부정확한 언어는 오명을 심화시키고 상태의 전체 범위를 모호하게 할 수 있습니다. Omnicom Health의 최고 의료 책임자인 Sommer Bazuro 박사는 다음과 같이 설명합니다.",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "patient-first",
-            "shift",
-            "disease",
-            "language",
-            "and",
-            "communication"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercepharma.com/marketing/language-disease-and-importance-patient-communication"
-        },
-        {
-          "id": "2026-06-09-0032",
+          "id": "2026-06-09-0009",
           "title": "Surge in M&As driven by patent expirations",
           "source": "Labiotech",
           "date": "2026-06-03",
@@ -691,49 +207,7 @@
           "url": "https://www.labiotech.eu/trends-news/surge-in-mas-driven-by-patent-expirations/"
         },
         {
-          "id": "2026-06-09-0033",
-          "title": "Biotech Stocks Facing FDA Decision In June 2026 - RTTNews",
-          "source": "Google News",
-          "date": "2026-06-03",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "2026년 6월 FDA 결정에 직면한 생명공학 주식 RTTNews",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech \"FDA approval\"",
-            "Biotech",
-            "Stocks",
-            "Facing",
-            "FDA",
-            "Decision"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEdNOU9GYUtuSGFJdjlnakxfbTNIeFZ3aHM4X2p4dzIwMVFKTW1jQVA3Nm0ycE40bU1ldjF0dWtJNEVMQlJET3JvSWZ1S3QyNXdWQlhQa245UGVMcWJLQ3Z4OHN2RHpaMzBzSzNYb2Nvcm94ZjRsMjVSV1BGYkRoc3pCNS15VDN5dEMyYU5ieExzOW5lMnc?oc=5"
-        },
-        {
-          "id": "2026-06-09-0034",
-          "title": "Concord Biotech shares jump over 8% after US FDA approves latest Mycophenolate Mofetil drug - Upstox",
-          "source": "Google News",
-          "date": "2026-06-03",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "미국 FDA가 최신 마이코페놀레이트 모페틸 약물인 Upstox를 승인한 후 Concord Biotech 주가가 8% 이상 급등했습니다.",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech \"FDA approval\"",
-            "Concord",
-            "Biotech",
-            "shares",
-            "jump",
-            "over"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGkwU1ZZUjJPaW5Lai01cllOZ1lScmR2aV9sem9WaGNOQjNQTDdlYkZwVy1SeWh1UzRNbjZDRG5YS0JKQW10VHhFNlg5clE4R2FyMG8yTGMyeWkyckkzcWVSLXhCX1JaN2h3R2xFekNKeloyR3Y1TXdQek84QlFUcTQxOWctWVBmQ3daeGxPamc3eTFIaW81RElfZXhBOUdJeUE2aWNLeDJhR3RkN3FZV1VWcTFUMU5XTkRJaGRRNkhXdE9mcjFmSlF0Qnd6RkVuMmFzN0QwdnYxQjVCTGtVa2xZQ3puUQ?oc=5"
-        },
-        {
-          "id": "2026-06-09-0035",
+          "id": "2026-06-09-0010",
           "title": "Humboldt Supervisors Hash Out Privacy Concerns Over Flock's Automated License Plate-Reading Cameras, Direct Sheriff's Office to Improve Transparency - Lost Coast Outpost",
           "source": "Google News",
           "date": "2026-06-03",
@@ -754,7 +228,7 @@
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFa0M4YnB0Rk5Wb3VIOFNGS0JBSTQzVFlONXFXX1EyOGR0OG83Y3gwTHg5YkMwRXVEMUxBVlUxUnI3a05pb05CQkdXQ0Y0YkVmWlNEQ2V6cXY3Zw?oc=5"
         },
         {
-          "id": "2026-06-09-0036",
+          "id": "2026-06-09-0011",
           "title": "Bristol Myers Squibb and SystImmune announce phase 3 results for antibody-drug conjugate - PMLiVE",
           "source": "Google News",
           "date": "2026-06-03",
@@ -775,7 +249,7 @@
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDQzRE1fdU01c05sb2V2bU1jWDZZQ2ZnM3gxZkJKQ05PZFpLRWd3cmZtZm9sSEtQbTFTcTJLWDhfc0lodGVGdUo5bm8weXZfdGJ2UGgxVXRBR3pQVDVYV3JnMUpKbEROM0hmOGxOeVBfWEJIeGtXTGpyR2d5dnhrWWU0M0hQQld6QllKcEw0QmZua0RORGRmMHdKMllUY01LT2RvUHYyWkMtS1kzNXhVX2xfekZjeXVoamwyVQ?oc=5"
         },
         {
-          "id": "2026-06-09-0037",
+          "id": "2026-06-09-0012",
           "title": "Small Molecules to Big Partnership: Incyte, Genesis Expand AI Collaboration to $1B+ - Genetic Engineering and Biotechnology News",
           "source": "Google News",
           "date": "2026-06-03",
@@ -796,7 +270,28 @@
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVkyU3l1WEE4TTlpQjZEcnRaZV96SnB2TGRMY1NLYWxqTFBnN29xa1BxS0EydzFQLXNleEFfaWVodlFTbFRLV0xUbG9VRVljVzN4Q1hiWXVMVHpYNXR5elllcER3aXp6aHRGWjlpWmI4aUtUUkJpVzVfUFAxSHdNSkhOeGJ5N2ZUVVVMQ2J6YmlVTFQwSDVWekhuYXJMQ3VTM2tLWGdhcnFhV3dKWGRlTlUwVTU3NnJyem1WT25RY1Q2VzE1SkdyWHhkUWkzazR1RldyMw?oc=5"
         },
         {
-          "id": "2026-06-09-0038",
+          "id": "2026-06-09-0013",
+          "title": "Alnylam stock rises on $2B AI drug discovery partnership - Investing.com",
+          "source": "Google News",
+          "date": "2026-06-03",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "20억 달러 규모의 AI 신약 발견 파트너십으로 Alnylam 주가 상승 Investing.com",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Alnylam",
+            "stock",
+            "rises",
+            "drug",
+            "discovery"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkY3ZWdNY3MydWxFWlhMYk5MWHJZVGtNcGRjcjJzRG4yS3llNGJFVlNydGZsb3A4eVBxWFdPM19EQmtZdFBNVld4N3VUNVR3VHVFZkFoTmVlSTVPT3I3RUlfVnV0LUQzV2tJZFA3Nlo5NF95V2V2VzZyZTMyQTgtbDZ4OGwxV1M3YmNuSzVZdnJtOG9SNjVfdjJCZnN3SDMxVDBBUnhCeGxSdjQ0cERPell4XzY3WE9BZWFheUlsck9GcFU?oc=5"
+        },
+        {
+          "id": "2026-06-09-0014",
           "title": "Alnylam and Inceptive Form Strategic AI Collaboration to Accelerate the Discovery of RNAi Therapeutics - Business Wire",
           "source": "Google News",
           "date": "2026-06-03",
@@ -817,7 +312,7 @@
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeHJ1cFFzekdvV2hKNWFKV3Y5UE1RRHFjLWZNTDhrLW45dl9QTjRoUjZ4ZHdzVE03Sjl1NUhrMmNzR3dWZThPbkRqanVjUkVqd1FBSHVZVU5BRFVMNC1oUHFfQnp2Q09PVk1tT2Z0azJ2d2wzY255c2ptQzhic3BjZzhFVjdCWDlQWXlrYnliQ0ZlV3E0Y1Jsb1M3aFZkRHo0cXpkMXkxQmQyendQdTNTVEhGSHZ5OWdfSktMbFZ3aGZMcVNCa3pTQWRmUWozS2I3a0w2c2xwVkF4amtwNjBUdjNPVEJVcUREWUVRYW8wQjY?oc=5"
         },
         {
-          "id": "2026-06-09-0039",
+          "id": "2026-06-09-0015",
           "title": "Alnylam, Inceptive form AI drug discovery collaboration By Investing.com - Investing.com UK",
           "source": "Google News",
           "date": "2026-06-03",
@@ -838,7 +333,7 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3REbVU5Z3lZeENISGd0NURGeE9HeFFianVRVnYyNWVjRkxNVkJsQmt3eU9UY1p2QXU3Tk5Gd3NsUjIxSXQtbTZMcjNhbGR2bjh1VkZFUDA5WHR0TmtBV2tDbGVtTW9YTTJHNG9maWktandjZGxlelRJQ0ppQnJxZFd1OURCOXY1UVp5MzEwcjlCaGhQUmZyOWUza2pLaUw3T3ZyZjJ6NGJ3SmdqZkNyM0lWbXg3QQ?oc=5"
         },
         {
-          "id": "2026-06-09-0040",
+          "id": "2026-06-09-0016",
           "title": "Fierce Pharma Asia—China's biotech rise; ASCO highlights; Lilly pipeline deals",
           "source": "Fierce Pharma",
           "date": "2026-06-04",
@@ -857,6 +352,510 @@
           "importanceScore": 8,
           "koreaRelevanceScore": 5,
           "url": "https://www.fiercepharma.com/pharma/fierce-pharma-asia-chinas-biotech-rise-asco-highlights-lilly-pipeline-deals"
+        },
+        {
+          "id": "2026-06-09-0017",
+          "title": "Ixlayer rolls out digital acute pain management platform in collaboration with Vertex Pharmaceuticals",
+          "source": "Fierce Pharma",
+          "date": "2026-06-04",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "Ixlayer는 Vertex Pharmaceuticals와 협력하여 디지털 급성 통증 관리 플랫폼을 출시합니다. 이 플랫폼은 2025년 초 비마약성 진통제를 출시한 바이오제약회사인 Vertex Pharmaceuticals와 협력하여 구축되었습니다.",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "Ixlayer",
+            "rolls",
+            "out",
+            "digital",
+            "acute",
+            "pain"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/health-tech/ixlayer-rolls-out-digital-acute-pain-management-platform-collaboration-vertex"
+        },
+        {
+          "id": "2026-06-09-0018",
+          "title": "Innovent, fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC - Fierce Biotech",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "deal",
+          "eventType": "clinical",
+          "summary": "12억 달러 규모의 거래에서 새로 나온 혁신적 기업, 다케다와 협력한 ADC Fierce Biotech의 3단계 승리 달성",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "biotech \"FDA approval\"",
+            "Innovent",
+            "fresh",
+            "from",
+            "deal",
+            "posts"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWV6aWJEeDgza1hyMno2dzlQUHlvOXlfaGdXclFNcHMzODlIZ2lhVkpQcXhESkFjcDZQVXlYWnEwbmxLXzlBdllDTXh2WHJ2WmpvdjBEenFBNk53OV9yOHpWZFozSjF1M0JvcmNNZmxVd1VyZTk4aENjVjhOQzlqblhjeUprdXBOTVB2TEdrZ1dYaVdXMHc?oc=5"
+        },
+        {
+          "id": "2026-06-09-0019",
+          "title": "AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial - Nature",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "동형접합 가족성 고콜레스테롤혈증에 대한 AAV 유전자 치료법: 제1상 시험 - 자연",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "gene therapy",
+            "AAV",
+            "gene",
+            "therapy",
+            "for",
+            "homozygous"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95ZXVMTFRYVDg0NmhpNDdFZ2VlWHVxeWdBNlBfdG5XQ0dvS1ZyQjgyVWdWdmtscndrQTRGeWx5akVPcEpwRjhER3VUTkF6V3R1Q2xia2RCSEsySlNDVml3?oc=5"
+        },
+        {
+          "id": "2026-06-09-0020",
+          "title": "Your city may have more license plate readers than you think — and most of them aren't tracked publicly - Cleveland.com",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "귀하의 도시에는 생각보다 많은 번호판 판독기가 있을 수 있으며 대부분은 공개적으로 추적되지 않습니다. Cleveland.com",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "License Out",
+            "Your",
+            "city",
+            "may",
+            "have",
+            "more"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbmd2MTNCSlJDd0p0NlJEck50SV9WMmN0R3NYVld1MFZySXlhYU5YMm1XOFNBdlpfMWNaX0FBSFEzV2VXTGNkYVVSNS1GanBkTzhnNzdNMTc0R0ZPTnBxQzFZc2l1UDk4QUdmSVBrN3c1Tm10WnQwVGxBeTNVS0dpTW5GZHFzYnVWUlAzYjZ2V2MzY0pSd0VwLUFpd0VoR2hOcWQwYTVHN0Q?oc=5"
+        },
+        {
+          "id": "2026-06-09-0021",
+          "title": "HASC Rejects $150 Billion Topline Cut, Iran Cost Transparency Proposals At NDAA Markup - Defense Daily",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "HASC는 NDAA 마크업 디펜스 데일리(Markup Defense Daily)에서 1,500억 달러의 톱라인 삭감을 거부하고 이란 비용 투명성 제안을 거부했습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "topline",
+            "HASC",
+            "Rejects",
+            "Billion",
+            "Topline",
+            "Cut"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUxBMERxY011VkF0RHF5bFlFbDBVQmRPa0xDVWZPT3FEUFBfVEZCOXFMRlRTNGxpOXJvNnl5cExNZFNQeFhna0VFTjBZdThFTVpwY2J5QVhIY3JKcmNoMk9tVTBQRllMLVBfWnRKeC1oWm1FM0xGTHE0VDh0VXdibDhzMUFHRFptbktsRzMzeHF3bHVGeVRxMm4zRmFzb0IxcTZwVzh6MEdTLUNwUmdTYlZQZ2p0SVZWRU5JUVBsUFQ?oc=5"
+        },
+        {
+          "id": "2026-06-09-0022",
+          "title": "Alnylam, Inceptive form AI drug discovery collaboration - Investing.com",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "Alnylam, Inceptive 형태의 AI 신약 발굴 협업 Investing.com",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Alnylam",
+            "Inceptive",
+            "form",
+            "drug",
+            "discovery"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlBpQmJHS0pGcVZ3aHF3c0ZTaTk2ejZ6ckQ5ZjdodmpGdk54VzdMclJ4ZC1fT3A5SjFQbERLcXRQT0J1WE1fNHB2ZFZLNWVsSW56ZmtRYzcyRzFmQzJ0bEJnOGU1ZkhabkIyZm1KNnp4c3MwYkM4djdPWVVjZG84UHZ2WFJfZXVwSnZYUUJHQkFBQXdtZnplemdJTE1oNk12Y1JCX25WQXlFOEJVSjRNVA?oc=5"
+        },
+        {
+          "id": "2026-06-09-0023",
+          "title": "Alnylam, Inceptive form AI drug discovery collaboration By Investing.com - Investing.com India",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Alnylam, Inceptive에서 AI 신약 발굴 협력 시작 By Investing.com Investing.com 대한민국",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Alnylam",
+            "Inceptive",
+            "form",
+            "drug",
+            "discovery"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZTJndFdQY2g0XzdEM0FyVkZSZzN4LWxweXY2amFCVndHTkpzemY4VHFua2Q3aDhmMXpKVFczWjJ2eVpneHVMNExONmtlb1FDeWZBRXlUY1lVYnY3ZGVQVl9VSklPMkZIS2l3a0xxeVlRNTFmdWJNV1MyT29XR2FLbjZxakVvdWdqSXE0X0RXOGlzZjFkVEVHM3Y4T2FHMVIxUEkybVBFMEVRdkdiUEZObW5fa0Vtdw?oc=5"
+        },
+        {
+          "id": "2026-06-09-0024",
+          "title": "Chai Discovery Announces License Agreement with Pfizer to Accelerate Drug Discovery with AI - Yahoo Finance",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "차이 디스커버리(Chai Discovery), AI로 신약 발견 가속화 위해 화이자(Pfizer)와 라이선스 계약 발표 Yahoo Finance",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "AI drug discovery licensing deal",
+            "Chai",
+            "Discovery",
+            "Announces",
+            "License",
+            "Agreement"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR05lMjgxNE1QVVE0Z2NvY0QzWTN3X1JZbkpQYTE2RDBPTmxmV1JwWTlvOUZQc01YRTRWMVAzcjRhTmJJNGcyaVZndHBNWEpEWEFJVUZ3V2ZXcmVGOW4wcHlFeFBib2pudlF4M1ktMmdZWHR0SWVNTElvMnotWU55REJudHJabTFUdlh1SHo2YTNlSVR4WDRtcVhLVlFPdFg1M2dsWmVGWVVnLWxwdVRhaA?oc=5"
+        },
+        {
+          "id": "2026-06-09-0025",
+          "title": "Behind the headlines of ASCO 2026",
+          "source": "Fierce Pharma",
+          "date": "2026-06-05",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "ASCO 2026의 헤드라인 뒤에. 매년 전 세계 종양학 커뮤니티가 ASCO를 위해 시카고로 모여듭니다. 이곳에서는 떠들썩한 데이터 드롭, 관행을 바꾸는 포스터 및 꽉 찬 세션에서 암 치료가 다음으로 향하는 방향을 살펴볼 수 있습니다. 이번 주 \"The Top Line\" 에피소드에서는 Fierce Biotech의 Darren Incorvaia와 Fierce Pharma의 Zoey Becker 및 Angus Liu가 다음과 같은 내용을 분석합니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "Behind",
+            "the",
+            "headlines",
+            "ASCO",
+            "Each",
+            "year"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercepharma.com/pharma/behind-headlines-asco-2026"
+        },
+        {
+          "id": "2026-06-09-0026",
+          "title": "Eight oncology deals in 2026 spotlight where industry leaders are betting big",
+          "source": "Labiotech",
+          "date": "2026-06-05",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "업계 리더들이 큰 투자를 하고 있는 2026년의 8개 종양학 거래가 주목을 받고 있습니다. 2026년 현재까지 체결된 8가지 주요 종양학 거래를 살펴보고 업계 리더들이 큰 투자를 하고 있는 분야를 조명하세요. 업계 리더들이 큰 기대를 걸고 있는 2026년 8개 종양학 거래가 주목을 받고 있는 포스트가 Labiotech.eu에 처음 등장했습니다. © Labiotech UG 및 Labiotech.eu. 무단도용…",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "Eight",
+            "oncology",
+            "deals",
+            "spotlight",
+            "where",
+            "industry"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.labiotech.eu/best-biotech/oncology-deals-2025/"
+        },
+        {
+          "id": "2026-06-09-0027",
+          "title": "It Takes a Village: Bringing Cell & Gene Therapy to Patients - Pharmacy Times",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "마을이 필요합니다: 환자에게 세포 및 유전자 치료 제공 Pharmacy Times",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "gene therapy",
+            "Takes",
+            "Village",
+            "Bringing",
+            "Cell",
+            "Gene"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2pjYmF1R3RmVE5JaUNfNG82TUg5Z2FqOXN1N2NYc1Y1ZTRIQncwSkRiOEptOEZHckhEZzRFZEVHdXRWc1pyZXZmNnRlaFY4THJieUhLLUhEaGgwamdwNWR2MnFDTE5DVGx2SXVLcm5qOGY3aExpa21YQWRFcVdyT0poRTRjMXBvNHJaZzZWSk5sY19kMDB3?oc=5"
+        },
+        {
+          "id": "2026-06-09-0028",
+          "title": "Taysha Gene Therapies Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4) - GlobeNewswire",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Taysha Gene Therapies, 나스닥 상장 규정 5635(c)(4)에 따른 유도 보조금 발표 GlobeNewswire",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Taysha",
+            "Gene",
+            "Therapies",
+            "Announces",
+            "Inducement"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMUxUVDlGQTV2dHBjQ2xSSHNZcl9iMWlwNU5KVkk4c1h3QUNjSlljWllpNUdMREJkS1VtZmlqOFZoQWFIV1JUcTdSTzlUSHVCd3RQcTBoZjZqSklsZzFCN21HX1BDd01XM2VoQWpfeUpkOG53NFJMWWJXWi10RFFQSUh5aFhQQkh5SUhoRVJLRTF0eDZJdXZzSTJZTktnM2Z0cG9qcm4wQkFJeURuaXBPb1JHb0V4dkM5WTQzeXBlZUJKVHBmNjlVN0NrVDJHLU5YSVRyekFTUDBLRUNBWVFYWUp0OE9wbXhhaDBF?oc=5"
+        },
+        {
+          "id": "2026-06-09-0029",
+          "title": "New License app Coming out Tuesday - Ingstad Media",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "화요일에 새로운 라이선스 앱 출시 Ingstad Media",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "License Out",
+            "New",
+            "License",
+            "app",
+            "Coming",
+            "out"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8td1ZSX3dqLWl5U0RQMDZwWExPUTB5STlXSzJuOFN5NGZqeE1YbDdBSXlMYmY1a29GZzg0N1Iza193a00yV2JWQmdVRnJEWEFXbURCdGVxUHl5cGx5OGhnSUxEYTEzTGFEUmFVVA?oc=5"
+        },
+        {
+          "id": "2026-06-09-0030",
+          "title": "Texas Free Fishing Day returns Saturday, no license needed - USA Today",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "텍사스 무료 낚시의 날(Texas Free Fishing Day)이 토요일에 돌아옵니다. 라이선스가 필요하지 않습니다. USA Today",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "License Out",
+            "Texas",
+            "Free",
+            "Fishing",
+            "Day",
+            "returns"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWUo2WTgydlVCSHlLRExuQmhKZTJSSTFFdHZiNG5qblR1Z0Z3c0pveGJoMzcxNGpNT3J1a1FzM0ZmQ0ZQWnEtZmV6ZUJWUlhPQS12VVhJTkg3STJTUUNieXUxblNlNmNKc2w5bTJ6NVRWVmdwdk1jZzMzc2VLaWtpV3l1LTU3TjV5N3FqWGlPUGk3TTJUV2Z3Qm9wbFd4WkdfczV4cFhMUXBNRkdXZXRaQ1UwTFd6TnhFcHJxdXhnT0NJZER1d1V2NGdCdHVBUlhSRGtoOE1R?oc=5"
+        },
+        {
+          "id": "2026-06-09-0031",
+          "title": "BofA Ups Price Objective, Forecasts for Inditex on Fiscal Q1 Topline Beat - marketscreener.com",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "BofA, 회계연도 1분기 톱라인에서 Inditex에 대한 가격 목표 및 예측 상향 marketscreener.com",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "topline",
+            "BofA",
+            "Ups",
+            "Price",
+            "Objective",
+            "Forecasts"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXZ4Y3J3UUZob0M3RDV5QklOOWZwdkFzd1VJZHRsR1dEMkNXTktYTEdkUVQxRUcwTlY1Wm93elpFeHQxNmo2azl6ZlJmdVlTYVY1dWltM1hRYjhGSGFHOHdjY0Y0VmhyOWp5OWl4bF9PUEljME1WUExISXgwMWhmRGtCOExBQmJOY0ZPNEJoRHhNMGxDOXJrWEtHelY3SnRGaGpVUGJWblFHNG16UWFQbnZ0X3NqUEJzSGdtalV2cXZVVXc?oc=5"
+        },
+        {
+          "id": "2026-06-09-0032",
+          "title": "Chai Discovery Enters License Agreement with Pfizer to Accelerate Drug Discovery with AI - Pharmaceutical Executive",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "차이디스커버리(Chai Discovery), 화이자(Pfizer)와 라이선스 계약 체결, AI제약 경영진과 신약개발 가속화",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Chai",
+            "Discovery",
+            "Enters",
+            "License",
+            "Agreement"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNanBFVG9RdXVrS1FDTUk1WlVzMzhUN2V1TVlHRE4zMjMzWllBeHV5d3BqYTVJWmtOVWRYY1g3cGtpTXFVelBhT3dPMXVGYktvRzFSNEY5WXNYNjBFS2UtYV9fbmRkVFZ5bXltNVdJanh0LUU1bjFRYW1MRFpTZmg3ejhHUmJ4SFF6Y2J4eG1uSUk3NlhwVUl5ZWFIR1p4LVNVckwyX3Q5bw?oc=5"
+        },
+        {
+          "id": "2026-06-09-0033",
+          "title": "Owkin, Sanofi expand AI collaboration to build drug development AI agents - MobiHealthNews",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "오킨(Owkin), 사노피(Sanofi)와 AI 협력 확대해 신약 개발 AI 에이전트 구축 MobiHealthNews",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Owkin",
+            "Sanofi",
+            "expand",
+            "collaboration",
+            "build"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGVIX1NxTW5tbDllc0NUdjZlR0VLbldJNGdZSU9XeDFob3paSU9vN3BzRmh0QzdXX2llSlR5VWlRdFd1ZnJraEp0MzNSQ04zZjNXcXBWX3htS3M0UEh3RVFkamQtZHA1RTZLN3FQTHJqZHh5Wk1acVNtUHdWbEVLc3A5bjZfdDFiMXh6UXhidVNKUUptOVVCZlQtRjJOR0c1aDlHYWpqQVk?oc=5"
+        },
+        {
+          "id": "2026-06-09-0034",
+          "title": "Sanofi, Owkin partnership moves from cancer discovery work to AI agents - FirstWord Pharma",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "Sanofi와 Owkin의 파트너십이 암 발견 작업에서 AI 에이전트로 이동 FirstWord Pharma",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Sanofi",
+            "Owkin",
+            "partnership",
+            "moves",
+            "from"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NV1I3cm01X19BUm9jdENVNFBnTlozdFZZeHBWSngtZkp0Ti1SYkRydFMwNFNwM3djUHMtRkhFNkNYRzFWQlhqbVNXMkdrdzQwWTBR?oc=5"
+        },
+        {
+          "id": "2026-06-09-0035",
+          "title": "Sanofi-Owkin Expand AI Collaboration With New Agentic AI Initiative - Sanofi (NASDAQ:SNY) - Benzinga",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "Sanofi-Owkin, 새로운 Agentic AI 이니셔티브로 AI 협력 확대 - Sanofi (NASDAQ:SNY)",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Sanofi-Owkin",
+            "Expand",
+            "Collaboration",
+            "With",
+            "New"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPanhtY2JucGtIREowckI4RFIzWGo1UjJaYkxTV0xlTUNtTFNVN0pBdEhvdS01LXVrdUlNUzBvS1VEdjMxRml2Szd3Ml9NUS1MTWc4dUVWYjlxWmFXRFZTRUotVW9ieFZ1UTNVVUxQRzMtM29SWnNFdWlqY000d2ZMUjhBS0pGRW1DWk0xRFh6MkVZSVpKNFppbEIyYnRJa2ZLREE1Zjc3SlFvci1JandmZnFkZU5NX0xSWGpBZkZwc0ExQQ?oc=5"
+        },
+        {
+          "id": "2026-06-09-0036",
+          "title": "Pfizer licenses Chai Discovery AI platform for drug discovery - qz.com",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "화이자, 신약 발견을 위한 Chai Discovery AI 플랫폼 라이선스 qz.com",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "AI drug discovery licensing deal",
+            "Pfizer",
+            "licenses",
+            "Chai",
+            "Discovery",
+            "platform"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwaWJzSE81ejltR0dIY0lmTmUzN09leGxIRW9GLWRPUE5fMm5FRFBPT1FnVmMybjloMktqbDBCakQ3ZUhaZzhQS2ZBY3pOSC0yNkpDS1RoOHVUMVk1Zkk3TjZQRGl2dl9ZYng2Sm9PWGVoVFpuZ1RqNQ?oc=5"
+        },
+        {
+          "id": "2026-06-09-0037",
+          "title": "ADA: Lilly pulls back curtain on impressive triple-G efficacy in patients with obesity, diabetes",
+          "source": "Fierce Biotech",
+          "date": "2026-06-06",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "ADA: 릴리는 비만, 당뇨병 환자에 대한 인상적인 Triple-G 효능에 대해 다시 한 번 밝혔습니다. Zepbound가 모든 실린더에 불을 붙이고 Foundayo가 경구 시장에서 경쟁을 벌이는 동안에도 Eli Lilly는 초기 GLP-1이 개척한 비만 및 당뇨병 치료에 대한 일률적인 접근 방식이 곧 쓸모없게 될 것임을 잘 알고 있습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "ADA",
+            "Lilly",
+            "pulls",
+            "back",
+            "curtain",
+            "impressive"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercebiotech.com/biotech/ada-lilly-pulls-back-curtain-impressive-triple-g-efficacy-obesity-and-diabetes-execs-arent"
+        },
+        {
+          "id": "2026-06-09-0038",
+          "title": "Minnesota DNR begins transition to new licensing system with anglers and hunters - MPR News",
+          "source": "Google News",
+          "date": "2026-06-06",
+          "section": "deal",
+          "eventType": "partnership",
+          "summary": "미네소타 DNR은 낚시꾼과 사냥꾼과 함께 새로운 면허 시스템으로 전환을 시작합니다 MPR News",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "License Out",
+            "Minnesota",
+            "DNR",
+            "begins",
+            "transition",
+            "new"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDRJVWJGOHhGWkdkVlc0eXY5Y2lxZmY4WmZJSTItdlhwQkhHOFlnRWR6S2FRNTR1a2RlcGVxeC1pdkpBQXN0cWNwRW4wZk9SWUNja3ZZWUM0bkpjeXFnT2JLM0dfeUhKb1lRMzJWcWNVOERya1otcDBBR2FnakdkbC1RVVhLY3FyM1pzSGFXSmlDTl9HOWVFUnY5UGxEREtobVE4ZVdad0hNLVE4bDdHUXZ4ZnRpZFU0bGdSbnFn?oc=5"
+        },
+        {
+          "id": "2026-06-09-0039",
+          "title": "Complaint: Man arrested after being found in car with changed out license plate - guampdn.com",
+          "source": "Google News",
+          "date": "2026-06-06",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "신고: 번호판이 바뀐 차량에서 발견된 남성 체포 guampdn.com",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "License Out",
+            "Complaint",
+            "Man",
+            "arrested",
+            "after",
+            "being"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdEFJczluQnNqQnhYR2JtNmt5bzZWbXdoamZuNWVQVzBQT0xHWFZ5YmVYS3NZYzJBRVkyR3VfbWdWSUFvTl9tVzlZQ1E3dWdnakJzbEE5VlpqbFgtejA3QkpldWxFcTcydnI4WktVcElEcnN3MWFBZGlSSDdQMWJpVEFZeG5waDlldHBXZFRPRGlCZlRydGRTb0JwS3d2R0NZaXU3T1RlNUhzZjRUUzhpUkZoQTN2Wmt0Q3FKMDZYNG9iNzJTX2U3TnZkSHYwQVlTTXIteGlUQjctRVZoeDhXb3BHWm1tOE1vN3RMZ2Rn?oc=5"
+        },
+        {
+          "id": "2026-06-09-0040",
+          "title": "Protein Stabilizers Market Growth Outlook to 2035: Demand Accelerates on Novel Modality Needs - News and Statistics - IndexBox",
+          "source": "Google News",
+          "date": "2026-06-06",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "2035년까지 단백질 안정제 시장 성장 전망: 새로운 양식 요구에 대한 수요 가속화 - 뉴스 및 통계 IndexBox",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "novel modality",
+            "Protein",
+            "Stabilizers",
+            "Market",
+            "Growth",
+            "Outlook"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUEhYdGJCMmxlQkk2X2p1Z1JnOWkwNkM4ejVkX3d1blRKUmtTUWZxSTc3anlmdHdJa3FEUmM3QW91VlhMVDA5WTE0LVBRWmhLRUNLYWNKdDlwUnE5cWdyZkdVbE1fb09kbjlNYUFQSnItU3prMTdTVUNLVHZWalE1MEVxTnJPY3hSY3F0dHFtLXVNcTM0U29qVXY2S1Z2TDRQelJHUUVNU0RQZmZGME1lVFk4aFE1WmNhM0RiclZVVjEwQ2oyTEtxaFJTU1BIa2NJNUUyQ2NCTVFkdGh5UDlKdVhxdDFTZ1hwVjVrMw?oc=5"
         }
       ]
     },

@@ -1,6 +1,866 @@
 {
   "reports": [
     {
+      "reportDate": "2026-06-10",
+      "title": "2026-06-10 바이오 뉴스 브리핑",
+      "summaryLines": [
+        "TG Therapeutics, GlobeNewswire의 긍정적인 톱라인 1상 데이터 발표",
+        "Bial, GBA 관련 파킨슨병에 대한 ACTIVATE 2b상 연구의 주요 결과 보고",
+        "교모세포종에 대한 종양 표적 인터페론-α 유전자 치료법: 1상 시험 - 자연",
+        "20억 달러 규모의 AI 신약 발견 파트너십으로 Alnylam 주가 상승 Investing.com KR",
+        "ADA: Amgen은 심장 대사 혈통을 향상시키기 위해 Repatha 특혜, GLP-1 함정을 강조합니다. Amgen은 향후 10년이 시작될 때까지 심장대사 위험 감소 부문에서 최고의 플레이어가 되기 위해 노력하면서 지난 주말 뉴올리언스에서 열린 미국 당뇨병 협회 2026 과학 세션에 참가하여 콜레스테롤 저하에 대한 사례를 강화했습니다."
+      ],
+      "sections": [
+        "global",
+        "regulatory",
+        "deal",
+        "modality",
+        "paper"
+      ],
+      "items": [
+        {
+          "id": "2026-06-10-0001",
+          "title": "TG Therapeutics Announces Positive Topline Phase 1 Data for - GlobeNewswire",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "TG Therapeutics, GlobeNewswire의 긍정적인 톱라인 1상 데이터 발표",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "topline",
+            "Therapeutics",
+            "Announces",
+            "Positive",
+            "Topline",
+            "Phase"
+          ],
+          "importanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPYkp0M21IVDVyUnRzOGZtNUNUaXBsTkt4SWNjUmZmNVJ6TkFWSEFxYVFMNlJ3a2V5ckMtY181NmJMTnMycjNqdGlwNTZKcV9xMHNfY212TFNsNTJPZkVQNEd6WS1qZ1NUbWN0bmlIMVFJMFZWRjY1Z3VXWTJ4WHY4cDhUVDNoLXpKR1JFaTBaTUc0Q1VjYUtSN0lWS2xhRWJKU3BveGFkMUtGS243UG8tT04wcU1JNmVHSlo2YXhQT3pGcllDSXFvMU95VHJJWDVzdUNhWmk1bVRDUy1JdDhJVTcwMWU2b2k5LXBaS1JpTjJRcVNzcXl1eWhkMzVWbWc3LUtCYkJCS290ZFg0dWEzNXhLVnRsdnlyUlFVUlR0WXQ1dUxlTGRqLUdLMjE4dndCUEhEbUhDQnNrcHNNWEpGR2NVa1FyYWpRT29TUWVoczlidXZ0eXppcWNGUzZzZFRMZ0RlQkYtZHFqUmsxTG5SVg?oc=5"
+        },
+        {
+          "id": "2026-06-10-0002",
+          "title": "Bial Reports Topline Results From ACTIVATE Phase 2b Study in GBA‑Associated Parkinson’s - Business Wire",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "paper",
+          "eventType": "clinical",
+          "summary": "Bial, GBA 관련 파킨슨병에 대한 ACTIVATE 2b상 연구의 주요 결과 보고",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "topline",
+            "Bial",
+            "Reports",
+            "Topline",
+            "Results",
+            "From"
+          ],
+          "importanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSnloM2I5dlJNd3FtLWhrMWp3WVlLdVdUbXpUWlNpZWUydlRWZVJMcUlJMVp4R3ZTenRDcDB0OUY5ZkEtSl9ZeXdCZHkzbnV5d0IwUXRHdTlvRmZXSF9pZkJuU2NVb3RUZXhneFRNbk1uMGozamVPZmU4VTk3S0Q5UU81MldsUlFoVVFrUWFkSkluVVh2bEJLdXp1VlBzQkxTUDMwN3h5VGVMNmZvd18tTUJNdnUwa2lJc0d4RmdLRFViWUFGdlZrTUhObGdIVThlTm1JUXJnRDBLUQ?oc=5"
+        },
+        {
+          "id": "2026-06-10-0003",
+          "title": "Tumor-targeted interferon-α gene therapy for glioblastoma: a phase 1 trial - Nature",
+          "source": "Google News",
+          "date": "2026-06-01",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "교모세포종에 대한 종양 표적 인터페론-α 유전자 치료법: 1상 시험 - 자연",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "gene therapy",
+            "Tumor-targeted",
+            "interferon-",
+            "gene",
+            "therapy",
+            "for"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16STJYVTZua2xjZmRWRkZHMzZYUE4tUEYzWnJnRFl2LXA5SVVycWZSTjd5OHdsejgzV3prNW92X0htaWdmWTZxWW5RMVp2VUVNaUMzVklLX2dMWVJDb1VV?oc=5"
+        },
+        {
+          "id": "2026-06-10-0004",
+          "title": "Alnylam stock rises on $2B AI drug discovery partnership - Investing.com UK",
+          "source": "Google News",
+          "date": "2026-06-03",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "20억 달러 규모의 AI 신약 발견 파트너십으로 Alnylam 주가 상승 Investing.com KR",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Alnylam",
+            "stock",
+            "rises",
+            "drug",
+            "discovery"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdzBaZFp1MlFVV2JOOVNPSjRGM3hvWFdIdUN1aXFpbzdsaVIyZFZ5dm1EZFRRYlluUlo0TmFSek9WWEhnY09ZMFBIc2ZyTloxVm0tYThaN21oUlplbG9IVGU2RGVka2VCaDNOMDh5UzFxYmlGS2hjbXYyLXhIaDRQYlFFMVdWNmFsQXBrUE0ydzExMGgzNFgzaHdYa3E0eTBNTjNObDJLczdFY3NLX3NyZmhoc092OEMwWWMzQXY3Nmp5SEVrWWhn?oc=5"
+        },
+        {
+          "id": "2026-06-10-0005",
+          "title": "ADA: Amgen highlights Repatha perks, GLP-1 pitfalls in push to boost cardiometabolic pedigree",
+          "source": "Fierce Pharma",
+          "date": "2026-06-07",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "ADA: Amgen은 심장 대사 혈통을 향상시키기 위해 Repatha 특혜, GLP-1 함정을 강조합니다. Amgen은 향후 10년이 시작될 때까지 심장대사 위험 감소 부문에서 최고의 플레이어가 되기 위해 노력하면서 지난 주말 뉴올리언스에서 열린 미국 당뇨병 협회 2026 과학 세션에 참가하여 콜레스테롤 저하에 대한 사례를 강화했습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "ADA",
+            "Amgen",
+            "highlights",
+            "Repatha",
+            "perks",
+            "GLP-1"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/ada-amgen-highlights-repatha-benefits-glp-1-pitfalls-amid-aim-become-top-cardiometabolic"
+        },
+        {
+          "id": "2026-06-10-0006",
+          "title": "ADA: Dexcom CGM shows benefit in non-insulin diabetes patients",
+          "source": "Fierce Biotech",
+          "date": "2026-06-08",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "ADA: Dexcom CGM은 비인슐린 당뇨병 환자에게 이점을 보여줍니다. Dexcom 연속 혈당 모니터는 무작위 시험에서 인슐린을 사용하지 않는 제2형 당뇨병 성인의 혈당 조절을 개선하는 데 도움이 되었으며, CGM을 보다 광범위한 1차 의료 용도로 사용하려는 업계의 추진에 새로운 활력을 불어넣었습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "ADA",
+            "Dexcom",
+            "CGM",
+            "shows",
+            "benefit",
+            "non-insulin"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercebiotech.com/medtech/ada-dexcom-cgm-shows-benefit-non-insulin-diabetes-patients"
+        },
+        {
+          "id": "2026-06-10-0007",
+          "title": "GSK pledges £44.5M in near term for UK biotech to explore cause of liver fibrosis regression",
+          "source": "Fierce Biotech",
+          "date": "2026-06-08",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "GSK는 간 섬유증 퇴행의 원인을 조사하기 위해 영국 생명공학 기업에 단기적으로 4,450만 파운드를 지원하겠다고 약속했습니다. GSK의 최근 간학 파트너십은 환자의 간 섬유증의 퇴행을 어떻게 장려합니까?라는 덜 묻는 질문을 제기하고 있습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "GSK",
+            "pledges",
+            "near",
+            "term",
+            "for",
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/gsk-pledges-ps445m-near-term-uk-biotech-tackle-liver-fibrosis-regression"
+        },
+        {
+          "id": "2026-06-10-0008",
+          "title": "ADA: Novo's Wegovy pill reaches new GLP-1 patients with impressive 3M prescription milestone",
+          "source": "Fierce Pharma",
+          "date": "2026-06-08",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "ADA: Novo의 Wegovy 알약은 인상적인 3M 처방 이정표를 통해 새로운 GLP-1 환자에게 도달했습니다. Novo Nordisk의 경우, 연초에 회사의 큰 기대를 모았던 Wegovy 알약(비만에 대한 최초의 경구용 GLP-1을 대표함) 출시는 경쟁사인 미국의 Eli Lilly에 양보했던 만성 체중 관리 시장의 일부를 탈환할 수 있는 기회였습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "ADA",
+            "Novo",
+            "Wegovy",
+            "pill",
+            "reaches",
+            "new"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/ada-novos-wegovy-pill-reaches-new-glp-1-patients-impressive-3m-prescription-milestone"
+        },
+        {
+          "id": "2026-06-10-0009",
+          "title": "Pfizer scores FDA pediatric expansion for hemophilia treatment Hympavzi",
+          "source": "Fierce Pharma",
+          "date": "2026-06-08",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "화이자(Pfizer)는 혈우병 치료제 Hympavzi에 대해 FDA 소아 확장을 획득했습니다. FDA는 화이자의 Hympavzi에 대한 라벨을 확장하여 이제 혈우병 A 또는 B를 앓고 있는 6세 이상의 환자를 포함합니다. 새로운 확장은 억제제 상태에 관계없이 6세 이상의 모든 환자에게 적용됩니다. 새로운 승인으로 인해 다음과 같은 질병이 발생한 12세 이상의 사람들에게도 치료가 가능해졌습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "Pfizer",
+            "scores",
+            "FDA",
+            "pediatric",
+            "expansion",
+            "for"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercepharma.com/pharma/pfizer-scores-fda-pediatric-expansion-hemophilia-treatment-hympavzi"
+        },
+        {
+          "id": "2026-06-10-0010",
+          "title": "Tango data add to growing momentum for pancreatic cancer drugs",
+          "source": "BioPharma Dive",
+          "date": "2026-06-08",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "Tango 데이터는 췌장암 약물의 성장 모멘텀을 추가합니다. Tango의 실험적 치료법이 포함된 조합은 소규모 임상 시험에서 예상했던 것보다 훨씬 더 반응률을 높이는 것으로 나타나 주가 급등을 촉발했습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "Tango",
+            "data",
+            "add",
+            "growing",
+            "momentum",
+            "for"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.biopharmadive.com/news/tango-pancreatic-cancer-data-vopimetostat-daraxonrasib/822221/"
+        },
+        {
+          "id": "2026-06-10-0011",
+          "title": "FDA releases draft guidance to accelerate gene therapy development - BioProcess International",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "FDA, 유전자 치료법 개발 가속화를 위한 지침 초안 발표 BioProcess International",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "FDA",
+            "releases",
+            "draft",
+            "guidance",
+            "accelerate"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelNCZEtKWEhVY1FnNWVKVkloZjEzYjlKakhzRXdxNE5fZ291U29qMFU3bVNMWDhrbFAzb2pHX0w2QVYyVlRoUEJqTXhmOUtKb3p3emk5WHV6WklFc2ZpVF9DSFdyUzR4WkNNMnY3MU1YaXhqRjVzUFR3ZHlfbVhaTlZWankwaUFldll1dHVFOFlIQkVjanpnbXBiQWZ1ZVlHcjhIRGJZeGhSU0Z2Nnc?oc=5"
+        },
+        {
+          "id": "2026-06-10-0012",
+          "title": "Cell & Gene Therapy CDMO Partnerships - Contract Pharma",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "modality",
+          "eventType": "partnership",
+          "summary": "세포 및 유전자 치료 CDMO 파트너십 계약 제약",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "gene therapy",
+            "Cell",
+            "Gene",
+            "Therapy",
+            "CDMO",
+            "Partnerships"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53Y0VBcTg2RmE5WjJ1R1cyVDI5SmFEZ2NJb2xlZWZKbURqdVJNNlhPV1ZZbE93NmdJZVhGUF9lTDRnMDlPYlNsVlNGd2U0elJURmJUU29QamhYUlhPNHBrOTlrY3J5Z1RXSDh2YXREREhoZHdlX0E?oc=5"
+        },
+        {
+          "id": "2026-06-10-0013",
+          "title": "Neurogene completes dosing in Rett syndrome gene therapy trial - Investing.com",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "뉴로진, 레트증후군 유전자 치료 임상시험에서 투여 완료 Investing.com",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "gene therapy",
+            "Neurogene",
+            "completes",
+            "dosing",
+            "Rett",
+            "syndrome"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOUJQS0lubjFNbWoyQndWVGx6MjNTaFp6ZFJMdjZ1LXloTVpiUHdyUUFTaGU4bzRRdm9Jb0lWa2pDaDh0OWRqR0JGR2RVdjhfaFgzd1RWOHZaZXFCYVVqZUdxQVJVa3RFUjc4SWZQMGl5QnpjcWJDUkJoWWtyOFRlZXNWYVhuRmJyQ1o1bzdqVm5QOXFicmNiOWdCS1NTSE5zT1pDNGJQcm03Z25wQmhKNHE4bEJ0YWdSXzVj?oc=5"
+        },
+        {
+          "id": "2026-06-10-0014",
+          "title": "New FDA guidance may speed up gene therapy development - Progress Educational Trust",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "새로운 FDA 지침으로 인해 유전자 치료법 개발 속도가 빨라질 수 있음 Progress Educational Trust",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "New",
+            "FDA",
+            "guidance",
+            "may",
+            "speed"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObnpQMG81MXQyYWFQWWpKVFpfTTRTaXBiQ2k0N0R2cDM4LUpLMldaYlZjRjFDQk5Xd0VGUDVYMDhNckhMdllKZ1R6NlZSVkFXY0puYkFuVG96ZzZ0Nkp3UWwwX3k3YVE0VmxfekU1UVVoUVR0Mm5uM0pYazA3YTluenozZWFXR3hHUzE4?oc=5"
+        },
+        {
+          "id": "2026-06-10-0015",
+          "title": "Busy FDA gives rare disease sector complementary pathways, unanswered questions - BioSpace",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "바쁜 FDA, 희귀질환 부문 보완 경로 제공, 답이 없는 질문 BioSpace",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Busy",
+            "FDA",
+            "gives",
+            "rare",
+            "disease"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGRoUEFVWlpyYm9qM2tEdG1kTEdpMVpmN0FrMlJjemdIRnFfbWtyOXJuQVpCWjRxZ05lM29JOVp1SzU2Tkk0aUhCT0RsNzRpTWFxOGJCaHlzd2JpbmFVZnU5cWNsNkRIS2luOTJEWG5XNW5IZGxfOVVQbnBaR1FSQ3M3bWQ3OW9RT1k0UmM2Y3h6ci1xUnpCUVMxNWE2blA1R0tLbGdmZkxGRG8?oc=5"
+        },
+        {
+          "id": "2026-06-10-0016",
+          "title": "City of Camden suspends EMR’s junkyard license after 2-alarm fire - WHYY",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "Camden시는 2개의 경보 화재 이후 EMR의 폐차장 면허를 정지합니다. 왜?",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "License Out",
+            "City",
+            "Camden",
+            "suspends",
+            "EMR",
+            "junkyard"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjN3BveUdSV1NHcGdfWEhJYWZVTGtld3l3cmpkUGtMV0dPZlVWVjNiejlyMG5aWlplNUhqQWJrT3dhblNnU01tb2lKbUF0VkZsM0lzay1vd1Q0SlBVRjdSV1dMc0hmNlExMlBBVEI0ZnE2Z3k1UDlrYQ?oc=5"
+        },
+        {
+          "id": "2026-06-10-0017",
+          "title": "Alabamians encouraged to get out and fish Saturday, no license required - WVUA 23",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "앨라배마 사람들은 토요일에 나가서 낚시를 하도록 권장되며 면허는 필요하지 않습니다. WVUA 23",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "License Out",
+            "Alabamians",
+            "encouraged",
+            "get",
+            "out",
+            "and"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONGpKWTVFNFBCV0o4Y3lKVnpTaU05czdoWjktYVVBNTl1QklLcVhIYUdGbzJiN2xhUmpyWFluNDBMUW92T3Y0VHQyTjVnamk3RnBUMDUyeC1WQTBfSzVhbHpHSWllaUxaQ1BfTWVuMEdzN082N2duTFFCenoxNkJJTUdmUFEzYWRPN0RpR1JKZ2VIN3RXVHBkVjhvYnd2VUhqUmk4T0djSTFFZnZxenFOOGxBdVlUQndRbkhONGlnNjR4eUVkQklRYnFkcGNkeG4wY3Vscm1RaktpWHE4dXR3MXJ3?oc=5"
+        },
+        {
+          "id": "2026-06-10-0018",
+          "title": "Sanofi expands AI ambitions through new Owkin collaboration - The Pharma Letter",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "Sanofi, 새로운 Owkin 협업을 통해 AI 야망 확장 The Pharma Letter",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Sanofi",
+            "expands",
+            "ambitions",
+            "through",
+            "new"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVXdKRGlFa29ySWIxREN5UWNTTzdBTVJuZVdORGdYcVVyQ3ZmVUFmd1Qtc2o0XzR3LUhtZU5FZDc4Z0UwdEJHaDA5c2hyYm5vUXZ0Yy1NZmhnai1UaFFacjdmSGhhSmRTRXBvV3JJTUtlNGVmNGE5bFpyT0NGbnFtT1gxbUtPbzNabEVnak1VVGZiX1NqRWM5bVIxV2Vra1dvTUgxUjBLQQ?oc=5"
+        },
+        {
+          "id": "2026-06-10-0019",
+          "title": "Fueled by M&A and partnerships, biotech is poised for continued growth: EY",
+          "source": "Fierce Biotech",
+          "date": "2026-06-09",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "M&A와 파트너십을 통해 생명공학은 지속적인 성장을 이룰 준비가 되어 있습니다: EY. 라이센싱 및 M&A 거래의 규모와 가치가 지속적으로 증가함에 따라 생명공학의 활발한 활동을 통해 역풍을 극복하고 2026년까지 추진력을 유지할 수 있었습니다. 신규 IPO와 벤처캐피탈 자금의 회복도 도움이 되고 있습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "Fueled",
+            "and",
+            "partnerships",
+            "biotech",
+            "poised",
+            "for"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercebiotech.com/biotech/fueled-ma-and-partnerships-biotech-poised-continued-growth-ey"
+        },
+        {
+          "id": "2026-06-10-0020",
+          "title": "ADA: AZ’s oral GLP-1 shows ‘competitive efficacy’ in phase 2, setting stage for pivotal program",
+          "source": "Fierce Biotech",
+          "date": "2026-06-09",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "ADA: AZ의 경구용 GLP-1은 2상에서 '경쟁력 있는 효능'을 보여 중추 프로그램의 단계를 설정했습니다. 한 쌍의 2상 판독을 통해 AstraZeneca는 경구용 GLP-1 시장의 일부를 잠재적으로 포착할 수 있는 위치를 점하고 있습니다. 다음으로, Elecoglipron은 중추적인 연구로 향하고 있습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "ADA",
+            "oral",
+            "GLP-1",
+            "shows",
+            "competitive",
+            "efficacy"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/ada-astrazenecas-oral-glp-1-shows-competitive-efficacy-standard-tolerability-phase-2"
+        },
+        {
+          "id": "2026-06-10-0021",
+          "title": "Merck, Gilead score in effort to develop the first weekly HIV pill",
+          "source": "Fierce Pharma",
+          "date": "2026-06-09",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "Merck와 Gilead는 최초의 주간 HIV 알약 개발에 힘쓰고 있습니다. 머크의 이슬라트라비르와 길리어드의 레나카파비르 복합제는 두 번의 3상 임상시험에 성공해 매주 복용할 수 있는 최초의 지속성 경구용 HIV 치료제가 될 예정이다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "Merck",
+            "Gilead",
+            "score",
+            "effort",
+            "develop",
+            "the"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/merck-gilead-score-effort-develop-first-weekly-hiv-pill"
+        },
+        {
+          "id": "2026-06-10-0022",
+          "title": "As Gilead's Trodelvy stumbles in first-line lung cancer, all eyes turn to Merck, AZ and Daiichi rivals",
+          "source": "Fierce Pharma",
+          "date": "2026-06-09",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "길리어드의 트로델비가 1차 폐암에 걸리자 모든 시선은 머크, AZ, 다이이치의 경쟁사로 쏠렸다. 머크와 길리어드가 PD-L1 수치가 높은 비소세포폐암 환자의 1차 치료제로 트로델비와 키트루다 병용요법을 평가하는 3상 Evoke-03 시험을 중단했다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "Gilead",
+            "Trodelvy",
+            "stumbles",
+            "first-line",
+            "lung",
+            "cancer"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/gilead-trodelvy-stumbles-first-line-lung-cancer-all-eyes-merck-az-and-daiichi"
+        },
+        {
+          "id": "2026-06-10-0023",
+          "title": "Stealthy startup Treeline plans a reverse merger",
+          "source": "BioPharma Dive",
+          "date": "2026-06-09",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "은밀한 스타트업 Treeline이 역합병을 계획하고 있습니다. Loxo Oncology의 전 CEO인 Josh Bilenker가 이끄는 이 스타트업은 현재 초기 단계 테스트에 3가지 항암제를 보유하고 있으며 더 많은 제품이 뒤따르고 있습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "Stealthy",
+            "startup",
+            "Treeline",
+            "plans",
+            "reverse",
+            "merger"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.biopharmadive.com/news/treeline-reverse-merger-standard-biotools-cancer-drugs/822352/"
+        },
+        {
+          "id": "2026-06-10-0024",
+          "title": "GSK boosts cancer pipeline with $11B Nuvalent buyout",
+          "source": "BioPharma Dive",
+          "date": "2026-06-09",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "GSK, 110억 달러 규모의 Nuvalent 인수로 암 파이프라인 강화 영국 제약회사가 올해 세 번째 인수를 통해 FDA 검토를 받고 있는 실험용 폐암 약물 2개를 확보하게 되었으며 프랜차이즈 지원이 기대됩니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "GSK",
+            "boosts",
+            "cancer",
+            "pipeline",
+            "with",
+            "Nuvalent"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.biopharmadive.com/news/gsk-nuvalent-11B-dollar-acquisition-alk-ros1/822340/"
+        },
+        {
+          "id": "2026-06-10-0025",
+          "title": "AM Best Chief Operating Officer Joins ‘Lead The Machine’ Podcast to Discuss State of AI Implementation in Insurance Industry",
+          "source": "Business Wire",
+          "date": "2026-06-09",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "AM 최고의 최고 운영 책임자(COO)가 'Lead The Machine' 팟캐스트에 참여하여 보험 업계의 AI 구현 현황을 논의합니다. 올드윅, 뉴저지--(Business Wire / 뉴스와이어)-- #insurance--AM 최고의 부사장 겸 최고운영책임자(COO)인 스테판 홀즈버거(Stefan Holzberger)가 'Lead The Machine' 팟캐스트에 특집 게스트로 출연해 AI(인공 지능) 활용에 대해 논의합니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "Best",
+            "Chief",
+            "Operating",
+            "Officer",
+            "Joins",
+            "Lead"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "http://www.businesswire.com/news/home/20260609865356/en/AM-Best-Chief-Operating-Officer-Joins-%E2%80%98Lead-The-Machine%E2%80%99-Podcast-to-Discuss-State-of-AI-Implementation-in-Insurance-Industry/?feedref=JjAwJuNHiystnCoBq_hl-Vdr20ma9zIo8AnJ3Zs97E5cgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTUNgzZY0UZDLjnP5xYmLBFtBSvR87oUDgbHejiywQBpbg=="
+        },
+        {
+          "id": "2026-06-10-0026",
+          "title": "Pharma in Spain: why global investors and innovators are moving in",
+          "source": "Labiotech",
+          "date": "2026-06-09",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "스페인의 제약: 글로벌 투자자와 혁신가가 진출하는 이유. 스페인은 과학적 우수성, 임상 시험 리더십, 혁신 및 투자자 매력에 힘입어 유럽의 제약 및 생명공학 허브로 떠오르고 있습니다. 스페인의 Pharma: 왜 글로벌 투자자와 혁신가들이 입주하고 있는지 포스트가 Labiotech.eu에 처음 등장했습니다. © Labiotech UG 및 Labiotech.eu…",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "Pharma",
+            "Spain",
+            "why",
+            "global",
+            "investors",
+            "and"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.labiotech.eu/partner/pharma-in-spain/"
+        },
+        {
+          "id": "2026-06-10-0027",
+          "title": "A father built a gene therapy for his daughter. He says an FDA request is the bottleneck - Endpoints News",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "한 아버지가 딸을 위해 유전자 치료법을 개발했습니다. 그는 FDA 요청이 병목 현상을 일으킨다고 말합니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "father",
+            "built",
+            "gene",
+            "therapy",
+            "for"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWtjMEsyTnBMa0NUUjVCMmc0dHhrMXlwYTNzaTM4XzQtVDNxSEJjZXZBSlZTTE54SzMzZFN5b2xSZUdXWWQtQUtLUTJ4QUxDS013d3l3UG1YSjVmTWQ1X0tIVXNUWWp1SkxIMGVkb3dBOENsRDM1ZmxjOFFBeW15WVhOdXlvdw?oc=5"
+        },
+        {
+          "id": "2026-06-10-0028",
+          "title": "RARE: Phase III Angelman data and gene therapy launches set the stage for profitability by 2027 - TradingView",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "드물다: Phase III Angelman 데이터 및 유전자 치료 출시로 2027년까지 수익 창출의 발판 마련 TradingView",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "gene therapy",
+            "RARE",
+            "Phase",
+            "III",
+            "Angelman",
+            "data"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQOTlnZkZjOThCcmloNGNKU0ZHUDJ6X2JQMFdBaGsxakpTV2RhTXg2MUpHNmYxd3NZZF9RX2p4ZTBIaGZLWkZhQmNhMGVoR29KX01PTmxXazlUTWV1U242TFppTU40TXVBM3h6UXd4aFpnQU00NjViT1ZuXzVWc2ZqY3VvWExqNHVfdktVYWdJQVFMUW1xaHpabU1Ra2lvemtiSkxDdXVaRFhvc00yaFNaX0hUU2hXQTlxMm5hRm02c1kyWUR3MWhjOUVpUnhOeUFvV1ozOXBOeGFGNlJTRFNiSWNBVlFKbklaeXcyQnlZTVB1WjFHaGtzbmVqaW81dmFoNWZETnQ4VE1hUjlzZHc?oc=5"
+        },
+        {
+          "id": "2026-06-10-0029",
+          "title": "Cellectis Receives FDA RMAT Designation for lasme-cel, the - GlobeNewswire",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Cellectis, Globe에서 Lasme-Cel에 대해 FDA RMAT 지정 획득Newswire",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Cellectis",
+            "Receives",
+            "FDA",
+            "RMAT",
+            "Designation"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQMWcxUTVMX25lX0dQNnBYdHdUWnpCU1IyUDA1SjNYVkdTOS1NZWt2OVIwQ3BGWEctWmo5dWpXeVhVWmpVbWF2dXZSUkVmdFZ2NGFKNzFJNUhRUjBPODVzRGw1YWFSQjJjNE1uQTYwdFJvZDhQUExOR1VMYjh0UVNCSkdYcURESFVEcVJnLUMwb29LUmlPQW9wUFh5eU9IUmNLQ24tSi15NnAweWx4dnhrTFo5cnMyNXhHMTNWNFlnRlNoazM0bHhnYTV5Y0JxTFZYLU9iaEhUcUpkc3hfZ2ZoQms4Z05jMzZOMFppN0dHWGYzdXJjWGJTZG5tLUZ2NGlFNjdGdC1yV3RyQ0YzcENISWJXUGktVUNGaW9rSjNHWEZuOXQ2RHZaTW5KZ2NkeFlQ?oc=5"
+        },
+        {
+          "id": "2026-06-10-0030",
+          "title": "World Bioreactor Harvest Filtration Units - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "세계 생물반응기 수확 여과 장치 - 시장 분석, 예측, 규모, 동향 및 통찰력 IndexBox",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "World",
+            "Bioreactor",
+            "Harvest",
+            "Filtration",
+            "Units"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS2dzOWpsZXl3R3ZJTHNPNi1qWlBwdDdzYkRMVGZVZ1hSUkp6ZDQwYjU5SGxramdkMXQ4YUhYbWlGMGlaYURxLUhNbHZ0ZTFqaVd0NkNpSkJ5VzNrOXprS1h6S3h6YUFtbnRMa1V3TXI3bU10emdmV0x6aXRhRWdSOGh4V25QMnE3QWZ2bkpndGVCdVpncjhKTURFbVNVa2ItVjlzU0t5d25YMlVZclVRd3p3eXJMRHcwUTVjdDBwWHBqRkVjZVJPWUtYR0RaWkw2TEZHR0RGNnMyLXJSVU1pNUhQRGdueWNmb2g3MTlYbw?oc=5"
+        },
+        {
+          "id": "2026-06-10-0031",
+          "title": "Medexus Announces License and Supply Deal for UM171 Cell Therapy in Canada - TMX Newsfile",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "deal",
+          "eventType": "partnership",
+          "summary": "Medexus, 캐나다에서 UM171 세포치료제 라이선스 및 공급계약 발표 TMX Newsfile",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "gene therapy",
+            "Medexus",
+            "Announces",
+            "License",
+            "and",
+            "Supply"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFZPcjJuMjRFN215eUZUZjhNeS1HYl9nRmNRZ2Q5a3ZUeXhIZGtxYjRNUFo5eUxja1dmb0lxM2ktQ2N0MWhKTTgxa2Q2QnRQQjBsYjlmRUF1NmhUMHNCMHBkRTVESml6Z2FyaFFIZDEwdnNJOWQ4UmZQWEpTRHAtY0tfcFpMWGdyUWVRa3FYeDBrZHozQzhTR2phRi04TnJOam5fa1JzQzl2NnBrQTJyUDRCVTA1TERGQ1E?oc=5"
+        },
+        {
+          "id": "2026-06-10-0032",
+          "title": "FDA grants RMAT status to Cellectis off-the-shelf leukemia CAR-T - Stock Titan",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "FDA, Cellectis 상용 백혈병 CAR-T Stock Titan에 RMAT 지위 부여",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "FDA",
+            "grants",
+            "RMAT",
+            "status",
+            "Cellectis"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ21Mbkx6MkxsOEpUU2h1cGp1NzZRd3VyMVZSbk5wTEpfQWFXYVVXZW5mQzV1S2ZGRHh5angwdzhWUE03ZllGVTVzUGhOeUpOYVVIYm5ZX1pJS1RSS3lWbl93RGFLWjQ2eXg0WjV5ekZBMEdZRTBqWlVnRXo3VTJ3RWxlQ2ppcW1HaU93NzQzamlrT1hldUNGbVc4bGUtaDY1ZHpucVZDa1o5ZjJEV0F0aXpBUWNwS2NIZlE?oc=5"
+        },
+        {
+          "id": "2026-06-10-0033",
+          "title": "Junkyard license suspended at EMR recycling plant in Camden, New Jersey following fires - 6abc Philadelphia",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "필라델피아 6abc 화재로 인해 뉴저지 주 캠던에 있는 EMR 재활용 공장의 폐차장 면허 정지",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "License Out",
+            "Junkyard",
+            "license",
+            "suspended",
+            "EMR",
+            "recycling"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV1pvNndGYS1GakF2QmJkNUtKQlI5N016dHdXUW04TVRnbmdNRUc5MlhmM1JwTXFhekJPUVhMQ0pCRk50YktpdENwekkzdTdjQXJpdGVRTm1laUpCMVhyOVBnaFdWLVFJR0h2R3ZxcDRsLTR6QmlWcjNPUXRVd3I0LThheUhzeFNwTDJpQnJVZ0FQZ1RLVHF1QkEtUzBKR3p0dm8tTWp3Z1dxU3A3RnF6N1JKNErSAboBQVVfeXFMTlFQMlgySk1LZ25Tc282dTZQVzJJUXl1VXE1STViYXhHTTl5UFdtRVZHSGx1X0ZTTXBwb1RyZnFVUURObFZ5bjlrb1BRY3dCYXpLcXZvaTBLeTZvV2daMEMxUlJrWVVSa1NfOHdRb1ZIVUVvUUNxWmNCU0NWRUVScHdxU0pGSzBjT1BRa0ZadXIyVm96NGh1MGdpU3hKazBoWW1hYnZLRzI0Z3FNNFNhck1DVWg1dWJJTDZR?oc=5"
+        },
+        {
+          "id": "2026-06-10-0034",
+          "title": "Camden suspends license for EMR Recycling after multiple scrap yard fires - CBS News",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "Camden, 여러 고물 처리장에서 화재 발생 후 EMR 재활용 면허 정지 CBS News",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "License Out",
+            "Camden",
+            "suspends",
+            "license",
+            "for",
+            "EMR"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTk0cFdCSGFGRGQ4d3BCRXZBczkwUXV4dVF5Z1dsb0UxMVBaeWhzaTJ2bWlzVkhVdXFqZEFtaTNFaG9HNnVEM1NYTV93Y0U1RDJ3VjdKc1ZqcTNQRUF3bG1uUXg4ZEtwSFA5TU9NeUd4V3lmQWNHSDE4eDZEWXJNRkNUOWk4MTg2SFJpdlA2ZzF4Q3RmWElCTU9CbUNWQQ?oc=5"
+        },
+        {
+          "id": "2026-06-10-0035",
+          "title": "82% of myasthenia gravis patients improved in early BRIUMVI shot test - Stock Titan",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "초기 BRIUMVI 주사 테스트에서 중증근육무력증 환자의 82%가 개선되었습니다. Stock Titan",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "topline",
+            "myasthenia",
+            "gravis",
+            "patients",
+            "improved",
+            "early"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGtKbXRLcVpoQ0NTS0Z1aHdRNXhEUEVCRDlycWFwZ21uT0xNcENyUXpZNEFkYi00c0F5ZzFOQkt6RkdfRkhfMmpiRzFOV1U4TkZfQkc1TFJmRXI0UEg3QnZOZ2lleXpKdGJwRkZyeUM4T21CNk9nMmVsVm1xaUtJRV9CeHJzRGxIb0JyX0p3QTh5cm8tNmpqR1BSNWxHS3hHVnpFZWlZdGNRcDZpRjZDc1FIdTI?oc=5"
+        },
+        {
+          "id": "2026-06-10-0036",
+          "title": "Outpatient step-up dosing of bispecific antibodies in relapsed or refractory multiple myeloma: an oncology nursing framework for monitoring and supportive care - Frontiers",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "재발성 또는 불응성 다발성 골수종에서 이중특이적 항체의 외래 환자 단계적 투여: 모니터링 및 지지적 치료를 위한 종양학 간호 프레임워크 프론티어",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "bispecific antibody",
+            "Outpatient",
+            "step-up",
+            "dosing",
+            "bispecific",
+            "antibodies"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXSU1PVkE5TGNLVHkzR19sT2ItazRHMW1KMHRXT3hkRVphVk9qQkxZYlFRNkQ1bUZSd3QxSFhwdms2ck83Q3dReHl2RDlXOC12MHlKZldQRGF4bkRjOV9uZUlGUDBjMldFTGlYYVI4Zw?oc=5"
+        },
+        {
+          "id": "2026-06-10-0037",
+          "title": "Context Therapeutics Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4) - The Manila Times",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Context Therapeutics, 나스닥 상장 규정 5635(c)(4)에 따른 유도 보조금 발표 The Manila Times",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "bispecific antibody",
+            "Context",
+            "Therapeutics",
+            "Announces",
+            "Inducement",
+            "Grant"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTHVEWlJNUzJ4cGQwdVkzSzUzRk1Td3BqZl9sNXlrbUQxSF9ZQVNJRWhvRG1iN1ExdnEyczJlOVIzWHM2NVFobWFObEtUOGNNaVpmZ1FzNXlzTTBMWUsyQ0VSeUlmOGdacVpqM1J2anl6SkF3aTVVUUN0OXk4bHd0VUdBVFdZS2NNczB3dWU1MTZVMjJsVllGN3N1RWpkVXZmZktqVUw3T1B6QXg1cDVNMFV4d2pXOUFoZEozQW9UNHl3WTU5dk12d29zSmJCRjl5ZVNwUmd2TUh2WkV2U2tFWnNUemFoV2U0Y2fSAe8BQVVfeXFMUE50SVZXdGdieENqQm1iZTd0S1dLaVRCNTZDVWZaLU5wZXRORW9JZG1lbHVpMDNZMGdWR2hDR0IxVWYwQTlCSV9NVnhWV0xRS1lmemR5dmNFOEI0QlhROXN3SndnU0U1THk3SmRPZEJrdE1YSE9Vd3h0SFZlbW1WVmUxZ2pVbE5ISWhucDM0U1JINld0bDJDREYweHc5QnRvQTZhaHJFYkJ6MkZPTlRyY09KR0RBTG9fbUhQbk02ek84aWdfcHd1ODJ0YVlTUmw5OVR3cWJvRUpxdm9yZzFpUFdtbDJNbzhDS2xUU3BNWW8?oc=5"
+        },
+        {
+          "id": "2026-06-10-0038",
+          "title": "Biopharma moves to reduce development risk earlier than ever",
+          "source": "Fierce Biotech",
+          "date": "2026-05-27",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "바이오제약은 그 어느 때보다 빨리 개발 위험을 줄이기 위해 움직입니다. 더 엄격한 자본, 더 높은 기대치, 진화하는 규제 프레임워크로 인해 약물 개발 전략이 재편되고 있습니다. Parexel 리더들이 기업이 어떻게 적응하고 있는지 설명합니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "Biopharma",
+            "moves",
+            "reduce",
+            "development",
+            "risk",
+            "earlier"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercebiotech.com/sponsored/biopharma-moves-reduce-development-risk-earlier-ever"
+        },
+        {
+          "id": "2026-06-10-0039",
+          "title": "Lab Thread: integrating workflows to replace fragmented systems",
+          "source": "Labiotech",
+          "date": "2026-05-28",
+          "section": "paper",
+          "eventType": "publication",
+          "summary": "실습 스레드: 워크플로를 통합하여 단편화된 시스템을 교체합니다. Lab Thread가 단편화된 생명과학 데이터를 하나의 플랫폼으로 통합하여 워크플로, 협업 및 연구를 간소화하는 방법을 알아보세요. 포스트 랩 스레드: 조각난 시스템을 교체하기 위한 워크플로우 통합이 Labiotech.eu에 처음 등장했습니다. © Labiotech UG 및 Labiotech.eu. 무단도용 및/또는…",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "keywords": [
+            "Lab",
+            "Thread",
+            "integrating",
+            "workflows",
+            "replace",
+            "fragmented"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.labiotech.eu/partner/lab-thread-integrating-workflows-replace-fragmented-systems/"
+        },
+        {
+          "id": "2026-06-10-0040",
+          "title": "Executive Interviews at Fierce Biotech Week 2026",
+          "source": "Fierce Biotech",
+          "date": "2026-06-03",
+          "section": "regulatory",
+          "eventType": "publication",
+          "summary": "Fierce Biotech Week 2026의 임원 인터뷰. 이러한 선구자들이 어떻게 혁신을 가속화하고, 영향력 있는 파트너십을 구축하고, 생명과학에서 가능한 것을 재정의하고 있는지 알아보세요. 아래 독점 인터뷰에 접속하여 영감을 얻고 앞서 나가세요.",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "keywords": [
+            "Executive",
+            "Interviews",
+            "Fierce",
+            "Biotech",
+            "Week",
+            "Discover"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercebiotech.com/sponsored/executive-interviews-fierce-biotech-week-2026"
+        }
+      ]
+    },
+    {
       "reportDate": "2026-06-09",
       "title": "2026-06-09 바이오 뉴스 브리핑",
       "summaryLines": [
