@@ -1,6 +1,866 @@
 {
   "reports": [
     {
+      "reportDate": "2026-06-13",
+      "title": "2026-06-13 바이오 뉴스 브리핑",
+      "summaryLines": [
+        "데이스프링 파마(Dayspring Pharma), 남성형 탈모증(AGA) 치료를 위한 CG2001의 임상 2상 시험에서 긍정적인 톱라인 결과 발표",
+        "D-N-R, 새로운 라이선스 시스템의 첫 번째 단계 출시 Ingstad Media",
+        "다케다의 TYK2 억제제, 건선 3상 임상 대결에서 브리스톨 마이어스의 소틱투 제압 Fierce Biotech",
+        "Guardant Health는 Boehringer의 새로운 항암제에 대한 환자를 찾기 위해 FDA 테스트 승인을 받았습니다. 베링거인겔하임의 헤르넥세오스(Hernexeos)는 FDA가 액체 생검 테스트인 Guardant360 CDx를 승인한 후 Guardant Health로부터 동반 진단 제품을 인수했습니다.",
+        "Amgen의 Tavneos에 대한 FDA 청문회에는 독립적인 검토 결과가 포함될 것입니다. 독립 연구 회사는 암젠의 타브네오스(Tavneos)가 희귀질환 치료제가 시장에 남아 있는지 여부를 결정할 수 있는 FDA와의 청문회를 준비하는 동안 데이터를 검토하고 있습니다."
+      ],
+      "sections": [
+        "domestic",
+        "global",
+        "regulatory",
+        "deal",
+        "modality",
+        "paper"
+      ],
+      "items": [
+        {
+          "id": "2026-06-13-0001",
+          "title": "Dayspring Pharma Announces Positive Topline Results from Phase II Clinical Trial of CG2001 for the Treatment of Androgenetic Alopecia (AGA) - Morningstar",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "데이스프링 파마(Dayspring Pharma), 남성형 탈모증(AGA) 치료를 위한 CG2001의 임상 2상 시험에서 긍정적인 톱라인 결과 발표",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "topline",
+            "Dayspring",
+            "Pharma",
+            "Announces",
+            "Positive",
+            "Topline"
+          ],
+          "importanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPWk50SEVFQ2VXSzZFLVMtNl9iNTNjOXZmcE9oX3hPQjlydTRQSXhrdUUwQ04yOWVNMnhDdnNJY3UxYmZpUWRpeWtNRVRUc1NQSUxrdTlyUmNTSExDbVY5cnJaa0Q1aVBycXFJNHA0a2YtTHN2UmdQVjVsalYyUkNCaEpHcUdxRlJIaFJEbUtsSWxCSmw1VksxTHJSak5PRWhLVWJPUlVWNzVJd1ZkeHNxbXFuRjB4TmpCM0FvM2lFdTJjUEl1UHQ5NGtsQWk2cHpCcXh3elh4Z1FxX1BDX1Q0bWJfUV92YlE3eGJ0UUt3UXZXdjNuNjdYRDBsSUsyN3ZQSFBVRFlialJtU1NVdWRyeVhCM1ZTWk9uLWd4bWNpSUw0RlZJ?oc=5"
+        },
+        {
+          "id": "2026-06-13-0002",
+          "title": "D-N-R Rolls Out First Phase of New Licensing System - Ingstad Media",
+          "source": "Google News",
+          "date": "2026-06-10",
+          "section": "deal",
+          "eventType": "partnership",
+          "summary": "D-N-R, 새로운 라이선스 시스템의 첫 번째 단계 출시 Ingstad Media",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "License Out",
+            "D-N-R",
+            "Rolls",
+            "Out",
+            "First",
+            "Phase"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYnNsNXR3SE9OcjlGV05ScTlnTlNmV0djWktrTFI5UWU3VVdIQ3huLWFSWFh0cjRlMjFpTEFjRDZMamdVZGZOM1NxcV9RN3BEbHpLXzZoNGdqR2czajZGSFZOM1dsZlJqdERVTGZTNkRsaF9hZ2pBMWY2eTFiQmVSSUdJNA?oc=5"
+        },
+        {
+          "id": "2026-06-13-0003",
+          "title": "Takeda’s TYK2 inhibitor beats Bristol Myers’ Sotyktu in phase 3 psoriasis showdown - Fierce Biotech",
+          "source": "Google News",
+          "date": "2026-06-11",
+          "section": "global",
+          "eventType": "clinical",
+          "summary": "다케다의 TYK2 억제제, 건선 3상 임상 대결에서 브리스톨 마이어스의 소틱투 제압 Fierce Biotech",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "biotech \"FDA approval\"",
+            "Takeda",
+            "TYK2",
+            "inhibitor",
+            "beats",
+            "Bristol"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelVSMUFobHRnMjNTNUx5cnM3QkdkRmRTRk03eG84S3BoZkdRbG1tbEdZY2VmRVVBTE5WQlJvb0lPY2Q1eFMyRXpCdElwbU1Ed3hzNkMyX3JTZjVCT29xTU5xd1QzY1VQYWVUREthNmRjbkNidXQ5YjB4VlJFQXFwRTNTdUttYXFlUFJHTXhfaTlHdGFSLWpnSGR2T1RzVWFTVVhpWXNfM05RNXM?oc=5"
+        },
+        {
+          "id": "2026-06-13-0004",
+          "title": "Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug",
+          "source": "Fierce Biotech",
+          "date": "2026-06-12",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Guardant Health는 Boehringer의 새로운 항암제에 대한 환자를 찾기 위해 FDA 테스트 승인을 받았습니다. 베링거인겔하임의 헤르넥세오스(Hernexeos)는 FDA가 액체 생검 테스트인 Guardant360 CDx를 승인한 후 Guardant Health로부터 동반 진단 제품을 인수했습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "Guardant",
+            "Health",
+            "nabs",
+            "FDA",
+            "test",
+            "approval"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercebiotech.com/medtech/guardant-health-nabs-fda-test-approval-find-patients-boehringers-new-cancer-drug"
+        },
+        {
+          "id": "2026-06-13-0005",
+          "title": "FDA hearing on Amgen's Tavneos will include findings from an independent review",
+          "source": "Fierce Pharma",
+          "date": "2026-06-12",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Amgen의 Tavneos에 대한 FDA 청문회에는 독립적인 검토 결과가 포함될 것입니다. 독립 연구 회사는 암젠의 타브네오스(Tavneos)가 희귀질환 치료제가 시장에 남아 있는지 여부를 결정할 수 있는 FDA와의 청문회를 준비하는 동안 데이터를 검토하고 있습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "FDA",
+            "hearing",
+            "Amgen",
+            "Tavneos",
+            "will",
+            "include"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercepharma.com/pharma/fda-hearing-amgens-tavneos-will-include-findings-independent-review"
+        },
+        {
+          "id": "2026-06-13-0006",
+          "title": "CNS Gene Therapy Trials Are About to Break Every Monitoring Assumption Your CRO Has - The Clinical Trial Vanguard",
+          "source": "Google News",
+          "date": "2026-06-12",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "CNS 유전자 치료 시험은 귀하의 CRO가 임상시험 선봉에 있다는 모든 모니터링 가정을 깨뜨리려고 합니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "gene therapy",
+            "CNS",
+            "Gene",
+            "Therapy",
+            "Trials",
+            "Are"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdVVmNmFBLUFHVS1UMXMyalQ4UHBySDdrbDJNOWFJZlo2c3NxUU5vT25FQTdtZjZHMHVYSndKV2FvMnhQekYtVG5GbmptTEFPSnVHQVpKWlFxZVg4S1RtNzZjYlA0U0pyUDNnUXdNRS1ENVVOLVhmX1JCa3dnVWhtdTV6UTEwU1UxcXByM2NqVUpqTEFVVGRCOUEyRzZoVmt6amhjNFFPRUZab1h4blZURHFIbk42LS1yWThoRHJjX2tyQUdWcG90T1BFVVRySVc3LTN3NXBsMVVydw?oc=5"
+        },
+        {
+          "id": "2026-06-13-0007",
+          "title": "Hemophilia Treatment Market Industry Report & Forecast 2035 - Business Research Insights",
+          "source": "Google News",
+          "date": "2026-06-12",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "혈우병 치료 시장 산업 보고서 및 2035년 예측 Business Research Insights",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Hemophilia",
+            "Treatment",
+            "Market",
+            "Industry",
+            "Report"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVjE5djJ0VjRESlZjQjJhaURLdXNIMlVHVDlkb01RNEt2cy04ZWxVZW1Db04wTkVCbUZjQUk0VjdjOFZMc2RzdEJ1bWsyUXBTcmhaUDI5OUFoR1YxeXQxNkEwejFMNUpLQXlGc2ZYd0k1b0RqTWhEV2IxMm5IcW8wZzlyOEpuSThWVjY5RnM0R19mNmFt?oc=5"
+        },
+        {
+          "id": "2026-06-13-0008",
+          "title": "Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones",
+          "source": "Fierce Biotech",
+          "date": "2026-06-10",
+          "section": "paper",
+          "eventType": "publication",
+          "summary": "파이프라인 규율, 파트너십 및 2026년 이정표에 대한 Ipsen R&D 책임자. Ipsen의 수석 부사장이자 R&D 책임자인 Christelle Huguet 박사가 Fierce Healthcare & Life Sciences의 편집장인 Ayla Ellison과 함께 파이프라인 규율, 외부 파트너십 및 주요 2026년 이정표에 대해 논의합니다.",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "keywords": [
+            "Ipsen",
+            "chief",
+            "pipeline",
+            "discipline",
+            "partnerships",
+            "and"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/ipsen-rd-chief-pipeline-discipline-partnerships-and-2026-milestones"
+        },
+        {
+          "id": "2026-06-13-0009",
+          "title": "Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover",
+          "source": "Fierce Biotech",
+          "date": "2026-06-12",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Novartis의 1/2상 우승으로 120억 달러 규모의 Avidity 인수로 인한 영양 장애 약물에 대한 규제 논의가 시작되었습니다. 노바티스는 120억 달러 규모의 Avidity Biosciences 인수의 보석 중 하나에 대한 1/2단계 승리를 보고했으며, 이로 인해 스위스 제약회사는 이영양증 전망의 다음 단계에 대해 글로벌 규제 기관과 논의할 수 있게 되었습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "Novartis",
+            "phase",
+            "win",
+            "tees",
+            "regulatory",
+            "talks"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercebiotech.com/biotech/novartis-data-tee-regulatory-talks-about-asset-12b-avidity-takeover"
+        },
+        {
+          "id": "2026-06-13-0010",
+          "title": "In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test",
+          "source": "Fierce Pharma",
+          "date": "2026-06-12",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Zepzelca 사가의 최신 트위스트에서 Jazz와 PharmaMar 폐암 약물은 3상 테스트에 실패했습니다. 재즈 파마슈티컬스(Jazz Pharmaceuticals)의 소세포폐암 치료제 젭젤카(Zepzelca)의 가속 승인이 또 다른 3상 실패로 인해 다시 한번 위기에 처할 수 있다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "latest",
+            "twist",
+            "Zepzelca",
+            "saga",
+            "Jazz",
+            "and"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercepharma.com/pharma/latest-twist-zepzelca-saga-jazz-and-pharmamar-lung-cancer-drug-fails-phase-3-test"
+        },
+        {
+          "id": "2026-06-13-0011",
+          "title": "DIY biology experiments: how far has the rabbit hole gone?",
+          "source": "Labiotech",
+          "date": "2026-06-12",
+          "section": "paper",
+          "eventType": "publication",
+          "summary": "DIY 생물학 실험: 토끼굴은 어디까지 갔나요? 얼마 전까지만 해도 DIY 생물학은 주로 학교 과학 프로젝트를 위해 딸기에서 DNA를 추출하거나 페트리 접시에서 곰팡이를 키우는 것을 의미했습니다. 이러한 실험은 여전히 ​​존재하지만 아마추어 생물학의 세계는 지난 10년 동안 상당히 발전했습니다. 오늘날 지역사회 생물학 실험실 네트워크가 성장하고 있으며…",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "keywords": [
+            "DIY",
+            "biology",
+            "experiments",
+            "how",
+            "far",
+            "has"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.labiotech.eu/best-biotech/diy-biology-experiments-home/"
+        },
+        {
+          "id": "2026-06-13-0012",
+          "title": "[경력채용] 유한양행, HK이노엔, 휴온스, 대원헬스케어, 신풍제약",
+          "source": "히트뉴스",
+          "date": "2026-06-13",
+          "section": "domestic",
+          "eventType": "publication",
+          "summary": "[경력채용] 유한양행, HK이노엔, 휴온스, 대원헬스케어, 신풍제약. HIT NEWS제약바이오 채용 현황2026.06.12유한양행글로벌 BD~6/24HK이노엔비임상 약리 연구~6/21HK이노엔비임상 독성 연구~6/21휴온스제품연구~6/28휴온스Clinical Science~6/28대원헬스케어품질관리~7/11신풍제약제제연구~6/28코오롱제약품질관리~6/25래피젠생화학 시약 개발~8/10유한양행글로벌 BD~ 6/24업무국내외 파트너사 및 협력기관의 Alliance 전략 수립 및 운영 등자격요건학사(생명과학, 약학, 화학, 법학) | 경력 5년 이상우대영어 능통자 등지원하기HK이노엔비임상 약리 연구~ 6/",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "keywords": [
+            "HIT",
+            "NEWS",
+            "Clinical",
+            "Science",
+            "Alliance"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=76839"
+        },
+        {
+          "id": "2026-06-13-0013",
+          "title": "The biggest biotech funding rounds in May 2026",
+          "source": "Labiotech",
+          "date": "2026-06-02",
+          "section": "deal",
+          "eventType": "funding",
+          "summary": "2026년 5월 최대 규모의 생명공학 자금 조달 라운드. Isomorphic Labs, Apogee Therapeutics 및 Avalo Therapeutics는 2026년 5월 전체에서 최대 규모의 생명공학 자금 조달 라운드를 기록했습니다. 게시물 2026년 5월의 최대 생명공학 자금 조달 라운드가 Labiotech.eu에 처음 게재되었습니다. © Labiotech UG 및 Labiotech.eu. 이 자료를 명시적 및/또는 명시 없이 무단으로 사용 및/또는 복제하는 행위는…",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "The",
+            "biggest",
+            "biotech",
+            "funding",
+            "rounds",
+            "May"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.labiotech.eu/in-depth/biotech-funding-rounds-may-2026/"
+        },
+        {
+          "id": "2026-06-13-0014",
+          "title": "Tuesday Morning Topline: Early Voting Turnout Is at Just 17% In CA - SFist",
+          "source": "Google News",
+          "date": "2026-06-02",
+          "section": "global",
+          "eventType": "general",
+          "summary": "화요일 오전 톱라인: CA SFist의 조기 투표율은 17%에 불과합니다.",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "topline",
+            "Tuesday",
+            "Morning",
+            "Topline",
+            "Early",
+            "Voting"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzQTBXQ21HQkFXcktJSmkzY2NJVmpHem9idVBIMWdydWlTVUl3cnJfQUt0X2JjWWV6THYzWDdaMC1jRnJZcmJyNDNvaDdLMmhxN2FLQ3pxb3lOb3dTeVhJUEVOY2ZRSU5TMFFyVVdxN0xFM0YxLVVab213?oc=5"
+        },
+        {
+          "id": "2026-06-13-0015",
+          "title": "FutureChem to raise ₩40 billion through rights offering to speed up global expansion - koreabiomed.com",
+          "source": "Google News",
+          "date": "2026-06-02",
+          "section": "domestic",
+          "eventType": "funding",
+          "summary": "퓨쳐켐, 유상증자 통해 400억원 조달해 글로벌 진출 가속화 코리아바이오메드닷컴",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "keywords": [
+            "Radiopharmaceutical Therapy RPT",
+            "FutureChem",
+            "raise",
+            "billion",
+            "through",
+            "rights"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 8,
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5OFY0dGgwNzVpN2QtRS0zVlhSeWNQSE9nTHJpX2hybmdkcmNjdWlFLVRHSVZoendwdkNvMHRxdEY4dVpIWGRENTNwZ0stZlZVS1BEc01ZbW5TbVo3VmIzal8ycFVXVXVrVG5ZSUhR0gFyQVVfeXFMTXV4Tmc4cUpNN0RxVjZlLTU5a3RYZHpGVWNRNUZwTjZqSlFGY2xZWTE3dlVId29kVmlJYW5UV3YzVXByelFDdy1QY1UxSlJGTHV5ZXB0ZUJFTTNOenFEUWZrVlBoeW5nMlRHUUExX1h3TUpB?oc=5"
+        },
+        {
+          "id": "2026-06-13-0016",
+          "title": "Universal Audio takes on Auto-Tune with Topline Vocal Tune – and promises pitch-perfect vocals \"from the first take\" - MusicRadar",
+          "source": "Google News",
+          "date": "2026-06-03",
+          "section": "global",
+          "eventType": "general",
+          "summary": "Universal Audio는 Topline Vocal Tune으로 Auto-Tune을 채택하고 \"첫 번째 테이크부터\" 완벽한 음조의 보컬을 약속합니다. MusicRadar",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "topline",
+            "Universal",
+            "Audio",
+            "takes",
+            "Auto-Tune",
+            "with"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb1RRbXpCd2JCTDRNNlNZdmNVMFVBanlxY1hKYTVQTzVSUnhSZjJIODZsV2tfR2hOODRJOGdNOW1BcXV1dG9LaDdOZk8xb001TDZNb3ZwMWZxNUZISTdiWG5oUldXOV9NVEtDbGhwTDVfRkRYVDlyQ1U1WmU0MEU1bk5BbFRsT1J6SEtXYnZjbXRGLTNHbFRfM0hUWnl0WTU4dFYxLV9ncmxYWGlDS0NfaFpPQWxOOHJrZDVPRXNGWDZrQ0tkQmkwanNmRUNxWDR5Tlh0SUZhMDBVV3dmSnUwVnJVNUU?oc=5"
+        },
+        {
+          "id": "2026-06-13-0017",
+          "title": "Universal Audio Introduces UAD Topline Vocal Tune Plug‑In - Premier Guitar",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "global",
+          "eventType": "general",
+          "summary": "Universal Audio, UAD Topline Vocal Tune 플러그인 프리미어 기타 출시",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "topline",
+            "Universal",
+            "Audio",
+            "Introduces",
+            "UAD",
+            "Topline"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG1vNEZMT3RTVGVKMGpKMFFLR3dyOEstMS1RYVVCOURnRzVvcTd4N1U2SllyaUNhQ2xLZk9kWGZsMTVmTk03bUZtZ1R1blRYRFFLbFBzV1ZXeVh5LV93VXZVbVFRWENPYlhUMzQtMWo3MnlFTUhacUNXeDZuXzQyalR3?oc=5"
+        },
+        {
+          "id": "2026-06-13-0018",
+          "title": "No topline deal in sight for Senate appropriations - Punchbowl News",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "deal",
+          "eventType": "general",
+          "summary": "상원 세출에 대한 톱라인 거래가 보이지 않습니다.",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "topline",
+            "deal",
+            "sight",
+            "for",
+            "Senate",
+            "appropriations"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NUVA5MDFOVW9CZDduQ1pnNWhmZnF4OGNZb1dBd1Myb3lpQmljdC02Z0dJOVdPYUpjVHl6a1Bid2FpOXZ3ZzR1Wlc5R3pMVnR1SG1EamdkTF9fVGdFbHNJS1RsWFE?oc=5"
+        },
+        {
+          "id": "2026-06-13-0019",
+          "title": "Why Pfizer And Eli Lilly Are Betting On This $1.3 Billion AI Drug Discovery Startup - Forbes",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "global",
+          "eventType": "funding",
+          "summary": "화이자(Pfizer)와 엘리 릴리(Eli Lilly)가 13억 달러 규모의 AI 신약 발굴 스타트업에 투자하는 이유 Forbes",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Why",
+            "Pfizer",
+            "And",
+            "Eli",
+            "Lilly"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbU1Ja0lIbmZ6cEc4a0xkaDhuNW1xNGR5Z191NnJjbjllM2NYVFc3c0Fxa0JqdEtBaGJDS1J1eG40Z1hMMUljRGVuTDh6NW5DQUlNbGsyTDUwNlN0MEdZT0M2TmF6bmhNU0QyZHVRamRxYlIySk5POWtocUZTOFhlTXBGMHYzc1JBaWpKaHFvdHl5N1BzVnVDYVhoMDJPdDVvRFJ0UktPckoyUXlzN3h6SDBQdG1lRlIwd1pMdTRoby1JcnFOQU5YSHFadjJNdw?oc=5"
+        },
+        {
+          "id": "2026-06-13-0020",
+          "title": "Alnylam, Inceptive sign up to $2 billion AI drug discovery deal - Reuters",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "deal",
+          "eventType": "funding",
+          "summary": "Alnylam, Inceptive와 20억 달러 규모의 AI 신약 발견 계약 체결 - 최신",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Alnylam",
+            "Inceptive",
+            "sign",
+            "billion",
+            "drug"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVOcVVKRWZwZ1l0N3I1NnkwVVpvYUxXLVFrc2tFZFJ1THlaWmxFTURZWUZ0emF2ZURJZlRUMXNxQ3BrZ01vUFk5VXphRnNqN1cwRGVTanFoMHBycFVOSTZWSklQNlNReXozVnVBemVqMTllOHN5YjhUNmhvbkdlMGtmU0ZVRVNSUDBQX3JocHBMbnJYWmZDd3QtN3pwZk5KMXhTakkyTlJLbFZ3OVlSNg?oc=5"
+        },
+        {
+          "id": "2026-06-13-0021",
+          "title": "Alnylam Eyes Faster Drug Discovery With AI Partnership Worth Up To $2 Billion - Benzinga",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "global",
+          "eventType": "funding",
+          "summary": "Alnylam, 최대 20억 달러 규모의 AI 파트너십을 통해 약물 발견 속도 향상에 주목",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "Alnylam",
+            "Eyes",
+            "Faster",
+            "Drug",
+            "Discovery"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOTVoeVRTX0c5V0lrNGYtd3Rrc3VucnJhRGJkNTJaQW9CaU1zQ0NJQl9hYm9zN25UdVBmT3hTeDM3aDlhaUNpU1RkTGlPZnc5LUVTbmlORnVkWS1MMVhpS0ZNSTRrS2FUZ3pSQlkyZFZiUDZFTVRPVFdpU0lGRTRQYzNaMzZBejZvdTBDNE16MFg3d0FPU0RzeW5FSnVub3JVMk9Kc1BDd1ZfMkN3eWVmWE5JZ1JiZU1ieXVVNGh6aUxfb0piWUdsTTUxNXN6QQ?oc=5"
+        },
+        {
+          "id": "2026-06-13-0022",
+          "title": "The Topline: Steptoe Appropriations Newsletter - Steptoe",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "global",
+          "eventType": "general",
+          "summary": "톱라인: Steptoe 세출 뉴스레터 Steptoe",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "topline",
+            "The",
+            "Topline",
+            "Steptoe",
+            "Appropriations",
+            "Newsletter"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjExcWt2UE8tLXBSM2g4RjNnazVuYkswYTAxUmFXQzZwLWZuMjM3V2FZUjhKekgwZjlwNE44WElxLTRjM2pxX3hxR0xLdGx2TFA4dm84a0NLdWllWl9FWHRtMzVSY0I2SEdkeV8wUEdaQVE3S29DbEVmVzJXbEw1OGVHWHl5YlpKR2w2Njd2VGFRSVhQdDFoREhhdjV2eE5oZE9jUjU5XzBrOGM?oc=5"
+        },
+        {
+          "id": "2026-06-13-0023",
+          "title": "Topline Farms avoids up to $50,000 in yield loss by managing compartment by compartment - Hortidaily",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "global",
+          "eventType": "general",
+          "summary": "Topline Farms는 Hortidaily의 구획별 관리를 통해 최대 $50,000의 수확량 손실을 방지합니다.",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "topline",
+            "Topline",
+            "Farms",
+            "avoids",
+            "yield",
+            "loss"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQWtmNVVlRXNRTkx0bnBRTjlUMmJHWkhyRXNRRjlqYm1YR0VFc3JQYWRWVVpGTWZRSXZPdTktYTdUeWxyTFQ2Yk9TdU5weGJGZFVqdVQ4c1lQTWJCeE82d0JDRmlJcTc3Q3ZsclhIc1VfcE56T1BDVm1GU0d1YmZXUGR0YS1QSXNkazIxNkhkVXFLelUtZ2ZqZWxINjFzcEdyalZQQmNuQzRLRTFhby1vSkg4aFkwOXVCV1ZQY0NsaWp5ekhFSlRJb1Nn?oc=5"
+        },
+        {
+          "id": "2026-06-13-0024",
+          "title": "Dave Annable & Jennifer Holland To Topline Supernatural Civil War Thriller ‘Brine’ From Director B.J. Golnick - Yahoo",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "global",
+          "eventType": "general",
+          "summary": "Dave Annable과 Jennifer Holland가 B.J. Golnick 감독의 초자연적 남북 전쟁 스릴러 'Brine'을 주연으로 선정 Yahoo",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "topline",
+            "Dave",
+            "Annable",
+            "Jennifer",
+            "Holland",
+            "Topline"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1R1Y3g4RnRFUVpTMVVCQkt0R0VRamMwUjBBTkZtT2YtRFh6a3UweDg0OTd1U0RGNWl1VjQ1OWppQXcwRGJQcnM4dVpfb1J2TDRJRGRSQnRHTktWd19uSDJQMEFwekRxNHZNMVN0ZE5RSHJ2UzI1NVRMNzh2MzJZbEVDQ0Z0aFJWWmZPa2k2N0NubXc4OW1xQWhaX0VzQ2YyLUQweFp0Yw?oc=5"
+        },
+        {
+          "id": "2026-06-13-0025",
+          "title": "Mark O’Brien Co-Writes & Will Topline Crime Thriller ‘Good In The Room’; Laysla De Oliveira, Andrew “King Bach” Bachelor And Eric Bruneau Also Set - IMDb",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "global",
+          "eventType": "general",
+          "summary": "마크 오브라이언(Mark O'Brien)은 범죄 스릴러 'Good In The Room'을 공동 집필하고 톱라인에 올릴 예정입니다. Laysla De Oliveira, Andrew \"King Bach\" 학사 및 Eric Bruneau도 IMDb 설정",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "topline",
+            "Mark",
+            "Brien",
+            "Co-Writes",
+            "Will",
+            "Topline"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81R2ZPcnNvUFktNE0yZFF2YlREcnNGZEROTEVWZmFma0VZamtkdGplOEFjNnJIVndVSXRORnRDRWpjODFwVWZHaTJIT0NqcDk5Y3FqUWZhM1NIYlpQYmxCbVA4VVdWZlU?oc=5"
+        },
+        {
+          "id": "2026-06-13-0026",
+          "title": "Government focused on topline, not working class: Batya Ungar-Sargon - NewsNation",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "global",
+          "eventType": "general",
+          "summary": "노동계급이 아닌 톱라인에 초점을 맞춘 정부: Batya Ungar-Sargon NewsNation",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "Government",
+            "focused",
+            "topline",
+            "not",
+            "working",
+            "class"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQy1aeWpwS1plakRkYk9QQzI1cE9Nb1RLS1lxUF9ub3Z1UHZCckg3My1RSkxDTktJQ2dqOEUzQUotaHMxX0hyMllsWmtLWnU5djltR2FISVZwOUxXYnVJSGVxV3NfU1RXRWk2ZVZvY2NmUkxMcnhzUERaV1hzdi1XVkNyQ0tJU2Ywc2gxMmhrVVFnZWJV0gGaAUFVX3lxTFBNQVc4R25aZklDb1g3ck5acXBuU0hMenhUMVJqTldqWUxhYlJqYnRwMnU5M2s4OXkwTWpYYndMM0NlQ2RDN2NycnZ2VWNvZklxbWV5TzJ3MDJiSlZkVVF3eWtDTXliTlJOZUJ4d0dTUmtmbWdzTU9YVUlsc2x2Z0V3VFBIaXNfTnNqWmFZOTdFdVRtd3VWMnhiSkE?oc=5"
+        },
+        {
+          "id": "2026-06-13-0027",
+          "title": "Rejuvenate Bio Raises $6 Million And Partners With Merck Animal Health To Advance Gene Therapy Programs - Pulse 2.0",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "modality",
+          "eventType": "funding",
+          "summary": "Rejuvenate Bio는 유전자 치료 프로그램 Pulse 2.0을 발전시키기 위해 600만 달러를 모금하고 Merck Animal Health와 파트너십을 맺었습니다.",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Rejuvenate",
+            "Bio",
+            "Raises",
+            "Million",
+            "And"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRnFHRlpXajZ5T3ZiLWVPMng5b3dGTmlSUkkwWUtQY0ZEQVNZeTNhb2M4ZUFHbzhkd2laaHFkVERJRTBkdlctajhJcUlYbkIwblZCREo5Sl9iNm84aklkRS1DdUk3QWlTMFlOSzR3eWh1VGlWRUdIX1BGeDZsakZ2YnkxQlJ2eF9SWC0zaEdjalc0dlNRdThIazNhRHV4d0NHdzN6cXpZQWFYNTFMNm5Va1VmcWVaeDFaYjJMUDJySdIBxAFBVV95cUxPRTdpMlg3QnFDSWFpaUdjQ210ckhzRXJESHFGRUtqVDVMZG9jb2FKYjdTNFNQV0ttYkdaVWNyeEhMNHE1U0N1TXhPalVyMUVHV1d0d2FjbEt3WFZzMmp1Ty1mdlBZVWx2ak90T2tzMjdUb1pkSHFIQUZ3R1FQel9oMjJOUmk4eWo5dnVKa0V4ZnFIQ2xMZnNLS0JQcFlnNXcxeHpITldPdE1kcGdJWktETDB2UFR4cXZCeWJGaFVScHc5V1FL?oc=5"
+        },
+        {
+          "id": "2026-06-13-0028",
+          "title": "Collins Pauses Plan to Move Spending Bills During Topline Talks - Bloomberg Government News",
+          "source": "Google News",
+          "date": "2026-06-09",
+          "section": "global",
+          "eventType": "policy",
+          "summary": "콜린스, 톱라인 논의 중 지출 법안 이동 계획 일시 중단 Bloomberg Government News",
+          "significance": "정책·법안 변화는 reimbursement·심사 속도에 영향을 줄 수 있어 업종 전반의 규제 비용 가정을 점검할 시점이다.",
+          "keywords": [
+            "topline",
+            "Collins",
+            "Pauses",
+            "Plan",
+            "Move",
+            "Spending"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeklFWkN4QnpZcjI2U0FZbnNHZHFVajhvZ1k2b2pib0w5dzRNWTNMb0RXQ0sxRDlyVG5HSVFOSER3OWRfUmxwM1puU1AtTUZYejV5NEFITnEyNzBvb0hIV1FVODNKMDlLWVhybVRWNzVEcTNmcDk4T1ZnMDl2TmprV2lqdVBtSG5DTWQ3TXdXeTkzWUl1Q29kWGlRYlcxX0UyUnRyMzNhbWl0VjR4R09uRg?oc=5"
+        },
+        {
+          "id": "2026-06-13-0029",
+          "title": "Big Pharma-backed SonoThera sounds off with $125M series B for bubble-based genetic delivery",
+          "source": "Fierce Biotech",
+          "date": "2026-06-10",
+          "section": "deal",
+          "eventType": "funding",
+          "summary": "Big Pharma가 지원하는 SonoThera는 버블 기반 유전자 전달을 위한 1억 2,500만 달러 규모의 시리즈 B로 성공을 거두었습니다. Bay Area 생명공학 SonoThera는 제약 업계의 일부 유명 기업의 지원을 받아 1억 2,500만 달러 규모의 시리즈 B 투자를 유치한 후 임상적으로 끓어오르고 있습니다.",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "Big",
+            "Pharma-backed",
+            "SonoThera",
+            "sounds",
+            "off",
+            "with"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercebiotech.com/biotech/big-pharma-backed-sonothera-sounds-125m-series-b-bubble-based-genetic-delivery"
+        },
+        {
+          "id": "2026-06-13-0030",
+          "title": "Ethyreal Bio manifests with $101M in pack of biotechs gunning for Amgen’s Tepezza",
+          "source": "Fierce Biotech",
+          "date": "2026-06-10",
+          "section": "global",
+          "eventType": "funding",
+          "summary": "Ethyreal Bio는 Amgen의 Tepezza를 노리는 생명공학 팩에서 1억 1백만 달러를 확보했습니다. Ethyreal Bio는 Amgen의 Tepezza에 도전할 준비를 하는 회사 대열에 합류하여 1억 1백만 달러로 스텔스에서 벗어났습니다.",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "Ethyreal",
+            "Bio",
+            "manifests",
+            "with",
+            "pack",
+            "biotechs"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/ethyreal-bio-manifests-101m-pack-biotechs-gunning-amgens-tepezza"
+        },
+        {
+          "id": "2026-06-13-0031",
+          "title": "Novartis sticks 2nd deal with molecular glue biotech Orionis, this one worth up to $1.4B",
+          "source": "Fierce Biotech",
+          "date": "2026-06-10",
+          "section": "deal",
+          "eventType": "funding",
+          "summary": "노바티스는 분자접착제 생명공학 Orionis와 2차 거래를 체결했습니다. 이 거래의 가치는 최대 14억 달러입니다. 노바티스는 오리오니스 바이오사이언스(Orionis Biosciences)와 두 번째 계약을 체결했습니다. 이번에는 분자접착제 생명공학 회사에 \"다양한 질병 분야에 걸쳐 도전적인 치료 목표\"를 연구하기 위해 4천만 달러를 선불로 제공했습니다.",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "Novartis",
+            "sticks",
+            "deal",
+            "with",
+            "molecular",
+            "glue"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercebiotech.com/biotech/novartis-sticks-2nd-deal-molecular-glue-biotech-orionis-worth-14b"
+        },
+        {
+          "id": "2026-06-13-0032",
+          "title": "Cancer-focused Parabilis’ upsized $670M IPO breaks new record for biotechs",
+          "source": "Fierce Biotech",
+          "date": "2026-06-10",
+          "section": "global",
+          "eventType": "funding",
+          "summary": "암에 초점을 맞춘 Parabilis의 6억 7천만 달러 규모의 IPO가 생명공학 부문의 신기록을 경신했습니다. Parabilis Medicines의 IPO는 과대광고에 부응하여 생명공학 부문 역사상 최대 규모의 상장으로 6억 7천만 달러를 확보했습니다.",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "Cancer-focused",
+            "Parabilis",
+            "upsized",
+            "IPO",
+            "breaks",
+            "new"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/cancer-focused-parabilis-upsized-670m-ipo-breaks-new-record-biotechs"
+        },
+        {
+          "id": "2026-06-13-0033",
+          "title": "Big Pharma-backed SonoThera sounds off with $125M series B for bubble-based genetic delivery",
+          "source": "Fierce Pharma",
+          "date": "2026-06-10",
+          "section": "deal",
+          "eventType": "funding",
+          "summary": "Big Pharma가 지원하는 SonoThera는 버블 기반 유전자 전달을 위한 1억 2,500만 달러 규모의 시리즈 B로 성공을 거두었습니다. Bay Area 생명공학 SonoThera는 제약 업계의 일부 유명 기업의 지원을 받아 1억 2,500만 달러 규모의 시리즈 B 투자를 유치한 후 임상적으로 끓어오르고 있습니다.",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "Big",
+            "Pharma-backed",
+            "SonoThera",
+            "sounds",
+            "off",
+            "with"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercepharma.com/biotech/big-pharma-backed-sonothera-sounds-125m-series-b-bubble-based-genetic-delivery"
+        },
+        {
+          "id": "2026-06-13-0034",
+          "title": "Genentech and Novartis dish up food allergy microdrama series",
+          "source": "Fierce Pharma",
+          "date": "2026-06-10",
+          "section": "deal",
+          "eventType": "funding",
+          "summary": "Genentech와 Novartis는 뉴욕의 음식 알레르기가 있는 젊은이들을 다룬 4부작 마이크로드라마 시리즈를 후원했습니다.",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "Genentech",
+            "and",
+            "Novartis",
+            "dish",
+            "food",
+            "allergy"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercepharma.com/marketing/genentech-and-novartis-dish-food-allergy-microdrama-series"
+        },
+        {
+          "id": "2026-06-13-0035",
+          "title": "Parabilis sets a record with a $670M biotech IPO",
+          "source": "BioPharma Dive",
+          "date": "2026-06-10",
+          "section": "global",
+          "eventType": "funding",
+          "summary": "Parabilis는 6억 7천만 달러의 생명공학 IPO로 기록을 세웠습니다. 벤처 지원 생명공학 회사의 사상 최대 규모 신규 주식 매각으로 2026년 연속 대규모 IPO가 연장되어 현재 12개 제약 스타트업이 총 41억 달러 이상을 확보하게 되었습니다.",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "Parabilis",
+            "sets",
+            "record",
+            "with",
+            "biotech",
+            "IPO"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.biopharmadive.com/news/parabilis-biotech-ipo-price-helicon-peptides-cancer-verdine/822397/"
+        },
+        {
+          "id": "2026-06-13-0036",
+          "title": "Big Pharma-backed SonoThera sounds off with $125M series B for bubble-based genetic delivery - Fierce Biotech",
+          "source": "Google News",
+          "date": "2026-06-10",
+          "section": "deal",
+          "eventType": "funding",
+          "summary": "Big Pharma의 지원을 받는 SonoThera가 버블 기반 유전자 전달을 위한 1억 2,500만 달러 규모의 시리즈 B로 성공을 거두었습니다. Fierce Biotech",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Big",
+            "Pharma-backed",
+            "SonoThera",
+            "sounds",
+            "off"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUhiY1FsaFlkUzFqTHdHQzJqQmRxYWwyRXh1cVJKSWZBX1BJaHZSa1hpNncxSEdPZ216b193ZXloa1FucUF1Z3RPRkk0VDJ6d1dCVEh1R3dtNFY4QV92djZOUnJhVTRERjNya3ROR1VMSEZNMW1SZ3dVZjc5TnhtZzR0VWxRRDQxZ2w4UGNfd3VvdHRsd1dJck5kbmFUempCcGduOGR5ejNmQTZHb1dob3BwcFFFV2s?oc=5"
+        },
+        {
+          "id": "2026-06-13-0037",
+          "title": "With $125 million, 'microbubble' startup looks to launch gene therapy trial next year - The Business Journals",
+          "source": "Google News",
+          "date": "2026-06-10",
+          "section": "modality",
+          "eventType": "funding",
+          "summary": "1억 2,500만 달러 투자한 '마이크로버블' 스타트업, 내년에 유전자 치료 임상 개시 예정",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "gene therapy",
+            "With",
+            "million",
+            "microbubble",
+            "startup",
+            "looks"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY05PbllPRExlYjZJSkt5UDhxMHp0cGFJNGlJbnNiWEtoelRvWFBmekNtNjdfY3NEdTAxM3VhZU1mUEFCQXRNa0NfNzh2SzBMbklCUTUzUmJ5YVFNdnN0NUstV0xoZFZJTmVYYUoyLWlWSEZMaFltM1l5ODBtMmZuQ3lwbEU3YmZjSGpja0dwWWxwQnFyUjVoQ3RqanZELVFEWWJFOUF5cjlVYVRwR2dZcjhn?oc=5"
+        },
+        {
+          "id": "2026-06-13-0038",
+          "title": "Futuri Launches Revenue Intelligence Platform TopLine Enterprise. - Insideradio.com",
+          "source": "Google News",
+          "date": "2026-06-10",
+          "section": "global",
+          "eventType": "commercial",
+          "summary": "Futuri, 수익 인텔리전스 플랫폼 TopLine Enterprise 출시 Insideradio.com",
+          "significance": "상업화·마케팅 이슈는 매출 가이던스와 채널 전략에 연결되므로 경쟁 제품 점유율 데이터와 함께 보면 유용하다.",
+          "keywords": [
+            "topline",
+            "Futuri",
+            "Launches",
+            "Revenue",
+            "Intelligence",
+            "Platform"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdnJubHZYNVZuUm00elFkX29uTjE2QUVPMmxJaEo0U2JLVFFvTnZ4QWs3cXJ0dFVia0NLYmdqbkxkMWJpUnU0bC1vaUlkR04wTjd3N0NjaWJXckNfRVBlYnlRYkQyMnI2ZmRwYUVzakZaaUZjMFRnOVhlY082UVZUYWFlMFFMN3lOS3NqempzWlBGLWtENjJkQXRHM2I4T19NSHlkNHBlelVGYV9Rd3hiLUZzV3BzQno4Nld6RHByTzlZSDhkdmdyMUdDczV5YXVZbU5iYzB3b1NiUzJPNEJRUA?oc=5"
+        },
+        {
+          "id": "2026-06-13-0039",
+          "title": "House Appropriators Aim To Slightly Drop DOD Topline - Aviation Week",
+          "source": "Google News",
+          "date": "2026-06-10",
+          "section": "global",
+          "eventType": "general",
+          "summary": "하원 배정자들은 DOD 톱라인 항공 주간을 소폭 낮추는 것을 목표로 합니다.",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "topline",
+            "House",
+            "Appropriators",
+            "Aim",
+            "Slightly",
+            "Drop"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVR3eGNnQ3g2bk1sN1RtQnFKZ1d1R25rRHJETER1clJrWHZISUwtUlZhOG12SE5qZ21SUVZEMzNMWnpvMHRadnd3S0xlU0FPYjE1Q2poaTgycEt0X1RFZDFyaHF6UmZSMU8xN2JIMjZJWnhuTlVORW1zSE1pSlpqU3ZUUFNyOUs5OFZPclA5VlhKV01wTHpBS1RqamJqVUVWWHJwVmt6c3VSd3c?oc=5"
+        },
+        {
+          "id": "2026-06-13-0040",
+          "title": "Futuri Launches TopLine Enterprise: The Revenue Intelligence Platform That Turns One Sales Rep Into Five. - Morningstar",
+          "source": "Google News",
+          "date": "2026-06-10",
+          "section": "global",
+          "eventType": "commercial",
+          "summary": "Futuri, TopLine Enterprise 출시: 한 명의 영업 담당자를 다섯 명으로 바꾸는 수익 인텔리전스 플랫폼. 모닝스타",
+          "significance": "상업화·마케팅 이슈는 매출 가이던스와 채널 전략에 연결되므로 경쟁 제품 점유율 데이터와 함께 보면 유용하다.",
+          "keywords": [
+            "topline",
+            "Futuri",
+            "Launches",
+            "TopLine",
+            "Enterprise",
+            "The"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZE8ydzdudG9OZGhsMjJGSWpNNnoxd2FGbm01ZVlXTmttcDlRc1g5QlBEUVdUSFkwSWd4UU9waUNjTFJiRm1GUDlDWFIxYm5hZ0JlNGl2WFhDSVlWX0tWS3ZJaGlhMHdGeTE1dTM4MDN1U3I0M1NzbGozWnVpcDNUOE9WWHR6R3FfUlN6QUNveWl2XzVUOTEtQkxIZzQyQjZOYUFkbWR0WnNJQWJXeUl4OFZZcjQ1OERXQlhfTExXbEtBd1lsWGhwZHZRbXlLenhPMkVlNDJtX0xTNU5KMXRUQzBiQU5GVUd3TWNFWUc0VHZUVzQtTnZ3?oc=5"
+        }
+      ]
+    },
+    {
       "reportDate": "2026-06-12",
       "title": "2026-06-12 바이오 뉴스 브리핑",
       "summaryLines": [
