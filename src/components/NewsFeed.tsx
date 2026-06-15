@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import type { DailyReport, NewsItem, TabId } from "@/data/types";
+import { itemOrigin } from "@/data/types";
 import { BriefingSection } from "./BriefingSection";
 import { NewsCard } from "./NewsCard";
 import { SectionTabs } from "./SectionTabs";
@@ -12,6 +13,8 @@ type Props = {
 
 function filterByTab(items: NewsItem[], tab: TabId) {
   if (tab === "all") return items;
+  if (tab === "domestic") return items.filter((item) => itemOrigin(item) === "domestic");
+  if (tab === "global") return items.filter((item) => itemOrigin(item) === "global");
   return items.filter((item) => item.section === tab);
 }
 
@@ -24,9 +27,13 @@ function buildCounts(items: NewsItem[]) {
     deal: 0,
     modality: 0,
     paper: 0,
+    general: 0,
   };
   for (const item of items) {
-    counts[item.section]++;
+    counts[itemOrigin(item)]++;
+    if (item.section in counts && item.section !== "domestic" && item.section !== "global") {
+      counts[item.section]++;
+    }
   }
   return counts;
 }
@@ -70,7 +77,7 @@ export function NewsFeed({ report }: Props) {
       </main>
 
       <footer className="border-t border-memo-border px-4 py-6 text-center text-[11px] text-memo-muted">
-        Daily Bio · v0.1
+        Daily Bio · v2
       </footer>
     </div>
   );

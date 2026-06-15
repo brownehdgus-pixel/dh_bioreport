@@ -1,6 +1,867 @@
 {
   "reports": [
     {
+      "reportDate": "2026-06-15",
+      "title": "2026-06-15 바이오 뉴스 브리핑",
+      "summaryLines": [
+        "2009년부터 2025년까지 적절한 면허 없이 비행한 혐의로 에어캐나다 조종사 기소 WCAX",
+        "Lilly는 23억 달러 규모의 Ajax 거래에 대한 최초의 임상 데이터를 공개하여 JAK 억제제가 '즉시' 작동함을 보여줍니다. Eli Lilly의 최대 23억 달러 규모의 Ajax Therapeutics 인수는 첫 번째 주요 공개 테스트에 직면해 있으며, 초기 임상 데이터는 거대 제약회사가 왜 그렇게 베팅했는지 보여줍니다.",
+        "Guardant Health는 Boehringer의 신약 항암제 Fierce Biotech에 대한 환자 찾기를 위해 FDA 테스트 승인을 받았습니다.",
+        "인간 치료를 위한 유전자 편집에 지름길이 생겼습니다: FDA의 새로운 지침 초안이 귀하의 비즈니스에 미치는 영향 ArentFox Schiff",
+        "유전자 치료 발전에 힘입어 고셔병 의약품 시장 전망치는 2035년으로 높아질 전망 IndexBox"
+      ],
+      "sections": [
+        "domestic",
+        "global",
+        "regulatory",
+        "deal",
+        "modality",
+        "paper"
+      ],
+      "items": [
+        {
+          "id": "2026-06-15-0001",
+          "title": "Air Canada pilot charged after allegedly flying without a proper license between 2009 and 2025 - WCAX",
+          "source": "Google News",
+          "date": "2026-06-10",
+          "section": "global",
+          "eventType": "partnership",
+          "summary": "2009년부터 2025년까지 적절한 면허 없이 비행한 혐의로 에어캐나다 조종사 기소 WCAX",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "keywords": [
+            "License Out",
+            "Air",
+            "Canada",
+            "pilot",
+            "charged",
+            "after"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWc0Y0FZWFdqTWVSZ3RhX3BzbVNEOUg3Q2RXSDZpbDZiZkkya3ZYeHpTN3lHUDlvWWU4WEgxN1NnaVQ3V1dzTlVLRl9FLTc0Yy0wQTZfenN3MUZwN2tRVk00QVUwX2d6QTNEckttdTR4U0l1dl8wUl9CbEpQdHA3Q0xFVV9PTFNqTUMtR0pPT0dVNFhha0s1VklfOFdPQzRqaDRaNFRYQnREVFNVWHhnN2QyUWNMWnFWUXY1TFNR?oc=5"
+        },
+        {
+          "id": "2026-06-15-0002",
+          "title": "Lilly unveils first clinical data behind $2.3B Ajax deal, showing JAK inhibitor works ‘right out of the gate’",
+          "source": "Fierce Biotech",
+          "date": "2026-06-12",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Lilly는 23억 달러 규모의 Ajax 거래에 대한 최초의 임상 데이터를 공개하여 JAK 억제제가 '즉시' 작동함을 보여줍니다. Eli Lilly의 최대 23억 달러 규모의 Ajax Therapeutics 인수는 첫 번째 주요 공개 테스트에 직면해 있으며, 초기 임상 데이터는 거대 제약회사가 왜 그렇게 베팅했는지 보여줍니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "Lilly",
+            "unveils",
+            "first",
+            "clinical",
+            "data",
+            "behind"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercebiotech.com/biotech/lilly-23b-ajax-deal-first-clinical-data-jak-inhibitor-works-right-out-gate"
+        },
+        {
+          "id": "2026-06-15-0003",
+          "title": "Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug - Fierce Biotech",
+          "source": "Google News",
+          "date": "2026-06-12",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Guardant Health는 Boehringer의 신약 항암제 Fierce Biotech에 대한 환자 찾기를 위해 FDA 테스트 승인을 받았습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "biotech \"FDA approval\"",
+            "Guardant",
+            "Health",
+            "nabs",
+            "FDA",
+            "test"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2hiVUFpTVpfbXZNekkwNXRrVzJxcVpTODJZYktNMUR0YWU1ZDVRTE1ocUtoYTl2eUxva1gwM1dhREljdV9JOG90THBaRVpUR3k3dHd6VmdSWW1iOXB0cHlJdmdUQjNZcWktNXg1NldYWG5KOUJULVoxeWtIclpZZVpmajlfOHJsVXRIQUdFZm5kaTNyNHQyakRKeGpoeWQ3dllXVFZESnotcWpBeEhUN2NkTExpWkxFZVE?oc=5"
+        },
+        {
+          "id": "2026-06-15-0004",
+          "title": "Gene Editing for Human Therapies Just Got a Shortcut: What the FDA’s New Draft Guidance Means for Your Business - ArentFox Schiff",
+          "source": "Google News",
+          "date": "2026-06-12",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "인간 치료를 위한 유전자 편집에 지름길이 생겼습니다: FDA의 새로운 지침 초안이 귀하의 비즈니스에 미치는 영향 ArentFox Schiff",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Gene",
+            "Editing",
+            "for",
+            "Human",
+            "Therapies"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1J1Y0RvSXl6UjJ1cWFrRDBQT3p6akY5VDh4YXd3T3pCdDk4aDk1aVJ5cmV3Z2pGaldheDZ6eDlWbk9mTDVpMFpydEVUOGpPZ2tYbzV0UU12QWc4SnU4MjczVjk3UjVnU0JKZUtrbDVJXzc4MFh3V0UxNGE3dVFhS0o1cHNfN2J0WlVHS2hYZkhuMmU1MUU2LXV1NjlXWl9wTHZyYUpENUNkV01tNjZsNGloNGFUbEc2MHo2bUNqUQ?oc=5"
+        },
+        {
+          "id": "2026-06-15-0005",
+          "title": "Gaucher Disease Drugs Market Forecast Points Higher Toward 2035, Driven by Gene Therapy Advances - IndexBox",
+          "source": "Google News",
+          "date": "2026-06-13",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "유전자 치료 발전에 힘입어 고셔병 의약품 시장 전망치는 2035년으로 높아질 전망 IndexBox",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Gaucher",
+            "Disease",
+            "Drugs",
+            "Market",
+            "Forecast"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeERzZXdHMHdGeE16SDhmSHZfX0N2Z2RmR1FMQ0dzX3djSFozMEkzdHZnRGllU3lNQTBBYTkyRjc2Wm9FenFBbGVnSGJaOWdicDZqeVhWRWRVZDk0ZVYtUjVGbG5vY3h4NUlVQW1hYkRsVU1JQ0ptbTdlR0JoNFRMN1pQTUdrdVNZc1EzSTdtMnlSSlJmM2RPUnNndnRRTGtMUWdEZ1lsUng3WUw2eXY0dnVTOHhteENMd2wzTUFfSFZHcVU?oc=5"
+        },
+        {
+          "id": "2026-06-15-0006",
+          "title": "PEI Polyethylenimine Transfection Market Growth Outlook to 2035: Gene Therapy Demand Accelerates - News and Statistics - IndexBox",
+          "source": "Google News",
+          "date": "2026-06-13",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "2035년까지 PEI 폴리에틸렌이민 형질감염 시장 성장 전망: 유전자 치료 수요 가속화 - 뉴스 및 통계 IndexBox",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "PEI",
+            "Polyethylenimine",
+            "Transfection",
+            "Market",
+            "Growth"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUC1sNHVya1ZKMFhwRWFjQVpIeTZpS2tyYVl2ZWNObzE4MV9ZQmp5dENjaFRCXzkzUE9VSGRMRlAzRXNrQzkwd3BCZzFYWWZibzFZUDZjMjh1OWxacFpiUnhUWENrb20zaDJFdUVDNHRZcXlTTmpjaFZOMnFaTGppNkVQOFF5TWtLWTlfQ1hxSGxuS3ZXbWRuSzZ2Z25xWmZxcVFrUUZrQ3RhTlh6QjhJZmNfNmVwck5QenZNS3NsR283UjF2d05SVnNiZjBWZ0FxVjlzalFMS2lTRzlSakVMQg?oc=5"
+        },
+        {
+          "id": "2026-06-15-0007",
+          "title": "Agarose Ultrapure Market Growth Driven by Mrna and Gene Therapy Demand Through 2035 - News and Statistics - IndexBox",
+          "source": "Google News",
+          "date": "2026-06-13",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "2035년까지 Mrna 및 유전자 치료 수요에 의해 주도되는 아가로스 초순수 시장 성장 - 뉴스 및 통계 IndexBox",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Agarose",
+            "Ultrapure",
+            "Market",
+            "Growth",
+            "Driven"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXZjR1VwbFVFNkg0R1JwTy1PWU9STzRZWFpNSjF0N09SRzlUMlZ1T2RJRzZJTE5MZDZmdlo3U09vak5peHhNUkZPZWhmcV9OZk5WREFMZlVwR19wNnFMNzZaemZiMml4UW1vOUluRjBoengwSzhzNHB2c2hXNDhlbTVtNHhvQUM3OUFVMl9oY0tlTnYyaXZkdmx1YnIzUXRIMEVaY1lRM3R2djBMWjU0Rg?oc=5"
+        },
+        {
+          "id": "2026-06-15-0008",
+          "title": "Rocket Pharma Reaps $180M From Sale of FDA Drug Review Fast Pass - MedCity News",
+          "source": "Google News",
+          "date": "2026-06-14",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "로켓 파마(Rocket Pharma), FDA 약물 심사 패스트 패스(Fast Pass) 매각으로 1억 8천만 달러 수익 창출 MedCity News",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Rocket",
+            "Pharma",
+            "Reaps",
+            "From",
+            "Sale"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjFmdDFzN3BCYzJUaUw5TVBCVmkwSUVVZDVSa3VvZmV2YXViTjV0Nm9FTmJuVkhGUUNnN1VHaC1SWmc3SkRjR19HQ01lQmRfSl96S0pxTUF5aVc5Wm1UUVVSMXBQMmZnVnV2OVlxWmdoUm1UZlRHRHMteThfM2JidkJGOWNpd3lFMFFJTmoyQm9qcWFPWVpHRVgxdzcyanY0MWNB?oc=5"
+        },
+        {
+          "id": "2026-06-15-0009",
+          "title": "World Packaging Plasmid Kits - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "Google News",
+          "date": "2026-06-14",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "세계 패키징 플라스미드 키트 - 시장 분석, 예측, 규모, 동향 및 통찰력 IndexBox",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "World",
+            "Packaging",
+            "Plasmid",
+            "Kits",
+            "Market"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFRsajlrc0l0WURTdU5tWmJZU2Y5TVVLNHBrbThSUkFuem9JUkU4aWZ5ZkpIOU1BN2daZU4ybXF1NGhab0sydms2MzZzNXg3TTFQVUJMenNBOXoyTUpfeDFkNGdIaDRYb3BoRXFqckk1VjVPSWlfVkNGcUljZ1NtamlsOUpVYUQtTU15UWk5OHlmT2kwV3d1WlZ0bXpPVldwbU16eWNNdkNVY3ctMThibUk5dG5qOXRDUWVEUHV0YUxxM0hsQmI4dEJ3?oc=5"
+        },
+        {
+          "id": "2026-06-15-0010",
+          "title": "World Nickase Cas9 Paired Protein - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "Google News",
+          "date": "2026-06-14",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "World Nickase Cas9 쌍을 이루는 단백질 - 시장 분석, 예측, 규모, 추세 및 통찰력 IndexBox",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "World",
+            "Nickase",
+            "Cas9",
+            "Paired",
+            "Protein"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmZCVzR6UDVmUXY3WlRUaUVpWTF5SlI5ZFEtYmhzamlZNzJRRzh5VzY5dF9zbGJ3UzdPMlo5YWkzS3NzbDJXMWtEbmVva29BWFE3V0Y5cWFHek01ajJqVXNyWWdXSlFuYmlXMmJZMUtGaFRnRmNhbGwxMGZSaTlhU0RUYjdIdVpaalBvakNnV0ZtOGJGdURxQ05BZEZpeFRPRlNfU0Vla1U5TUpwbW1xY092Y3ZGM0tMWVQyWmlZZDFweXJq?oc=5"
+        },
+        {
+          "id": "2026-06-15-0011",
+          "title": "Celldex Presents Positive Phase 1 Results for CDX-622, a Novel Bispecific Antibody for Mast Cell Depletion and TSLP Inhibition at EAACI Annual Meeting - Quiver Quantitative",
+          "source": "Google News",
+          "date": "2026-06-14",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "Celldex, EAACI 연례 회의에서 비만세포 고갈 및 TSLP 억제를 위한 새로운 이중특이적 항체인 CDX-622에 대한 긍정적인 1상 결과 발표 Quiver Quantitative",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "keywords": [
+            "bispecific antibody",
+            "Celldex",
+            "Presents",
+            "Positive",
+            "Phase",
+            "Results"
+          ],
+          "importanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxONmRQbjUzSnRYZzh1cTZQR3drRndnRjBFNkFTTFdFQ21FYXliZVVGbXUzVTRrSXBaWFVtUUdpLUl3NmF6bl9VS0lTdktPejZqcGF5Um5OampXUHA0RUZmaVlfYTRNdlJPR0p4bzVtYWFBU0J5aHI5cGVEWXpEM25nak1MZlkyWk9uNzlfMXVydWNBZDJmUDl3Rm1YRnBCZUNtT29relFpTWdOZUtPSWFWc05pX0JDMXQyUnpiV0lNN3lDZ3A4bXRieU9pVEpiMW1NbFFPTmNwX2YtenBlUEc1ck1qZG9qandmSnpteGJCVWVTc1pubVFiNVJmS0RtdHl3UHZyNUd5NmhBQ2RQSUxPQnZTZw?oc=5"
+        },
+        {
+          "id": "2026-06-15-0012",
+          "title": "EHA: J&J sharpens myeloma edge as Talvey, Darzalex Faspro combo proves its worth in earlier disease stage",
+          "source": "Fierce Pharma",
+          "date": "2026-06-12",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "EHA: J&J는 Talvey, Darzalex Faspro 콤보가 초기 질병 단계에서 그 가치를 입증함에 따라 골수종 가장자리를 날카롭게 합니다. 초기 다발성 골수종 환자를 대상으로 한 이중특이성 항체 Talvey와 Darzalex Faspro에 대한 J&J의 MonumentTAL-3 3상 연구는 2026년 유럽 혈액학 협회 연례 회의에서 총회에서 상을 받았습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "EHA",
+            "sharpens",
+            "myeloma",
+            "edge",
+            "Talvey",
+            "Darzalex"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 5,
+          "url": "https://www.fiercepharma.com/pharma/eha-jj-sharpens-myeloma-edge-talvey-darzalex-faspro-combo-proves-its-worth-earlier-disease"
+        },
+        {
+          "id": "2026-06-15-0013",
+          "title": "Mesenchymal stem cell-mediated delivery boosts the efficacy of suicide gene therapy based on retroviral replicating vectors in peritoneally disseminated cancer - Nature",
+          "source": "Google News",
+          "date": "2026-06-13",
+          "section": "modality",
+          "eventType": "publication",
+          "summary": "중간 엽 줄기 세포 매개 전달은 복막 파종 암에서 레트로 바이러스 복제 벡터를 기반으로 한 자살 유전자 치료의 효능을 향상시킵니다.",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Mesenchymal",
+            "stem",
+            "cell-mediated",
+            "delivery",
+            "boosts"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NRHVHZWhrRS1BWVJzazE0MEE4S2VMNmhxZkZySzZ5VlVtXzE3NjdObDZuTUdDWEplYzE4eGhGVGFqWHVrSGRoREJnT2pkbDNZRURUck1tZ0lZUnJvTkJN?oc=5"
+        },
+        {
+          "id": "2026-06-15-0014",
+          "title": "Taysha Gene Therapies (TSHA) Stock Valuation After Encouraging Rett Syndrome Trial Results And Growing Regulatory Momentum - simplywall.st",
+          "source": "Google News",
+          "date": "2026-06-14",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Rett 증후군 시험 결과 장려 및 규제 모멘텀 증가 후 Taysha Gene Therapies(TSHA) 주식 평가 Simplywall.st",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Taysha",
+            "Gene",
+            "Therapies",
+            "TSHA",
+            "Stock"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWmJQVFVhTjl4ajRobGFPc1FPeWlCX1lLbmxReVRFOVN5MW12eE10Qm5EcEJhRFlpZkdvMVI2ZU9OQVlrdFdjeUJ6OW5oM3lTcWk2XzdicExmbW90c1ZXNkpPdXdqZ0NmOFNXV245eUZzOE5Sekg3MTQxbjlNZldaUXVhVUtyY2J1VzNNa05ocmp3TV9RMGNUOEVHUlVsdHA2RUFLZ3AzS1dnVVZvLXFXZ2JBWUFOckhHZ3JvZnNTRWthdExtdEtSbmQyMkl0emhsckdCZmdLZTlwMjlYYUVMQmFtWW01bUh2NnVN0gHwAUFVX3lxTFBpMDVGSGFXMzdKOW9xOUxaYkZ4dTdVdkYtdkZLNWNYYWJ6ZDFxUVc0cFMyR2ROdWdVcWpsc2gya0JidFlha2pib2lDbEJqTXFueHdNRTRUcHBEVFF4MU52NEJaVDhPcndTQ1RLRHRVcnc1dndQcXB3WlJiTkxUWHZoUUl0NkpjVy1iZ1E4ZWVDcWt2Y29PQml1QU9Tb29GZTYxblJ1bTFjWVRfdThmVWtZTjBaNjFQVmZVUkF3ZFEtMGdTRzJFMkduRVJ6SHpuR2p4OXNTZFlWSEp5bTc0eFlFd3hwNHB3X1ZMSXg1S3B4SA?oc=5"
+        },
+        {
+          "id": "2026-06-15-0015",
+          "title": "Life Biosciences Begins First Human Age-Reversal Gene Therapy Trial - 조선일보",
+          "source": "Google News",
+          "date": "2026-06-14",
+          "section": "modality",
+          "eventType": "publication",
+          "summary": "생명생명과학, 최초의 인간 노화 역전 유전자 치료 실험 시작 조선일보",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Life",
+            "Biosciences",
+            "Begins",
+            "First",
+            "Human"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOTRCYWNYdXVXalpjUHI1SmZ4NDhGc2kwdkZQTF80Z1p6dVlCdlJ2OWp3UW5XdVU4SjVyQ1ktVHdXa2xZT2RlTzlTOTdqdktpRWxFLVdGaTZRN05lR1ZDenl1dXRzOVRjT3Bud0FzdlQyd1NISVdOTm56dzI3LU5naFhUdmZ2S2Rj?oc=5"
+        },
+        {
+          "id": "2026-06-15-0016",
+          "title": "Life Biosciences Begins First Human Age-Reversal Trial for Glaucoma - 조선일보",
+          "source": "Google News",
+          "date": "2026-06-14",
+          "section": "paper",
+          "eventType": "publication",
+          "summary": "생명생명과학, 녹내장에 대한 최초의 인간 연령 역전 시험 시작 조선일보",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Life",
+            "Biosciences",
+            "Begins",
+            "First",
+            "Human"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1FUcnlyYUV4WXNlMkstUkhVRmFkRjNxQ01NSFlkRi1TRy1ZbHpMaVpRR3U1NURGYnYyUVMxUmo4Tmp3VHVFQ1ZmLXJub25SeVBSTHNQVTBHbUQ1T3NvRld3a2NZZFQ4Q0EwSmpkM2t2TFNpVUp1NExBdGM0RkJ1alBlRUVaVUFV?oc=5"
+        },
+        {
+          "id": "2026-06-15-0017",
+          "title": "Can Twist Bioscience (TWST) Turn New Antibody Deals Into Durable Scale Despite Ongoing Losses? - simplywall.st",
+          "source": "Google News",
+          "date": "2026-06-14",
+          "section": "deal",
+          "eventType": "publication",
+          "summary": "Twist Bioscience(TWST)가 지속적인 손실에도 불구하고 새로운 항체 거래를 내구성 있는 규모로 전환할 수 있습니까? Simplywall.st",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "keywords": [
+            "bispecific antibody",
+            "Can",
+            "Twist",
+            "Bioscience",
+            "TWST",
+            "Turn"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 5,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTG03UTRGeHhyV2tIYVN2REFPTVBETW5HTkUzZktXMUNPemxSandsT3JVeGZ0OHRGdHN2RjBhREluNUtYWHhiTjVudG5CYjk2cTluWHVzWXpjNWhnVkM5RjlnVlV3MGtHd0h0dElueS03Q3ItU1NRZGZsMlY3ZHhNSUtIMHNOeHM5Mk9TV2drMV95ZndQT2dUZmpsWWVuQXBuRE5lQWZ4aVd5dkxZNU9ac3BkUHFTLWo3eW1WQ1N6Z2lLS3V6TFVXUnFjMHcxQUtMVVVvangwUkEyak9DYVFWYlZNWGPSAeoBQVVfeXFMUHBCY1JCbjBuN0FkbV9kZmd2enR1Z0pJNjJiTERtS0h5MGxCOFFoVl9USjd2d0JWaF9wRXR2bU04MGhyMFVLblJ3cEN1NnpuNEhtM04yelVoSnQ1Wm9nc3d0czlTMXIwR0U1UWx5OXN0LTd1aUtIQWZOLUdjME02czBKRW84aWU4X2tUSjlCQTd2U0g4QndlX3ZTaFhhY19fRU9RLXIyT2hUdFJaYWtxbVB4ZTVoU01kcll0ZGh4Z09VM0tadklRel8zS3lpN0VrLUJ0dkZaRzFlVGUyMHhVRk4wQ00xU0RRY2NB?oc=5"
+        },
+        {
+          "id": "2026-06-15-0018",
+          "title": "진흥원, ARPA형 사업관리자 양성 교육 과정 첫 도입",
+          "source": "히트뉴스",
+          "date": "2026-06-15",
+          "section": "domestic",
+          "eventType": "publication",
+          "summary": "진흥원, ARPA형 사업관리자 양성 교육 과정 첫 도입. 한국보건산업진흥원 K-헬스미래추진단은 지난 10일부터 12일까지 3일간 글로벌 사업관리자(PM) 인재양성 교육 과정인 'BiTS(Big if True Science)'를 마쳤다고 밝혔다.BiTS는 미국 DARPA 등 ARPA형 기관의 전직 사업관리자를 포함한 전문가 네트워크를 활용해 과학자와 기술자가 연구 아이디어를 대규모 협력형 연구개발 프로그램으로 구체화할 수 있도록 지원하는 교육 과정이다.K-헬스미래추진단에 따르면 도전·혁신형 연구개발을 이끌 사업관리자 양성을 위해 미국 DARPA, ARPA-H, ARPA-E 등 혁신형 연구개",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "keywords": [
+            "ARPA",
+            "BiTS",
+            "Big",
+            "True",
+            "Science",
+            "DARPA"
+          ],
+          "importanceScore": 7,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=76861"
+        },
+        {
+          "id": "2026-06-15-0019",
+          "title": "XTALPI (02228.HK) Enters Strategic AI Drug Discovery Collaboration with International Pharma Worth Over USD400 Million - AASTOCKS.com",
+          "source": "Google News",
+          "date": "2026-06-10",
+          "section": "global",
+          "eventType": "funding",
+          "summary": "XTALPI(02228.HK), 미화 4억 달러 이상의 가치를 지닌 국제 제약회사와 전략적 AI 신약 발굴 협력 체결 AASTOCKS.com",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "XTALPI",
+            "Enters",
+            "Strategic",
+            "Drug",
+            "Discovery"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVlFcWRvalhOTTNNdU5fdVFTWEdDSzI3cldHaTJHQzR6Z1hSTk1jc0ZWMVQ5ZG43eE5MdU45Y0FTMHZWOGIzVzlKMWloMTByU21YTlhla3YxZzFLTzlEYWdCNFliU1FXYU9Ha3pGZHlqWFZsd1BMekRud2V5ZXpkZTYwMnRpQQ?oc=5"
+        },
+        {
+          "id": "2026-06-15-0020",
+          "title": "‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff",
+          "source": "Fierce Biotech",
+          "date": "2026-06-11",
+          "section": "modality",
+          "eventType": "funding",
+          "summary": "'단순히 비용 절감이 아닌': Xtandi의 특허 절벽에 맞서기 위한 Astellas CEO의 5개년 전략 내부 전립선암 치료제 엑스탄디(Xtandi)에 대한 60억 달러의 특허 절벽을 바라보며 아스텔라스는 새로운 5개년 전략 계획에 기반을 둔 2,000억 엔(13억 달러)의 비용 절감 프로그램을 통해 피할 수 없는 매출 감소에 대응하는 것을 목표로 하고 있습니다. 하지만 오카무라 나오키 CEO는 “그건…",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "Not",
+            "simply",
+            "saving",
+            "cost",
+            "Inside",
+            "Astellas"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/pharma/not-simply-saving-cost-inside-astellas-ceo-5-year-strategy-counter-xtandi-patent-cliff"
+        },
+        {
+          "id": "2026-06-15-0021",
+          "title": "Cardiovascular-focused Kardigan plans to bring in cozy $320M haul from upcoming IPO",
+          "source": "Fierce Biotech",
+          "date": "2026-06-11",
+          "section": "global",
+          "eventType": "funding",
+          "summary": "심혈관 분야에 초점을 맞춘 Kardigan은 다가오는 IPO를 통해 3억 2천만 달러의 수익을 올릴 계획입니다. Kardigan은 IPO 계획을 세웠으며 심혈관 생명공학 회사는 계획된 Nasdaq 상장에서 3억 2천만 달러를 유치할 것으로 예상하고 있습니다.",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "Cardiovascular-focused",
+            "Kardigan",
+            "plans",
+            "bring",
+            "cozy",
+            "haul"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/cardiovascular-focused-kardigan-plans-bring-cozy-320m-haul-upcoming-ipo"
+        },
+        {
+          "id": "2026-06-15-0022",
+          "title": "‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff",
+          "source": "Fierce Pharma",
+          "date": "2026-06-11",
+          "section": "modality",
+          "eventType": "funding",
+          "summary": "'단순히 비용 절감이 아닌': Xtandi의 특허 절벽에 맞서기 위한 Astellas CEO의 5개년 전략 내부 전립선암 치료제 엑스탄디(Xtandi)에 대한 60억 달러의 특허 절벽을 바라보며 아스텔라스는 새로운 5개년 전략 계획에 기반을 둔 2,000억 엔(13억 달러)의 비용 절감 프로그램을 통해 피할 수 없는 매출 감소에 대응하는 것을 목표로 하고 있습니다. 하지만 오카무라 나오키 CEO는 “그건…",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "Not",
+            "simply",
+            "saving",
+            "cost",
+            "Inside",
+            "Astellas"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/not-simply-saving-cost-inside-astellas-ceo-5-year-strategy-counter-xtandi-patent-cliff"
+        },
+        {
+          "id": "2026-06-15-0023",
+          "title": "Futuri Launches TopLine Enterprise Revenue Intelligence Platform for Media Sales - Barrett Media",
+          "source": "Google News",
+          "date": "2026-06-11",
+          "section": "global",
+          "eventType": "commercial",
+          "summary": "Futuri, 미디어 판매를 위한 TopLine Enterprise Revenue Intelligence 플랫폼 출시 Barrett Media",
+          "significance": "상업화·마케팅 이슈는 매출 가이던스와 채널 전략에 연결되므로 경쟁 제품 점유율 데이터와 함께 보면 유용하다.",
+          "keywords": [
+            "topline",
+            "Futuri",
+            "Launches",
+            "TopLine",
+            "Enterprise",
+            "Revenue"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb05YblJHZkpGMC1wUzUtdVVZQjJ3SkozUE1vMUR5SkNJTGtiN3U0YWVFSVphbTJfXzdYdzl2OUNSU1NVajBVa1Etd1RhQUpYc2RlZm9FSU9FbTlhTFJONjVRN05RYXhRcVFoMzdzQXRRcGJWX0F1Z2d4OWVfODlDYVE2bmhxdlRoV0RQU1BnaDBoUXFkdGc4?oc=5"
+        },
+        {
+          "id": "2026-06-15-0024",
+          "title": "Will Skyrizi & Rinvoq Continue to Drive AbbVie's Topline Through 2026? - Yahoo Finance",
+          "source": "Google News",
+          "date": "2026-06-11",
+          "section": "global",
+          "eventType": "general",
+          "summary": "Skyrizi와 Rinvoq이 2026년까지 AbbVie의 톱라인을 계속 견인할 것입니까? 야후 파이낸스",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "topline",
+            "Will",
+            "Skyrizi",
+            "Rinvoq",
+            "Continue",
+            "Drive"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWhLcXFMYXJpQWdOTm1Qc1ZCMlhpVldXR3VKcHhjeWRTYWQ5MkxyOGhLekNUaEo2eWtCXzQ4c2EwSWp3UlFxbVhMR2ZCcWM0clgtczQ3SHBra3dQLWJ0LUJTeDR5UzJPQWViVFlNLTEtTVlLQm9vZ2Y0dFFWYXd1V1NUTjBtalNHclVIQ1FtV0I3Z3lsQU9Na29BNC1vMkJxR0FyWmpCd0U4dw?oc=5"
+        },
+        {
+          "id": "2026-06-15-0025",
+          "title": "Rocket Pharmaceuticals Announces Closing of Sale of Rare Pediatric Disease Priority Review Voucher for $180 Million - Business Wire",
+          "source": "Google News",
+          "date": "2026-06-12",
+          "section": "global",
+          "eventType": "funding",
+          "summary": "로켓 파마슈티컬스(Rocket Pharmaceuticals), 1억 8천만 달러 규모의 희귀 소아질환 우선 심사 바우처 판매 종료 발표 - 뉴스와이어",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Rocket",
+            "Pharmaceuticals",
+            "Announces",
+            "Closing",
+            "Sale"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcVl4dW13SWQxZ0dOd0pQbl9UNm0yXy02UjRncHZkbHFIem5qeTA2TVlJT2k2d1ZiVW5yYlBmanpsZ0JjbzBHZTdrQWRSUFlmeWhXV0Y0dmE0QzhRM2hpTGpZM3E3UnVScWpGeDhGU2pGeXNXc2NLRWpLTExYY3dvZ1hEaEpFLVFMMEFMNnVlSlAyNTNkWXhYX0R6ejJZam8ydkI0b0FQLURyeUhCbEFKNnNHWXNLaXpkaVVsMEQxNDhpZWJBT1Q1Mkxpekh4Ql9BbXZUeDRodEdmSG91MEVsc1RIRWs2VmZpTHg3UGFfVm43WjhVbHpZdHByUU5wb2Z0NkZQVQ?oc=5"
+        },
+        {
+          "id": "2026-06-15-0026",
+          "title": "Topline LAGOON Results Show Missed OS End Point With Lurbinectedin in Relapsed SCLC - OncLive",
+          "source": "Google News",
+          "date": "2026-06-12",
+          "section": "global",
+          "eventType": "general",
+          "summary": "Topline LAGOON 결과, 재발된 SCLC OncLive에서 Lurbinectedin이 누락된 OS 종료점을 보여줌",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "topline",
+            "Topline",
+            "LAGOON",
+            "Results",
+            "Show",
+            "Missed"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSk1VRVB6cjZhNXhJNWxaRUNuM1hURl9WZ2x4cjlfel9BbW9JWlJMTUpNRGxKVUxVNEpILWJVc0hjVzZWWXJiWm1ZbWpMZ3Rqd29yV195WWgtOWpQX3dUT1VjbzktLWR3RGs1VVBZMngtNTU0NWtZQWJ1ZzdWVU4wVDk2T04xd2hnZzd0WHdwcFQ3TzJvaHd3MnJmT2R3MldyMjNXX2lEczQ3VkJ4LWtFRHNB?oc=5"
+        },
+        {
+          "id": "2026-06-15-0027",
+          "title": "Weekend Longforms: Obese horses, pollution and the brain, peptides, financing gene therapy, and HPV cancer - Substack",
+          "source": "Google News",
+          "date": "2026-06-13",
+          "section": "modality",
+          "eventType": "funding",
+          "summary": "주말 장기 형식: 비만 말, 오염 및 뇌, 펩타이드, 자금 조달 유전자 치료 및 HPV 암 하위 스택",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Weekend",
+            "Longforms",
+            "Obese",
+            "horses",
+            "pollution"
+          ],
+          "importanceScore": 6,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmt5dWxKYjU4MUVTVDcwTmNubjdSZHR2M1ExcjhGTXhLczhpTjJIdE9sRXpUV0xSVW1EaEV6MmNmcXZJaE8zMUhqQVN3Z0d0dGIzM2hIWlFGUFNnUUZTaXMtbFMyYmRaYUVqYS1EaTNhdlptd0k3LWhWSDNpVkpWOWZBVThaMHc?oc=5"
+        },
+        {
+          "id": "2026-06-15-0028",
+          "title": "What China’s new CGT rules mean for biotech business",
+          "source": "Labiotech",
+          "date": "2026-06-01",
+          "section": "global",
+          "eventType": "general",
+          "summary": "중국의 새로운 CGT 규정이 생명공학 사업에 미치는 영향 전략을 바꿀 수 있는 새로운 규정을 채택하는 중국의 세포 및 유전자 치료의 미래를 살펴보세요. 중국의 새로운 CGT 규정이 생명공학 사업에 미치는 영향이라는 게시물이 Labiotech.eu에 처음 게재되었습니다. © Labiotech UG 및 Labiotech.eu. 본 자료의 무단 사용 및/또는 복제는 다음과 같습니다.",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "What",
+            "China",
+            "new",
+            "CGT",
+            "rules",
+            "mean"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.labiotech.eu/in-depth/china-cell-gene-therapy/"
+        },
+        {
+          "id": "2026-06-15-0029",
+          "title": "XtalPi Earns Second Milestone Payment As AI Drug Discovery Alliance With DoveTree Gains Momentum - BioPharma APAC",
+          "source": "Google News",
+          "date": "2026-06-01",
+          "section": "global",
+          "eventType": "general",
+          "summary": "XtalPi, DoveTree와의 AI 신약 발견 제휴로 두 번째 이정표 지불 획득 BioPharma APAC",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "AI drug discovery partnership",
+            "XtalPi",
+            "Earns",
+            "Second",
+            "Milestone",
+            "Payment"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVll2bzgzb3kxcUZ2TFlIcDBCNGNaQXk4OVQzSU5JQVY1MDJ4d3AwaFJFMXdzUm90b2VZc2xPa1AyV1JvUm9RbWNZeklBdWpBLTVoS1N0QTRBRUpnN0E0dG9HRmJCNFBONjRiTTdKdVlDT0JwZUExM3pfTVF4ZWRrVzczTzI5RmlsZy1vb1NtcFI3LS1wQ0lJSjEtYWFOZzBRQTJ0UmNKeDZGOWVVRktreUJ6T3BaNW5wV3o0dV9vZDAxYXdNbWJNdTJ2WlpCTFlFQlB5a1pDRQ?oc=5"
+        },
+        {
+          "id": "2026-06-15-0030",
+          "title": "Novel Therapeutic Modalities Target the Undruggable - Genetic Engineering and Biotechnology News",
+          "source": "Google News",
+          "date": "2026-06-01",
+          "section": "global",
+          "eventType": "general",
+          "summary": "내구성이 뛰어난 유전공학 및 생명공학을 목표로 하는 새로운 치료법 - 뉴스와이어",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "novel modality",
+            "Novel",
+            "Therapeutic",
+            "Modalities",
+            "Target",
+            "the"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmxOcFp1cGZiTXAwcVVGQ0VGcV9ZVmtKU0psZ1Z4WmlZNTNrYVBGUDNIZGpXYmkwYUlPNDlvREdJeUxpQ2NOY1lMRk5KVUdZNUVudDN5M05qTEtCQVNOVEFrWUs5Ym5IOVkzUmlMX2pwOWdJaTE2dkFKU2VicWFXY2JkNnFBRHpnWXJvWUhxYUdtZUZZdE5pNml3cFc3WkY3QVRv?oc=5"
+        },
+        {
+          "id": "2026-06-15-0031",
+          "title": "Highlights of ASCO 2026: how is cancer care evolving?",
+          "source": "Labiotech",
+          "date": "2026-06-03",
+          "section": "global",
+          "eventType": "general",
+          "summary": "ASCO 2026 하이라이트: 암치료는 어떻게 진화하고 있는가? 라바이오텍은 ASCO 2026에서 암 치료의 주요 트렌드와 하이라이트에 대해 전문가들로부터 들어봤습니다. 포스트 ASCO 2026 하이라이트: 암 치료는 어떻게 진화하고 있나요? Labiotech.eu에 처음 등장했습니다. © Labiotech UG 및 Labiotech.eu. 명시적, 서면 없이 이 자료를 무단 사용 및/또는 복제하는 행위…",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "Highlights",
+            "ASCO",
+            "how",
+            "cancer",
+            "care",
+            "evolving"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.labiotech.eu/trends-news/asco-2026-cancer-care/"
+        },
+        {
+          "id": "2026-06-15-0032",
+          "title": "Study Uncovers Potential Gene Therapy for Late-Stage Parkinson’s Side-Effects - Northwestern University",
+          "source": "Google News",
+          "date": "2026-06-03",
+          "section": "modality",
+          "eventType": "general",
+          "summary": "연구에서는 말기 파킨슨병의 부작용에 대한 잠재적인 유전자 치료를 밝혀냈습니다. Northwestern University",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "gene therapy",
+            "Study",
+            "Uncovers",
+            "Potential",
+            "Gene",
+            "Therapy"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDBNenBVZkZXRWxkMi1KNk9BaXZ0MUw4bDZIbzJSUG1vR2lQem5fYTE2WXJQQUZRcHpQN0cwQWstNUY5ZkNQeVJENkFTckJSNWh2MDkwb2FyNFlEMWZTOFVfMVJGZ2tLeE9RRHlaTmJsOURXRHI3eFN5Sl9IR3p4VzdrZ2xnMVdYQzlpZWtINlNmbnlCZ3hlU2U4Slh4OGVDRnB6bGVScEk1ck1jSnVHMTk3WU9YZm9zQ0ZCbWN3Y0JKeThZWEE?oc=5"
+        },
+        {
+          "id": "2026-06-15-0033",
+          "title": "ASCO26: Bispecific antibody and RET fusion-targeting assets garner attention in NSCLC - Pharmaceutical Technology",
+          "source": "Google News",
+          "date": "2026-06-03",
+          "section": "modality",
+          "eventType": "general",
+          "summary": "ASCO26: 이중특이항체와 RET 융합표적 자산이 NSCLC 제약기술에서 주목받고 있다",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "bispecific antibody",
+            "ASCO26",
+            "Bispecific",
+            "antibody",
+            "and",
+            "RET"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcFpzSUpxc2wzUm1ubUhlbnBTcFR4b3BSLWRfclNJeDRsNldjaXZIWVdOT2JFSkJsMDl6NGxRanBHeDZZQXEwUU4yWGZpN1hnWVEzXzd2ejBvYkhjRkJKOVN4WkdpNUlOTVFvRFQxMEdHSlR3WjA1am9WOWhLWGhVT1FpTmJHWWF3OUhmc0liRDZPYTJDYW1iVXc3WVhvZVdQSGhpalkzcFJiR05YSXZrYnBuUFNaT1h0S0NuelJYZ3B5cU1hN3JULXZyWGh3eUxvV21YV1NQN3J0Z00?oc=5"
+        },
+        {
+          "id": "2026-06-15-0034",
+          "title": "Ingenix Raises €13m From Sofinnova Partners-Led Syndicate to Scale Modality Fusion, a Novel Architecture for Drug Development - Morningstar",
+          "source": "Google News",
+          "date": "2026-06-03",
+          "section": "global",
+          "eventType": "general",
+          "summary": "Ingenix, Sofinnova 파트너 주도 신디케이트에서 신약 개발을 위한 새로운 아키텍처인 Modality Fusion 확장을 위해 1,300만 유로 모금 모닝스타",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "novel modality",
+            "Ingenix",
+            "Raises",
+            "From",
+            "Sofinnova",
+            "Partners-Led"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbjMteENEQ0VXYklZNkVjd3V3MEpTVnNqbkdjRHNHa3MzSjNZNlJnRzk1VkxseVlxWlh6Q1FJeFlQZURLOUlQNVhOSEtkYVFnWXkxTVNwNmk5bjhWZzZndFh6dFl5UV9LRkJGY1pzYTVYY0xybkExckFGeEI4cXJ4aFFNaVAwS2llTXVtZjd3OHoyNGhZX1Zld1lJYXNtY2NiRGxTWjV5LUEtWTRveGdEZTl6b2lYVTkxVWNJeDNVbUxEbDhoY0tPSm1leDZqSnh0cVc1NVpaeUtGbFNHbEJELUhzNkU0Nll0THJvM1JycFhJRlBucDlNTGZoQVpmOXBkakw1Sl9VbmU1Y0U0Y0w5TlF3?oc=5"
+        },
+        {
+          "id": "2026-06-15-0035",
+          "title": "Bio‑Techne and Refeyn Close Critical Gap in Bispecific Antibody and Biosimilar Characterization - PR Newswire",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "modality",
+          "eventType": "general",
+          "summary": "Bio‑Techne과 Refeyn, 이중특이적 항체 및 바이오시밀러 특성 분석에서 중요한 격차 해소 PR Newswire",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "bispecific antibody",
+            "Bio",
+            "Techne",
+            "and",
+            "Refeyn",
+            "Close"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVjZCM0J1blRvdVJqTjRRYmFsQ3BtREFFWk1PNWpxdDlodkMxc3RLUjEyMnZRTGVhZk9lQUZZYzlVbF85N0RBM1BGQlRDdFlLWldrZkhseE1ndEs1SHlLTjFyVU50dXVsR3B1UFZEcUpySzRiMzJWTkVicTd0QkUxbkNkOHJDbnVLY3N4U0taZUlMNzJpeWFqdUNjQUFmUllyQVJ2UE1yRW15ckRnVUpybWhsR1BCYmE5UjJTNmRiTHlkaGkwX1EyT1gweHl6YWw5Z3AtM0psaEZuV25wOEQ1MkRtVWI?oc=5"
+        },
+        {
+          "id": "2026-06-15-0036",
+          "title": "Virginia Cancer Specialists Selected as National ASTRO Training Center to Expand Access to Radiopharmaceutical Therapy - Morningstar",
+          "source": "Google News",
+          "date": "2026-06-04",
+          "section": "global",
+          "eventType": "general",
+          "summary": "버지니아 암 전문의, 방사성 의약품 치료에 대한 접근성 확대를 위해 국립 ASTRO 훈련 센터로 선정 모닝스타",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "Radiopharmaceutical Therapy RPT",
+            "Virginia",
+            "Cancer",
+            "Specialists",
+            "Selected",
+            "National"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOalZfVE93T1k4THFYQjFYYjJxT0lacXFVdFNyc0h4SzdYZzBOY1NCR3FUNEZkdXNzbXcyeU45NTc1Zll0X3U4SkNuY05FeE9Tbmp2THQ3YVZBRHZSZ2hUamRiN3BBaXE1TnJJOXdFdFZZejU5S0xqN3BzWjI2ZXgyeUNtX0VHcDVQdkxRZkF1YXRjQUM1T1FqMGZPVjRPQUtqM3EweVlDU1RyNnN2RHJ2bFJIRUx4VlpxNGJWcmU0VlFWTjlJRl9ZVDJXMTY3WWVpbjdkcWtXQkNCRmswVHRKQ053VmpFYlNtS0xUWGNpNmNrTHN0eFF5b0NpQmJSblhoUGFjTkwzNk40Q0U?oc=5"
+        },
+        {
+          "id": "2026-06-15-0037",
+          "title": "Bio-Techne, Refeyn Partner on Workflow for Bispecific Antibody, Biosimilar Characterization - Genetic Engineering and Biotechnology News",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "modality",
+          "eventType": "general",
+          "summary": "Bio-Techne, 이중특이성 항체, 바이오시밀러 특성화를 위한 워크플로우에 대한 Refeyn 파트너 유전공학 및 생명공학 뉴스",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "bispecific antibody",
+            "Bio-Techne",
+            "Refeyn",
+            "Partner",
+            "Workflow",
+            "for"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdXJ2M2pLcTk3Wm5XdjkydGtfdDllbGxuQm54TDNKU3FKYlJ5R2tLZHg3TzdDbjJwa29ialNEZ21wSzNEM2dTeWJLdTBTV0dweENPN3JHSFNfNEE2UHRTdk5KS0t0dGt2T3VybnV0Zy1aYktxRzAyRDR4MC1FWW80SVJmeGFIYU9hWUVGTlRMOEs3aEdqVlpMa3FfQkVWQ014bUJIS1Y3VHNxQTAtU3NsMG5TSlM4UHpOZnNEZElMcDFONkpuMGtBUDRTTUMzM0ZvTzJzbA?oc=5"
+        },
+        {
+          "id": "2026-06-15-0038",
+          "title": "Pfizer signs licence agreement with Chai for AI drug discovery - Pharmaceutical Technology",
+          "source": "Google News",
+          "date": "2026-06-05",
+          "section": "global",
+          "eventType": "general",
+          "summary": "화이자, 차이(Chai)와 AI 신약개발 라이선스 계약 체결",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "AI drug discovery licensing deal",
+            "Pfizer",
+            "signs",
+            "licence",
+            "agreement",
+            "with"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHY3QWJFanctR3FmU2FZWXJRZk1EVFFibVFxRkpib1liSnl3VnoxQWM1UDBNWndWTTk4VUo2emh4WkYtVS11SVlKYkxHUDlFUmk4dDNQaGZRX0l5WVlKeGlyVDc5Z09aWmtnS2Z1UW5kLTNKcW55T3hzMFptd2JnMEFmZw?oc=5"
+        },
+        {
+          "id": "2026-06-15-0039",
+          "title": "Chai Discovery Inks Agreement with Pfizer to Accelerate AI Drug Discovery - Digital Health News",
+          "source": "Google News",
+          "date": "2026-06-06",
+          "section": "global",
+          "eventType": "general",
+          "summary": "차이 디스커버리 잉크(Chai Discovery Inks), AI 신약 발굴 가속화 위해 화이자(Pfizer)와 계약 체결 - 뉴스와이어",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "AI drug discovery licensing deal",
+            "Chai",
+            "Discovery",
+            "Inks",
+            "Agreement",
+            "with"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb3RTV3BiVzJmOGZPYWdaaDJsZmFtekkyZi1kN2VEMnpjWVo0b1plQ3RWc1p3bFFnR1ZlYnBxX1pwTk52YTZTbWg1YlFpU0JhTU13NW0zNC1DZnJqSkJlSERkVTBsdUY1TVVoNlVXQ1pxSkRhaE1HVTZRNTlIcmhVRUNZNXdaeW9xZ3hxOTRUOF9oRXFkY2xRMWk1bWZDSjlKMXVMNFJOLUpMSmM?oc=5"
+        },
+        {
+          "id": "2026-06-15-0040",
+          "title": "First-in-the-world gene therapy delivers missing gene directly to infant's brain - Medical Xpress",
+          "source": "Google News",
+          "date": "2026-06-08",
+          "section": "modality",
+          "eventType": "general",
+          "summary": "세계 최초의 유전자 치료로 누락된 유전자를 유아의 뇌에 직접 전달 Medical Xpress",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다.",
+          "keywords": [
+            "gene therapy",
+            "First-in-the-world",
+            "gene",
+            "therapy",
+            "delivers",
+            "missing"
+          ],
+          "importanceScore": 5,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjFRUGJldmtFVTg3cFlLVTViRGpFd3pnLThRLXVKaUtkTTJkamhpNW9tZ0tRbEFHUS1sMHNvUzNRVEl5R0RQUWNTazVJNXZwX2Z0RFZMbDZZNFhLUFY5LU5uS05ta0d1Q25lSWdCdk9EWUpSMFFJQWVqSWR4YWVUbA?oc=5"
+        }
+      ]
+    },
+    {
       "reportDate": "2026-06-13",
       "title": "2026-06-13 바이오 뉴스 브리핑",
       "summaryLines": [

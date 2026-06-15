@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "limits": {
     "maxItemAgeDays": 14,
     "maxItemsInReport": 40,
@@ -76,10 +76,46 @@
       },
       {
         "query": "License Out",
-        "enabled": true
+        "enabled": false
       },
       {
         "query": "topline",
+        "enabled": false
+      },
+      {
+        "query": "biotech topline results",
+        "enabled": true
+      },
+      {
+        "query": "pharma licensing deal",
+        "enabled": true
+      },
+      {
+        "query": "MFDS approval",
+        "enabled": true
+      },
+      {
+        "query": "바이오 투자유치",
+        "enabled": true
+      },
+      {
+        "query": "기술이전 바이오",
+        "enabled": true
+      },
+      {
+        "query": "KOSDAQ 바이오",
+        "enabled": true
+      },
+      {
+        "query": "식약처 허가",
+        "enabled": true
+      },
+      {
+        "query": "KDDF 바이오",
+        "enabled": true
+      },
+      {
+        "query": "교수창업 바이오",
         "enabled": true
       },
       {
@@ -278,19 +314,6 @@
     ],
     "sections": [
       {
-        "id": "domestic",
-        "keywords": [
-          "korea",
-          "korean",
-          "south korea",
-          "seoul",
-          "mfds",
-          "kosdaq",
-          "국내",
-          "한국"
-        ]
-      },
-      {
         "id": "regulatory",
         "keywords": [
           "fda",
@@ -359,6 +382,110 @@
     "excludePreviouslyReported": true,
     "excludeSameUrl": true,
     "excludeSameTitle": true
+  },
+  "quotas": {
+    "totalItems": 40,
+    "paperMax": 3,
+    "domesticMin": 8,
+    "domesticMax": 12,
+    "globalMin": 20,
+    "globalMax": 24
+  },
+  "domestic": {
+    "keywords": [
+      "korea",
+      "korean",
+      "south korea",
+      "seoul",
+      "mfds",
+      "kosdaq",
+      "kospi",
+      "국내",
+      "한국",
+      "투자유치",
+      "기술이전",
+      "식약처",
+      "코스닥",
+      "KDDF",
+      "벤처",
+      "창업",
+      "공시",
+      "병원창업",
+      "교수창업"
+    ],
+    "sourceAllowlist": [
+      "바이오스펙테이터",
+      "히트뉴스"
+    ],
+    "hangulRatioThreshold": 0.30,
+    "priorityKeywords": [
+      "투자유치",
+      "기술이전",
+      "식약처",
+      "허가",
+      "임상",
+      "공시",
+      "kddf",
+      "창업"
+    ]
+  },
+  "bioGate": {
+    "anchorKeywords": [
+      "biotech",
+      "pharma",
+      "therapeutics",
+      "clinical",
+      "fda",
+      "ema",
+      "mfds",
+      "ind",
+      "nda",
+      "bla",
+      "oncology",
+      "gene therapy",
+      "cell therapy",
+      "adc",
+      "tpd",
+      "rna",
+      "mrna",
+      "diagnostic",
+      "healthcare",
+      "신약",
+      "바이오",
+      "제약",
+      "임상",
+      "식약처",
+      "허가",
+      "기술이전",
+      "투자유치"
+    ],
+    "noiseKeywords": [
+      "airline",
+      "pilot",
+      "air canada",
+      "driver license",
+      "flying without",
+      "software license",
+      "gaming license",
+      "entertainment",
+      "music",
+      "movie",
+      "actor",
+      "sports",
+      "crypto",
+      "bitcoin",
+      "nft"
+    ],
+    "rssTrustSources": [
+      "Fierce Biotech",
+      "Fierce Pharma",
+      "BioPharma Dive",
+      "Business Wire",
+      "Endpoints News",
+      "Labiotech",
+      "바이오스펙테이터",
+      "히트뉴스"
+    ]
   },
   "eventSignificance": {
     "regulatory": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",

@@ -43,6 +43,43 @@ DEFAULT_CONFIG: dict[str, Any] = {
         "excludeSameUrl": True,
         "excludeSameTitle": True,
     },
+    "quotas": {
+        "totalItems": 40,
+        "paperMax": 3,
+        "domesticMin": 8,
+        "domesticMax": 12,
+        "globalMin": 20,
+        "globalMax": 24,
+    },
+    "domestic": {
+        "keywords": [
+            "korea", "korean", "south korea", "seoul", "mfds", "kosdaq", "kospi",
+            "국내", "한국", "투자유치", "기술이전", "식약처", "코스닥", "kddf",
+            "벤처", "창업", "공시", "병원창업", "교수창업",
+        ],
+        "sourceAllowlist": ["바이오스펙테이터", "히트뉴스"],
+        "hangulRatioThreshold": 0.30,
+        "priorityKeywords": [
+            "투자유치", "기술이전", "식약처", "허가", "임상", "공시", "kddf", "창업",
+        ],
+    },
+    "bioGate": {
+        "anchorKeywords": [
+            "biotech", "pharma", "therapeutics", "clinical", "fda", "ema", "mfds",
+            "ind", "nda", "bla", "oncology", "gene therapy", "cell therapy",
+            "adc", "tpd", "rna", "mrna", "diagnostic", "healthcare",
+            "신약", "바이오", "제약", "임상", "식약처", "허가", "기술이전", "투자유치",
+        ],
+        "noiseKeywords": [
+            "airline", "pilot", "air canada", "driver license", "flying without",
+            "software license", "gaming license", "entertainment", "music", "movie",
+            "actor", "sports", "crypto", "bitcoin", "nft",
+        ],
+        "rssTrustSources": [
+            "Fierce Biotech", "Fierce Pharma", "BioPharma Dive", "Business Wire",
+            "Endpoints News", "Labiotech", "바이오스펙테이터", "히트뉴스",
+        ],
+    },
     "eventSignificance": {"general": "업계 동향 파악용 기사입니다."},
 }
 
@@ -52,6 +89,31 @@ class DeduplicationConfig:
     exclude_previously_reported: bool = True
     exclude_same_url: bool = True
     exclude_same_title: bool = True
+
+
+@dataclass
+class QuotaConfig:
+    total_items: int = 40
+    paper_max: int = 3
+    domestic_min: int = 8
+    domestic_max: int = 12
+    global_min: int = 20
+    global_max: int = 24
+
+
+@dataclass
+class DomesticConfig:
+    keywords: list[str]
+    source_allowlist: list[str]
+    hangul_ratio_threshold: float
+    priority_keywords: list[str]
+
+
+@dataclass
+class BioGateConfig:
+    anchor_keywords: list[str]
+    noise_keywords: list[str]
+    rss_trust_sources: list[str]
 
 
 @dataclass
@@ -79,6 +141,9 @@ class CrawlConfig:
     exclude_keywords: list[str]
     event_significance: dict[str, str]
     deduplication: DeduplicationConfig
+    quotas: QuotaConfig
+    domestic: DomesticConfig
+    bio_gate: BioGateConfig
     raw: dict[str, Any] = field(repr=False)
 
 
@@ -252,6 +317,31 @@ def _to_crawl_config(data: dict[str, Any]) -> CrawlConfig:
         exclude_same_title=_as_bool(dedup_raw.get("excludeSameTitle"), True),
     )
 
+    quotas_raw = data.get("quotas") or {}
+    quotas_cfg = QuotaConfig(
+        total_items=int(quotas_raw.get("totalItems", 40)),
+        paper_max=int(quotas_raw.get("paperMax", 3)),
+        domestic_min=int(quotas_raw.get("domesticMin", 8)),
+        domestic_max=int(quotas_raw.get("domesticMax", 12)),
+        global_min=int(quotas_raw.get("globalMin", 20)),
+        global_max=int(quotas_raw.get("globalMax", 24)),
+    )
+
+    domestic_raw = data.get("domestic") or {}
+    domestic_cfg = DomesticConfig(
+        keywords=[str(k).lower() for k in domestic_raw.get("keywords") or []],
+        source_allowlist=[str(s) for s in domestic_raw.get("sourceAllowlist") or []],
+        hangul_ratio_threshold=float(domestic_raw.get("hangulRatioThreshold", 0.30)),
+        priority_keywords=[str(k).lower() for k in domestic_raw.get("priorityKeywords") or []],
+    )
+
+    gate_raw = data.get("bioGate") or {}
+    gate_cfg = BioGateConfig(
+        anchor_keywords=[str(k).lower() for k in gate_raw.get("anchorKeywords") or []],
+        noise_keywords=[str(k).lower() for k in gate_raw.get("noiseKeywords") or []],
+        rss_trust_sources=[str(s) for s in gate_raw.get("rssTrustSources") or []],
+    )
+
     return CrawlConfig(
         version=int(data.get("version", 1)),
         max_item_age_days=int(limits["maxItemAgeDays"]),
@@ -276,6 +366,9 @@ def _to_crawl_config(data: dict[str, Any]) -> CrawlConfig:
         exclude_keywords=list(data.get("excludeKeywords") or []),
         event_significance=dict(data.get("eventSignificance") or {}),
         deduplication=dedup_cfg,
+        quotas=quotas_cfg,
+        domestic=domestic_cfg,
+        bio_gate=gate_cfg,
         raw=data,
     )
 

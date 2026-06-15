@@ -6,6 +6,9 @@ type Props = {
 };
 
 export function BriefingSection({ report }: Props) {
+  const highlights = report.executiveHighlights;
+  const useHighlights = highlights && highlights.length > 0;
+
   return (
     <section className="border-b border-memo-border bg-memo-surface px-4 pb-5 pt-6">
       <div className="mb-4 flex items-start justify-between gap-3">
@@ -25,18 +28,39 @@ export function BriefingSection({ report }: Props) {
         </time>
       </div>
 
-      <ol className="space-y-3 border-l-2 border-memo-accent/30 pl-4">
-        {report.summaryLines.map((line, index) => (
-          <li key={index} className="relative text-[13px] leading-relaxed text-memo-ink">
-            <span className="absolute -left-[calc(1rem+5px)] top-1.5 flex h-2 w-2 rounded-full bg-memo-accent" />
-            <span className="mr-1.5 font-semibold text-memo-accent">{index + 1}.</span>
-            {line}
-          </li>
-        ))}
-      </ol>
+      <p className="mb-3 text-[11px] font-bold uppercase tracking-wider text-memo-muted">
+        Executive Highlights
+      </p>
+
+      {useHighlights ? (
+        <ol className="space-y-4 border-l-2 border-memo-accent/30 pl-4">
+          {highlights!.map((h) => (
+            <li key={h.rank} className="relative">
+              <span className="absolute -left-[calc(1rem+5px)] top-1.5 flex h-2 w-2 rounded-full bg-memo-accent" />
+              <p className="text-[13px] font-semibold leading-snug text-memo-ink">
+                <span className="mr-1.5 text-memo-accent">{h.rank}.</span>
+                {h.headline}
+              </p>
+              <p className="mt-1 text-[13px] leading-relaxed text-memo-ink/85">
+                {h.investmentTakeaway}
+              </p>
+            </li>
+          ))}
+        </ol>
+      ) : (
+        <ol className="space-y-3 border-l-2 border-memo-accent/30 pl-4">
+          {report.summaryLines.map((line, index) => (
+            <li key={index} className="relative text-[13px] leading-relaxed text-memo-ink">
+              <span className="absolute -left-[calc(1rem+5px)] top-1.5 flex h-2 w-2 rounded-full bg-memo-accent" />
+              <span className="mr-1.5 font-semibold text-memo-accent">{index + 1}.</span>
+              {line}
+            </li>
+          ))}
+        </ol>
+      )}
 
       <p className="mt-4 text-[11px] italic text-memo-muted">
-        Analyst memo · 개인 열람용 · data/news.json
+        Investment intelligence · 개인 열람용 · data/news.json
       </p>
     </section>
   );
