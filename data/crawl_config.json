@@ -377,9 +377,7 @@
       }
     ]
   },
-  "excludeKeywords": [
-    "채용공고"
-  ],
+  "excludeKeywords": [],
   "deduplication": {
     "excludePreviouslyReported": true,
     "excludeSameUrl": true,
