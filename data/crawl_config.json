@@ -377,7 +377,9 @@
       }
     ]
   },
-  "excludeKeywords": [],
+  "excludeKeywords": [
+    "채용공고"
+  ],
   "deduplication": {
     "excludePreviouslyReported": true,
     "excludeSameUrl": true,
@@ -417,7 +419,7 @@
       "바이오스펙테이터",
       "히트뉴스"
     ],
-    "hangulRatioThreshold": 0.30,
+    "hangulRatioThreshold": 0.3,
     "priorityKeywords": [
       "투자유치",
       "기술이전",
