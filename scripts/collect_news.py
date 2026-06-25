@@ -33,6 +33,8 @@ if str(SCRIPTS_DIR) not in sys.path:
 from google_translate import translate_to_korean  # noqa: E402
 from env_local import load_env_local  # noqa: E402
 from crawl_config import get_config, load_crawl_config  # noqa: E402
+from openai_takeaway import generate_takeaways  # noqa: E402
+from clinicaltrials_fetch import fetch_clinicaltrials  # noqa: E402
 
 # ---------------------------------------------------------------------------
 # 경로 · 설정
@@ -300,6 +302,57 @@ def deduplicate_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
         if pub_new > pub_old:
             by_url[key] = item
     return list(by_url.values())
+
+
+# RSS 신뢰 소스는 Google News 중복 제거 시 우선 보존
+_SOURCE_PRIORITY = {"Fierce Biotech": 0, "Fierce Pharma": 0, "BioPharma Dive": 0,
+                    "Business Wire": 0, "Endpoints News": 0, "Labiotech": 0,
+                    "바이오스펙테이터": 0, "히트뉴스": 0, "Google News": 1}
+
+
+def _title_tokens(title: str) -> set[str]:
+    """소문자 알파벳/한글 토큰 집합. 3자 미만·불용어 제거."""
+    stopwords = {"the", "for", "and", "with", "from", "after", "over", "into",
+                 "that", "this", "will", "have", "been", "its", "new", "via",
+                 "says", "said", "gets", "sees"}
+    tokens = re.findall(r"[\w가-힣]{3,}", title.lower())
+    return {t for t in tokens if t not in stopwords}
+
+
+def _title_jaccard(a: str, b: str) -> float:
+    ta, tb = _title_tokens(a), _title_tokens(b)
+    if not ta or not tb:
+        return 0.0
+    return len(ta & tb) / len(ta | tb)
+
+
+def deduplicate_by_title_similarity(
+    items: list[dict[str, Any]], threshold: float = 0.55
+) -> list[dict[str, Any]]:
+    """같은 뉴스 이벤트를 다른 출처로 수집한 중복 제거 (제목 Jaccard 기반).
+
+    threshold=0.55 → 핵심 명사 5개 중 3개 이상 겹치면 동일 이벤트로 판단.
+    신뢰 RSS 소스를 Google News 보다 우선 보존.
+    """
+    # 소스 우선순위 낮을수록(0) 먼저 처리 → RSS 신뢰 소스 우선 보존
+    def _priority(item: dict[str, Any]) -> int:
+        return _SOURCE_PRIORITY.get(str(item.get("source") or ""), 1)
+
+    ordered = sorted(items, key=_priority)
+    kept: list[dict[str, Any]] = []
+    removed = 0
+    for candidate in ordered:
+        dup = False
+        for existing in kept:
+            if _title_jaccard(candidate["title"], existing["title"]) >= threshold:
+                dup = True
+                removed += 1
+                break
+        if not dup:
+            kept.append(candidate)
+    if removed:
+        print(f"  -> title-similarity dedup: removed {removed} item(s) (threshold={threshold})")
+    return kept
 
 
 def filter_excluded(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -576,6 +629,25 @@ def extract_company_hint(title: str) -> str:
     return title[:40].strip()
 
 
+_MOU_SIGNALS = ("mou", "업무협약", "양해각서", "전략적 협약", "협력 협약")
+_DEAL_AMOUNTS = ("million", "billion", "억달러", "억원", "upfront", "선급금", "마일스톤")
+_AWARD_SIGNALS = (
+    "수상", "선정됐", "선정되", "글로벌 탑", "글로벌 100", "어워드", "award", "prize",
+    "named to", "named one of", "recognized as", "honors", "honored",
+)
+
+
+def _is_mou_only(text: str) -> bool:
+    """계약이 아닌 MOU/업무협약 여부. 금액 언급이 있으면 실질 딜로 처리."""
+    if not any(p in text for p in _MOU_SIGNALS):
+        return False
+    return not any(p in text for p in _DEAL_AMOUNTS)
+
+
+def _is_award_or_selection(text: str) -> bool:
+    return any(p in text for p in _AWARD_SIGNALS)
+
+
 def score_investor_relevance(
     title: str,
     snippet: str,
@@ -589,9 +661,9 @@ def score_investor_relevance(
     score += cfg.event_type_boosts.get(event_type, 0)
 
     if origin == "domestic":
-        score += 2
+        score += 1  # 기존 +2 → +1 (글로벌 inflate 방지)
     if any(kw in text for kw in cfg.domestic.priority_keywords):
-        score += 2
+        score += 2  # 기술이전·투자유치 등 벤처 핵심 시그널은 유지
 
     global_boosts = ("fda", "ema", "phase 3", "phase iii", "acquisition", "billion", "merger")
     if any(kw in text for kw in global_boosts):
@@ -599,6 +671,14 @@ def score_investor_relevance(
 
     if event_type == "market" and section != "deal":
         score -= 1
+
+    # MOU/협약 (금액 없음): 계약 전 단계, 투자 판단 근거 약함
+    if _is_mou_only(text):
+        score -= 2
+
+    # 수상·선정 소식: 투자 가치 낮음
+    if _is_award_or_selection(text):
+        score -= 2
 
     if section == "paper":
         score = min(score, 7)
@@ -837,7 +917,12 @@ def build_significance(event_type: str, origin: str) -> str:
     return base
 
 
-def raw_to_news_item(enriched: dict[str, Any], index: int, report_date: str) -> dict[str, Any]:
+def raw_to_news_item(
+    enriched: dict[str, Any],
+    index: int,
+    report_date: str,
+    ai_takeaways: dict[str, str] | None = None,
+) -> dict[str, Any]:
     title = enriched["title"]
     snippet = enriched.get("snippet") or ""
     section = enriched.get("section") or classify_section(title, snippet, enriched.get("source", ""))
@@ -847,7 +932,10 @@ def raw_to_news_item(enriched: dict[str, Any], index: int, report_date: str) -> 
         title, snippet, event_type, section, origin
     )
     item_date = enriched.get("published_at") or report_date
-    takeaway = build_investment_takeaway(event_type, section, origin, title)
+
+    raw_id = enriched.get("raw_id") or ""
+    ai_takeaway = (ai_takeaways or {}).get(raw_id, "")
+    takeaway = ai_takeaway if ai_takeaway else build_investment_takeaway(event_type, section, origin, title)
 
     summary_en = build_summary(title, snippet)
     return {
@@ -872,9 +960,13 @@ def raw_to_news_item(enriched: dict[str, Any], index: int, report_date: str) -> 
 def build_daily_report(
     report_date: str,
     enriched_selected: list[dict[str, Any]],
+    ai_takeaways: dict[str, str] | None = None,
 ) -> dict[str, Any]:
     cfg = get_config()
-    items = [raw_to_news_item(raw, i + 1, report_date) for i, raw in enumerate(enriched_selected)]
+    items = [
+        raw_to_news_item(raw, i + 1, report_date, ai_takeaways)
+        for i, raw in enumerate(enriched_selected)
+    ]
 
     origins_present = {item["origin"] for item in items}
     content_sections = sorted(
@@ -1004,11 +1096,16 @@ def main() -> int:
 
     print("\n[1/7] Fetching RSS feeds...")
     all_raw = collect_all_raw(collected_at)
+
+    print("  -> Fetching ClinicalTrials.gov...")
+    ct_items = fetch_clinicaltrials(collected_at, max_age_days=get_config().max_item_age_days)
+    all_raw.extend(ct_items)
+
     write_json(
         raw_path,
         {"report_date": report_date, "collected_at": collected_at, "items": all_raw},
     )
-    print(f"  -> saved raw: {len(all_raw)} items")
+    print(f"  -> saved raw: {len(all_raw)} items (including {len(ct_items)} ClinicalTrials)")
 
     print("\n[2/7] Age filter...")
     raw_items = filter_recent(all_raw, report_date)
@@ -1017,6 +1114,7 @@ def main() -> int:
 
     print("\n[3/7] Deduplicating (within batch)...")
     deduped = deduplicate_items(raw_items)
+    deduped = deduplicate_by_title_similarity(deduped)
     deduped = filter_excluded(deduped)
     after_url_dedup = len(deduped)
     write_json(
@@ -1081,8 +1179,10 @@ def main() -> int:
         )
 
     print("\n[6/7] Building data/news.json...")
+    print("  -> OpenAI takeaway 생성 중...")
+    ai_takeaways = generate_takeaways(quota_selected)
     backup_news_json()
-    daily = build_daily_report(report_date, quota_selected)
+    daily = build_daily_report(report_date, quota_selected, ai_takeaways)
     final_report_items = len(daily["items"])
     merged = merge_reports(existing, daily)
     merged = trim_reports_by_retention(merged, report_date)

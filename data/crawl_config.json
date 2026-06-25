@@ -39,9 +39,10 @@
       {
         "name": "바이오스펙테이터",
         "url": "https://www.biospectator.com/rss",
-        "enabled": true,
+        "enabled": false,
         "sourceType": "rss",
-        "queryKeyword": ""
+        "queryKeyword": "",
+        "_disabled_reason": "RSS feed does not exist (404). Replaced by Google News query."
       },
       {
         "name": "히트뉴스",
@@ -60,9 +61,10 @@
       {
         "name": "Endpoints News",
         "url": "https://endpoints.news/feed/",
-        "enabled": true,
+        "enabled": false,
         "sourceType": "rss",
-        "queryKeyword": ""
+        "queryKeyword": "",
+        "_disabled_reason": "Paywall — 403 on all RSS endpoints. Replaced by Google News query."
       }
     ],
     "googleNewsQueries": [
@@ -165,6 +167,21 @@
       {
         "query": "FDA IND approved",
         "enabled": true
+      },
+      {
+        "query": "site:endpoints.news biotech",
+        "enabled": true,
+        "_note": "Endpoints News paywall 대체 — Google News 경유 헤드라인 수집"
+      },
+      {
+        "query": "바이오스펙테이터",
+        "enabled": true,
+        "_note": "바이오스펙테이터 RSS 없음 대체 — Google News 경유 수집"
+      },
+      {
+        "query": "Korea biotech phase 2 phase 3 clinical trial results",
+        "enabled": true,
+        "_note": "ClinicalTrials.gov 보완 — 국내 기업 임상 결과 수집"
       }
     ]
   },
@@ -484,7 +501,8 @@
       "Endpoints News",
       "Labiotech",
       "바이오스펙테이터",
-      "히트뉴스"
+      "히트뉴스",
+      "ClinicalTrials.gov"
     ]
   },
   "eventSignificance": {
