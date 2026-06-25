@@ -401,12 +401,12 @@
     "excludeSameTitle": true
   },
   "quotas": {
-    "totalItems": 40,
-    "paperMax": 3,
-    "domesticMin": 8,
-    "domesticMax": 12,
-    "globalMin": 20,
-    "globalMax": 24
+    "totalItems": 25,
+    "paperMax": 2,
+    "domesticMin": 9,
+    "domesticMax": 10,
+    "globalMin": 12,
+    "globalMax": 13
   },
   "domestic": {
     "keywords": [
