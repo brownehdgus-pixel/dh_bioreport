@@ -39,7 +39,7 @@
       {
         "name": "바이오스펙테이터",
         "url": "https://www.biospectator.com/rss",
-        "enabled": true,
+        "enabled": false,
         "sourceType": "rss",
         "queryKeyword": ""
       },
