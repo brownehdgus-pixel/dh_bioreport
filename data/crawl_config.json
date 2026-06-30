@@ -39,10 +39,9 @@
       {
         "name": "바이오스펙테이터",
         "url": "https://www.biospectator.com/rss",
-        "enabled": false,
+        "enabled": true,
         "sourceType": "rss",
-        "queryKeyword": "",
-        "_disabled_reason": "RSS feed does not exist (404). Replaced by Google News query."
+        "queryKeyword": ""
       },
       {
         "name": "히트뉴스",
@@ -63,8 +62,7 @@
         "url": "https://endpoints.news/feed/",
         "enabled": false,
         "sourceType": "rss",
-        "queryKeyword": "",
-        "_disabled_reason": "Paywall — 403 on all RSS endpoints. Replaced by Google News query."
+        "queryKeyword": ""
       }
     ],
     "googleNewsQueries": [
@@ -170,18 +168,15 @@
       },
       {
         "query": "site:endpoints.news biotech",
-        "enabled": true,
-        "_note": "Endpoints News paywall 대체 — Google News 경유 헤드라인 수집"
+        "enabled": true
       },
       {
         "query": "바이오스펙테이터",
-        "enabled": true,
-        "_note": "바이오스펙테이터 RSS 없음 대체 — Google News 경유 수집"
+        "enabled": true
       },
       {
         "query": "Korea biotech phase 2 phase 3 clinical trial results",
-        "enabled": true,
-        "_note": "ClinicalTrials.gov 보완 — 국내 기업 임상 결과 수집"
+        "enabled": true
       }
     ]
   },
@@ -394,7 +389,9 @@
       }
     ]
   },
-  "excludeKeywords": [],
+  "excludeKeywords": [
+    "경력채용"
+  ],
   "deduplication": {
     "excludePreviouslyReported": true,
     "excludeSameUrl": true,
