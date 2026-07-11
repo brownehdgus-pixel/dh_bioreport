@@ -1,6 +1,626 @@
 {
   "reports": [
     {
+      "reportDate": "2026-07-10",
+      "title": "2026-07-10 바이오 투자 인텔리전스",
+      "executiveHighlights": [
+        {
+          "rank": 1,
+          "itemId": "2026-07-10-0001",
+          "headline": "HLB 간암 신약, FDA 또 CRL…CGMP 실사 문제로 승인 불발",
+          "investmentTakeaway": "[이벤트] HLB의 간암 1차 치료제 '리보세라닙·캄렐리주맙' 병용요법이 FDA로부터 CRL을 수령 — HLB, 병용요법, 간암, 승인 불발, 금액 미제공  \n[중요도] FDA의 CGMP 실사 문제로 인한 CRL은 제품의 시장 출시 지연을 의미 — 규제  \n[국내관련성] 국내 관련 기업인 한미약품이 유사한 적응증을 가진 후보물질을 보유하고 있어 영향 가능성 있음  \n[액션] 리스크 체크 — FDA의 CRL은 향후 승인 가능성에 부정적인 신호를 주므로 리스크 반영 필요."
+        },
+        {
+          "rank": 2,
+          "itemId": "2026-07-10-0002",
+          "headline": "에이비엘바이오, 'ABL503+PD-1 억제제' 병용 임상1상 진행",
+          "investmentTakeaway": "[이벤트] 에이비엘바이오가 'ABL503+PD-1 억제제' 병용 임상 1상을 진행 — ABL503, 이중항체, 암종, 임상 1상, 구체적 금액 미제공  \n[중요도] 새로운 암종을 대상으로 한 임상 진행은 기술적 가능성을 높이고 시장 경쟁력을 강화할 수 있다 — 성공 관점  \n[국내관련성] 국내 바이오 기업 중 이중항체 기술을 활용하는 기업으로는 삼성바이오로직스가 있으며, 관련성이 있다  \n[액션] Watch + ABL503의 임상 진행 상황을 지속적으로 모니터링할 필요가 있다"
+        },
+        {
+          "rank": 3,
+          "itemId": "2026-07-10-0003",
+          "headline": "AZ, Ionis shares tumble on ATTR-CM trial flop, but analyst flags over-reaction",
+          "investmentTakeaway": "[이벤트] AstraZeneca와 Ionis의 ATTR-CM 치료제 Wainua가 3상 임상시험 실패 — AstraZeneca, Ionis, 모달리티: 약물, 적응증: ATTR-CM, 단계: 3상, 금액: 해당 없음  \n[중요도] 임상시험 실패는 두 회사의 주가 하락을 초래하며 시장의 신뢰도에 부정적인 영향을 미침  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 임상 실패로 인한 투자 리스크를 반영해야 함"
+        },
+        {
+          "rank": 4,
+          "itemId": "2026-07-10-0004",
+          "headline": "Ipsen’s Botox rival Dysport charts new horizons with dual phase 3 wins in migraine",
+          "investmentTakeaway": "[이벤트] Dysport가 만성 및 일과성 편두통 예방을 위한 두 개의 3상 임상시험에서 목표를 달성했다 — Ipsen, 신경독소, 편두통, 3상, 금액 미제공  \n[중요도] 성공적인 임상 결과는 시장 점유율 확대와 경쟁력 강화를 의미한다 — 성공  \n[국내관련성] 국내에선 한미약품의 '레미케이드'와 같은 경쟁 제품이 존재한다.  \n[액션] Watch + Dysport의 시장 진입이 국내 경쟁사에 미치는 영향을 분석할 필요가 있다."
+        },
+        {
+          "rank": 5,
+          "itemId": "2026-07-10-0005",
+          "headline": "Dysport® is the First Botulinum Toxin to Achieve Positive Topline Phase III Results in Both Episodic and Chronic... -…",
+          "investmentTakeaway": "[이벤트] Dysport®가 간헐적 및 만성 편두통 치료를 위한 3상 임상에서 긍정적인 결과를 달성했다 — IPSEN Group, 보툴리눔 톡신, 편두통, 3상, 금액 미제공  \n[중요도] 성공적인 임상 결과는 시장 진입 가능성을 높이며, 보툴리눔 톡신 시장에서의 경쟁력을 강화할 수 있다 — 성공  \n[국내관련성] 국내 관련 기업으로는 한미약품의 보툴리눔 톡신 제품이 있으며, 시장 경쟁에 영향을 받을 수 있다  \n[액션] Watch + Dysport®의 성공적인 임상 결과가 국내 보툴리눔 톡신 시장에 미칠 영향을 분석할 필요가 있다"
+        }
+      ],
+      "summaryLines": [
+        "[이벤트] HLB의 간암 1차 치료제 '리보세라닙·캄렐리주맙' 병용요법이 FDA로부터 CRL을 수령 — HLB, 병용요법, 간암, 승인 불발, 금액 미제공  \n[중요도] FDA의 CGMP 실사 문제로 인한 CRL은 제품의 시장 출시 지연을 의미 — 규제  \n[국내관련성] 국내 관련 기업인 한미약품이 유사한 적응증을 가진 후보물질을 보유하고 있어 영향 가능성 있음  \n[액션] 리스크 체크 — FDA의 CRL은 향후 승인 가능성에 부정적인 신호를 주므로 리스크 반영 필요.",
+        "[이벤트] 에이비엘바이오가 'ABL503+PD-1 억제제' 병용 임상 1상을 진행 — ABL503, 이중항체, 암종, 임상 1상, 구체적 금액 미제공  \n[중요도] 새로운 암종을 대상으로 한 임상 진행은 기술적 가능성을 높이고 시장 경쟁력을 강화할 수 있다 — 성공 관점  \n[국내관련성] 국내 바이오 기업 중 이중항체 기술을 활용하는 기업으로는 삼성바이오로직스가 있으며, 관련성이 있다  \n[액션] Watch + ABL503의 임상 진행 상황을 지속적으로 모니터링할 필요가 있다",
+        "[이벤트] AstraZeneca와 Ionis의 ATTR-CM 치료제 Wainua가 3상 임상시험 실패 — AstraZeneca, Ionis, 모달리티: 약물, 적응증: ATTR-CM, 단계: 3상, 금액: 해당 없음  \n[중요도] 임상시험 실패는 두 회사의 주가 하락을 초래하며 시장의 신뢰도에 부정적인 영향을 미침  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 임상 실패로 인한 투자 리스크를 반영해야 함",
+        "[이벤트] Dysport가 만성 및 일과성 편두통 예방을 위한 두 개의 3상 임상시험에서 목표를 달성했다 — Ipsen, 신경독소, 편두통, 3상, 금액 미제공  \n[중요도] 성공적인 임상 결과는 시장 점유율 확대와 경쟁력 강화를 의미한다 — 성공  \n[국내관련성] 국내에선 한미약품의 '레미케이드'와 같은 경쟁 제품이 존재한다.  \n[액션] Watch + Dysport의 시장 진입이 국내 경쟁사에 미치는 영향을 분석할 필요가 있다.",
+        "[이벤트] Dysport®가 간헐적 및 만성 편두통 치료를 위한 3상 임상에서 긍정적인 결과를 달성했다 — IPSEN Group, 보툴리눔 톡신, 편두통, 3상, 금액 미제공  \n[중요도] 성공적인 임상 결과는 시장 진입 가능성을 높이며, 보툴리눔 톡신 시장에서의 경쟁력을 강화할 수 있다 — 성공  \n[국내관련성] 국내 관련 기업으로는 한미약품의 보툴리눔 톡신 제품이 있으며, 시장 경쟁에 영향을 받을 수 있다  \n[액션] Watch + Dysport®의 성공적인 임상 결과가 국내 보툴리눔 톡신 시장에 미칠 영향을 분석할 필요가 있다"
+      ],
+      "sections": [
+        "domestic",
+        "global",
+        "regulatory",
+        "deal",
+        "paper",
+        "general"
+      ],
+      "items": [
+        {
+          "id": "2026-07-10-0001",
+          "title": "HLB 간암 신약, FDA 또 CRL…CGMP 실사 문제로 승인 불발",
+          "source": "히트뉴스",
+          "date": "2026-07-10",
+          "origin": "domestic",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "HLB 간암 신약, FDA 또 CRL…CGMP 실사 문제로 승인 불발. HLB의 간암 1차 치료제 '리보세라닙·캄렐리주맙' 병용요법이 미국 식품의약국(FDA)으로부터 또다시 보완요구서한(CRL, Complete Response Letter)을 받았다.HLB는 10일 공시를 통해 미국 자회사 엘레바 테라퓨틱스(Elevar Therapeutics)가 현지시간 9일 FDA로부터 간암 1차 치료제 허가 심사와 관련한 CRL을 수령했다고 밝혔다.FDA는 의약품 제조 및 품질관리기준(CGMP) 실사 결과 해당 제조시설에서 결함 사항을 확인했다고 설명했다. FDA는 해당 시설이 CGMP를 준수하는 상태에 도달했다고",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] HLB의 간암 1차 치료제 '리보세라닙·캄렐리주맙' 병용요법이 FDA로부터 CRL을 수령 — HLB, 병용요법, 간암, 승인 불발, 금액 미제공  \n[중요도] FDA의 CGMP 실사 문제로 인한 CRL은 제품의 시장 출시 지연을 의미 — 규제  \n[국내관련성] 국내 관련 기업인 한미약품이 유사한 적응증을 가진 후보물질을 보유하고 있어 영향 가능성 있음  \n[액션] 리스크 체크 — FDA의 CRL은 향후 승인 가능성에 부정적인 신호를 주므로 리스크 반영 필요.",
+          "keywords": [
+            "HLB",
+            "FDA",
+            "CRL",
+            "CGMP",
+            "Complete",
+            "Response"
+          ],
+          "importanceScore": 10,
+          "investorRelevanceScore": 10,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77556"
+        },
+        {
+          "id": "2026-07-10-0002",
+          "title": "에이비엘바이오, 'ABL503+PD-1 억제제' 병용 임상1상 진행",
+          "source": "히트뉴스",
+          "date": "2026-07-09",
+          "origin": "domestic",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "에이비엘바이오, 'ABL503+PD-1 억제제' 병용 임상1상 진행. 에이비엘바이오(대표 이상훈)가 이중항체 면역항암제 'ABL503'(성분명 라지스토미그)의 임상 1상에서 신규 암종을 대상으로 한 단독요법 코호트를 추가하고 PD-1 억제제와의 병용요법도 평가한다.회사는 9일 변경된 임상시험계획(IND)에 따라 임상 1상을 진행할 예정이라고 밝혔다.ABL503은 에이비엘바이오의 이중항체 플랫폼 '그랩바디-T' 기술이 적용된 PD-L1 및 4-1BB 표적 이중항체로 미국 노바브릿지 바이오사이언스와 공동 개발 중이다.변경된 IND에 따라 양사는 한국과 미국 내 약 8개 이상의 기관에서 기존 임상 1상의",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 에이비엘바이오가 'ABL503+PD-1 억제제' 병용 임상 1상을 진행 — ABL503, 이중항체, 암종, 임상 1상, 구체적 금액 미제공  \n[중요도] 새로운 암종을 대상으로 한 임상 진행은 기술적 가능성을 높이고 시장 경쟁력을 강화할 수 있다 — 성공 관점  \n[국내관련성] 국내 바이오 기업 중 이중항체 기술을 활용하는 기업으로는 삼성바이오로직스가 있으며, 관련성이 있다  \n[액션] Watch + ABL503의 임상 진행 상황을 지속적으로 모니터링할 필요가 있다",
+          "keywords": [
+            "ABL503+PD-1",
+            "ABL503",
+            "PD-1",
+            "IND",
+            "PD-L1"
+          ],
+          "importanceScore": 10,
+          "investorRelevanceScore": 10,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77536"
+        },
+        {
+          "id": "2026-07-10-0003",
+          "title": "AZ, Ionis shares tumble on ATTR-CM trial flop, but analyst flags over-reaction",
+          "source": "Fierce Pharma",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "AZ, Ionis 주식은 ATTR-CM 시험 실패에서 하락했지만 분석가는 과잉 반응을 표시합니다. ATTR-CM 환자를 대상으로 한 Wainua의 주요 3상 시험에서 AstraZeneca와 Ionis의 놀라운 실패로 인해 두 회사의 주가는 폭락했고 경쟁업체의 주가는 급등했습니다. CARDIO-TTRansform 연구는 감소에 중점을 둔 1차 평가변수를 충족하지 못했습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] AstraZeneca와 Ionis의 ATTR-CM 치료제 Wainua가 3상 임상시험 실패 — AstraZeneca, Ionis, 모달리티: 약물, 적응증: ATTR-CM, 단계: 3상, 금액: 해당 없음  \n[중요도] 임상시험 실패는 두 회사의 주가 하락을 초래하며 시장의 신뢰도에 부정적인 영향을 미침  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 임상 실패로 인한 투자 리스크를 반영해야 함",
+          "keywords": [
+            "Ionis",
+            "shares",
+            "tumble",
+            "ATTR-CM",
+            "trial",
+            "flop"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/az-ionis-shares-tumble-attr-cm-trial-failure-it-over-reaction"
+        },
+        {
+          "id": "2026-07-10-0004",
+          "title": "Ipsen’s Botox rival Dysport charts new horizons with dual phase 3 wins in migraine",
+          "source": "Fierce Pharma",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "입센의 보톡스 경쟁사인 디스포트(Dysport)는 편두통에 대한 2상 3상 승리로 새로운 지평을 열었습니다. 신경독 시장에서는 최초로 입센(Ipsen)이 자사의 디스포트(Dysport)가 간헐성 편두통과 만성 편두통 예방을 위한 2개의 3상 임상시험에서 목표를 달성했다고 목요일 발표했습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Dysport가 만성 및 일과성 편두통 예방을 위한 두 개의 3상 임상시험에서 목표를 달성했다 — Ipsen, 신경독소, 편두통, 3상, 금액 미제공  \n[중요도] 성공적인 임상 결과는 시장 점유율 확대와 경쟁력 강화를 의미한다 — 성공  \n[국내관련성] 국내에선 한미약품의 '레미케이드'와 같은 경쟁 제품이 존재한다.  \n[액션] Watch + Dysport의 시장 진입이 국내 경쟁사에 미치는 영향을 분석할 필요가 있다.",
+          "keywords": [
+            "Ipsen",
+            "Botox",
+            "rival",
+            "Dysport",
+            "charts",
+            "new"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/ipsen-botox-rival-dysport-charts-new-territory-dual-phase-3-wins-migraine"
+        },
+        {
+          "id": "2026-07-10-0005",
+          "title": "Dysport® is the First Botulinum Toxin to Achieve Positive Topline Phase III Results in Both Episodic and Chronic... - Pharma / BioTech / Nutrition - IPSEN Group - NewswireToday",
+          "source": "Google News",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Dysport®는 간헐성 및 만성 질환 모두에서 긍정적인 톱라인 3상 결과를 달성한 최초의 보툴리눔 독소입니다. - 제약/생명기술/영양 - IPSEN Group NewswireToday",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Dysport®가 간헐적 및 만성 편두통 치료를 위한 3상 임상에서 긍정적인 결과를 달성했다 — IPSEN Group, 보툴리눔 톡신, 편두통, 3상, 금액 미제공  \n[중요도] 성공적인 임상 결과는 시장 진입 가능성을 높이며, 보툴리눔 톡신 시장에서의 경쟁력을 강화할 수 있다 — 성공  \n[국내관련성] 국내 관련 기업으로는 한미약품의 보툴리눔 톡신 제품이 있으며, 시장 경쟁에 영향을 받을 수 있다  \n[액션] Watch + Dysport®의 성공적인 임상 결과가 국내 보툴리눔 톡신 시장에 미칠 영향을 분석할 필요가 있다",
+          "keywords": [
+            "biotech topline results",
+            "Dysport",
+            "the",
+            "First",
+            "Botulinum",
+            "Toxin"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSzF1NzZfYUdjdmhIMW8ybm53My1WXy03S3FCRm54bGh1c3ZUb0U3ZzNJWEp3SFJCcTNTQ3U2bzhMVE9QS3BmMVZGSklva05IWEZBcEdMVDdkWUVOUlpsR3VTb0djUWtFMmVTczlGdW5OX1AtMVE0eTJReGVZWmNSdVh3MlVDZnNUWWp3QlZIRmgwTjVtY3ExeW1lWlZIMDZvYjl1Q3JYcW9fTUh0XzRkVEt3aHlTYklsTElqM1BFNm1PMkJ6dHR0Ym1kMXFidWlHclN6MjNXamV2aU5IYVI1WWdrcndRUk1rejdybXR1SWNpYWtrbWc?oc=5"
+        },
+        {
+          "id": "2026-07-10-0006",
+          "title": "Pharma M&A Roundup: Chemomab Therapeutics Enters Merger Agreement with Scipher Medicine, Teva and Polpharma Biologics Enter Global Licensing Agreement - Pharmaceutical Executive",
+          "source": "Google News",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "deal",
+          "eventType": "partnership",
+          "summary": "제약 M&A 요약: Chemomab Therapeutics, Scipher Medicine, Teva 및 Polpharma Biologics와 합병 계약 체결 글로벌 라이선스 계약 체결",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Chemomab Therapeutics가 Scipher Medicine과 합병 계약을 체결했다 — Chemomab Therapeutics, 합병, N/A, N/A, N/A  \n[중요도] 합병은 두 회사의 기술력 및 시장 점유율을 강화할 수 있어 전략적 중요성이 높다 — 성공  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] Watch + 향후 합병 후 시너지 효과 및 시장 반응을 지켜볼 필요가 있다",
+          "keywords": [
+            "pharma licensing deal",
+            "Pharma",
+            "Roundup",
+            "Chemomab",
+            "Therapeutics",
+            "Enters"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaGZIa1ZGdnZHZ1pYVXFpVk1BZUpVUXg0UklKS2ZINi1rOERZXzlHcDMwWXNhem4wR2ZQaFpmYzdKaW1GUFJkMjZiSUpUVUxnX1ZaZktIX2tDeFlSaVdqVlgxaHdMSVh1ZTF3YVdXYWZhRFB6b09ZdmV5U011RlpyMWwyZjU2TGIzUGVDYmlsRkgyM1NXWWowRl81NXJDcENOWm4xcE9uTl9uZTZvTlpjZGtDZmxNZERCUm91eDNhNlJYWFgwYU9hRUhId0xHS3QyVFc0RklKSVNkQXhydGJ6ZlBKWS1Rcll6?oc=5"
+        },
+        {
+          "id": "2026-07-10-0007",
+          "title": "[ClinicalTrials] Study of Pembrolizumab (MK-3475) Plus Enzalutamide Versus Placebo Plus Enzalutamide in Participants With Metastatic Castration-resistant Prostate Cancer (mCRPC) (MK-3475-641/KEYNOTE-641) (Phase 3, COMPLETED)",
+          "source": "ClinicalTrials.gov",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "[임상시험] 전이성 거세저항성 전립선암(mCRPC) 참가자를 대상으로 한 펨브롤리주맙(MK-3475) + 엔잘루타미드 대 위약 + 엔잘루타마이드에 대한 연구(MK-3475-641/KEYNOTE-641)(3상, 완료됨). NCT ID: NCT03834493 | 후원자: Merck Sharp & Dohme LLC | 상태: 전립선 신생물 | 단계: 3단계 | 상태: 완료됨. 목적은…",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 펨브롤리주맙(MK-3475)과 엔잘루타미드의 조합이 전이성 호르몬 저항성 전립선암(mCRPC) 환자에 대한 3상 임상시험에서 완료됨 — Merck Sharp & Dohme LLC, 모달리티: 항암제, 적응증: 전이성 호르몬 저항성 전립선암, 단계: 3상, 금액: 해당 없음  \n[중요도] 성공적인 결과는 향후 치료 옵션 확대로 이어질 수 있어 시장성에 중요한 신호임  \n[국내관련성] 국내 제약사 중 전립선암 치료제 개발을 진행 중인 회사들이 영향을 받을 수 있음  \n[액션] Watch + 임상 결과에 따라 향후 시장 반응 및 경쟁사 동향을 주의 깊게 살펴볼 필요가 있음",
+          "keywords": [
+            "ClinicalTrials.gov",
+            "ClinicalTrials",
+            "Study",
+            "Pembrolizumab",
+            "MK-3475",
+            "Plus"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://clinicaltrials.gov/study/NCT03834493"
+        },
+        {
+          "id": "2026-07-10-0008",
+          "title": "[ClinicalTrials] A Study of Elafibranor in Adults With Primary Biliary Cholangitis and Inadequate Response or Intolerance to Ursodeoxycholic Acid. (Phase 3, COMPLETED)",
+          "source": "ClinicalTrials.gov",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "[임상시험] 우르소데옥시콜산에 대한 부적절한 반응 또는 불내증이 있고 원발성 담즙성 담관염이 있는 성인을 대상으로 Elafibranor에 대한 연구. (3단계, 완료됨) NCT ID: NCT06383403 | 후원자: 입센 | 상태: 원발성 담즙성 담관염 | 단계: 3단계 | 상태: 완료됨. 본 연구의 참가자들은 부적절한 반응으로 PBC를 확인했거나…",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 엘라피브라노르의 3상 임상시험이 완료됨 — 회사명: Ipsen, 모달리티: 약물, 적응증: 원발성 담즙성 담관염, 단계: 3상, 금액: 해당 없음  \n[중요도] 성공적인 임상 완료는 원발성 담즙성 담관염 치료제 시장에서의 경쟁력을 높일 수 있음  \n[국내관련성] 국내 비상장사인 한미약품의 담즙성 질환 관련 파이프라인과 비교 가능  \n[액션] Watch + 향후 상용화 여부 및 시장 반응을 주의 깊게 지켜볼 필요가 있음",
+          "keywords": [
+            "ClinicalTrials.gov",
+            "ClinicalTrials",
+            "Study",
+            "Elafibranor",
+            "Adults",
+            "With"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://clinicaltrials.gov/study/NCT06383403"
+        },
+        {
+          "id": "2026-07-10-0009",
+          "title": "GC녹십자, 한국백신과 백신 CMO 사업 협약",
+          "source": "히트뉴스",
+          "date": "2026-07-10",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "GC녹십자, 한국백신과 백신 CMO 사업 협약. GC녹십자가 한국백신과 백신 위탁생산(CMO) 사업 협약을 맺고, 프리필드시린지 CMO 사업 전반에서 협력한다.10일 회사 측에 따르면 이번 협약은 독감백신 '지씨플루' 완제의약품의 공급망 리스크 분산을 통한 생산 인프라 다변화를 위함이다. 신웅 GC녹십자 운영부문장은 \"두 회사의 역량을 결합해 공급망 안정성을 높이고 고품질 백신을 공급하겠다\"고 말했다.회사 측은 이번 협력이 향후 3년 내 품목허가를 목표하고 있는 고령층 대상 고면역원성 독감백신의 제조·공급망을 미리 구축하는 데 기여할 것으로 기대하고 있다.",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] GC녹십자와 한국백신이 백신 위탁생산(CMO) 사업 협약을 체결 — GC녹십자, CMO, 독감백신 '지씨플루', 구속력 없는 협약 단계.  \n[중요도] 공급망 리스크 분산을 통해 생산 인프라 다변화가 가능해져 시장 경쟁력 강화에 기여할 수 있음.  \n[국내관련성] 국내 백신 시장에서 GC녹십자와 한국백신의 협력은 다른 백신 제조사들에게도 영향을 미칠 수 있음.  \n[액션] Watch - 향후 고면역원성 독감백신의 품목허가와 생산 안정성 구축이 중요하므로 지속적인 모니터링 필요.",
+          "keywords": [
+            "CMO"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77557"
+        },
+        {
+          "id": "2026-07-10-0010",
+          "title": "\"약의 진짜 성적표는 현장에서 나온다\"…RWD/RWE 교육 성황",
+          "source": "히트뉴스",
+          "date": "2026-07-10",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "\"약의 진짜 성적표는 현장에서 나온다\"…RWD/RWE 교육 성황. 실제 의료데이터(RWD)를 활용해 의약품의 안전성과 유효성 근거(RWE)를 창출하는 전략이 제약바이오 산업의 핵심 역량으로 자리 잡고 있다. 특히 허가 이후 안전관리뿐 아니라 임상시험 보완, 적응증 확대, 시장 접근 전략 등 의약품 전 주기에서 RWD/RWE 활용 가능성이 확대되고 있다는 분석이다.히트미디어/히트뉴스는 7월 7~8일 한국제약바이오협회 4층 강당에서 'RWD/RWE 실무 마스터클래스' 교육을 개최했다. 이번 교육은 제약바이오 산업 현장에서 RWD(Real World Data)와 RWE(Real World Evidenc",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] RWD/RWE 교육 성황 — 한국제약바이오협회에서 RWD와 RWE 활용 전략 교육 실시, 7월 7~8일 진행.  \n[중요도] 제약바이오 산업의 핵심 역량으로 자리 잡고 있어 향후 임상시험 및 시장 접근 전략에 큰 영향을 미칠 수 있음.  \n[국내관련성] 국내 제약바이오 기업들이 RWD/RWE를 활용하여 임상시험 및 적응증 확대에 나설 가능성이 높음.  \n[액션] Watch + RWD/RWE 활용 전략이 제약바이오 산업의 미래에 중요한 만큼 지속적으로 모니터링 필요.",
+          "keywords": [
+            "RWD/RWE",
+            "RWD",
+            "RWE",
+            "Real",
+            "World",
+            "Data"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77517"
+        },
+        {
+          "id": "2026-07-10-0011",
+          "title": "'코대원에스의 블록버스터 제네릭들' 첫 45% 적용 사례 '관심'",
+          "source": "히트뉴스",
+          "date": "2026-07-10",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "'코대원에스의 블록버스터 제네릭들' 첫 45% 적용 사례 '관심'. 대원제약의 호흡기 치료제 '코대원에스' 제네릭이 새 약가제도의 블록버스터 제네릭 산정 사례가 될지 주목된다. 특허 장벽이 상당 부분 해소되고 재심사만료도 임박해 허가가 남은 상황이다. 9일 업계에 따르면 코대원에스는 오는 14일 재심사가 만료된다. 앞서 특허심판원은 지난달 30일 영진약품 등 10개사가 청구한 코대원에스 조성물 특허 무효심판에서 청구성립 심결을 내리면서 후발의약품 진입 가능성을 높였다. 해당 특허는 2038년까지 존속할 예정이었지만 제네릭사들이 무효심판에서 승리하면서 특허 장벽이 낮아졌다.코대원에스는 IQVIA 기준",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 대원제약의 호흡기 치료제 '코대원에스' 제네릭이 블록버스터 제네릭 산정 사례로 주목받고 있으며, 재심사 만료가 임박한 상황이다.  \n[중요도] 특허 장벽 해소로 후발의약품 진입 가능성이 높아져 시장 경쟁이 치열해질 것으로 예상된다.  \n[국내관련성] 국내 제약사인 대원제약과 관련된 제네릭 시장에 긍정적인 영향을 미칠 수 있다.  \n[액션] Watch - 제네릭 시장의 변화와 대원제약의 향후 전략을 주의 깊게 살펴볼 필요가 있다.",
+          "keywords": [
+            "IQVIA"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77550"
+        },
+        {
+          "id": "2026-07-10-0012",
+          "title": "중국은 속도, 한국은 혁신… \"라이선싱 넘어 공동개발 시대\"",
+          "source": "히트뉴스",
+          "date": "2026-07-10",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "중국은 속도, 한국은 혁신… \"라이선싱 넘어 공동개발 시대\". 중국 바이오 부상 속 한·중 바이오 협력 무게중심이 라이선싱에서 공동개발로 확장돼야 한다는 진단이 나왔다. 중국이 규모와 속도, 실행 역량을 바탕으로 글로벌 혁신 자산의 주요 공급처로 떠오르고 있는 가운데 한국은 과학적 역량과 정밀한 임상·제조 기반을 갖춘 만큼 양국의 강점을 결합하는 모델이 필요하다는 것이다.9일 마곡 서울창업허브엠플러스에서 열린 '제2회 바이오차이나 글로벌 포럼 코리아'에서는 한·중 바이오 협력과 사업개발, 라이선싱 전략 등을 주제로 발표 및 패널토론이 진행됐다. \"한·중, 공동임상, 제조협력 등 장기 파트너십",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 한·중 바이오 협력의 무게중심이 라이선싱에서 공동개발로 확장될 필요성이 제기됨 — 한국과 중국의 바이오 협력, 공동개발 모델 필요성, 포럼 개최.  \n[중요도] 한국의 과학적 역량과 중국의 실행력을 결합할 경우 글로벌 시장에서 경쟁력을 높일 수 있음 — 시장성.  \n[국내관련성] 국내 바이오 기업들이 중국과의 협력을 통해 새로운 사업 기회를 모색할 수 있음 — 관련 기업들에 긍정적 영향.  \n[액션] Watch + 한·중 협력 모델의 발전 가능성을 지속적으로 모니터링할 필요가 있음.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77547"
+        },
+        {
+          "id": "2026-07-10-0013",
+          "title": "지투지바이오 \"글로벌 A사와 임원급 미팅...후속 논의 진전\"",
+          "source": "히트뉴스",
+          "date": "2026-07-10",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "지투지바이오 \"글로벌 A사와 임원급 미팅...후속 논의 진전\". 국내 제약바이오 기업들은 바이오USA 2026에서 파트너링 논의부터 성과 발표, 네트워킹까지 치열한 나흘 일정을 소화했다. 히트뉴스가 관계자들의 막전막후를 담았다.⑪ 지투지바이오 이희용 대표지투지바이오가 바이오USA 2026에서 기존 글로벌 파트너사와 후속 공동개발을 논의하는 한편, 기술이전과 CDMO를 포함한 다양한 사업 협력 가능성을 타진하며 글로벌 사업 확대에 속도를 냈다.회사는 고함량 펩타이드 약물을 SC 제형으로 개발할 수 있는 이노램프 플랫폼을 중심으로 기술 경쟁력을 소개했으며, 50건이 넘는 미팅을 통해 신규 파트너십",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 지투지바이오가 글로벌 A사와 임원급 미팅을 통해 후속 공동개발 및 기술이전 논의를 진행 — 지투지바이오, SC 제형, 고함량 펩타이드 약물, 구속력 없는 협약 단계  \n[중요도] 글로벌 파트너십 확대는 기술력과 시장성을 높이는 중요한 기회로 작용할 수 있음 — 성공  \n[국내관련성] 국내 제약바이오 기업 중 글로벌 파트너십을 확대하려는 다른 기업들에 긍정적인 영향을 미칠 수 있음  \n[액션] Watch + 지투지바이오의 기술 경쟁력과 파트너십 동향을 지속적으로 추적할 필요가 있음",
+          "keywords": [
+            "USA",
+            "CDMO"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77539"
+        },
+        {
+          "id": "2026-07-10-0014",
+          "title": "[HIT알공] 네이처셀, 소송 승소…삼성에피스-프로티나, AI 항체옵션계약",
+          "source": "히트뉴스",
+          "date": "2026-07-09",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "[HIT알공] 네이처셀, 소송 승소…삼성에피스-프로티나, AI 항체옵션계약. ① 네이처셀, 조인트스템 품목허가 반려 처분 취소 청구소송 1심 승소 = (주)알앤엘재생의학연구소가 식품의약품안전처장을 상대로 제기한 조인트스템 의약품 제조판매 품목허가 신청 반려 처분 취소 청구소송에서 서울행정법원이 원고 승소 판결을 내림. 행정소송 결과가 최종 확정될 때까지 국내 판매계약을 유지함.② 삼성에피스홀딩스, 자회사 삼성바이오에피스 개량항체 공동기술개발 및 기술도입 옵션계약 체결 = 자회사 삼성바이오에피스가 (주)프로티나와 SPID 플랫폼 기반 국책과제 공동기술개발 및 신규 물질 라이선스-인 옵션 계약을 체결함. 계약",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 네이처셀, 조인트스템 품목허가 반려 처분 취소 청구소송 1심 승소 — 네이처셀, 조인트스템, 품목허가, 1심 판결, 서울행정법원 승소.  \n[중요도] 성공적인 소송 결과는 향후 제품 상용화에 긍정적인 신호를 줄 수 있음 — 규제 관점에서 긍정적 신호.  \n[국내관련성] 네이처셀의 조인트스템은 국내 바이오 기업의 시장 진입에 중요한 사례가 될 수 있음.  \n[액션] Watch + 향후 행정소송 결과에 따라 시장 반응이 달라질 가능성이 있음.",
+          "keywords": [
+            "HIT",
+            "SPID"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77543"
+        },
+        {
+          "id": "2026-07-10-0015",
+          "title": "[주식] 코스닥 바이오 엇갈린 희비...네이처셀 30%↑·큐로셀 10%↓",
+          "source": "히트뉴스",
+          "date": "2026-07-09",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "[주식] 코스닥 바이오 엇갈린 희비...네이처셀 30%↑·큐로셀 10%↓. 오늘의 증시시장 지수KOSPI: 7,291.91 (▲0.62%)KOSDAQ: 794.00 (▲1.15%)상승 종목비엘팜텍(▲29.90%), 네이처셀(▲29.89%), 코스맥스엔비티(▲10.75%), 인피니트헬스케어(▲8.36%), 셀레믹스(▲7.88%)하락 종목큐로셀(▼10.03%), 엘앤씨바이오(▼7.79%), 한스바이오메드(▼6.09%), 파마리서치(▼5.50%), 한올바이오파마(▼5.28%) 오늘의 이슈네이처셀(▲29.89%): '조인트스템' 구사일생…식약처에 허가반려 취소소송 1심 승리프로티나(▲0.65%): 삼성바이오에피스",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 네이처셀 주가 29.89% 상승 — 네이처셀, '조인트스템' 허가반려 취소소송 1심 승리로 주가 급등.  \n[중요도] 성공적인 법적 대응은 향후 제품 상용화 및 매출 증대 가능성을 높여 시장성에 긍정적 신호.  \n[국내관련성] 국내 바이오 기업 중 네이처셀의 법적 승리는 유사한 상황에 처한 다른 기업들에게도 영향을 미칠 수 있음.  \n[액션] Watch + 네이처셀의 향후 법적 진행 상황과 시장 반응을 주의 깊게 살펴볼 필요가 있음.",
+          "keywords": [
+            "KOSPI",
+            "KOSDAQ"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77541"
+        },
+        {
+          "id": "2026-07-10-0016",
+          "title": "삼성바이오에피스-프로티나, AI 항체 신약 개발 국책과제 후속계약",
+          "source": "히트뉴스",
+          "date": "2026-07-09",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "삼성바이오에피스-프로티나, AI 항체 신약 개발 국책과제 후속계약. 삼성바이오에피스와 프로티나가 AI를 활용한 항체 신약 개발 국책과제 수행 성과를 활용하기 위한 라이선스 옵션 계약을 체결했다. 총 계약 금액은 양 사 합의에 따라 비공개됐다.9일 회사에 따르면 이번 계약은 양사가 작년 10월부터 서울대 생명과학부 백민경 교수 연구팀과 함께 추진해 온 보건복지부 주관 'AI 모델을 활용한 항체 바이오의약품 개발 및 실증' 국책과제 사업과 관련한 후속 계약이다. 프로티나는 2027년까지 AI로 설계한 항체 신약 후보물질 발굴을 목표로 후보물질 발굴 및 검증을, 삼성바이오에피스는 임상시험계획 승인 신청(",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 삼성바이오에피스와 프로티나가 AI 항체 신약 개발을 위한 라이선스 옵션 계약을 체결 — 삼성바이오에피스, AI 기반 항체 신약, 비공개 금액, 후속계약.  \n[중요도] AI를 활용한 항체 신약 개발은 기술 혁신을 통해 시장 경쟁력을 높일 수 있는 기회로 중요하다.  \n[국내관련성] 국내 바이오 기업인 삼성바이오에피스와 프로티나가 직접 관련되어 있으며, 기술특례상장 후보로 주목받을 수 있다.  \n[액션] Watch + AI 기반 항체 개발의 진행 상황과 시장 반응을 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77538"
+        },
+        {
+          "id": "2026-07-10-0017",
+          "title": "Roche ends 2 Huntington’s disease programs, including Ionis-partnered tominersen",
+          "source": "Fierce Biotech",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Roche는 Ionis와 제휴한 tominersen을 포함하여 2개의 헌팅턴병 프로그램을 종료합니다. 로슈는 헌팅턴병 전망 중 두 가지에 대한 개발을 중단했으며, 이는 오랫동안 신약을 기다려온 환자 커뮤니티에 또 다른 타격을 입혔습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Roche, 헌팅턴병 치료제 개발 중단 — 헌팅턴병, 임상 실패, 해당 프로그램 중단으로 환자 커뮤니티에 부정적 영향.  \n[중요도] 헌팅턴병 치료제 시장에서의 실패는 향후 연구개발 방향에 중대한 영향을 미칠 수 있음.  \n[국내관련성] 국내 관련 헌팅턴병 치료제 개발 중인 기업이 없어 직접적인 영향 없음.  \n[액션] 리스크 체크 — 헌팅턴병 치료제 개발에 대한 투자 리스크 증가 반영 필요.",
+          "keywords": [
+            "Roche",
+            "ends",
+            "Huntington",
+            "disease",
+            "programs",
+            "including"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/roche-ends-2-huntingtons-disease-programs-including-ionis-partnered-tominersen"
+        },
+        {
+          "id": "2026-07-10-0018",
+          "title": "BioNTech plots right-sized HER2 ADC launch to ‘build the muscle’ for BMS-partnered bispecific",
+          "source": "Fierce Pharma",
+          "date": "2026-07-08",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "BioNTech는 BMS 파트너 이중특이성에 대한 '근육 강화'를 위해 적절한 규모의 HER2 ADC 출시를 계획합니다. BioNTech는 잠재적으로 최초의 상용 항암제를 통해 종양학의 뿌리로 돌아갈 위기에 처해 있습니다. 그러나 최고 상업 책임자 Annemarie Hanekamp에게 다가오는 출시는 독립형 이정표라기보다는 훨씬 더 많은 것을 위한 전략적 발판에 가깝습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] BioNTech가 HER2 ADC의 상업적 출시를 준비 중이다 — BioNTech, ADC, HER2 양성 암, 상업적 출시, 금액 미제공  \n[중요도] 성공적인 출시가 BMS와의 파트너십을 통한 차별화된 제품 개발에 기여할 수 있다 — 전략적 스프링보드  \n[국내관련성] 국내 비상장사인 제넥신이 HER2 표적 치료제 개발 중으로 관련성이 있다  \n[액션] Watch + BioNTech의 상업적 출시가 국내 시장에 미치는 영향을 분석할 필요가 있다",
+          "keywords": [
+            "BioNTech",
+            "plots",
+            "right-sized",
+            "HER2",
+            "ADC",
+            "launch"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/biontech-plots-right-sized-her2-adc-launch-build-muscle-bms-partnered-bispecific"
+        },
+        {
+          "id": "2026-07-10-0019",
+          "title": "Dr. Reddy's presses pause on generic semaglutide supply after flagging API issue",
+          "source": "Fierce Pharma",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Reddy 박사의 언론은 API 문제를 신고한 후 일반 세마글루타이드 공급을 중단했습니다. 세마글루타이드만큼 큰 약품이 출시되면 제네릭임에도 기대감이 엄청납니다. 제조업체의 실수로 인해 큰 타격을 입을 수 있습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] Dr. Reddy's가 세마글루타이드의 원료의약품(API) 문제로 공급 중단 — Dr. Reddy's, 제네릭, 세마글루타이드, 구속력 없는 협약 단계.  \n[중요도] 원료의약품 문제는 제조사의 신뢰도와 시장 진입에 큰 영향을 미칠 수 있음 — 규제.  \n[국내관련성] 국내 제약사 중 세마글루타이드 제네릭을 개발 중인 회사에 부정적 영향 가능성 있음.  \n[액션] 리스크 체크 — 원료의약품 문제로 인한 공급 중단은 향후 시장 진입에 리스크가 크기 때문.",
+          "keywords": [
+            "Reddy",
+            "presses",
+            "pause",
+            "generic",
+            "semaglutide",
+            "supply"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/manufacturing/dr-reddys-presses-pause-generic-semaglutide-supply-after-flagging-api-issue"
+        },
+        {
+          "id": "2026-07-10-0020",
+          "title": "FDA hits Lundbeck with untitled letter over efficacy claims on migraine drug Vyepti",
+          "source": "Fierce Pharma",
+          "date": "2026-07-08",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "FDA는 편두통제 Vyepti에 대한 효능 주장에 대한 제목 없는 서신으로 Lundbeck을 공격했습니다. FDA는 Lundbeck의 의료 제공자 웹페이지에 나열된 Vyepti의 효능을 설명하는 여러 주장에 대해 문제를 제기했습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA가 Lundbeck의 편두통 치료제 Vyepti의 효능 주장에 대해 무제한 서한을 발송했다 — Lundbeck, 모달리티: 생물학적 제제, 적응증: 편두통, 단계: 시판 중.  \n[중요도] 규제 문제로 인해 Vyepti의 시장 신뢰도 및 판매에 부정적인 영향을 미칠 가능성이 있다.  \n[국내관련성] 국내 직접 관련성 낮음.  \n[액션] 리스크 체크 — 규제 문제로 인한 시장 반응 및 투자자 신뢰도 저하 가능성 반영 필요.",
+          "keywords": [
+            "FDA",
+            "hits",
+            "Lundbeck",
+            "with",
+            "untitled",
+            "letter"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/marketing/fda-hits-lundbeck-untitled-letter-over-efficacy-claims-migraine-drug-vyepti"
+        },
+        {
+          "id": "2026-07-10-0021",
+          "title": "Roche scraps two Ionis-partnered Huntington’s drugs",
+          "source": "BioPharma Dive",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Roche는 Ionis와 제휴한 Huntington의 약물 두 개를 폐기합니다. 스위스의 거대 제약회사는 토미네르센이 한 번의 실험에서 질병 진행을 지연시키지 않았으며, 두 번째 약물에 대한 연구는 동물 실험에서 안전성 신호로 인해 폐기되었다고 말했습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Roche가 Ionis와 파트너십을 맺은 헌팅턴병 치료제 두 가지를 개발 중단 — tominersen, 실패, 안전성 이슈로 두 번째 약물 연구 중단.  \n[중요도] 임상 실패로 인해 헌팅턴병 치료제 시장에서의 신뢰도 하락 및 경쟁력 약화 가능성.  \n[국내관련성] 국내 헌팅턴병 관련 연구 및 개발을 진행 중인 바이오 기업에 부정적 영향 가능성.  \n[액션] 리스크 체크 — 임상 실패로 인한 시장 반응 및 경쟁사 전략 변화에 주목할 필요.",
+          "keywords": [
+            "Roche",
+            "scraps",
+            "two",
+            "Ionis-partnered",
+            "Huntington",
+            "drugs"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.biopharmadive.com/news/roche-tominersen-rg6496-huntington-end-development/824844/"
+        },
+        {
+          "id": "2026-07-10-0022",
+          "title": "HHS plan to speed drug research won’t remove ‘self-inflicted’ delays",
+          "source": "BioPharma Dive",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "약물 연구 속도를 높이려는 HHS 계획은 '자해' 지연을 제거하지 못합니다. 미국의 임상 시험은 계속해서 중국에 밀리고 있지만 Operation Trialblazer는 미국이 따라잡는 데 도움이 될 만큼 충분합니까?",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 미국의 임상 시험 속도 향상 계획인 Operation Trialblazer 발표 — 미국, 임상 시험, 전반적, 계획 단계, 구체적 금액 없음  \n[중요도] 미국의 임상 시험 경쟁력 강화를 위한 정책으로, 글로벌 시장에서의 기술성 및 시장성에 중요한 영향을 미칠 수 있음  \n[국내관련성] 국내 바이오 기업들이 미국 시장 진출 시 경쟁력에 영향을 받을 수 있음  \n[액션] Watch + 미국의 임상 시험 정책 변화가 국내 기업에 미칠 영향 분석 필요",
+          "keywords": [
+            "HHS",
+            "plan",
+            "speed",
+            "drug",
+            "research",
+            "won"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.biopharmadive.com/news/hhss-plan-speed-drug-rd-pharma-ai-drug/824759/"
+        },
+        {
+          "id": "2026-07-10-0023",
+          "title": "The quest to save Grace — and clear the way for rare disease patients everywhere - STAT",
+          "source": "Google News",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Grace를 구하고 희귀병 환자를 위한 길을 열어주는 탐구 STAT",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 희귀질환 환자 치료를 위한 임상 연구가 진행 중 — 특정 환자 사례(Grace), 모달리티 및 적응증 미제공, 단계 미제공, 금액 미제공  \n[중요도] 희귀질환 치료의 성공 여부가 향후 시장의 규제 및 접근성에 큰 영향을 미칠 수 있음  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 관련성이 낮음  \n[액션] Watch + 희귀질환 치료의 발전 가능성을 주의 깊게 살펴볼 필요가 있음",
+          "keywords": [
+            "gene therapy",
+            "The",
+            "quest",
+            "save",
+            "Grace",
+            "and"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanIyUmRxN1J5ZUxkb3h4WFBxUW1ISzI1TUFuSEtLOFBCTWdSTjFxSXpFQWh3ZnRiSTZIX0dKa1RFekhiRm5MdFBMelFVYm01b3FGQkFDdW0tWmdRdVdHUERiaWRoLTkyeFNtYmpQTHhuUXNqNzM4S0lSZWxUbTVOZWNNdU5tSWliWVFSeElqdjNVWkpsb3ZnQnFrZk5iVDQ?oc=5"
+        },
+        {
+          "id": "2026-07-10-0024",
+          "title": "Aspen Neuroscience Completes ASPIRO Cohort 3 and 4 Dosing, Advancing Sasineprocel Toward Phase 3 - CGTLive®",
+          "source": "Google News",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "paper",
+          "eventType": "clinical",
+          "summary": "Aspen Neuroscience는 ASPIRO 코호트 3 및 4 투약을 완료하고 Sasineprocel의 3상 CGTLive®를 향해 나아가고 있습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Aspen Neuroscience가 Sasineprocel의 ASPIRO 3, 4 Cohort 투여를 완료하여 3상으로 진입 — 회사명: Aspen Neuroscience, 모달리티: 유전자 치료, 적응증: 파킨슨병, 단계: 3상 진입.  \n[중요도] 성공적인 임상 진행은 유전자 치료 분야의 시장성과 기술성을 높이는 중요한 신호.  \n[국내관련성] 국내 유전자 치료 개발 중인 회사들, 예를 들어 에이치엘비와 같은 기업에 긍정적 영향을 미칠 수 있음.  \n[액션] Watch + 유전자 치료 분야의 발전 동향을 지속적으로 모니터링할 필요가 있음.",
+          "keywords": [
+            "gene therapy",
+            "Aspen",
+            "Neuroscience",
+            "Completes",
+            "ASPIRO",
+            "Cohort"
+          ],
+          "importanceScore": 7,
+          "investorRelevanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcS1hRXIwa1lUQkszVFF4cWJnOTBfQUV6aTVHLXRGQjBkNXZKSmRVdjJRZ2JKR2lnQVBaSlh4MjdUWE5nVU5UNktsNC1oOEVueWh4Qy1QZFJDYndfT2lFV1dvUDhpa1FweURtNjROc1BScFYzd1lRY28xNGJXa05fRm5DeTgxZlBqTTBSeVJ2bExFUHRFMTgyRFFSaGlIWFREaGV5WjhRbUZVQXJSQTgtNlJoVnhTSExXUFcybw?oc=5"
+        },
+        {
+          "id": "2026-07-10-0025",
+          "title": "Genetix turns profitable after acquiring bluebird bio assets from financial distress - The Business Journals",
+          "source": "Google News",
+          "date": "2026-07-09",
+          "origin": "global",
+          "section": "paper",
+          "eventType": "publication",
+          "summary": "제네틱스, 경영난 속에서 블루버드 바이오 자산 인수해 흑자 전환",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] Genetix가 bluebird bio의 자산을 인수하여 수익성을 달성했다 — Genetix, 자산 인수, 수익성, 금액 미제공.  \n[중요도] 자산 인수로 인해 Genetix의 재무 상태가 개선되어 시장에서의 경쟁력이 강화될 가능성이 있다.  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 bluebird bio의 기술을 활용할 수 있는 기업들이 영향을 받을 수 있다.  \n[액션] Watch + Genetix의 향후 성장 가능성을 주의 깊게 지켜볼 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Genetix",
+            "turns",
+            "profitable",
+            "after",
+            "acquiring"
+          ],
+          "importanceScore": 7,
+          "investorRelevanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTEp4UTVWS2w5M1Y1SnpRWVZGaWFjV0FXWUk2d1NoaS1XSnlNdTZUQVdzSkJNaVpOelpYRlBBYVh1Smx5Q2hsOEplRm1rQXM4N0pkeW5aRUtRczh3M2ZQVVdmQTJrMHd3TWJYQm5MRDZtdy0xRlRxcTFWNnFWbDJmZ2ttdXN4TGVE?oc=5"
+        }
+      ]
+    },
+    {
       "reportDate": "2026-07-09",
       "title": "2026-07-09 바이오 투자 인텔리전스",
       "executiveHighlights": [
