@@ -1,6 +1,624 @@
 {
   "reports": [
     {
+      "reportDate": "2026-08-11",
+      "title": "2026-08-11 바이오 투자 인텔리전스",
+      "executiveHighlights": [
+        {
+          "rank": 1,
+          "itemId": "2026-08-11-0001",
+          "headline": "K-bio fuels melanoma race as FDA speeds Replimune-Opdivo combo approval - CHOSUNBIZ",
+          "investmentTakeaway": "[이벤트] FDA가 Replimune의 Opdivo와의 병용요법 승인을 신속하게 진행 — Replimune, 병용요법, 흑색종, 승인 단계, 금액 미제공  \n[중요도] FDA의 신속 승인으로 인해 흑색종 치료 시장에서 경쟁이 심화될 가능성이 높음  \n[국내관련성] 국내 바이오 기업들이 흑색종 치료제 개발에 나서고 있어 경쟁력에 영향 미칠 수 있음  \n[액션] Watch + 흑색종 치료제 시장의 동향을 지속적으로 모니터링할 필요가 있음"
+        },
+        {
+          "rank": 2,
+          "itemId": "2026-08-11-0002",
+          "headline": "MoonLake’s nanobody boosts all clinical endpoints in phase 3 psoriatic arthritis trial",
+          "investmentTakeaway": "[이벤트] 긍정적인 3상 임상 결과 발표 — MoonLake Immunotherapeutics, 나노바디, 건선성 관절염, 3상, 구체적 금액 미제공  \n[중요도] 성공적인 임상 결과는 기술성과 시장성을 높이며, 상용화 가능성을 시사함  \n[국내관련성] 국내 비상장사인 제넥신의 나노바디 개발과 경쟁 가능성 있음  \n[액션] Watch + 임상 성공이 국내 나노바디 시장에 미치는 영향 분석 필요"
+        },
+        {
+          "rank": 3,
+          "itemId": "2026-08-11-0003",
+          "headline": "aTyr lays off 60% of workforce to fund 2nd attempt at phase 3 success for lung disease drug",
+          "investmentTakeaway": "[이벤트] aTyr Pharma가 폐 질환 치료제를 위한 3상 임상 재시도를 위해 60%의 인력을 감축했다 — aTyr Pharma, 바이오 의약품, 폐 질환, 3상, 감축 인원 60%.  \n[중요도] 인력 감축은 자금 조달과 임상 성공 가능성에 직접적인 영향을 미치므로 중요한 신호다 — 성공 여부가 향후 투자 및 시장 반응에 큰 영향을 미칠 수 있다.  \n[국내관련성] 국내 직접 관련성 낮음.  \n[액션] 리스크 체크 — 임상 재시도와 인력 감축의 리스크를 반영해야 한다."
+        },
+        {
+          "rank": 4,
+          "itemId": "2026-08-11-0004",
+          "headline": "[ClinicalTrials] A Trial to Learn if Odronextamab is Safe and Well-Tolerated and How Well it Works Compared to…",
+          "investmentTakeaway": "[이벤트] Odronextamab의 안전성 및 효능을 평가하는 3상 임상시험이 시작됨 — Regeneron Pharmaceuticals, 항체, 여포 림프종, 3상, 진행 중  \n[중요도] 새로운 치료제가 여포 림프종 치료에 대한 시장 경쟁력을 높일 수 있는 가능성이 있음  \n[국내관련성] 국내 비상장사인 제넥신이 여포 림프종 관련 연구를 진행 중임  \n[액션] Watch + 여포 림프종 치료제 시장의 변화에 주목할 필요가 있음"
+        },
+        {
+          "rank": 5,
+          "itemId": "2026-08-11-0005",
+          "headline": "엔젠바이오, 유방암·난소암 진단패널 CE-IVDR 인증 획득",
+          "investmentTakeaway": "[이벤트] 엔젠바이오가 유방암·난소암 진단패널 'BRCA아큐테스트 플러스'의 CE-IVDR 인증을 획득했다 — 엔젠바이오, 진단패널, 유방암·난소암, 인증, CE-IVDR.  \n[중요도] 유럽 시장 진입을 위한 규제 통과로 기술성과 시장성이 강화되었다 — 성공.  \n[국내관련성] 국내 유전자 진단 시장에서 엔젠바이오의 경쟁력 강화는 관련 기업에 긍정적 영향을 미칠 수 있다.  \n[액션] Watch + 유럽 인증 획득으로 향후 시장 확대 가능성을 주목할 필요가 있다."
+        }
+      ],
+      "summaryLines": [
+        "[이벤트] FDA가 Replimune의 Opdivo와의 병용요법 승인을 신속하게 진행 — Replimune, 병용요법, 흑색종, 승인 단계, 금액 미제공  \n[중요도] FDA의 신속 승인으로 인해 흑색종 치료 시장에서 경쟁이 심화될 가능성이 높음  \n[국내관련성] 국내 바이오 기업들이 흑색종 치료제 개발에 나서고 있어 경쟁력에 영향 미칠 수 있음  \n[액션] Watch + 흑색종 치료제 시장의 동향을 지속적으로 모니터링할 필요가 있음",
+        "[이벤트] 긍정적인 3상 임상 결과 발표 — MoonLake Immunotherapeutics, 나노바디, 건선성 관절염, 3상, 구체적 금액 미제공  \n[중요도] 성공적인 임상 결과는 기술성과 시장성을 높이며, 상용화 가능성을 시사함  \n[국내관련성] 국내 비상장사인 제넥신의 나노바디 개발과 경쟁 가능성 있음  \n[액션] Watch + 임상 성공이 국내 나노바디 시장에 미치는 영향 분석 필요",
+        "[이벤트] aTyr Pharma가 폐 질환 치료제를 위한 3상 임상 재시도를 위해 60%의 인력을 감축했다 — aTyr Pharma, 바이오 의약품, 폐 질환, 3상, 감축 인원 60%.  \n[중요도] 인력 감축은 자금 조달과 임상 성공 가능성에 직접적인 영향을 미치므로 중요한 신호다 — 성공 여부가 향후 투자 및 시장 반응에 큰 영향을 미칠 수 있다.  \n[국내관련성] 국내 직접 관련성 낮음.  \n[액션] 리스크 체크 — 임상 재시도와 인력 감축의 리스크를 반영해야 한다.",
+        "[이벤트] Odronextamab의 안전성 및 효능을 평가하는 3상 임상시험이 시작됨 — Regeneron Pharmaceuticals, 항체, 여포 림프종, 3상, 진행 중  \n[중요도] 새로운 치료제가 여포 림프종 치료에 대한 시장 경쟁력을 높일 수 있는 가능성이 있음  \n[국내관련성] 국내 비상장사인 제넥신이 여포 림프종 관련 연구를 진행 중임  \n[액션] Watch + 여포 림프종 치료제 시장의 변화에 주목할 필요가 있음",
+        "[이벤트] 엔젠바이오가 유방암·난소암 진단패널 'BRCA아큐테스트 플러스'의 CE-IVDR 인증을 획득했다 — 엔젠바이오, 진단패널, 유방암·난소암, 인증, CE-IVDR.  \n[중요도] 유럽 시장 진입을 위한 규제 통과로 기술성과 시장성이 강화되었다 — 성공.  \n[국내관련성] 국내 유전자 진단 시장에서 엔젠바이오의 경쟁력 강화는 관련 기업에 긍정적 영향을 미칠 수 있다.  \n[액션] Watch + 유럽 인증 획득으로 향후 시장 확대 가능성을 주목할 필요가 있다."
+      ],
+      "sections": [
+        "domestic",
+        "global",
+        "regulatory",
+        "modality",
+        "paper",
+        "general"
+      ],
+      "items": [
+        {
+          "id": "2026-08-11-0001",
+          "title": "K-bio fuels melanoma race as FDA speeds Replimune-Opdivo combo approval - CHOSUNBIZ - Chosunbiz",
+          "source": "Google News",
+          "date": "2026-08-10",
+          "origin": "domestic",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "K바이오, 흑색종 경쟁 가속화, FDA 레플리뮨-옵디보 복합 승인 가속화 - CHOSUNBIZ 조선비즈",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] FDA가 Replimune의 Opdivo와의 병용요법 승인을 신속하게 진행 — Replimune, 병용요법, 흑색종, 승인 단계, 금액 미제공  \n[중요도] FDA의 신속 승인으로 인해 흑색종 치료 시장에서 경쟁이 심화될 가능성이 높음  \n[국내관련성] 국내 바이오 기업들이 흑색종 치료제 개발에 나서고 있어 경쟁력에 영향 미칠 수 있음  \n[액션] Watch + 흑색종 치료제 시장의 동향을 지속적으로 모니터링할 필요가 있음",
+          "keywords": [
+            "Korea biotech phase 2 phase 3 clinical t",
+            "K-bio",
+            "fuels",
+            "melanoma",
+            "race",
+            "FDA"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 8,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVldBWmt6R0hTVjZjcU1GRzVFNmhESGhlT0pxVTF2aXRJZjZvb1Z1bkZLaXFFRnFHNjZ4ZzdBcFhGdmZDTzlmR1dHOGZXN1pzRW1VVnM4VWdPTmI1ZnBwMEFKTTdZam9ad1VfWXpGWktpUUgwdFlQelZ3VTc3VUZyUdIBlAFBVV95cUxOT004dGNXQVJrRWJZbkd2VUQ3Q202OW9PcEdjMjgtLXlKRHdvaEtnZkJYNFgyeWdjUXpXQXBLbmhseXNUNGVFWVRLUmhPaHlIZVRpWW5QVnBBX0wzQk41dTdKendUNkZGdHRUYzlid050cjVMYndrQkM1azlqQ2dPdVVUZFFRamFXNEZBajZMT2EtNllR?oc=5"
+        },
+        {
+          "id": "2026-08-11-0002",
+          "title": "MoonLake’s nanobody boosts all clinical endpoints in phase 3 psoriatic arthritis trial",
+          "source": "Fierce Biotech",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "MoonLake의 나노바디는 건선성 관절염 3상 시험에서 모든 임상적 평가변수를 향상시킵니다. MoonLake Immunotherapeutics는 주요 나노바디 후보인 sonelokimab으로 치료한 건선성 관절염 환자에 대한 긍정적인 3상 데이터를 발표했습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 긍정적인 3상 임상 결과 발표 — MoonLake Immunotherapeutics, 나노바디, 건선성 관절염, 3상, 구체적 금액 미제공  \n[중요도] 성공적인 임상 결과는 기술성과 시장성을 높이며, 상용화 가능성을 시사함  \n[국내관련성] 국내 비상장사인 제넥신의 나노바디 개발과 경쟁 가능성 있음  \n[액션] Watch + 임상 성공이 국내 나노바디 시장에 미치는 영향 분석 필요",
+          "keywords": [
+            "MoonLake",
+            "nanobody",
+            "boosts",
+            "all",
+            "clinical",
+            "endpoints"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/moonlakes-nanobody-candidate-boosts-all-clinical-endpoints-phase-3-psoriatic-arthritis"
+        },
+        {
+          "id": "2026-08-11-0003",
+          "title": "aTyr lays off 60% of workforce to fund 2nd attempt at phase 3 success for lung disease drug",
+          "source": "Fierce Biotech",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "aTyr는 폐질환 치료제의 3상 성공을 위한 2차 시도 자금을 조달하기 위해 인력의 60%를 해고했습니다. aTyr Pharma 인력의 60%는 생명공학이 일종의 폐질환에 대한 3상 성공을 위한 두 번째 기회를 위해 자원을 보존함에 따라 퇴출을 향해 가고 있습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] aTyr Pharma가 폐 질환 치료제를 위한 3상 임상 재시도를 위해 60%의 인력을 감축했다 — aTyr Pharma, 바이오 의약품, 폐 질환, 3상, 감축 인원 60%.  \n[중요도] 인력 감축은 자금 조달과 임상 성공 가능성에 직접적인 영향을 미치므로 중요한 신호다 — 성공 여부가 향후 투자 및 시장 반응에 큰 영향을 미칠 수 있다.  \n[국내관련성] 국내 직접 관련성 낮음.  \n[액션] 리스크 체크 — 임상 재시도와 인력 감축의 리스크를 반영해야 한다.",
+          "keywords": [
+            "aTyr",
+            "lays",
+            "off",
+            "workforce",
+            "fund",
+            "attempt"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/atyr-lays-60-workforce-fund-2nd-attempt-phase-3-success-lung-disease-drug"
+        },
+        {
+          "id": "2026-08-11-0004",
+          "title": "[ClinicalTrials] A Trial to Learn if Odronextamab is Safe and Well-Tolerated and How Well it Works Compared to Rituximab Combined With Different Types of Chemotherapy for Adult Participants With Previously Untreated Follicular Lymphoma (Phase 3, RECRUITING)",
+          "source": "ClinicalTrials.gov",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "[임상시험] 이전에 치료받지 않은 여포성 림프종을 앓는 성인 참가자를 대상으로 Odronextamab이 안전하고 내약성이 좋은지, 그리고 다양한 유형의 화학요법과 결합된 Rituximab과 비교하여 얼마나 잘 작동하는지 알아보기 위한 시험(3상, 모집). NCT ID: NCT06091254 | 후원자: Regeneron Pharmaceuticals | 상태: 여포성 림프종(FL) | 단계: 단계…",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Odronextamab의 안전성 및 효능을 평가하는 3상 임상시험이 시작됨 — Regeneron Pharmaceuticals, 항체, 여포 림프종, 3상, 진행 중  \n[중요도] 새로운 치료제가 여포 림프종 치료에 대한 시장 경쟁력을 높일 수 있는 가능성이 있음  \n[국내관련성] 국내 비상장사인 제넥신이 여포 림프종 관련 연구를 진행 중임  \n[액션] Watch + 여포 림프종 치료제 시장의 변화에 주목할 필요가 있음",
+          "keywords": [
+            "ClinicalTrials.gov",
+            "ClinicalTrials",
+            "Trial",
+            "Learn",
+            "Odronextamab",
+            "Safe"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://clinicaltrials.gov/study/NCT06091254"
+        },
+        {
+          "id": "2026-08-11-0005",
+          "title": "엔젠바이오, 유방암·난소암 진단패널 CE-IVDR 인증 획득",
+          "source": "히트뉴스",
+          "date": "2026-08-11",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "엔젠바이오, 유방암·난소암 진단패널 CE-IVDR 인증 획득. 엔젠바이오(대표이사 김민식)이 아시아 기업 중 처음으로 유방암·난소암 진단제품의 유럽 체외진단 의료기기 규정 품질 경영시스템 인증을 받았다.11일 엔젠바이오에 따르면 자사는 유전성 암 진단패널 'BRCA아큐테스트 플러스'(BRCAaccuTest PLUS)가 유럽 체외진단 의료기기 규정(IVDR, EU 2017/746)에 따른 품질 경영시스템 인증을 획득했다.회사는 기존 CE-IVDD 인증을 기반으로 폴란드, 튀르키예, 리투아니아 등에 BRCA 진단패널을 공급해왔다. 이후 유럽 체외진단 의료기기 규제가 임상적 근거와 성능평가, 품질관",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 엔젠바이오가 유방암·난소암 진단패널 'BRCA아큐테스트 플러스'의 CE-IVDR 인증을 획득했다 — 엔젠바이오, 진단패널, 유방암·난소암, 인증, CE-IVDR.  \n[중요도] 유럽 시장 진입을 위한 규제 통과로 기술성과 시장성이 강화되었다 — 성공.  \n[국내관련성] 국내 유전자 진단 시장에서 엔젠바이오의 경쟁력 강화는 관련 기업에 긍정적 영향을 미칠 수 있다.  \n[액션] Watch + 유럽 인증 획득으로 향후 시장 확대 가능성을 주목할 필요가 있다.",
+          "keywords": [
+            "CE-IVDR",
+            "BRCA",
+            "BRCAaccuTest",
+            "PLUS",
+            "IVDR",
+            "CE-IVDD"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78313"
+        },
+        {
+          "id": "2026-08-11-0006",
+          "title": "메디씽큐, 이희열 공동대표 선임",
+          "source": "히트뉴스",
+          "date": "2026-08-11",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "메디씽큐, 이희열 공동대표 선임. 메디씽큐(대표 임승준)은 11일 글로벌 이희열 벤처블릭 대표를 공동대표로 선임했다고 11일 밝혔다.신임 이희열 대표는 메드트로닉에서 약 10년간 아시아태평양 지역 총괄 사장과 중국–대만–홍콩 총괄 사장을 역임했으며 바이엘 헬스케어에서 약 7년간 아시아태평양 및 중국 사업을 총괄했다.회사 측은 메디씽큐가 그동안 축적한 글로벌 경영 및 사업화 경험을 바탕으로 해외 시장 확대와 전략적 파트너십 구축, 조직 및 경영 체계 고도화, 기업가치 제고를 이끌 것이라고 전했다.또 창업자인 임승준 대표는 공동대표 설립 이후 기술 비전과 제품 전략,",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 메디씽큐, 이희열 공동대표 선임 — 메디씽큐, 공동대표 이희열 선임, 글로벌 경영 및 사업화 경험 보유.  \n[중요도] 기술성/시장성/투자판단에 중요한 이유 — 해외 시장 확대 및 전략적 파트너십 구축을 통한 기업가치 제고 가능성.  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 영향받는 곳 — 메디씽큐의 글로벌 진출 전략은 국내 바이오 기업에 긍정적인 신호.  \n[액션] Watch + 이유: 이희열 대표의 경영 경험이 메디씽큐의 성장에 기여할 가능성이 높아 주목할 필요가 있음.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78312"
+        },
+        {
+          "id": "2026-08-11-0007",
+          "title": "미국, 대중국 바이오 규제 확대… K-바이오에게 새 기회 될까",
+          "source": "히트뉴스",
+          "date": "2026-08-11",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "미국, 대중국 바이오 규제 확대… K-바이오에게 새 기회 될까. 미국과 중국이 바이오 분야의 투자와 기술 협력에 대한 규제를 동시에 강화하면서 국내 바이오기업에 새로운 기회가 열릴 수 있다는 전망이 나온다. 미중 기업 간 기술이전과 합작투자 문턱이 높아질 경우 글로벌 제약·바이오기업의 협력 수요가 한국을 포함한 제3국으로 이동할 가능성이 있다는 것이다.다만 중국 기업과 공동연구나 기술이전 등을 추진하는 국내 기업에는 거래 리스크가 커질 수 있다는 우려도 제기된다. 중국 역시 해외투자 심사를 강화하고 있는 만큼 계약 체결 과정에서 심사 지연이나 규제 변수를 더욱 면밀히 살펴야 한다는 분석이다.이",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 미국과 중국이 바이오 분야의 투자 및 기술 협력에 대한 규제를 강화 — K-바이오 기업에 새로운 기회가 열릴 가능성 제기.  \n[중요도] 글로벌 제약·바이오기업의 협력 수요가 한국으로 이동할 수 있어 시장성에 긍정적 영향을 미칠 수 있음.  \n[국내관련성] 국내 바이오 기업들이 중국과의 협력에서 거래 리스크를 겪을 수 있어 주의가 필요함.  \n[액션] Watch + K-바이오 기업의 글로벌 협력 기회를 면밀히 추적할 필요가 있음.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78302"
+        },
+        {
+          "id": "2026-08-11-0008",
+          "title": "엔제이모, 급여신청 취하… 좁은 급여기준·성과관리 '재정비'",
+          "source": "히트뉴스",
+          "date": "2026-08-11",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "엔제이모, 급여신청 취하… 좁은 급여기준·성과관리 '재정비'. 한랭응집소병(CAD) 치료제 '엔제이모주(수팀리맙)'가 건강보험 급여 절차를 밟던 중 신청을 취하한 것으로 확인됐다. 급여 대상이 예상보다 좁게 설정된 데다 타이트한 사후관리로 급여 전략을 재정비할 필요가 있다고 판단한 것으로 보인다. 레코르다티코리아는 재신청을 검토하고 있어 급여 도전 자체를 중단한 것은 아니다.10일 관련 업계에 따르면 회사는 엔제이모의 급여결정 신청을 취하했다. 엔제이모는 한랭응집소병이 있는 성인 환자에서 용혈 치료를 적응증으로 국내 허가받은 치료제다. 한랭응집소병은 한랭응집소라는 자가항체가 정상 체온 이하에서",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 급여신청 취하 — 엔제이모, 한랭응집소병(CAD) 치료제, 급여 신청 취하, 재정비 필요성 확인  \n[중요도] 급여 기준의 좁음과 성과 관리 문제로 인해 향후 시장 진입에 부정적 영향을 미칠 수 있음  \n[국내관련성] 국내 제약사 레코르다티코리아가 재신청을 검토 중으로, 관련 시장에 영향 미칠 가능성 있음  \n[액션] 리스크 체크 — 급여 신청 취하로 인해 향후 재정비 과정에서의 리스크를 반영해야 함",
+          "keywords": [
+            "CAD"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78297"
+        },
+        {
+          "id": "2026-08-11-0009",
+          "title": "[주식] 코스닥 7% '껑충'...코스맥스엔비티·앱클론 24%↑",
+          "source": "히트뉴스",
+          "date": "2026-08-10",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "[주식] 코스닥 7% '껑충'...코스맥스엔비티·앱클론 24%↑. 오늘의 증시시장 지수KOSPI: 6,299.66 (▲0.65%)KOSDAQ: 854.47 (▲6.97%)상승 종목코스맥스엔비티(▲23.99%), 앱클론(▲23.93%), 서흥(▲20.93%), 대화제약(▲20.63%), 보로노이(▲19.43%)하락 종목안트로젠(▼3.07%), 셀레믹스(▼2.25%), CMG제약(▼1.54%), 인바디(▼1.13%), 아스테라시스(▼0.98%) 오늘의 이슈올릭스(▲13.70%): 민지영 수석부사장 영입…글로벌 신약개발 총괄삼성바이오에피스(▲2.55%): 키트루다 바이오시밀러 국내 품목허가 신청SK바이",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 코스닥 지수 7% 상승 — 코스맥스엔비티 23.99%, 앱클론 23.93% 상승, 서흥 20.93% 상승 등으로 증시 활황.  \n[중요도] 시장의 긍정적인 반응은 바이오 및 제약 기업들의 성장 가능성을 시사하며, 투자 심리에 긍정적 영향을 미침.  \n[국내관련성] 국내 바이오 및 제약 기업들이 상승세를 보이며, 특히 앱클론과 코스맥스엔비티는 기술특례상장 후보로 주목받을 가능성이 있음.  \n[액션] Watch + 바이오 및 제약 섹터의 상승세가 지속되는지 모니터링 필요.",
+          "keywords": [
+            "KOSPI",
+            "KOSDAQ",
+            "CMG"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78303"
+        },
+        {
+          "id": "2026-08-11-0010",
+          "title": "[HIT알공] 삼성바이오에피스, 키트루다 시밀러 국내 허가 신청",
+          "source": "히트뉴스",
+          "date": "2026-08-10",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "[HIT알공] 삼성바이오에피스, 키트루다 시밀러 국내 허가 신청. ① 삼성에피스홀딩스, 품목허가 신청 = 자회사 삼성바이오에피스가 지난 7일 키트루다(성분 펨브롤리주맙) 바이오시밀러 'SB27주' 한국 품목허가 신청. 향후 지속적으로 국가별 허가 신청 예정. ② 메디톡스, 영업(잠정) 실적 = 올해 2분기 연결재무제표 기준 매출액 687억200만원, 영업이익 73억7200만원, 당기순이익 78억7900만원. 전년 동기 대비 11.4% 증가, 24.6% 감소, 61.7% 감소. ③ SCL사이언스, 공급계약 체결 = 정선메디칼과 의료기기 '이노씰 플러스 DL' 유통 판매 계약. 계약금 77억2727만",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 삼성바이오에피스가 키트루다 바이오시밀러 'SB27주'의 한국 품목허가를 신청했다 — 회사명: 삼성바이오에피스, 모달리티: 바이오시밀러, 적응증: 키트루다, 단계: 허가 신청, 금액: 해당 없음.  \n[중요도] 이는 바이오시밀러 시장에서의 경쟁력 확보와 매출 증대 가능성을 보여주는 중요한 진전이다.  \n[국내관련성] 국내 바이오시밀러 시장에서 삼성바이오에피스의 성공은 다른 바이오 기업들에게도 긍정적인 영향을 미칠 수 있다.  \n[액션] Watch + 키트루다 시밀러의 시장 진입이 향후 경쟁 구도에 미칠 영향을 주의 깊게 살펴볼 필요가 있다.",
+          "keywords": [
+            "HIT",
+            "SB27",
+            "SCL"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78293"
+        },
+        {
+          "id": "2026-08-11-0011",
+          "title": "블랙록, 유한양행 지분 5.07%→6.50% 확대...단순투자",
+          "source": "히트뉴스",
+          "date": "2026-08-10",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "블랙록, 유한양행 지분 5.07%→6.50% 확대...단순투자. 글로벌 자산운용사 블랙록이 유한양행 지분을 추가로 사들였다.10일 유한양행 공시에 따르면 블랙록 펀드 어드바이저스와 특별관계자의 유한양행 지분율은 기존 5.07%에서 6.50%로 1.43%포인트 증가했다.보유 목적은 단순투자로, 블랙록 계열 운용사들이 장내에서 유한양행 주식을 추가 매수하면서 지분율이 높아졌다.블랙록 펀드 어드바이저스는 지난달 29일 유한양행 주식 3만7937주를 장내 매수한 데 이어 30일 6만8404주, 31일 6만2899주를 추가로 사들였다.이 밖에도 블랙록 어드바이저스(UK), 블랙록 인스티튜셔널 트러스트 컴",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 블랙록, 유한양행 지분 5.07%에서 6.50%로 확대 — 유한양행, 단순투자, 지분율 증가, 1.43%포인트 증가.  \n[중요도] 블랙록의 지분 확대는 유한양행의 시장 신뢰도를 높이며, 투자자들에게 긍정적인 신호로 작용할 수 있다.  \n[국내관련성] 유한양행은 국내 상장사로, 블랙록의 추가 투자로 인해 주가에 긍정적인 영향을 받을 가능성이 있다.  \n[액션] Watch + 블랙록의 지속적인 투자 추세를 모니터링할 필요가 있다.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78299"
+        },
+        {
+          "id": "2026-08-11-0012",
+          "title": "삼성바이오에피스, 키트루다 바이오시밀러 국내 품목허가 신청",
+          "source": "히트뉴스",
+          "date": "2026-08-10",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "삼성바이오에피스, 키트루다 바이오시밀러 국내 품목허가 신청. 삼성바이오에피스(대표 김경아)가 글로벌 블록버스터 면역항암제 '키트루다'의 바이오시밀러 개발에 속도를 낸다. 국내 제약사 중 처음으로 품목허가 절차에 돌입하면서 상용화 기대감을 높였다.회사는 10일 식품의약품안전처에 키트루다 바이오시밀러 후보물질 'SB27'(성분 펨브롤리주맙)의 품목허가를 신청했다고 밝혔다.SB27의 오리지널 의약품인 키트루다는 미국의 다국적 제약사 MSD가 개발한 면역항암제로, 지난해 글로벌 매출 약 46조원(317억달러)을 기록한 블록버스터 의약품이다.신동훈 부사장은 \"키트루다 바이오시밀러 개발 경쟁이 본격화되",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 삼성바이오에피스가 키트루다 바이오시밀러 후보물질 'SB27'의 품목허가를 식품의약품안전처에 신청했다 — 회사명: 삼성바이오에피스, 모달리티: 바이오시밀러, 적응증: 면역항암제, 단계: 품목허가 신청, 금액: 해당 없음.  \n[중요도] 국내 제약사 최초의 품목허가 신청으로, 바이오시밀러 시장에서의 경쟁력을 높일 수 있는 기회이다.  \n[국내관련성] 국내 바이오시밀러 시장의 성장 가능성을 보여주는 사례로, 관련 기업들에게 긍정적인 영향을 미칠 수 있다.  \n[액션] Watch - 키트루다 바이오시밀러 시장의 동향과 삼성바이오에피스의 진행 상황을 지속적으로 모",
+          "keywords": [
+            "SB27",
+            "MSD"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78295"
+        },
+        {
+          "id": "2026-08-11-0013",
+          "title": "[실적] 메디톡스, 톡신·필러 성장에 2분기 매출 687억원",
+          "source": "히트뉴스",
+          "date": "2026-08-10",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "[실적] 메디톡스, 톡신·필러 성장에 2분기 매출 687억원. 메디톡스가 올해 2분기 톡신과 필러 사업 성장에 힘입어 매출 증가세를 이어갔다. 다만 사업 확대에 따른 비용 증가로 영업이익과 당기순이익은 전년 동기보다 감소했다.메디톡스는 10일 연결기준 2분기 매출액 687억원, 영업이익 48억원, 당기순이익 31억원을 기록했다고 공시했다.매출은 전년 동기 대비 11.4% 증가했다. 반면 영업이익은 24.6%, 당기순이익은 61.7% 각각 감소했다. 회사는 사업 확대에 따른 비용 증가 등이 수익성에 영향을 미쳤다고 설명했다.매출 성장은 국내외 보툴리눔 톡신과 필러 사업이 이끌었다. 톡신 제제는",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 메디톡스, 2분기 매출 687억원 기록 — 모달리티: 톡신 및 필러, 적응증: 미용 및 의료용, 영업이익: 48억원, 당기순이익: 31억원  \n[중요도] 매출 증가에도 불구하고 영업이익과 당기순이익 감소는 수익성에 대한 우려를 나타냄  \n[국내관련성] 국내 톡신 및 필러 시장에서 메디톡스는 주요 플레이어로, 경쟁사에 미치는 영향이 큼  \n[액션] 딥다이브 — 수익성 감소 원인 및 향후 전략 분석 필요",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78294"
+        },
+        {
+          "id": "2026-08-11-0014",
+          "title": "ITM neuroendocrine tumor drug spurned by FDA over manufacturing qualms",
+          "source": "Fierce Biotech",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "ITM 신경내분비 종양 약물은 제조 문제로 인해 FDA에서 퇴짜를 맞았습니다. FDA는 약물 제조에 대한 불만으로 인해 희귀 종양 그룹에 대한 ITM Isotopes Technologies의 주요 파이프라인 후보를 거부했습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA가 ITM Isotopes Technologies의 신약 후보에 대해 제조 품질 문제로 승인을 거부했다 — ITM Isotopes Technologies, 신약, 신경내분비 종양, 임상 단계, 금액 미제공  \n[중요도] 규제 문제로 인해 해당 후보의 상용화 가능성이 낮아져 투자 리스크가 증가한다.  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 제조 품질 문제로 인한 FDA의 거부는 향후 투자 판단에 부정적인 영향을 미칠 수 있다.",
+          "keywords": [
+            "ITM",
+            "neuroendocrine",
+            "tumor",
+            "drug",
+            "spurned",
+            "FDA"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms"
+        },
+        {
+          "id": "2026-08-11-0015",
+          "title": "Scholar Rock ditches Novo’s legacy Catalent plant in FDA refiling of SMA drug",
+          "source": "Fierce Biotech",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Scholar Rock은 FDA가 SMA 약물을 재제조하는 과정에서 Novo의 기존 Catalent 공장을 버립니다. Scholar Rock은 최근 공장 검사에서 \"공식 조치 표시\"로 분류된 후 척수성 근위축증 후보인 아피테그로맙에 대한 FDA 재제출 과정에서 문제가 있는 Novo Nordisk의 Catalent 시설을 계약 제조업체에서 제외했습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] Scholar Rock, FDA 재신청을 위해 Novo Nordisk의 Catalent 공장을 계약 제조업체에서 제외 — 회사명: Scholar Rock, 모달리티: 약물, 적응증: 척수성 근위축증(SMA), 단계: FDA 재신청, 금액: 해당 없음  \n[중요도] 규제 문제로 인해 제조 파트너십이 변경되었으며, 이는 제품 출시 일정에 영향을 미칠 수 있음  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 제조업체 변경으로 인한 규제 리스크 반영 필요",
+          "keywords": [
+            "Scholar",
+            "Rock",
+            "ditches",
+            "Novo",
+            "legacy",
+            "Catalent"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug"
+        },
+        {
+          "id": "2026-08-11-0016",
+          "title": "Sionna’s cystic fibrosis flop sends stock down 90%, but a ‘significant positive’ for Vertex",
+          "source": "Fierce Biotech",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Sionna의 낭포성 섬유증 실패로 인해 주가가 90% 하락했지만 Vertex에게는 '상당한 긍정적'이었습니다. Sionna Therapeutics는 2상 임상 시험에 실패한 후 낭포성 섬유증 추가 프로그램을 중단하여 Vertex Pharmaceuticals의 제국에 도전할 가능성이 있는 경쟁자를 제거했습니다. 생명 공학 회사는 \"다음 단계를 평가하는 동시에 자본을 보존하기 위한 조치를 취할\" 계획입니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Sionna Therapeutics가 낭포성 섬유증 추가 프로그램을 중단 — Sionna Therapeutics, 모달리티 없음, 적응증: 낭포성 섬유증, 단계: 2상 실패, 금액 없음  \n[중요도] 임상 실패로 인해 Vertex Pharmaceuticals의 시장 지배력이 강화됨 — 실패  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — Sionna의 실패가 시장에 미치는 영향 분석 필요",
+          "keywords": [
+            "Sionna",
+            "cystic",
+            "fibrosis",
+            "flop",
+            "sends",
+            "stock"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/sionnas-cystic-fibrosis-flop-significant-positive-vertex"
+        },
+        {
+          "id": "2026-08-11-0017",
+          "title": "Labcorp nabs FDA green light for BRAF melanoma diagnostic",
+          "source": "Fierce Biotech",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Labcorp는 BRAF 흑색종 진단에 대해 FDA 승인을 받았습니다. FDA는 특정 BRAF 변종을 보유한 진행성 흑색종 환자를 위한 Labcorp의 동반 진단을 승인했습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA가 Labcorp의 BRAF 변이를 가진 진행성 멜라노마 환자를 위한 동반 진단 승인 — Labcorp, 동반 진단, BRAF 변이, 승인, 금액 미제공  \n[중요도] 동반 진단의 승인은 해당 치료제의 시장 접근성을 높여줄 수 있어 중요하다 — 규제  \n[국내관련성] 국내 비상장사인 에이치엘비와 관련된 BRAF 치료제가 있어 영향받을 수 있다  \n[액션] Watch + BRAF 변이에 대한 치료제 시장의 변화 추적 필요",
+          "keywords": [
+            "Labcorp",
+            "nabs",
+            "FDA",
+            "green",
+            "light",
+            "for"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/medtech/labcorp-nabs-fda-green-light-braf-melanoma-diagnostic"
+        },
+        {
+          "id": "2026-08-11-0018",
+          "title": "AbCellera women’s health data top ‘most aggressive upside scenario,’ putting Astellas and Bayer on notice",
+          "source": "Fierce Biotech",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "AbCellera 여성 건강 데이터는 '가장 공격적인 상승 시나리오'를 차지하며 Astellas와 Bayer를 주목하게 했습니다. AbCellera는 CEO가 감히 고려한 \"가장 공격적인 상승 시나리오를 넘어서는\" 2상 결과를 보고하여 생명공학 회사가 여성 건강 시장에서 Astellas와 Bayer에 도전할 가능성을 높였습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] AbCellera가 여성 건강 분야에서 임상 2상 결과를 발표하여 Astellas와 Bayer에 도전할 가능성을 높였다 — AbCellera, 바이오의약품, 여성 건강, 임상 2상, 구체적 금액 미제공.  \n[중요도] 성공적인 임상 결과는 시장 점유율 확대와 경쟁사에 대한 우위를 확보할 수 있는 중요한 신호이다.  \n[국내관련성] 국내 비상장사 중 여성 건강 관련 연구를 진행 중인 기업들이 영향을 받을 수 있다.  \n[액션] Watch + AbCellera의 향후 임상 진행 상황과 시장 반응을 주의 깊게 살펴볼 필요가 있다.",
+          "keywords": [
+            "AbCellera",
+            "women",
+            "health",
+            "data",
+            "top",
+            "most"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/abcellera-data-top-most-aggressive-upside-scenario-putting-astellas-and-bayer-notice"
+        },
+        {
+          "id": "2026-08-11-0019",
+          "title": "FDA issues alert in wake of BD recall of faulty needle sets that caused 4 deaths",
+          "source": "Fierce Biotech",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "FDA는 4명의 사망을 초래한 잘못된 바늘 세트에 대한 BD 리콜에 대해 경고를 발령했습니다. FDA의 장치 및 방사선 건강 센터는 제품과 관련된 4명의 사망과 45명의 심각한 부상이 발생한 후 Becton Dickinson의 골내 혈관 접근 시스템 바늘 세트에 대한 조기 경보를 발령했습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA가 Becton Dickinson의 Intraosseous Vascular Access 시스템 바늘 세트에 대해 경고 — 4명의 사망자와 45명의 심각한 부상과 관련된 사건 발생.  \n[중요도] 제품의 안전성 문제로 인해 시장 신뢰도 하락 및 규제 강화 가능성.  \n[국내관련성] 국내 직접 관련성 낮음.  \n[액션] 리스크 체크 — 안전성 이슈로 인해 향후 투자 판단에 영향을 미칠 수 있음.",
+          "keywords": [
+            "FDA",
+            "issues",
+            "alert",
+            "wake",
+            "recall",
+            "faulty"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/medtech/fda-issues-alert-wake-bd-recall-faulty-io-needle-sets-caused-four-deaths"
+        },
+        {
+          "id": "2026-08-11-0020",
+          "title": "Silence brings the noise to Takeda with phase 2 blood cancer win",
+          "source": "Fierce Biotech",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "침묵은 혈액암 2상 승리로 다케다에게 소란을 불러일으켰습니다. Silence Therapeutics의 디베시란에 대한 2상 시험이 1차 종료점에 도달하여 생명공학 회사가 다케다와 프로타고니스트 테라퓨틱스의 루스페르타이드에 대한 잠재적인 도전자의 후기 단계 개발에 박차를 가할 수 있도록 힘을 실어주었습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Silence Therapeutics의 divesiran이 혈액암에 대한 2상 임상에서 주요 목표를 달성 — 회사명: Silence Therapeutics, 모달리티: RNA 치료제, 적응증: 혈액암, 단계: 2상, 금액: 해당 없음  \n[중요도] 성공적인 임상 결과는 Takeda와 Protagonist Therapeutics의 치료제에 대한 경쟁력을 높일 수 있어 시장성에 중요한 신호  \n[국내관련성] 국내 비상장사인 제넥신과 관련성이 있을 수 있으며, RNA 치료제 분야에서 경쟁력을 가질 가능성 있음  \n[액션] Watch - 임상 성공이 향후 개발에 긍정적인 영향을 미칠 수 있어 지속적인 모니터링 필요",
+          "keywords": [
+            "Silence",
+            "brings",
+            "the",
+            "noise",
+            "Takeda",
+            "with"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/silence-brings-noise-takeda-phase-2-blood-cancer-win"
+        },
+        {
+          "id": "2026-08-11-0021",
+          "title": "Unapproved in US for decades, levosimendan stumbles in phase 3 as Tenax eyes narrow FDA path",
+          "source": "Fierce Pharma",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "수십 년 동안 미국에서 승인되지 않은 레보시멘단은 Tenax가 FDA 경로를 좁히면서 3상에서 비틀거렸습니다. FDA 승인 입찰이 실패한 지 거의 30년이 지난 심혈관 약물 레보시멘단은 여전히 ​​미국 시장 진출을 위한 결정적인 임상 승리를 확보하기 위해 고군분투하고 있습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] 실패 — Tenax Therapeutics의 레보시멘단, 심혈관 적응증으로 3상 임상에서 실패.  \n[중요도] 실패는 FDA 승인 가능성을 낮추며, 시장 진입에 큰 장애물이 된다.  \n[국내관련성] 국내 직접 관련성 낮음.  \n[액션] 리스크 체크 — 임상 실패로 인해 향후 투자 및 기술성 판단에 리스크가 존재.",
+          "keywords": [
+            "Unapproved",
+            "for",
+            "decades",
+            "levosimendan",
+            "stumbles",
+            "phase"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/unapproved-us-decades-levosimendan-stumbles-phase-3-tenax-eyes-narrow-fda-path"
+        },
+        {
+          "id": "2026-08-11-0022",
+          "title": "Moderna's mRNA Flu Vaccine Wins FDA Approval - labroots.com",
+          "source": "Google News",
+          "date": "2026-08-07",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "모더나의 mRNA 독감 백신, FDA 승인 획득 labroots.com",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] 모더나의 mRNA 독감 백신이 FDA 승인을 받았다 — 회사명: 모더나, 모달리티: mRNA, 적응증: 독감, 단계: 승인, 금액: 해당 없음  \n[중요도] 이는 mRNA 기술의 상용화 가능성을 높여 시장에서의 경쟁력을 강화할 수 있다 — 성공  \n[국내관련성] 국내 비상장·상장사 중 mRNA 기술을 활용하는 기업에 긍정적 영향을 미칠 수 있다 — 예: 삼성바이오로직스  \n[액션] Watch + mRNA 백신 시장의 변화와 국내 기업의 대응을 모니터링할 필요가 있다",
+          "keywords": [
+            "biotech \"FDA approval\"",
+            "Moderna",
+            "mRNA",
+            "Flu",
+            "Vaccine",
+            "Wins"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dDTVpCaGowQ0dsOGRTdjRac2Jad0JJYktWQWRSTF9oLUt2V3FDaWp0RWxlMFNPVG5JU1I1cG9HdGFuRlFDazlBMEVRd1NmM1dWVHFvYTNZTHBSYjhXRVgzS0F1eEdaTVJOSnZ0QWt3ckozV252MG1MY3E1cUhucVJrU25YRTRuOGtfWHdLcFNGUXRYa3B1WjJyTlVVNzY4UlFJRGd30gGrAUFVX3lxTE0xdWtHLXNZUDdkNXRtSUtyVWxMLS0yenExeE1EQzJCNG54ajFRS1I4OWJ6LWc1eGF6OEdSMjkzUHlhSkJlOGlqUlMtbzFMdW4ybzk1WHQ1Ym5RdGxzaWNGYWtzdk0yVVY3dEZPeVhMNVk1aDktVlcyZHJLaU9JMXhpZWdPb0twVVc2ZTllTklRTkVRUEpLaGNhd3F1Mmk0WHB0TnAtS0pMMVhPUQ?oc=5"
+        },
+        {
+          "id": "2026-08-11-0023",
+          "title": "Pacira BioSciences (PCRX) Is Down 7.1% After Advancing PCRX-201 Gene Therapy With Positive Phase 1 Data - simplywall.st",
+          "source": "Google News",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "Pacira BioSciences(PCRX)는 긍정적인 1상 데이터로 PCRX-201 유전자 치료를 발전시킨 후 7.1% 하락했습니다. simplewall.st",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] PCRX-201 유전자 치료제가 긍정적인 1상 데이터를 바탕으로 진행 중 — Pacira BioSciences, 유전자 치료, 통증 완화, 1상, 주가 7.1% 하락.  \n[중요도] 긍정적인 임상 결과에도 불구하고 주가 하락은 시장의 우려를 반영하며, 투자자 신뢰에 영향을 미칠 수 있다.  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 영향받는 곳 또는 활용 가능한 comp: 국내 직접 관련성 낮음.  \n[액션] 리스크 체크 — 주가 하락 원인 분석 필요.",
+          "keywords": [
+            "gene therapy",
+            "Pacira",
+            "BioSciences",
+            "PCRX",
+            "Down",
+            "After"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY3lTbjczWTRENWNGbTdvaExoTDlIQTV1S1NUeXJGbFpjWWU4WVV4SVhYY0NZMXd1Y3V0eW5QbE9WY2tCXzBoRVl5d2NSQkx0T2tqQ3FfYzBhVmxOcGppZllUbFhra0xOdzRxaUpnNDdteE13OW5ILXZkc1hmNUxfV2hJcW55dGVkdEE1NWQtN1IxTlFPc19KVmRpb0dGN08ybGh1ZUdrRWh3SkZCZkoyNnVOWklXemQ3NjhreGFqbUk3VlJiVUJVbDVKUEVxdF9Pd1cwNDJjWWJMdE1YY3pQLTVhYm5lQdIB6wFBVV95cUxNUlU3cXZsVWgxYnBNSEN3ekMteEtwT1g3YUw3UVFLNXgxVWU2Q2R5MGFHalRZNXVOTTdYWE5fZUdIc21GU0RJOXlVRURCYzN4a3FTQXFFQW8zbndIQmJ3c0h3eWVjLUpKSmZKSmh5ZDRIVWVLZWpxRDAyTW82aDZsU3c0VFNGcWF1dlRUZkFqTEtnbFB1OTk3bDcwVnZKZXg0WG01aTJuUnVYVlc5TGtyYW51dUNfSEYtZmpoMVFRb2xIYVI0eV9FUmhrQVhzZkNyaEp6YVFTbkN2eTNHZEZMUXBTczZKaXRGeGZB?oc=5"
+        },
+        {
+          "id": "2026-08-11-0024",
+          "title": "Arpeggio plays final chord as biotech disbands on poor prospects for Nrf2 program",
+          "source": "Fierce Biotech",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "paper",
+          "eventType": "publication",
+          "summary": "Arpeggio는 Nrf2 프로그램에 대한 전망이 좋지 않아 생명 공학이 해체되면서 마지막 화음을 연주합니다. Arpeggio Biosciences의 8년 간의 노래는 전사체 생명공학의 CEO가 해당 회사의 Nrf2 프로그램이 \"해제\"되기 시작했음을 인정하면서 끝났습니다.",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] 실패 — Arpeggio Biosciences, Nrf2 프로그램, 임상 실패, 8년 운영 종료  \n[중요도] 실패로 인한 기술성 저하 — Nrf2 프로그램의 실패는 해당 분야의 기술적 신뢰성을 약화시킬 수 있음  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — Nrf2 관련 기술에 대한 투자 리스크 반영 필요",
+          "keywords": [
+            "Arpeggio",
+            "plays",
+            "final",
+            "chord",
+            "biotech",
+            "disbands"
+          ],
+          "importanceScore": 7,
+          "investorRelevanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/arpeggio-plays-final-chord-biotech-disbands-poor-prospects-nrf2-program"
+        },
+        {
+          "id": "2026-08-11-0025",
+          "title": "Quanterix hires GE Healthcare, Exact Sciences alum as chief commercial officer",
+          "source": "Fierce Pharma",
+          "date": "2026-08-10",
+          "origin": "global",
+          "section": "paper",
+          "eventType": "publication",
+          "summary": "Quanterix는 GE Healthcare, Exact Sciences 출신의 최고 상업 책임자(CCO)로 고용했습니다. Quanterix는 의료 기술 베테랑인 Jim Gute를 최고 상업 책임자(CCO)로 고용하여 GE Healthcare에서 18년 간 경력을 쌓은 후 Exact Sciences에서 영입했습니다.",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] Quanterix, 상업 책임자로 Jim Gute를 영입 — Quanterix, medtech 분야에서 18년 경력의 Jim Gute를 상업 책임자로 채용.  \n[중요도] 인재 영입은 회사의 성장 전략 및 시장 경쟁력 강화에 중요한 신호 — 인재 영입이 성공적인 상업화에 기여할 가능성.  \n[국내관련성] 국내 직접 관련성 낮음.  \n[액션] Watch + Quanterix의 상업 전략 변화에 따라 시장 반응을 주의 깊게 살펴볼 필요가 있음.",
+          "keywords": [
+            "Quanterix",
+            "hires",
+            "Healthcare",
+            "Exact",
+            "Sciences",
+            "alum"
+          ],
+          "importanceScore": 7,
+          "investorRelevanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/marketing/quanterix-hires-ge-healthcare-exact-sciences-alum-new-chief-commercial-officer"
+        }
+      ]
+    },
+    {
       "reportDate": "2026-08-10",
       "title": "2026-08-10 바이오 투자 인텔리전스",
       "executiveHighlights": [
