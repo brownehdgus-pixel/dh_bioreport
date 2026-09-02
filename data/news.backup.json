@@ -1,6 +1,627 @@
 {
   "reports": [
     {
+      "reportDate": "2026-09-01",
+      "title": "2026-09-01 바이오 투자 인텔리전스",
+      "executiveHighlights": [
+        {
+          "rank": 1,
+          "itemId": "2026-09-01-0001",
+          "headline": "[영상] 마운자로, FDA서 '심혈관 위험 감소' 적응증 승인",
+          "investmentTakeaway": "[이벤트] FDA가 일라이 릴리의 비만 치료제 마운자로에 대해 심혈관 위험 감소 적응증을 승인 — 마운자로, 모달리티: 비만 치료제, 적응증: 심혈관 위험 감소, 단계: 승인, 금액: 해당 없음  \n[중요도] 심혈관 위험 감소 적응증 추가는 시장 확대 가능성을 높여 기술성과 시장성에 긍정적 신호를 제공함  \n[국내관련성] 국내 제약사 중 비만 치료제 개발을 하는 기업들이 영향을 받을 수 있음  \n[액션] Watch + 심혈관 적응증 추가로 인한 시장 반응 및 경쟁사 동향을 주의 깊게 살펴볼 필요가 있음"
+        },
+        {
+          "rank": 2,
+          "itemId": "2026-09-01-0002",
+          "headline": "IND 30일→10일 단축… 식약처, 사전검토까지 뜯어 고쳤다",
+          "investmentTakeaway": "[이벤트] IND 승인기간이 30일에서 10일로 단축 — 식약처, 임상시험계획(IND), 규제개선, 0원.  \n[중요도] 임상시험 승인 절차의 효율화로 기술 개발 속도가 빨라질 수 있어 시장성에 긍정적 영향.  \n[국내관련성] 국내 바이오 기업들이 임상시험을 진행할 때 신속한 승인으로 혜택을 받을 수 있음.  \n[액션] Watch + 규제 변화에 따른 시장 반응 및 기업들의 활용 사례를 주목할 필요가 있음."
+        },
+        {
+          "rank": 3,
+          "itemId": "2026-09-01-0003",
+          "headline": "[ClinicalTrials] An Efficacy and Safety Study of Apalutamide (JNJ-56021927) in Combination With Abiraterone Acetate…",
+          "investmentTakeaway": "[이벤트] 아팔루타미드와 아비라테론 아세테이트 및 프레드니손의 병용요법에 대한 3상 임상시험 진행 중 — Aragon Pharmaceuticals, 모달리티: 항암제, 적응증: 전이성 호르몬 저항성 전립선암, 단계: 3상, 금액: 해당 없음  \n[중요도] 임상 결과에 따라 전립선암 치료의 새로운 조합 요법으로서의 가능성이 평가될 수 있어 중요함  \n[국내관련성] 국내 비상장사인 제넥신과 관련된 전립선암 치료제 개발이 진행 중임  \n[액션] Watch + 전립선암 치료제 시장의 변화 가능성을 주의 깊게 살펴볼 필요가 있음"
+        },
+        {
+          "rank": 4,
+          "itemId": "2026-09-01-0004",
+          "headline": "식약처, ‘키크는 주사’ 논란 속 성장호르몬 관리 나서",
+          "investmentTakeaway": "[이벤트] 식약처가 성장호르몬제제에 위해성관리계획을 적용하기로 결정 — 8개사 21개 제품, 성장호르몬 결핍증 및 저신장증 적응증, 9월 1일부터 시행.  \n[중요도] 이는 성장호르몬제제의 안전성을 강화하고 시장의 규제 환경을 변화시킬 수 있는 중요한 조치이다.  \n[국내관련성] 국내에서 성장호르몬제를 제조 및 판매하는 회사들, 예를 들어 한미약품, JW중외제약 등이 영향을 받을 수 있다.  \n[액션] Watch + 성장호르몬제제의 안전성 관리 변화가 향후 시장에 미칠 영향을 주의 깊게 살펴봐야 한다."
+        },
+        {
+          "rank": 5,
+          "itemId": "2026-09-01-0005",
+          "headline": "셀트리온, 주주환원 목적 1000억 자사주 매입 결정",
+          "investmentTakeaway": "[이벤트] 셀트리온, 1000억원 규모 자사주 매입 결정 — 회사명: 셀트리온, 금액: 1000억원, 기간: 9월 1일부터 11월 30일까지.  \n[중요도] 주주가치 제고를 위한 선제적 조치로, 회사의 재무 안정성과 주가 방어에 긍정적 신호를 준다.  \n[국내관련성] 셀트리온은 국내 상장사로, 자사주 매입은 다른 바이오 기업에도 긍정적인 영향을 미칠 수 있다.  \n[액션] Watch + 향후 주주환원 정책의 구체적 실행 여부를 지속적으로 모니터링할 필요가 있다."
+        }
+      ],
+      "summaryLines": [
+        "[이벤트] FDA가 일라이 릴리의 비만 치료제 마운자로에 대해 심혈관 위험 감소 적응증을 승인 — 마운자로, 모달리티: 비만 치료제, 적응증: 심혈관 위험 감소, 단계: 승인, 금액: 해당 없음  \n[중요도] 심혈관 위험 감소 적응증 추가는 시장 확대 가능성을 높여 기술성과 시장성에 긍정적 신호를 제공함  \n[국내관련성] 국내 제약사 중 비만 치료제 개발을 하는 기업들이 영향을 받을 수 있음  \n[액션] Watch + 심혈관 적응증 추가로 인한 시장 반응 및 경쟁사 동향을 주의 깊게 살펴볼 필요가 있음",
+        "[이벤트] IND 승인기간이 30일에서 10일로 단축 — 식약처, 임상시험계획(IND), 규제개선, 0원.  \n[중요도] 임상시험 승인 절차의 효율화로 기술 개발 속도가 빨라질 수 있어 시장성에 긍정적 영향.  \n[국내관련성] 국내 바이오 기업들이 임상시험을 진행할 때 신속한 승인으로 혜택을 받을 수 있음.  \n[액션] Watch + 규제 변화에 따른 시장 반응 및 기업들의 활용 사례를 주목할 필요가 있음.",
+        "[이벤트] 아팔루타미드와 아비라테론 아세테이트 및 프레드니손의 병용요법에 대한 3상 임상시험 진행 중 — Aragon Pharmaceuticals, 모달리티: 항암제, 적응증: 전이성 호르몬 저항성 전립선암, 단계: 3상, 금액: 해당 없음  \n[중요도] 임상 결과에 따라 전립선암 치료의 새로운 조합 요법으로서의 가능성이 평가될 수 있어 중요함  \n[국내관련성] 국내 비상장사인 제넥신과 관련된 전립선암 치료제 개발이 진행 중임  \n[액션] Watch + 전립선암 치료제 시장의 변화 가능성을 주의 깊게 살펴볼 필요가 있음",
+        "[이벤트] 식약처가 성장호르몬제제에 위해성관리계획을 적용하기로 결정 — 8개사 21개 제품, 성장호르몬 결핍증 및 저신장증 적응증, 9월 1일부터 시행.  \n[중요도] 이는 성장호르몬제제의 안전성을 강화하고 시장의 규제 환경을 변화시킬 수 있는 중요한 조치이다.  \n[국내관련성] 국내에서 성장호르몬제를 제조 및 판매하는 회사들, 예를 들어 한미약품, JW중외제약 등이 영향을 받을 수 있다.  \n[액션] Watch + 성장호르몬제제의 안전성 관리 변화가 향후 시장에 미칠 영향을 주의 깊게 살펴봐야 한다.",
+        "[이벤트] 셀트리온, 1000억원 규모 자사주 매입 결정 — 회사명: 셀트리온, 금액: 1000억원, 기간: 9월 1일부터 11월 30일까지.  \n[중요도] 주주가치 제고를 위한 선제적 조치로, 회사의 재무 안정성과 주가 방어에 긍정적 신호를 준다.  \n[국내관련성] 셀트리온은 국내 상장사로, 자사주 매입은 다른 바이오 기업에도 긍정적인 영향을 미칠 수 있다.  \n[액션] Watch + 향후 주주환원 정책의 구체적 실행 여부를 지속적으로 모니터링할 필요가 있다."
+      ],
+      "sections": [
+        "domestic",
+        "global",
+        "regulatory",
+        "deal",
+        "modality",
+        "paper",
+        "general"
+      ],
+      "items": [
+        {
+          "id": "2026-09-01-0001",
+          "title": "[영상] 마운자로, FDA서 '심혈관 위험 감소' 적응증 승인",
+          "source": "히트뉴스",
+          "date": "2026-09-01",
+          "origin": "domestic",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "[영상] 마운자로, FDA서 '심혈관 위험 감소' 적응증 승인. 비만치료제로 알려진 마운자로가 미국에서 심혈관 위험 감소 적응증까지 확보했습니다.미국 FDA는 일라이 릴리의 마운자로를 심혈관 위험이 높은 제2형 당뇨병 성인 환자의 심혈관 사망과 비치명적 심근경색, 비치명적 뇌졸중 위험을 낮추는 용도로 추가 승인했는데요.미국에서 마운자로는 제2형 당뇨병 치료제로 허가돼 있습니다.그동안 혈당 조절을 위해 사용돼 왔지만, 이번 승인으로 심혈관 위험을 낮추는 목적까지 공식적인 치료 범위에 포함됐습니다.제2형 당뇨병 환자는 심근경색이나 뇌졸중 같은 심혈관질환 위험이 높은 만큼, 혈당뿐 아니라 심혈관 위험",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] FDA가 일라이 릴리의 비만 치료제 마운자로에 대해 심혈관 위험 감소 적응증을 승인 — 마운자로, 모달리티: 비만 치료제, 적응증: 심혈관 위험 감소, 단계: 승인, 금액: 해당 없음  \n[중요도] 심혈관 위험 감소 적응증 추가는 시장 확대 가능성을 높여 기술성과 시장성에 긍정적 신호를 제공함  \n[국내관련성] 국내 제약사 중 비만 치료제 개발을 하는 기업들이 영향을 받을 수 있음  \n[액션] Watch + 심혈관 적응증 추가로 인한 시장 반응 및 경쟁사 동향을 주의 깊게 살펴볼 필요가 있음",
+          "keywords": [
+            "FDA"
+          ],
+          "importanceScore": 10,
+          "investorRelevanceScore": 10,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78779"
+        },
+        {
+          "id": "2026-09-01-0002",
+          "title": "IND 30일→10일 단축… 식약처, 사전검토까지 뜯어 고쳤다",
+          "source": "히트뉴스",
+          "date": "2026-08-31",
+          "origin": "domestic",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "IND 30일→10일 단축… 식약처, 사전검토까지 뜯어 고쳤다. 규제당국이 식의약 60대 개선 과제에 포함된 임상시험계획(IND) 승인기간을 기존 30일에서 10일로 단축하며 사전검토 제도 전반도 함께 손질했다. 그동안 별도 혜택이 없어 단순 질의 형태로 활용됐던 사전검토에 IND 신속승인 동기를 부여한 것으로 제도 활용도를 높이겠다는 구상이다. 식품의약품안전처 관계자는 28일 IND 승인기간을 30일에서 10일로 단축한 배경 관련 \"제출 자료에 대한 보완 요구로 승인 소요 기간이 장기화된다는 지적이 있었으며 이를 개선하고자 신속 승인 추진 방안을 마련해 임상시험 승인 절차를 효율화하기 위해 도",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] IND 승인기간이 30일에서 10일로 단축 — 식약처, 임상시험계획(IND), 규제개선, 0원.  \n[중요도] 임상시험 승인 절차의 효율화로 기술 개발 속도가 빨라질 수 있어 시장성에 긍정적 영향.  \n[국내관련성] 국내 바이오 기업들이 임상시험을 진행할 때 신속한 승인으로 혜택을 받을 수 있음.  \n[액션] Watch + 규제 변화에 따른 시장 반응 및 기업들의 활용 사례를 주목할 필요가 있음.",
+          "keywords": [
+            "IND"
+          ],
+          "importanceScore": 10,
+          "investorRelevanceScore": 10,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78740"
+        },
+        {
+          "id": "2026-09-01-0003",
+          "title": "[ClinicalTrials] An Efficacy and Safety Study of Apalutamide (JNJ-56021927) in Combination With Abiraterone Acetate and Prednisone Versus Abiraterone Acetate and Prednisone in Participants With Chemotherapy-naive Metastatic Castration-resistant Prostate Cancer (mCRPC) (Phase 3, ACTIVE_NOT_RECRUITING)",
+          "source": "ClinicalTrials.gov",
+          "date": "2026-08-31",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "[임상 시험] 화학요법 경험이 없는 전이성 거세 저항성 전립선암(mCRPC) 참가자를 대상으로 아비라테론 아세테이트 및 프레드니손과 아비라테론 아세테이트 및 프레드니손을 병용한 아팔루타마이드(JNJ-56021927)의 효능 및 안전성 연구(3상, ACTIVE_NOT_RECRUITING). NCT ID: NCT02257736 | 후원자: Aragon Pharmaceuticals, Inc. |…",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 아팔루타미드와 아비라테론 아세테이트 및 프레드니손의 병용요법에 대한 3상 임상시험 진행 중 — Aragon Pharmaceuticals, 모달리티: 항암제, 적응증: 전이성 호르몬 저항성 전립선암, 단계: 3상, 금액: 해당 없음  \n[중요도] 임상 결과에 따라 전립선암 치료의 새로운 조합 요법으로서의 가능성이 평가될 수 있어 중요함  \n[국내관련성] 국내 비상장사인 제넥신과 관련된 전립선암 치료제 개발이 진행 중임  \n[액션] Watch + 전립선암 치료제 시장의 변화 가능성을 주의 깊게 살펴볼 필요가 있음",
+          "keywords": [
+            "ClinicalTrials.gov",
+            "ClinicalTrials",
+            "Efficacy",
+            "and",
+            "Safety",
+            "Study"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://clinicaltrials.gov/study/NCT02257736"
+        },
+        {
+          "id": "2026-09-01-0004",
+          "title": "식약처, ‘키크는 주사’ 논란 속 성장호르몬 관리 나서",
+          "source": "히트뉴스",
+          "date": "2026-09-01",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "식약처, ‘키크는 주사’ 논란 속 성장호르몬 관리 나서. 식품의약품안전처가 아동 인구는 줄어드는데도 처방이 매년 늘고 있는 성장호르몬제제(소마트로핀 성분) 전 품목에 위해성관리계획을 적용해 9월 1일부터 안전관리를 강화하기로 했다.1일 식약처에 따르면 대상은 8개사 21개 제품으로, 허가권자는 환자용 사용설명서와 의료전문가용 설명자료를 의료현장에 배포하고 이상사례를 포함한 이행 결과를 매년 식약처에 제출해야 한다.해당 제제는 성장호르몬결핍증, 터너증후군 등으로 인한 소아 성장부전과 특발성 저신장증 환아의 성장장애 치료를 위해 허가된 전문의약품이다.위해성관리계획이 적용되면 허가권자는 국내외",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 식약처가 성장호르몬제제에 위해성관리계획을 적용하기로 결정 — 8개사 21개 제품, 성장호르몬 결핍증 및 저신장증 적응증, 9월 1일부터 시행.  \n[중요도] 이는 성장호르몬제제의 안전성을 강화하고 시장의 규제 환경을 변화시킬 수 있는 중요한 조치이다.  \n[국내관련성] 국내에서 성장호르몬제를 제조 및 판매하는 회사들, 예를 들어 한미약품, JW중외제약 등이 영향을 받을 수 있다.  \n[액션] Watch + 성장호르몬제제의 안전성 관리 변화가 향후 시장에 미칠 영향을 주의 깊게 살펴봐야 한다.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78791"
+        },
+        {
+          "id": "2026-09-01-0005",
+          "title": "셀트리온, 주주환원 목적 1000억 자사주 매입 결정",
+          "source": "히트뉴스",
+          "date": "2026-08-31",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "셀트리온, 주주환원 목적 1000억 자사주 매입 결정. 셀트리온은 주주가치 제고를 위한 주주환원 정책에 따라 1000억원 규모 자사주 매입을 결정했다.회사는 31일 주가 안정 및 주주가치 제고 목적으로 1000억2만8800원 규모 자기주식 취득을 결정했다고 공시했다. 자사주 취득은 오는 9월 1일부터 11월 30일까지 3달간 이뤄진다.회사 측은 \"앞으로 매년 기준 당기순이익의 3분의 1을 주주환원 재원으로 활용하는 중장기 정책을 발표한다. 이번 자사주 취득 결정은 이에 대한 선제적 조치\"라고 설명했다.회사는 이번 자사주 매입액을 올해 주주환원 규모에 포함하는 한편, 향후에도 현금배당과",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 셀트리온, 1000억원 규모 자사주 매입 결정 — 회사명: 셀트리온, 금액: 1000억원, 기간: 9월 1일부터 11월 30일까지.  \n[중요도] 주주가치 제고를 위한 선제적 조치로, 회사의 재무 안정성과 주가 방어에 긍정적 신호를 준다.  \n[국내관련성] 셀트리온은 국내 상장사로, 자사주 매입은 다른 바이오 기업에도 긍정적인 영향을 미칠 수 있다.  \n[액션] Watch + 향후 주주환원 정책의 구체적 실행 여부를 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78775"
+        },
+        {
+          "id": "2026-09-01-0006",
+          "title": "한국비엔씨 파트너 레이오스, 中에 지방분해 신약후보 판권 이전",
+          "source": "히트뉴스",
+          "date": "2026-08-31",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "한국비엔씨 파트너 레이오스, 中에 지방분해 신약후보 판권 이전. 한국비엔씨가 자사 지방분해 신약 후보물질 '10XB-101'의 기술이전과 전략적 지분 투자를 유치하는 성과를 거뒀다. 10XB-101은 성인의 턱밑 지방과 복부 피하지방을 줄이는 주사제다.한국비엔씨는 전략적 파트너인 미국 레이오스 테라퓨틱스(Leios Therapeutics)가 중국 제약사 차이나 메디컬 시스템 홀딩스(이하 CMS)와 10XB-101의 중국 독점 라이선스 계약을 체결하고 CMS로부터 전략적 지분 투자를 유치했다고 31일 밝혔다. 현재 중국 외 아시아·유라시아 9개국 판권은 한국비엔씨가 보유하고 있다. 이번 계약에 따",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 한국비엔씨가 지방분해 신약 후보물질 '10XB-101'의 중국 독점 라이선스 계약을 체결하고, 전략적 지분 투자를 유치했다 — 회사명: 한국비엔씨, 모달리티: 주사제, 적응증: 턱밑 지방 및 복부 피하지방 감소, 단계: 기술이전, 금액: 구체적 금액 미제공.  \n[중요도] 기술이전과 지분 투자 유치는 한국비엔씨의 글로벌 시장 진출 가능성을 높이며, 사업 확장에 긍정적인 신호로 작용할 수 있다.  \n[국내관련성] 한국비엔씨는 기술특례상장 후보로, 이번 성과는 국내 바이오 기업들에게도 긍정적인 벤치마크가 될 수 있다.  \n[액션] Watch + 한국비엔씨의",
+          "keywords": [
+            "XB-101",
+            "Leios",
+            "Therapeutics",
+            "CMS"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78773"
+        },
+        {
+          "id": "2026-09-01-0007",
+          "title": "알테오젠, SC 키트루다 첫 판매 마일스톤…2500만달러 수령",
+          "source": "히트뉴스",
+          "date": "2026-08-31",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "알테오젠, SC 키트루다 첫 판매 마일스톤…2500만달러 수령. 알테오젠이 피하주사(SC) 제형 키트루다의 판매에 따른 첫 마일스톤으로 2500만달러(약 344억원)를 수령한다. 기술수출과 임상·허가 단계에 이어 실제 제품 판매를 기반으로 한 수익이 발생하기 시작한 것이다.알테오젠은 하이브로자임(Hybrozyme) 플랫폼 파트너인 MSD로부터 피하주사 제형 키트루다 '키트루다 큐렉스(Keytruda Qlex)' 매출에 따른 판매 마일스톤 2500만달러를 수령할 예정이라고 31일 공시했다.이번 마일스톤은 알테오젠과 MSD가 체결한 라이선스 계약에 포함된 총 10억달러 규모의 판매 마일스톤 가운데",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 알테오젠이 피하주사 제형 키트루다의 첫 판매 마일스톤으로 2500만달러를 수령했다 — 알테오젠, SC 제형, 키트루다, 판매 마일스톤, 2500만달러.  \n[중요도] 이는 알테오젠의 기술 수출 이후 실제 매출 발생을 보여주는 중요한 신호로, 시장성과 수익성에 긍정적 영향을 미친다.  \n[국내관련성] 알테오젠은 국내 상장사로, 이번 성과는 국내 바이오 기업들에게도 긍정적인 신호가 될 수 있다.  \n[액션] Watch + 알테오젠의 매출 성장 추세를 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "Hybrozyme",
+            "MSD",
+            "Keytruda",
+            "Qlex"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78771"
+        },
+        {
+          "id": "2026-09-01-0008",
+          "title": "SK바이오팜 이동훈 사장, 자사주 2000주 매입…\"중장기 성장 의지\"",
+          "source": "히트뉴스",
+          "date": "2026-08-31",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "SK바이오팜 이동훈 사장, 자사주 2000주 매입…\"중장기 성장 의지\". SK바이오팜 이동훈 사장이 자사 주식 2000주를 매입했다. 31일 공시에 따르면 이동훈 사장은 취득 평균 단가 90898원으로 자사주 2000주를 매입했다. 총 약 1억8000만원 규모다. 이번 매입으로 이 사장의 소유 자사주는 5000주로 증가했다.회사 관계자는 \"이번 자사주 매입은 지난 26일 기자간담회를 통해 오파칼림 도입 사실을 공개한 다음 날 이뤄졌다. 세노바메이트의 견조한 성장세와 오파칼림을 비롯한 차세대 성장동력을 바탕으로 한 SK바이오팜의 중장기 성장에 대한 의지를 나타낸 것\"이라고 설명했다. 또한 \"오파칼림 관련",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] SK바이오팜 이동훈 사장이 자사주 2000주를 매입 — 자사주 매입, 2000주, 평균 단가 90,898원, 총 1억8000만원 규모.  \n[중요도] 중장기 성장 의지를 나타내는 신호로, 투자자 신뢰를 높일 수 있음.  \n[국내관련성] SK바이오팜은 국내 상장사로, 자사주 매입은 주가 안정화 및 긍정적 신호로 작용할 수 있음.  \n[액션] Watch + SK바이오팜의 중장기 성장 가능성에 대한 추적 필요.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78766"
+        },
+        {
+          "id": "2026-09-01-0009",
+          "title": "위더스제약, 종근당 탈모치료제 CDMO 계약…400억 규모",
+          "source": "히트뉴스",
+          "date": "2026-08-31",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "위더스제약, 종근당 탈모치료제 CDMO 계약…400억 규모. 위더스제약이 종근당의 장기지속형 탈모 치료제 생산을 맡는다.위더스제약은 종근당과 두타스테리드 기반 장기지속형 탈모 치료제 'CKD-843'의 위탁개발생산(CDMO) 계약을 체결했다고 31일 밝혔다.계약 규모는 10년간 최대 약 400억원이며, 계약기간 종료 후 별도 해지 의사가 없으면 자동 갱신된다.위더스제약은 경기도 안성공장 주사제동에서 CKD-843의 상업 생산을 담당한다. CKD-843은 종근당이 개발 중인 개량신약으로, 1회 투여 시 약 3개월간 약효가 지속되도록 설계됐다. 현재 국내 임상 3상을 진행하고 있다.위더스제약은",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 위더스제약, 종근당의 탈모 치료제 CKD-843의 CDMO 계약 체결 — 위더스제약, CDMO, CKD-843, 10년 최대 400억원 규모.  \n[중요도] 장기지속형 탈모 치료제의 생산 계약은 시장에서의 경쟁력을 높일 수 있는 중요한 요소.  \n[국내관련성] 국내 탈모 치료제 시장에서 종근당과 위더스제약의 협력은 관련 기업들에게 긍정적인 신호가 될 수 있음.  \n[액션] Watch + CKD-843의 임상 진행 상황과 시장 반응을 지속적으로 모니터링할 필요가 있음.",
+          "keywords": [
+            "CDMO",
+            "CKD-843"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78767"
+        },
+        {
+          "id": "2026-09-01-0010",
+          "title": "Seoul National University team develops universal prime assembly gene therapy - DongA Science",
+          "source": "Google News",
+          "date": "2026-08-31",
+          "origin": "domestic",
+          "section": "modality",
+          "eventType": "publication",
+          "summary": "서울대 연구팀, 만능 프라임 어셈블리 유전자 치료제 개발 동아사이언스",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 서울대학교 팀이 보편적인 프라임 조립 유전자 치료법을 개발했다 — 서울대학교, 유전자 치료, 보편적 적응증, 연구 발표.  \n[중요도] 새로운 유전자 치료 기술 개발은 시장의 혁신성과 경쟁력을 높일 수 있는 중요한 진전이다.  \n[국내관련성] 국내 유전자 치료 관련 기업 및 연구소에 긍정적인 영향을 미칠 수 있다.  \n[액션] Watch + 해당 기술의 상용화 가능성을 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Seoul",
+            "National",
+            "University",
+            "team",
+            "develops"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kLU5XWHdtTmlZNUh2d0dLNlRUVkEzQ1RhVmdkRHk2cFh2Vmo5OXQ1OGFtenVGb25HWWhPMGsweXg3ZkhaOUhXVThoSjg5N3UzdWxEZg?oc=5"
+        },
+        {
+          "id": "2026-09-01-0011",
+          "title": "Natera teams with Angiex on cancer drug trial monitoring",
+          "source": "Fierce Biotech",
+          "date": "2026-08-31",
+          "origin": "global",
+          "section": "deal",
+          "eventType": "clinical",
+          "summary": "Natera는 항암제 임상 모니터링을 위해 Angiex와 협력합니다. Natera는 질병 진단을 받고 치료를 받은 환자에게서 작은 암 DNA 흔적을 찾는 Signatera 혈액 검사의 사용을 평가하기 위해 생명공학 Angiex와 협력 계약을 체결했습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Natera가 Angiex와 협력하여 Signatera 혈액 검사를 통한 암 치료 모니터링을 평가하기로 했다 — Natera, 혈액 검사, 암, 협약 단계, 금액 미제공  \n[중요도] 기술적 검증을 통해 암 치료의 효과성을 높일 수 있는 가능성이 있어 중요하다 — 성공  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 영향받는 곳 또는 활용 가능한 comp 1줄. 없으면 \"국내 직접 관련성 낮음\"  \n[액션] Watch / Wiki반영 / 딥다이브 / 제외 중 하나 + 이유 한 줄",
+          "keywords": [
+            "Natera",
+            "teams",
+            "with",
+            "Angiex",
+            "cancer",
+            "drug"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/medtech/natera-teams-angiex-advance-its-signatera-cancer-dx-tool"
+        },
+        {
+          "id": "2026-09-01-0012",
+          "title": "Electra aims to light up Nasdaq with IPO for phase 2/3 I&I push",
+          "source": "Fierce Biotech",
+          "date": "2026-08-31",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Electra는 2/3단계 I&I 추진을 위해 IPO를 통해 나스닥에 활력을 불어넣는 것을 목표로 하고 있습니다. Electra Therapeutics가 면역학 및 암 파이프라인을 지원하기 위해 상장을 신청함에 따라 2026년 연속 IPO가 계속되고 있습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Electra Therapeutics가 면역학 및 암 파이프라인 지원을 위해 IPO를 신청했다 — 회사명: Electra Therapeutics, 모달리티: 면역학 및 암, 단계: IPO, 금액: 미정  \n[중요도] IPO는 자금 조달을 통해 임상 개발을 가속화할 수 있어 기술성과 시장성에 중요한 신호다.  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] Watch + IPO 진행 상황을 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "Electra",
+            "aims",
+            "light",
+            "Nasdaq",
+            "with",
+            "IPO"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/electra-sets-plans-light-nasdaq-ipo-fuel-phase-23-trial-ii-asset"
+        },
+        {
+          "id": "2026-09-01-0013",
+          "title": "ESC26: AstraZeneca's heart failure drug shows promise in ph. 2 trial",
+          "source": "Fierce Biotech",
+          "date": "2026-08-31",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "ESC26: AstraZeneca의 심부전 치료제는 ph에서 가능성을 보여줍니다. 2 재판. AstraZeneca의 경구용 릴랙신 작용제는 만성 심부전에 대한 2b상 결과를 고무적으로 전달하여 두 환자 그룹의 심장 기능 측정을 향상시켰습니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] AstraZeneca의 경구용 이완제 작용제가 만성 심부전 2b상 시험에서 긍정적인 결과를 보였다 — AstraZeneca, 경구용 이완제, 만성 심부전, 2상, 구체적 금액 미제공  \n[중요도] 성공적인 임상 결과는 심부전 치료제 시장에서의 경쟁력을 높일 수 있는 중요한 신호이다 — 성공  \n[국내관련성] 국내 심부전 치료제 개발에 참여하는 기업들, 예: 한미약품, 메디톡스 등  \n[액션] Watch + 향후 임상 결과 및 시장 반응을 주의 깊게 살펴볼 필요가 있다",
+          "keywords": [
+            "ESC26",
+            "AstraZeneca",
+            "heart",
+            "failure",
+            "drug",
+            "shows"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/esc26-astrazenecas-heart-failure-drug-shows-promise-ph-2-trial"
+        },
+        {
+          "id": "2026-09-01-0014",
+          "title": "On the 'cusp,' PharmaEssentia gains FDA label expansion for Besremi",
+          "source": "Fierce Pharma",
+          "date": "2026-08-28",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "'첨단'에서 PharmaEssentia는 Besremi에 대한 FDA 라벨 확장을 획득했습니다. FDA는 PharmaEssentia의 Besremi에 대한 라벨 확장에 서명하여 희귀 골수 질환인 본태성 혈소판 혈증 치료제로 승인했습니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA가 PharmaEssentia의 Besremi에 대해 희귀 골수 질환인 본태성 혈소판증가증 치료제로 라벨 확장을 승인했다.  \n[중요도] 이는 해당 치료제가 새로운 적응증을 확보함으로써 시장에서의 경쟁력을 높일 수 있는 중요한 규제 승인이다.  \n[국내관련성] 국내 비상장사인 바이오니아가 유사한 적응증을 연구 중으로, 시장 경쟁에 영향을 받을 수 있다.  \n[액션] Watch - Besremi의 라벨 확장은 향후 국내 시장 진출 가능성을 높일 수 있어 주목할 필요가 있다.",
+          "keywords": [
+            "the",
+            "cusp",
+            "PharmaEssentia",
+            "gains",
+            "FDA",
+            "label"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/cusp-pharmaessentia-gains-fda-label-expansion-besremi"
+        },
+        {
+          "id": "2026-09-01-0015",
+          "title": "FDA OKs Takeda, Protagonist drug for rare blood cancer",
+          "source": "BioPharma Dive",
+          "date": "2026-08-31",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "FDA가 희귀 혈액암 치료제 다케다를 승인했다. Mimrylo의 허가 및 예상보다 광범위한 라벨은 일부 분석가가 20억 달러 이상에 도달할 것으로 예상하는 Takeda의 연간 수익 기회를 열어줍니다.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA가 Takeda의 Mimrylo를 희귀 혈액암 치료제로 승인 — Takeda, Mimrylo, 희귀 혈액암, 승인, 연간 수익 기회 $20억 이상 예상  \n[중요도] 성공적인 규제 승인으로 시장 진입 가능성이 높아져 투자자들의 관심이 집중될 수 있음  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 영향받는 곳 또는 활용 가능한 comp 없음  \n[액션] Watch / 리스크 체크 — Takeda의 시장 반응 및 매출 추세를 주의 깊게 살펴볼 필요가 있음",
+          "keywords": [
+            "FDA",
+            "OKs",
+            "Takeda",
+            "Protagonist",
+            "drug",
+            "for"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.biopharmadive.com/news/fda-approve-mimrylo-takeda-protagonist-polycythemia-vera/829153/"
+        },
+        {
+          "id": "2026-09-01-0016",
+          "title": "Medera Presents Late-Breaking Clinical Trial Data at ESC - GlobeNewswire",
+          "source": "Google News",
+          "date": "2026-08-31",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Medera, ESC Globe에서 최신 임상 시험 데이터 발표Newswire",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Medera가 ESC에서 임상 시험 데이터 발표 — Medera, 심혈관 질환, 3상, 구체적 금액 미제공  \n[중요도] 성공적인 임상 데이터 발표는 향후 투자 유치 및 시장 진입에 긍정적 영향을 미칠 수 있음  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 영향받는 곳 또는 활용 가능한 comp 없음  \n[액션] Watch + 향후 임상 결과에 따라 투자 판단에 중요한 요소가 될 수 있음",
+          "keywords": [
+            "gene therapy",
+            "Medera",
+            "Presents",
+            "Late-Breaking",
+            "Clinical",
+            "Trial"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUXFNQS1uUjhiZFFOb2U4SXItY0tDS253U1hmeWtjbWl1eFNIVElHNEVSclpGWU96TmdISkQ5NDJ1ZGRtQVpQT19xQ2taempiRU53WkZpellWYVZJODg0WC1VaTlWUUczWTJVWUR3VjA3d3Q4a21ZOS1HcHpvRXV3Tjl4LWVicGFFUTZtRnI0QVRMUmVfQW9JQ2lyTkUtd1BENFF0cXUxbFp5aF8zSF9DMEh3SWd4OS1FcTNQZFk5TVhpUkVqVkllbFhBaVdKbWpBMVVJeDhBQlpWeGVaY1pYTEo4aFNYMXNjYWNTZ2lxei1HbDk1LTlQYlh5MDI2eUE3Y1BwRklqY3J0bEkyMzhHY1JsaU5seDdrWjM5N1duM3ZOc3c2OU9xRk5QQm40djN1RUtzeXlLNkdSd1JTMDRpWEtyaXFjVGdMQng0QWw1S3NKNENqZDc3ekd6X1Q5Njg?oc=5"
+        },
+        {
+          "id": "2026-09-01-0017",
+          "title": "REGENXBIO Faces FDA Clinical Hold on Hunter Syndrome Gene Therapy - Streetwise Reports",
+          "source": "Google News",
+          "date": "2026-08-29",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "REGENXBIO, 헌터증후군 유전자 치료에 대한 FDA 임상 보류에 직면",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA가 REGENXBIO의 헌터 증후군 유전자 치료제에 대해 임상 보류를 결정했다 — REGENXBIO, 유전자 치료, 헌터 증후군, 임상 보류, 금액 미제공.  \n[중요도] 규제 문제로 인해 임상 진행이 지연되며, 시장 출시 일정에 부정적인 영향을 미칠 수 있다.  \n[국내관련성] 국내 직접 관련성 낮음.  \n[액션] 리스크 체크 — FDA의 임상 보류는 향후 개발에 큰 리스크 요소로 작용할 수 있다.",
+          "keywords": [
+            "gene therapy",
+            "REGENXBIO",
+            "Faces",
+            "FDA",
+            "Clinical",
+            "Hold"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHhieDA5WVFLUVlDUHRUS0EyYkREa2Q3T1JfaXdrcmRzYWdRX3Fjdk0zbEsyUHdzTkN3M3dWOGQ4cWRDTVRaVnRaS2JYWERGOFp3eEtHdHozc3FySktXSXpfZ2JVSm9DZW5nTHE4OWc1aDcxRGlBN3Y2bUhMdjFGU2hvTTYzNWNVUUNQbGswcUVvSnhjUW8wTmdRTkpaUmZORGZiYjlzMXdIbnhSWGxfZnhoeDlVNGpFNk1pVEFXWWo?oc=5"
+        },
+        {
+          "id": "2026-09-01-0018",
+          "title": "SK Biopharmaceuticals signs epilepsy drug licensing deal with Biohaven - Investing.com",
+          "source": "Google News",
+          "date": "2026-08-26",
+          "origin": "global",
+          "section": "deal",
+          "eventType": "partnership",
+          "summary": "SK바이오팜, Biohaven Investing.com과 뇌전증 치료제 라이선스 계약 체결",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] SK바이오팜, 간질 치료제 라이센싱 계약 체결 — Biohaven과의 파트너십으로 간질 치료제 관련 협력 진행.  \n[중요도] 기술적 협력으로 시장 진입 및 제품 포트폴리오 확장 가능성 높임.  \n[국내관련성] 국내 간질 치료제 개발 중인 기업들에게 긍정적 시사점 제공.  \n[액션] Watch + 향후 협력 결과 및 시장 반응 모니터링 필요.",
+          "keywords": [
+            "pharma licensing deal",
+            "Biopharmaceuticals",
+            "signs",
+            "epilepsy",
+            "drug",
+            "licensing"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZi1FMUV5a1p6NExjMm5rMUh4WlMwMFRmbmZ6NVhmLThpOWo1QlFPNFdKSUE3TVVuVnFFbVg5b0FEY0ttV2xpWTdzSnQxMWtWUVRMMUJnaWJsQWIwV1dfWUk2cHJ3TDVsRjNRQVNCa2lYZE96TFM4b1dnandtUWFodGtDYjBsdnZvT0Q1ek1NdDdPbU5KR3M4c2dhWEZ1Zm56Wi1WeFZJZzU2ZWRYeEE3UWZ3SDBpMGRUb3lYVUE4NU53NVpxVjVvQkF5a3c?oc=5"
+        },
+        {
+          "id": "2026-09-01-0019",
+          "title": "Hanmi Pharm inks obesity license deal with Genentech - The Pharma Letter",
+          "source": "Google News",
+          "date": "2026-08-24",
+          "origin": "global",
+          "section": "deal",
+          "eventType": "partnership",
+          "summary": "한미약품, 제넨텍과 비만 라이선스 계약 체결 The Pharma Letter",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 한미약품이 Genentech와 비만 치료제 라이선스 계약을 체결했다 — 한미약품, 비만 치료제, 라이선스 계약, 금액 미제공.  \n[중요도] 비만 치료제 시장의 성장 가능성을 반영하며, 전략적 파트너십으로 기술적 신뢰성을 높일 수 있다.  \n[국내관련성] 국내 비상장사인 한미약품이 글로벌 제약사와 협력함에 따라 시장 내 경쟁력을 강화할 수 있다.  \n[액션] Watch + 비만 치료제 분야의 동향을 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "pharma licensing deal",
+            "Hanmi",
+            "Pharm",
+            "inks",
+            "obesity",
+            "license"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0tCS3hhbTN6dms1U28wMVVnSUJkUktlUFZPcmQ4a2w4cEIzdW5LbU10VHdjczhDUFA4SnR1bm4teUtkRHBKQm01VUFYWnlXS1h2dVFmUFRDMTVkSk1OSlR6UXVPd2gtN09uVGFFU2JXODFmc3NIY0cyOGRQVndFVmRwLXYwT1JRb1gzc0Ntalk2WjhpZjFLR2VDMUU?oc=5"
+        },
+        {
+          "id": "2026-09-01-0020",
+          "title": "FutureChem Eyes October Topline for FC705 U.S. Phase 2a, Anticipates Big Pharma Licensing Deal - finance.biggo.com",
+          "source": "Google News",
+          "date": "2026-08-19",
+          "origin": "global",
+          "section": "deal",
+          "eventType": "clinical",
+          "summary": "FutureChem, 10월 FC705 미국 임상 2a상 톱라인 주목, 대형 제약회사 라이센싱 계약 기대 금융.biggo.com",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] FutureChem이 FC705의 미국 Phase 2a 임상시험 결과를 10월에 발표할 예정이며, 대형 제약사와의 라이센스 계약을 기대하고 있다.  \n[중요도] 성공적인 임상 결과는 대형 제약사와의 협력 가능성을 높여 기술성과 시장성을 강화할 수 있다.  \n[국내관련성] 국내 관련 기업으로는 FutureChem과 유사한 파이프라인을 가진 바이오 기업들이 있을 수 있다.  \n[액션] Watch - FC705의 임상 결과와 라이센스 계약 진행 상황을 주의 깊게 지켜볼 필요가 있다.",
+          "keywords": [
+            "pharma licensing deal",
+            "FutureChem",
+            "Eyes",
+            "October",
+            "Topline",
+            "for"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpV2ViU21nRUdXV1dndmFLZHhIbVQ0R2VwQUkxb2RZbGd4V3RKTm41MkhSdHdfdk8zMFdTYTRzOGF0dXF0OVRSMnZza1FTYmJJQXNOMUJxZEdQbGhOYTRCVkc5WUFidXRiMnlKZTFoN2ZkZWlNTHc?oc=5"
+        },
+        {
+          "id": "2026-09-01-0021",
+          "title": "Leo ‘really strengthening’ pipeline with $435M deal for Tanabe rare skin disease drug awaiting FDA nod - Fierce Biotech",
+          "source": "Google News",
+          "date": "2026-08-18",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Leo는 FDA의 승인을 기다리고 있는 타나베 희귀 피부병 약물에 대한 4억 3500만 달러 계약으로 파이프라인을 '정말로 강화'하고 있습니다. Fierce Biotech",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] Leo가 Tanabe의 희귀 피부 질환 치료제에 대해 4억 3,500만 달러 규모의 계약을 체결했다 — 회사명: Leo, 모달리티: 약물, 적응증: 희귀 피부 질환, 단계: FDA 승인 대기, 금액: 4억 3,500만 달러.  \n[중요도] FDA 승인 대기 중인 치료제를 확보함으로써 Leo의 파이프라인이 강화되고 시장 경쟁력이 높아질 가능성이 있다.  \n[국내관련성] 국내 비상장사 중 희귀 질환 치료제를 개발 중인 회사에 긍정적인 신호가 될 수 있다.  \n[액션] Watch + Leo의 파이프라인 변화가 국내 시장에 미칠 영향을 추적할 필요가 있다.",
+          "keywords": [
+            "pharma licensing deal",
+            "Leo",
+            "really",
+            "strengthening",
+            "pipeline",
+            "with"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVk1tOVlmcGJEXzBOOGMxMjFwLWVkbGxXdmVMTGZtNnU2Zi01a0lTd0FfNjFvM3l6NjlHRHlSZVRNc3NYRnozaEZRTGNPRU40clBDY0c2QUs0NzNiUThUVGwyazY2RzRRTThzVnhzLWtOSHp3dmR6eTJMb1JqQkR2dFd4c2loaXBUUnN0dmJzcmJMc0xSM05LSnJaTmNEbDVGaXlqaTgxNzZmVEU?oc=5"
+        },
+        {
+          "id": "2026-09-01-0022",
+          "title": "TME Pharma: Advanced Negotiations for NOX-A12 Licensing Agreement - ideal-investisseur.fr",
+          "source": "Google News",
+          "date": "2026-08-24",
+          "origin": "global",
+          "section": "deal",
+          "eventType": "partnership",
+          "summary": "TME Pharma: NOX-A12 라이센스 계약을 위한 고급 협상 Ideal-investisseur.fr",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] TME Pharma가 NOX-A12 라이센스 계약을 위한 고급 협상 중 — TME Pharma, 항체, 암, 구속력 없는 협약 단계.  \n[중요도] 기술적 협력으로 인해 해당 항체의 상용화 가능성이 높아질 수 있음.  \n[국내관련성] 국내 비상장사인 제넥신이 유사한 항체 개발을 진행 중으로 간접적인 영향 가능.  \n[액션] Watch + NOX-A12의 상용화 가능성에 대한 추적 필요.",
+          "keywords": [
+            "pharma licensing deal",
+            "TME",
+            "Pharma",
+            "Advanced",
+            "Negotiations",
+            "for"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSHNTTmZzeGRiNXFZZDFqa2dKRDBJbEh0eU5LeUVzU1BvTkFSbThtNDR5LTIwNzBqMjNGaTBycldUU2Nra3h1dGF1cjA1QmpRWHFHZDI0Ukc0b3JpUV9IZmFzbnVvRlV5b0xMM2xFeWtNRENkSmNtM0FKZGFnSFlnZnp6NU1YTnJLUEo3bmZMVlFRazJ3ZzM3aldBN0l6YUpfUVJqWlRQa1BlVkpIaUNGdVVrV2NabUZORG5NeFg2Mmw?oc=5"
+        },
+        {
+          "id": "2026-09-01-0023",
+          "title": "‘A neuroscience revolution’: The GLP-like race to keep us awake and make billions doing it",
+          "source": "Fierce Biotech",
+          "date": "2026-08-21",
+          "origin": "global",
+          "section": "paper",
+          "eventType": "funding",
+          "summary": "'신경과학 혁명': 우리를 깨어있게 하고 이를 통해 수십억 달러를 벌기 위한 GLP와 같은 경쟁. GLP-1 약물의 엄청난 의학적 잠재력에 대한 과대 광고가 줄어들지 않고 계속됨에 따라 또 다른 펩타이드가 자신의 흔적을 남기기 시작했습니다.",
+          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
+          "investmentTakeaway": "[이벤트] GLP-1 유사 펩타이드 연구에 대한 자금 조달이 이루어졌다 — 글로벌 제약사, GLP-1 유사 펩타이드, 비만 및 대사 질환, 단계 미상, 금액 미상  \n[중요도] GLP-1 계열의 약물들이 시장에서 큰 성공을 거두고 있어, 유사 펩타이드의 상업적 가능성이 주목받고 있다  \n[국내관련성] 국내 제약사들이 GLP-1 유사 펩타이드 개발에 나설 가능성이 있어 관련 기업에 영향 미칠 수 있다  \n[액션] Watch + GLP-1 계열의 성공이 국내 시장에 미치는 영향을 분석할 필요가 있다",
+          "keywords": [
+            "neuroscience",
+            "revolution",
+            "The",
+            "GLP-like",
+            "race",
+            "keep"
+          ],
+          "importanceScore": 7,
+          "investorRelevanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/neuroscience-revolution-glp-race-keep-us-awake-and-make-billions-doing-it"
+        },
+        {
+          "id": "2026-09-01-0024",
+          "title": "Unlocking Innovation: How the 2026 KDDF Science Conference is Shaping the Future of Drug Development - 뉴스1",
+          "source": "Google News",
+          "date": "2026-08-31",
+          "origin": "domestic",
+          "section": "paper",
+          "eventType": "publication",
+          "summary": "혁신의 실현: 2026 KDDF 과학 컨퍼런스가 신약 개발의 미래를 형성하는 방법 뉴스1",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 2026 KDDF 과학 컨퍼런스 개최 — 한국, 약물 개발, 구속력 없는 협약 단계, 정보 공유 및 네트워킹 중심.  \n[중요도] 혁신적인 약물 개발을 위한 최신 연구와 동향을 공유하는 중요한 플랫폼으로, 시장성과 기술성에 긍정적 영향을 미칠 수 있음.  \n[국내관련성] 국내 바이오 및 제약 기업들이 참여하여 협력 기회를 모색할 수 있는 중요한 행사.  \n[액션] Watch + 향후 발표 및 연구 결과에 대한 지속적인 모니터링 필요.",
+          "keywords": [
+            "KDDF 바이오",
+            "Unlocking",
+            "Innovation",
+            "How",
+            "the",
+            "KDDF"
+          ],
+          "importanceScore": 7,
+          "investorRelevanceScore": 7,
+          "koreaRelevanceScore": 8,
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oTl92NGxKM041dElLVUFqemFPRGZVbF9paEFGNWVRZWI2blRicGZvOFBabEdCVkJWVlU5UVZKSWlfb3M2aXdBM1ZKbUZOUTh5X0lCellhX250R25NX1hSNtIBZkFVX3lxTE5NZTFaU21qenhaZnljN2pKSmV4NTFfNk1MUUdIRjhnWGlWUDJoU2sxM3dpYlhkZFE3ZFBfTWVOaGh5SkpDb181NjBZNTJJckd2MTFTWXlTS1FWdWs5NVJIWUtvSjl6Zw?oc=5"
+        },
+        {
+          "id": "2026-09-01-0025",
+          "title": "에이프릴바이오, 큐리진 지분투자 이어 내부 역량 채우나",
+          "source": "히트뉴스",
+          "date": "2026-09-01",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "에이프릴바이오, 큐리진 지분투자 이어 내부 역량 채우나. 에이프릴바이오가 큐리진 지분 인수와 이중표적 siRNA 후보물질 기술도입에 이어 학계 RNA 전문가까지 영입하며 내부 연구개발 역량 확보에 나섰다.회사는 1일 숙명여자대학교 약학대학 조교수로 재직 중이던 신민욱 박사를 R&D센터 이사로 영입했다고 밝혔다.신 이사는 서울대학교 약학대학에서 학사와 박사 학위를 받은 뒤 올리패스와 제놀루션에서 연구개발을 수행했고, 미국 매사추세츠대 채Chan 의과대학 RNA Therapeutics Institute에서 박사후연구원으로 근무했다.약 10년간 ASO와 siRNA 등 핵산치료제를 연구해온 인물",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 에이프릴바이오가 큐리진 지분 인수 및 이중표적 siRNA 후보물질 기술도입과 함께 신민욱 박사를 R&D센터 이사로 영입했다 — 에이프릴바이오, siRNA, 내부 역량 강화, 금액 미제공.  \n[중요도] 내부 연구개발 역량 강화는 향후 신약 개발 및 경쟁력 향상에 중요한 요소이다 — 기술성.  \n[국내관련성] 국내 RNA 치료제 개발에 주력하는 기업으로, 에이프릴바이오와 유사한 기술을 가진 회사들이 영향을 받을 수 있다.  \n[액션] Watch + 에이프릴바이오의 연구개발 역량 강화가 향후 성과에 미칠 영향을 지켜볼 필요가 있다.",
+          "keywords": [
+            "siRNA",
+            "RNA",
+            "Chan",
+            "Therapeutics",
+            "Institute",
+            "ASO"
+          ],
+          "importanceScore": 6,
+          "investorRelevanceScore": 6,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78790"
+        }
+      ]
+    },
+    {
       "reportDate": "2026-08-31",
       "title": "2026-08-31 바이오 투자 인텔리전스",
       "executiveHighlights": [
@@ -53900,59 +54521,6 @@
           "importanceScore": 7,
           "koreaRelevanceScore": 8,
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdUNKRVpMMldfSXBFVjNDaHZ1QzU1c3ZmSjVYQl9zV1Y4aTZGeExTbWROU0dTNjZuS2ZiWU1DQUs5X3lBcEhiU0Fvc2liMkREdmtOY2VsaFpZb09pV3h2d2NxelBEQUZ4eTM3T2d5MnhfMmtNdGFVVVBXZ2J5b3hiMUJVUmYwUHVOUmJMcTBzalhwdDdtbFRPcGIwbXhMVUVtakpSSG5sWHdHWDEzaEd5YVhFZmc5Q3BpU0w5QkwySHNPcUd4NWZTalFB?oc=5"
-        }
-      ]
-    },
-    {
-      "reportDate": "2026-06-03",
-      "title": "어제의 핵심 3줄",
-      "summaryLines": [
-        "글로벌 제약사 2곳이 GLP-1 경쟁 심화에 따른 공동 마케팅 재검토를 발표.",
-        "국내 바이오시밀러 1사, 유럽 허가 신청 제출 완료.",
-        "JP Morgan Healthcare Conference 프리뷰 자료에서 M&A 파이프라인 언급 증가."
-      ],
-      "sections": [
-        "domestic",
-        "global",
-        "deal"
-      ],
-      "items": [
-        {
-          "id": "2026-06-03-1",
-          "title": "글로벌 제약사, GLP-1 공동 마케팅 구조 재검토",
-          "source": "Reuters",
-          "date": "2026-06-03",
-          "section": "global",
-          "eventType": "commercial",
-          "summary": "두 글로벌 제약사가 비만·당뇨 적응증 GLP-1 제품의 지역별 마케팅·수익 배분을 재협상한다고 발표했다.",
-          "significance": "GLP-1 시장 점유율 재편 신호로, 국내 관련 원료·위탁생산 수주에 영향을 줄 수 있다.",
-          "keywords": [
-            "GLP-1",
-            "Marketing",
-            "Obesity"
-          ],
-          "url": "https://www.reuters.com/example-glp1",
-          "importanceScore": 6,
-          "koreaRelevanceScore": 4
-        },
-        {
-          "id": "2026-06-03-2",
-          "title": "국내 바이오시밀러, EU 중앙 허가(MAA) 신청",
-          "source": "한국경제",
-          "date": "2026-06-03",
-          "section": "domestic",
-          "eventType": "regulatory",
-          "summary": "국내 상장 바이오시밀러 기업이 종양 necrosis factor 억제제 바이오시밀러에 대해 EU MAA를 제출했다.",
-          "significance": "국내 바이오시밀러의 유럽 진출 사례가 늘어나는지 추적할 필요가 있다.",
-          "keywords": [
-            "Biosimilar",
-            "EMA",
-            "MAA",
-            "국내"
-          ],
-          "url": "https://www.hankyung.com/example-biosimilar-maa",
-          "importanceScore": 8,
-          "koreaRelevanceScore": 8
         }
       ]
     }
