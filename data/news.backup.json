@@ -1,6 +1,616 @@
 {
   "reports": [
     {
+      "reportDate": "2026-09-04",
+      "title": "2026-09-04 바이오 투자 인텔리전스",
+      "executiveHighlights": [
+        {
+          "rank": 1,
+          "itemId": "2026-09-04-0001",
+          "headline": "GC녹십자 고면역원성 독감백신 'GC3114B' 2/3상 IND 승인",
+          "investmentTakeaway": "[이벤트] GC녹십자, 고면역원성 독감백신 'GC3114B'의 임상 2/3상 IND 승인 — GC녹십자, 백신, 독감, 2/3상, 식약처 승인.  \n[중요도] 성공적인 IND 승인으로 임상 진행이 가능해져 기술성과 시장성 확보에 긍정적 신호.  \n[국내관련성] 국내 백신 시장에서 GC녹십자의 독감백신은 국가예방접종사업에 기여할 가능성이 높음.  \n[액션] Watch + 임상 결과에 따라 향후 시장 진출 및 경쟁력에 영향을 미칠 수 있음."
+        },
+        {
+          "rank": 2,
+          "itemId": "2026-09-04-0002",
+          "headline": "[HIT알공] 페니트리움바이오, 고형암 임상 2a상 FDA 승인",
+          "investmentTakeaway": "[이벤트] 페니트리움바이오, 진행성 고형암 임상 2a상 FDA 승인 — 페니트리움바이오, 고형암, 진행성 고형암, 임상 2a상, FDA 승인.  \n[중요도] 성공적인 FDA 승인으로 향후 임상 결과에 따라 시장 진입 가능성이 높아짐 — 성공.  \n[국내관련성] 국내 고형암 치료제 개발사인 삼성바이오로직스와 관련성이 있을 수 있음.  \n[액션] Watch + 임상 결과에 따른 시장 반응을 추적할 필요가 있음."
+        },
+        {
+          "rank": 3,
+          "itemId": "2026-09-04-0003",
+          "headline": "South Korean Biotech Licensing Deals Top ₩21 Trillion, but Stock Prices Lag — Recovery Hinges on Market Liquidity",
+          "investmentTakeaway": "[이벤트] 한국 바이오 기업의 라이센스 계약이 21조 원을 초과 — 국내 바이오 기업들, 다양한 모달리티 및 적응증 포함.  \n[중요도] 시장 유동성에 따라 회복이 좌우되므로 투자자들의 관심이 집중될 가능성 있음.  \n[국내관련성] 국내 상장 바이오 기업들이 라이센스 계약을 통해 자금을 조달할 수 있는 기회가 있음.  \n[액션] Watch + 시장 유동성 변화에 따른 투자 기회를 모니터링할 필요가 있음."
+        },
+        {
+          "rank": 4,
+          "itemId": "2026-09-04-0004",
+          "headline": "Malvern's Ocugen Doses First Patient in Phase 3 Trial for Its Geographic Atrophy Gene Therapy",
+          "investmentTakeaway": "[이벤트] Ocugen이 지리적 위축 치료를 위한 유전자 요법의 3상 임상시험에서 첫 환자 투여를 완료했다 — Ocugen, 유전자 요법, 지리적 위축, 3상, 금액 미제공  \n[중요도] 성공적인 임상 진행은 유전자 요법의 상업화 가능성을 높여 시장에서의 경쟁력을 강화할 수 있다  \n[국내관련성] 국내 관련 기업으로는 유전자 치료제를 개발 중인 카이노스메드가 있으며, 시장 경쟁에 영향을 받을 수 있다  \n[액션] Watch + 임상 결과에 따라 향후 시장 반응 및 기술적 진전을 주의 깊게 살펴볼 필요가 있다"
+        },
+        {
+          "rank": 5,
+          "itemId": "2026-09-04-0005",
+          "headline": "Ultragenyx’s Angelman therapy fails Phase 3 trial in setback for company and patients",
+          "investmentTakeaway": "[이벤트] Ultragenyx의 앤젤맨 증후군 치료제가 3상 임상시험에서 실패 — Ultragenyx, 유전자 치료, 앤젤맨 증후군, 3상, 실패  \n[중요도] 임상 실패로 인해 해당 치료제의 상용화 가능성이 낮아져 시장에서의 경쟁력이 약화됨  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 임상 실패로 인한 리스크 반영 필요"
+        }
+      ],
+      "summaryLines": [
+        "[이벤트] GC녹십자, 고면역원성 독감백신 'GC3114B'의 임상 2/3상 IND 승인 — GC녹십자, 백신, 독감, 2/3상, 식약처 승인.  \n[중요도] 성공적인 IND 승인으로 임상 진행이 가능해져 기술성과 시장성 확보에 긍정적 신호.  \n[국내관련성] 국내 백신 시장에서 GC녹십자의 독감백신은 국가예방접종사업에 기여할 가능성이 높음.  \n[액션] Watch + 임상 결과에 따라 향후 시장 진출 및 경쟁력에 영향을 미칠 수 있음.",
+        "[이벤트] 페니트리움바이오, 진행성 고형암 임상 2a상 FDA 승인 — 페니트리움바이오, 고형암, 진행성 고형암, 임상 2a상, FDA 승인.  \n[중요도] 성공적인 FDA 승인으로 향후 임상 결과에 따라 시장 진입 가능성이 높아짐 — 성공.  \n[국내관련성] 국내 고형암 치료제 개발사인 삼성바이오로직스와 관련성이 있을 수 있음.  \n[액션] Watch + 임상 결과에 따른 시장 반응을 추적할 필요가 있음.",
+        "[이벤트] 한국 바이오 기업의 라이센스 계약이 21조 원을 초과 — 국내 바이오 기업들, 다양한 모달리티 및 적응증 포함.  \n[중요도] 시장 유동성에 따라 회복이 좌우되므로 투자자들의 관심이 집중될 가능성 있음.  \n[국내관련성] 국내 상장 바이오 기업들이 라이센스 계약을 통해 자금을 조달할 수 있는 기회가 있음.  \n[액션] Watch + 시장 유동성 변화에 따른 투자 기회를 모니터링할 필요가 있음.",
+        "[이벤트] Ocugen이 지리적 위축 치료를 위한 유전자 요법의 3상 임상시험에서 첫 환자 투여를 완료했다 — Ocugen, 유전자 요법, 지리적 위축, 3상, 금액 미제공  \n[중요도] 성공적인 임상 진행은 유전자 요법의 상업화 가능성을 높여 시장에서의 경쟁력을 강화할 수 있다  \n[국내관련성] 국내 관련 기업으로는 유전자 치료제를 개발 중인 카이노스메드가 있으며, 시장 경쟁에 영향을 받을 수 있다  \n[액션] Watch + 임상 결과에 따라 향후 시장 반응 및 기술적 진전을 주의 깊게 살펴볼 필요가 있다",
+        "[이벤트] Ultragenyx의 앤젤맨 증후군 치료제가 3상 임상시험에서 실패 — Ultragenyx, 유전자 치료, 앤젤맨 증후군, 3상, 실패  \n[중요도] 임상 실패로 인해 해당 치료제의 상용화 가능성이 낮아져 시장에서의 경쟁력이 약화됨  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 임상 실패로 인한 리스크 반영 필요"
+      ],
+      "sections": [
+        "domestic",
+        "global",
+        "regulatory",
+        "deal",
+        "modality",
+        "general"
+      ],
+      "items": [
+        {
+          "id": "2026-09-04-0001",
+          "title": "GC녹십자 고면역원성 독감백신 'GC3114B' 2/3상 IND 승인",
+          "source": "히트뉴스",
+          "date": "2026-09-04",
+          "origin": "domestic",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "GC녹십자 고면역원성 독감백신 'GC3114B' 2/3상 IND 승인. GC녹십자 고면역원성 독감백신 후보물질 'GC3114B'의 임상 2/3상 시험계획(IND)이 식품의약품안전처 승인을 받았다.4일 회사 측에 따르면 GC3114B는 표준용량 독감백신보다 더 많은 항원을 포함해 강한 면역반응을 유도하도록 설계된 후보 물질이다. 회사는 고면역원성 독감백신의 국가예방접종사업 도입 검토에 발맞춰 자급화 기반을 마련하고 글로벌 시장진출을 추진할 계획이다.이번 임상연구에서는 65세 이상 고령자 대상으로 활성대조군과 후보물질을 직접 비교한다. 올해 하반기 첫 환자 투약 개시 예정이다.이재우 GC녹십자 개발본부장은",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] GC녹십자, 고면역원성 독감백신 'GC3114B'의 임상 2/3상 IND 승인 — GC녹십자, 백신, 독감, 2/3상, 식약처 승인.  \n[중요도] 성공적인 IND 승인으로 임상 진행이 가능해져 기술성과 시장성 확보에 긍정적 신호.  \n[국내관련성] 국내 백신 시장에서 GC녹십자의 독감백신은 국가예방접종사업에 기여할 가능성이 높음.  \n[액션] Watch + 임상 결과에 따라 향후 시장 진출 및 경쟁력에 영향을 미칠 수 있음.",
+          "keywords": [
+            "GC3114B",
+            "IND"
+          ],
+          "importanceScore": 10,
+          "investorRelevanceScore": 10,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78909"
+        },
+        {
+          "id": "2026-09-04-0002",
+          "title": "[HIT알공] 페니트리움바이오, 고형암 임상 2a상 FDA 승인",
+          "source": "히트뉴스",
+          "date": "2026-09-03",
+          "origin": "domestic",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "[HIT알공] 페니트리움바이오, 고형암 임상 2a상 FDA 승인. ① 페니트리움바이오, 진행성 고형암 임상 2a상 FDA 승인 = 재발성 또는 불응성 진행성 고형암 환자 대상 Penetrium과 표준치료 병용요법 임상 2a상 미국 FDA 승인. 미국 3개 기관에서 18명을 대상으로 무작위배정·공개·다기관 방식으로 진행. 임상기간은 FDA 승인일부터 약 24개월이며 예상 종료일은 2028년 09월 03일.② 에이프로젠바이오로직스, 127억원 규모 제3자배정 유상증자 = 타법인 증권 취득자금 200억원 조달을 위해 보통주 1270만6481주를 제3자배정 방식으로 발행. 신주 발행가액은 1574원으로",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 페니트리움바이오, 진행성 고형암 임상 2a상 FDA 승인 — 페니트리움바이오, 고형암, 진행성 고형암, 임상 2a상, FDA 승인.  \n[중요도] 성공적인 FDA 승인으로 향후 임상 결과에 따라 시장 진입 가능성이 높아짐 — 성공.  \n[국내관련성] 국내 고형암 치료제 개발사인 삼성바이오로직스와 관련성이 있을 수 있음.  \n[액션] Watch + 임상 결과에 따른 시장 반응을 추적할 필요가 있음.",
+          "keywords": [
+            "HIT",
+            "FDA",
+            "Penetrium"
+          ],
+          "importanceScore": 10,
+          "investorRelevanceScore": 10,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78888"
+        },
+        {
+          "id": "2026-09-04-0003",
+          "title": "South Korean Biotech Licensing Deals Top ₩21 Trillion, but Stock Prices Lag — Recovery Hinges on Market Liquidity - finance.biggo.com",
+          "source": "Google News",
+          "date": "2026-09-03",
+          "origin": "domestic",
+          "section": "deal",
+          "eventType": "partnership",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 한국 바이오 기업의 라이센스 계약이 21조 원을 초과 — 국내 바이오 기업들, 다양한 모달리티 및 적응증 포함.  \n[중요도] 시장 유동성에 따라 회복이 좌우되므로 투자자들의 관심이 집중될 가능성 있음.  \n[국내관련성] 국내 상장 바이오 기업들이 라이센스 계약을 통해 자금을 조달할 수 있는 기회가 있음.  \n[액션] Watch + 시장 유동성 변화에 따른 투자 기회를 모니터링할 필요가 있음.",
+          "keywords": [
+            "pharma licensing deal",
+            "South",
+            "Korean",
+            "Biotech",
+            "Licensing",
+            "Deals"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 8,
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lUy0wcy1YZDFOb25IS0FHMnpHV1R1bWwzVDJQWjlfeExLa0cxdW5yckNBRS1iWW1iYW5VQmdSVzJOMklhRlZuMFkwSzZQSFdqWWNycVB0M1Ftc0VZeXFkYlNSV25rd0VvdmtmejJ4QVZLODl3dkE?oc=5"
+        },
+        {
+          "id": "2026-09-04-0004",
+          "title": "Malvern's Ocugen Doses First Patient in Phase 3 Trial for Its Geographic Atrophy Gene Therapy - BioBuzz",
+          "source": "Google News",
+          "date": "2026-09-02",
+          "origin": "global",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Ocugen이 지리적 위축 치료를 위한 유전자 요법의 3상 임상시험에서 첫 환자 투여를 완료했다 — Ocugen, 유전자 요법, 지리적 위축, 3상, 금액 미제공  \n[중요도] 성공적인 임상 진행은 유전자 요법의 상업화 가능성을 높여 시장에서의 경쟁력을 강화할 수 있다  \n[국내관련성] 국내 관련 기업으로는 유전자 치료제를 개발 중인 카이노스메드가 있으며, 시장 경쟁에 영향을 받을 수 있다  \n[액션] Watch + 임상 결과에 따라 향후 시장 반응 및 기술적 진전을 주의 깊게 살펴볼 필요가 있다",
+          "keywords": [
+            "gene therapy",
+            "Malvern",
+            "Ocugen",
+            "Doses",
+            "First",
+            "Patient"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGMtRUIxeVo5ZW52S0Y0VnZob3FDXzN6RVFORmR3MzZpNFJ2N3ZFa3NBQ3JMVHpOMWxRSVNueU9iQldWTHg1bkRXSVp3T3JLcWVGVHd4Q1JHZURxbk1sM2NBQUs1emtsQ0tPQmpadmMyV2tXTjJYcno2aGtTazdNQUZsZ3BXTmI0VmRvTjlsX05XdkdwdXFMQVJheE1tSnhGNjVnYXpTQllZTU9wZDVORUEyU0VvWTF1?oc=5"
+        },
+        {
+          "id": "2026-09-04-0005",
+          "title": "Ultragenyx’s Angelman therapy fails Phase 3 trial in setback for company and patients - Endpoints News",
+          "source": "Google News",
+          "date": "2026-09-03",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Ultragenyx의 앤젤맨 증후군 치료제가 3상 임상시험에서 실패 — Ultragenyx, 유전자 치료, 앤젤맨 증후군, 3상, 실패  \n[중요도] 임상 실패로 인해 해당 치료제의 상용화 가능성이 낮아져 시장에서의 경쟁력이 약화됨  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 임상 실패로 인한 리스크 반영 필요",
+          "keywords": [
+            "site:endpoints.news biotech",
+            "Ultragenyx",
+            "Angelman",
+            "therapy",
+            "fails",
+            "Phase"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlNOWmhkT3VrTlVaWmxsbWhKWHBubmRXYVItdUFnWVJIZ2pCNlJELXh1NHZNdEdNTXVaWkVtLVZGVzFCQm43VWdLMkdlbW8wdGJKSi02R0hGY2pPdGNnOWNMLUF3R21JOUVOTVlQRHQ1T0dHT3FXam5UeXZ2QWlBX3ZfX3h0clNkaEtSN1poZjU?oc=5"
+        },
+        {
+          "id": "2026-09-04-0006",
+          "title": "[ClinicalTrials] A Study to Evaluate the Efficacy and Safety of Pegozafermin in Participants With Compensated Cirrhosis Due to MASH (Phase 3, RECRUITING)",
+          "source": "ClinicalTrials.gov",
+          "date": "2026-09-03",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 89bio, Inc.가 MASH로 인한 보상성 간경변 환자를 대상으로 pegozafermin의 효능과 안전성을 평가하는 3상 임상시험을 진행 중이다.  \n[중요도] 성공적인 임상 결과는 MASH 및 NASH 치료 시장에서의 경쟁력을 높일 수 있다.  \n[국내관련성] 국내 비상장사인 89bio, Inc.의 기술이 국내 NASH 치료제 개발에 영향을 미칠 수 있다.  \n[액션] Watch - MASH 및 NASH 치료제 시장의 동향을 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "ClinicalTrials.gov",
+            "ClinicalTrials",
+            "Study",
+            "Evaluate",
+            "the",
+            "Efficacy"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://clinicaltrials.gov/study/NCT06419374"
+        },
+        {
+          "id": "2026-09-04-0007",
+          "title": "식약처, 의약외품 품목허가·심사 기준 명확화 행정예고",
+          "source": "히트뉴스",
+          "date": "2026-09-04",
+          "origin": "domestic",
+          "section": "regulatory",
+          "eventType": "general",
+          "summary": "식약처, 의약외품 품목허가·심사 기준 명확화 행정예고. 식품의약품안전처가 의약외품 품목허가·심사 과정에서 자료 제출범위 및 심사기준 명확화를 위해 '의약외품 품목허가·신고·심사 규정 개정안'을 행정예고하고 오는 23일까지 의견을 받는다.4일 식약처에 따르면 개정안의 주요 내용은 ①GMP 의무 대상 의약외품 수입 시 제조증명서 제출 면제 ②의약외품의 품목별 특성을 반영한 시험항목 마련 ③의약외품 허가시 제출자료 범위 및 심사기준 명확화 등이다.GMP 적합판정을 받은 의약외품을 수입하는 경우 제조증명서 제출을 면제할 수 있는 근거 마련, 품목별 특성을 고려한 시험항목으로 업체의 자료 준비",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 식약처가 의약외품 품목허가·심사 기준을 명확화하는 개정안을 행정예고 — 의약외품, 품목허가·심사 기준, 행정예고, 23일까지 의견 수렴.  \n[중요도] 규제 변화가 의약외품 시장의 진입 장벽을 낮추고 경쟁을 촉진할 수 있어 중요하다.  \n[국내관련성] 국내 의약외품 제조사 및 수입사에 직접적인 영향을 미치며, 관련 기업들의 준비가 필요하다.  \n[액션] Watch - 규제 변화에 따른 시장 반응 및 기업 대응을 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "GMP"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78907"
+        },
+        {
+          "id": "2026-09-04-0008",
+          "title": "달라진 제약 경영승계... 사후 승계서 2선 후퇴·선제적 승계로",
+          "source": "히트뉴스",
+          "date": "2026-09-04",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "달라진 제약 경영승계... 사후 승계서 2선 후퇴·선제적 승계로. 제약기업 창업주 일가의 선대에서 후대로의 경영권 및 지분 이전 풍경이 많이 달라졌다. 2000년 이전 선대 경영인의 별세가 경영권 또는 지분 변경의 가장 큰 원인 이었던 반면 그 이후는 '2선 후퇴'가 주요인으로 바뀌었다. 특히 최근 몇년 사이 대주주 경영인 변화가 꽤 이뤄졌다. 그 만큼 젊어졌다. 안정적 승계를 위한 선제조치 등이 변화를 이끈 동기로 작용했다는 풀이다. 1 제약기업 경영권 세대교체 본격화…대주주 경영인 '젊은 피'히트뉴스가 전통 제약기업 가운데 창업 세대로 이어져온 기업들을 대상으로 '주요 상장 제약 최대주주 현황",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 제약기업 경영권 세대교체가 본격화되고 있다 — 창업주 일가의 경영권 및 지분 이전이 2선 후퇴로 변화, 젊은 대주주 등장.  \n[중요도] 이는 제약기업의 지속 가능성과 혁신에 중요한 신호로, 젊은 경영진의 등장으로 시장 경쟁력이 강화될 수 있다.  \n[국내관련성] 국내 상장 제약사들, 특히 전통 제약기업들이 영향을 받을 것으로 보인다.  \n[액션] Watch + 경영권 변화가 기업의 전략 및 시장 반응에 미치는 영향을 추적할 필요가 있다.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78891"
+        },
+        {
+          "id": "2026-09-04-0009",
+          "title": "균주소송 2R 메디톡스는 왜, 대웅에 소송가액 '5천억'으로 올렸나",
+          "source": "히트뉴스",
+          "date": "2026-09-04",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "균주소송 2R 메디톡스는 왜, 대웅에 소송가액 '5천억'으로 올렸나. 2017년 시작된 대웅제약과 메디톡스의 보툴리눔톡신 균주 소송의 소송가약이 101억원에서 배상 판결을 거쳐 항소심에서 메디톡스 요청으로 5000억원으로 뛰었다. 법령이 바뀌면서 증액배상액이 늘었고 나보타의 판매량과 매출액에 손해 산정 시간까지 늘리면서 금액을 기존 대비 50배나 올린 것이다.메디톡스는 지난달 31일 서울고등법원 제5-3민사부에 청구취지 및 청구원인 변경신청서를 냈다. 해당 신청서의 내용은 대웅제약이 9월 2일 이를 공시하며 알려졌다.핵심은 메디톡스가 보툴리눔톡신이 균주로 인해 입은 손해배상액을 소가 기준 101억원에",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 메디톡스가 대웅제약에 대한 소송가액을 101억원에서 5000억원으로 증액 — 메디톡스, 보툴리눔톡신, 손해배상, 소송 단계, 5000억원.  \n[중요도] 법령 변경으로 인해 배상액이 급증하며 향후 소송 결과가 업계에 미치는 영향이 크다 — 성공/실패 관점에서 중요.  \n[국내관련성] 국내 보툴리눔톡신 시장에 큰 영향을 미치는 사건으로, 대웅제약과 메디톡스 모두 관련 기업이다.  \n[액션] Watch — 향후 법적 결과가 시장에 미치는 영향을 지속적으로 관찰해야 한다.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78901"
+        },
+        {
+          "id": "2026-09-04-0010",
+          "title": "\"수십억원 버린다\"… 산업계, 허가 전 의약품 폐기 비용 산출 중",
+          "source": "히트뉴스",
+          "date": "2026-09-04",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "\"수십억원 버린다\"… 산업계, 허가 전 의약품 폐기 비용 산출 중. 산업계가 허가 전 생산 의약품을 폐기하면서 발생하는 손실과 판매 허용 시 기대효과를 산출한다. 허가 전 생산분의 판매를 허용해달라는 업계의 요구를 비용과 경제적 효과로 수치화하는 것인데, 향후 규제 개선 논의에 속도가 붙을 것이란 전망이다.3일 업계에 따르면 한국제약바이오협회는 회원사를 대상으로 '허가 전 생산제품 판매 허용 시 기대효과 조사' 관련 자료 제출을 요청한 것으로 확인됐다.허가 전 생산 의약품 판매 허용은 품목허가가 완료되기 전에 생산했더라도 최종 허가된 공정과 기준에 맞게 생산된 물량에 대해서는 판매를 허용하자는 내용",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 허가 전 생산 의약품의 폐기 비용 산출 — 한국제약바이오협회, 의약품, 허가 전 생산, 구속력 없는 협약 단계, 수십억원 손실 예상  \n[중요도] 규제 개선 논의가 활성화될 것으로 보이며, 이는 산업 전반에 긍정적인 영향을 미칠 수 있음  \n[국내관련성] 국내 제약사들이 직접 영향을 받을 수 있으며, 기술특례상장 후보 기업에도 관련성이 높음  \n[액션] Watch + 향후 규제 변화가 산업에 미치는 영향을 주의 깊게 살펴볼 필요가 있음",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78895"
+        },
+        {
+          "id": "2026-09-04-0011",
+          "title": "자가면역 넘보는 'CAR-T'... 자가면역질환 앞에서 '일단 멈춤'",
+          "source": "히트뉴스",
+          "date": "2026-09-04",
+          "origin": "domestic",
+          "section": "modality",
+          "eventType": "general",
+          "summary": "자가면역 넘보는 'CAR-T'... 자가면역질환 앞에서 '일단 멈춤'. CAR-T 치료제의 활용범위가 혈액암에서 자가면역질환으로 확대되는 가운데 노바티스와 BMS가 안전성 이유로 임상 연구를 중단하면서 자가면역질환 치료제로써 안전성 검증이 시험대에 올랐다.3일 관련업계에 따르면 노바티스·로슈·아스트라제네카·애브비·BMS 등 글로벌 빅파마들은 보유 중인 CAR-T 파이프라인의 자가면역질환 적응증 확대를 위한 연구를 진행하고 있다. 국내에서도 큐로셀을 선두로 앱클론·GC녹십자·바이젠셀이 CAR-T 플랫폼 활용에 나섰다.이처럼 국내외 제약사가 CAR-T 플랫폼 확장에 나서면서 CAR-T 시장규모가 향후 6년",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] CAR-T 치료제의 자가면역질환 임상 연구 중단 — 노바티스, BMS, CAR-T, 자가면역질환, 임상 중단.  \n[중요도] 안전성 문제로 인해 CAR-T 치료제의 자가면역질환 적응증 확대에 대한 신뢰성이 저하될 가능성이 있음.  \n[국내관련성] 큐로셀, 앱클론, GC녹십자, 바이젠셀 등 국내 기업들이 CAR-T 플랫폼 활용에 나서고 있어 영향 받을 수 있음.  \n[액션] 리스크 체크 — 안전성 이슈로 인해 CAR-T 치료제의 자가면역질환 적응증 확대에 대한 리스크 반영 필요.",
+          "keywords": [
+            "CAR-T",
+            "BMS"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78889"
+        },
+        {
+          "id": "2026-09-04-0012",
+          "title": "에이프릴바이오, 신규 이중 타깃 RNAi 전임상서 억제 경향 확인",
+          "source": "히트뉴스",
+          "date": "2026-09-03",
+          "origin": "domestic",
+          "section": "modality",
+          "eventType": "general",
+          "summary": "에이프릴바이오, 신규 이중 타깃 RNAi 전임상서 억제 경향 확인. 에이프릴바이오가 자사의 이중 타깃 RNAi 후보물질 APB-O-001의 초기 전임상 약력학(PD) 연구 결과 단일 투여로 2개 유전자 발현이 동시 억제되는 경향을 확인했다고 발표했다. 회사는 APB-O-001을 복합이상지질혈증 치료제로 개발하고 있다.3일 회사 측에 따르면 GalNAc 접합 siRNA 간 표적 연구에서 APB-O-001은 마우스에 단회 투여 후 간 조직 내 PCSK9과 APOC3 mRNA를 동시에 억제했다. 대조군은 각 PCSK9과 APOC3를 단일 타깃하는 인클리시란과 플로자시란 투여군으로 설계됐다. APB-O-0",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 에이프릴바이오가 이중 타깃 RNAi 후보물질 APB-O-001의 전임상 연구에서 두 개 유전자 발현 억제 경향을 확인했다 — APB-O-001, RNAi, 복합이상지질혈증, 전임상, 금액 미제공.  \n[중요도] 성공적인 전임상 결과는 향후 임상 개발 가능성을 높여 기술성과 시장성을 강화할 수 있다.  \n[국내관련성] 국내 유사 기술을 가진 기업으로는 삼성바이오로직스와 제넥신이 있으며, 이들의 연구개발 방향에 영향을 미칠 수 있다.  \n[액션] Watch - APB-O-001의 임상 진행 여부를 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "RNAi",
+            "APB-O-001",
+            "GalNAc",
+            "siRNA",
+            "PCSK9",
+            "APOC3"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78894"
+        },
+        {
+          "id": "2026-09-04-0013",
+          "title": "[주식] GC녹십자웰빙 '지방분해 주사' 중국 문 열까...주가 16%↑",
+          "source": "히트뉴스",
+          "date": "2026-09-03",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "[주식] GC녹십자웰빙 '지방분해 주사' 중국 문 열까...주가 16%↑. 오늘의 증시시장 지수KOSPI: 6,579.48 (▲0.26%)KOSDAQ: 790.21 (▼1.71%)상승 종목녹십자웰빙(+16.47%), 제넥신(+15.81%), JW신약(+10.65%), 코미팜(+8.06%), 한미사이언스(+7.74%)하락 종목보로노이(-13.16%), 레메디(-8.88%), 앱클론(-8.52%), 일동제약(-8.43%), 올릭스(-8.38%) 오늘의 이슈GC녹십자웰빙(+16.47%): 파트너사 라지엘 '지방분해 주사' 중국 임상 3상 성공펩트론(-6.92%): GC녹십자이엠과 제2공장 시공 계약...2028",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] GC녹십자웰빙의 '지방분해 주사'가 중국 임상 3상에 성공하여 주가가 16.47% 상승했다.  \n[중요도] 이는 중국 시장 진출 가능성을 높여 기술성과 시장성을 동시에 강화하는 긍정적 신호이다.  \n[국내관련성] 국내 비상장사인 GC녹십자웰빙은 중국 시장에서의 성공이 다른 국내 바이오 기업에도 긍정적 영향을 미칠 수 있다.  \n[액션] Watch - 중국 시장 진출에 따른 추가적인 성과를 지켜볼 필요가 있다.",
+          "keywords": [
+            "KOSPI",
+            "KOSDAQ"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78890"
+        },
+        {
+          "id": "2026-09-04-0014",
+          "title": "Ultragenyx fails phase 3 Angelman test, plots ‘significant expense reductions’",
+          "source": "Fierce Biotech",
+          "date": "2026-09-03",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] Ultragenyx의 Angelman 증후군 치료제 임상 3상 실패 — Ultragenyx, 모달리티 없음, 적응증: Angelman 증후군, 단계: 3상, 금액 없음  \n[중요도] 임상 실패로 인해 기술성과 시장성이 크게 저하될 가능성이 있음  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 임상 실패로 인한 리스크 반영 필요",
+          "keywords": [
+            "Ultragenyx",
+            "fails",
+            "phase",
+            "Angelman",
+            "test",
+            "plots"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction"
+        },
+        {
+          "id": "2026-09-04-0015",
+          "title": "Fresenius unit dinged in FDA warning letter flagging 'complaint trend' from customers",
+          "source": "Fierce Pharma",
+          "date": "2026-09-03",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA 경고서 발부 — Fresenius 제조 유닛, Utah, 경고서, 고객 불만 추세, 규제 이슈  \n[중요도] 규제 이슈로 인해 제품 신뢰도와 시장 점유율에 부정적 영향을 미칠 수 있음  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — FDA의 경고는 향후 규제 강화 가능성을 시사함",
+          "keywords": [
+            "Fresenius",
+            "unit",
+            "dinged",
+            "FDA",
+            "warning",
+            "letter"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/fresenius-unit-dinged-fda-warning-letter-flagging-complaint-trend-customers"
+        },
+        {
+          "id": "2026-09-04-0016",
+          "title": "Novartis puts MS advocacy on the podium through social media partnership with British Olympian",
+          "source": "Fierce Pharma",
+          "date": "2026-09-03",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Novartis는 British Olympian과의 소셜 미디어 파트너십을 통해 MS 옹호 활동을 시상대에 올렸습니다. 소셜 미디어 협력은 환자들이 질병의 변화를 추적하도록 장려하는 노바티스의 \"당신이 MS를 가장 잘 안다\"는 메시지와 연결됩니다.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 노바티스가 영국 올림픽 선수와 소셜 미디어 파트너십을 통해 다발성 경화증(MS) 환자 지원 메시지를 강화했다 — 노바티스, 소셜 미디어, 다발성 경화증, 협업 단계, 금액 미제공  \n[중요도] 환자 인식 제고 및 브랜드 이미지 향상에 기여할 수 있어 마케팅 전략에 중요한 요소  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 영향받는 곳 또는 활용 가능한 comp 없음  \n[액션] Watch / 글로벌 마케팅 전략의 변화가 국내 시장에 미치는 영향을 주의 깊게 살펴볼 필요가 있음",
+          "keywords": [
+            "Novartis",
+            "puts",
+            "advocacy",
+            "the",
+            "podium",
+            "through"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/marketing/novartis-puts-ms-advocacy-podium-through-social-media-partnership-british-olympian"
+        },
+        {
+          "id": "2026-09-04-0017",
+          "title": "FDA files reveal lingering concerns, contrasting views behind Replimune melanoma nod",
+          "source": "Fierce Pharma",
+          "date": "2026-09-03",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA가 Replimune의 흑색종 치료제 Tudriqev에 대해 가속 승인 결정을 내렸다 — Replimune, 항암제, 흑색종, 승인, 금액 미제공.  \n[중요도] FDA의 긍정적인 결정은 시장에서의 신뢰도와 제품의 상업적 성공 가능성을 높인다.  \n[국내관련성] 국내 관련 기업으로는 흑색종 치료제를 개발 중인 바이오텍들이 있을 수 있다.  \n[액션] Watch + Replimune의 승인 결정이 국내 기업에 미치는 영향을 추적할 필요가 있다.",
+          "keywords": [
+            "FDA",
+            "files",
+            "reveal",
+            "lingering",
+            "concerns",
+            "contrasting"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/fda-docs-reveal-lingering-concerns-intervention-behind-replimunes-long-sought-melanoma-nod"
+        },
+        {
+          "id": "2026-09-04-0018",
+          "title": "ESC: Amgen CMO flags Repatha 'inflection' amid new data on mortality benefit",
+          "source": "Fierce Pharma",
+          "date": "2026-09-02",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Amgen의 PCSK9 억제제 Repatha가 심혈관 위험 감소에 대한 새로운 데이터 발표 — Amgen, PCSK9 억제제, 심혈관 질환, 임상 데이터, 금액 미제공  \n[중요도] 심혈관 질환 치료에 대한 효과적인 데이터는 시장에서의 경쟁력을 높일 수 있는 중요한 요소 — 성공  \n[국내관련성] 국내 비상장·상장사 중 심혈관 치료제 개발에 나선 회사들에 긍정적 영향을 미칠 수 있음  \n[액션] Watch + Repatha의 임상 데이터가 향후 시장에 미치는 영향을 주의 깊게 살펴볼 필요가 있음",
+          "keywords": [
+            "ESC",
+            "Amgen",
+            "CMO",
+            "flags",
+            "Repatha",
+            "inflection"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.fiercepharma.com/pharma/esc-amgen-cmo-flags-repatha-inflection-mortality-data-headline-cardiology-conference-outing"
+        },
+        {
+          "id": "2026-09-04-0019",
+          "title": "FDA approves Protagonist and Takeda’s drug for rare blood cancer - STAT",
+          "source": "Google News",
+          "date": "2026-08-30",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA가 Protagonist와 Takeda의 희귀 혈액암 치료제를 승인했다 — Protagonist, 경구제, 희귀 혈액암, 승인, 금액 미제공  \n[중요도] FDA 승인은 기술의 안전성과 효능을 검증한 것으로, 시장 진입 가능성을 높인다  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 영향받는 곳 또는 활용 가능한 comp 1줄. 없으면 \"국내 직접 관련성 낮음\"  \n[액션] Watch / Wiki반영 / 딥다이브 / 제외 중 하나 + 이유 한 줄",
+          "keywords": [
+            "biotech \"FDA approval\"",
+            "FDA",
+            "approves",
+            "Protagonist",
+            "and",
+            "Takeda"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHRRVlBCaXcwOFZaQk52OVdtOGE5OXo4ZVA2RGJyeWVmcXdCbHFQaENRYm1JWFVlVDNyZ1p5LVZNX3ZUZjNDOW5iekcwSlBMX1hJdU41MkxoVzVGYXFsM0txbHBPT2RBSFdxeFZMb05NblE0VVdYY2NDTTh2TFZ3WDdtcmF3V0hHMHVJSFlzU0ZEbi1EX2pSTWc1VDRJeVlLb1Z2a2tmbURnM1Jw?oc=5"
+        },
+        {
+          "id": "2026-09-04-0020",
+          "title": "Roche nabs expanded FDA approval for diagnostic tied to Jazz’s cancer drug - Fierce Biotech",
+          "source": "Google News",
+          "date": "2026-08-27",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] Roche가 Jazz의 암 치료제와 관련된 진단기기에 대해 FDA의 확대 승인을 받았다 — Roche, 진단기기, 암 치료제, FDA 승인, 금액 미제공  \n[중요도] FDA의 승인은 해당 진단기기의 시장 진입과 판매에 중요한 신호로 작용한다 — 성공  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] Watch + 해당 진단기기의 시장 반응 및 Jazz의 암 치료제 성과를 추적할 필요가 있다.",
+          "keywords": [
+            "biotech \"FDA approval\"",
+            "Roche",
+            "nabs",
+            "expanded",
+            "FDA",
+            "approval"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3pCV3htUk9FeUROWDBFMnRiN1M3M2lieHRrTEZ4akUzaVRvamRWRGhIWFk1REc2WFBwbTI5QnViQS1ETFF5RWdnbGxwSjhDWnRxYnRRTExVNGRia19hZmZra0VzeDk1THpJaHJ1b0c1eTJDaGFCSl9NMHJqeWcteGRvUlRENUxJbFZFNjFTa3hJalR2Q0JrN0Q5MkVzUW1OZzBFbTZNdU9TZw?oc=5"
+        },
+        {
+          "id": "2026-09-04-0021",
+          "title": "Industry asks FDA to expand prior knowledge guidance - RAPS",
+          "source": "Google News",
+          "date": "2026-09-03",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "업계, FDA에 사전 지식 지침 확대 요청",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA에 산업계가 기존 지식 가이드라인 확대 요청 — 글로벌 제약 산업, 규제 관련, 구속력 없는 협약 단계.  \n[중요도] 규제 환경 변화가 임상 개발 및 승인 과정에 미치는 영향이 크기 때문에 중요하다.  \n[국내관련성] 국내 제약사 및 바이오 기업들이 FDA의 규제 변화에 영향을 받을 수 있다.  \n[액션] Watch + 규제 변화에 따른 국내 기업의 대응 전략을 모니터링할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "Industry",
+            "asks",
+            "FDA",
+            "expand",
+            "prior"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMDJRWEtyWEtwekNmVkNBYWRDU1NpYk95aWtLTE4yamQtRXFPZnNIaTRmSElOSXU1bW5YSnlJcFlMVHVFVGZGSXVkT1JYWmZNTlVtVXF6VTRuQV9oNjdOVmpRc1NoajlJdHhzYVRPckFXa2xXR3d2ai1QV001WThzdEw1cHdJbkNLZW5yV1FHbjc?oc=5"
+        },
+        {
+          "id": "2026-09-04-0022",
+          "title": "In Vivo CAR-T for CNS Autoimmune Disease Looks Promising. The Trial Design Problem Is Hiding in Plain Sight. - The Clinical Trial Vanguard",
+          "source": "Google News",
+          "date": "2026-09-03",
+          "origin": "global",
+          "section": "modality",
+          "eventType": "clinical",
+          "summary": "CNS 자가면역 질환을 위한 생체 내 CAR-T가 유망해 보입니다. 시험 설계 문제는 눈에 잘 띄지 않게 숨어 있습니다. 임상시험 선봉대",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] CNS 자가면역 질환을 위한 In Vivo CAR-T 치료가 유망하다는 임상 시험 결과 발표 — CAR-T, In Vivo, CNS 자가면역 질환, 임상 단계, 구체적 금액 미제공  \n[중요도] CAR-T 기술의 발전이 CNS 질환 치료에 새로운 가능성을 열어주며 시장성이 높아질 수 있음  \n[국내관련성] 국내 CAR-T 개발 기업인 셀트리온과 삼성바이오로직스가 관련 기술을 보유하고 있어 영향 가능성 있음  \n[액션] Watch + CAR-T 기술의 발전 동향을 지속적으로 모니터링할 필요가 있음",
+          "keywords": [
+            "gene therapy",
+            "Vivo",
+            "CAR-T",
+            "for",
+            "CNS",
+            "Autoimmune"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWXBST1FkT3JFQzJtdHBETjI2TW1ZTExyWnR0azdSTFZRcDB6VEdMaEplTTBtTlFDREJhdTVTV1ZpeVZicHo3LW9zMlJVZlQzeVBxajlQc2xyZ21NeHV3TjgtWXFwLW8xN1o4elRmbk5uOEFjTExtXzJ5ZXppWmhSQndJWnZ0Z2RwaTNwOWp4blJIZEdUaXNBbEdLT3VlTDF2QmkwYTdfWmNUX2ZoRVllWm5vb1dBNGJEanpiU2tUZnRGV2gxdWN1enBmOWNteHM2T2pScndGdmM4T0RsTG90WUVQci1LRlRu?oc=5"
+        },
+        {
+          "id": "2026-09-04-0023",
+          "title": "FDA Allows First Gene Therapy Clinical Trial for Ultra-Rare Pediatric Neurodegenerative Disease - PR Newswire",
+          "source": "Google News",
+          "date": "2026-09-02",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA가 초희귀 소아 신경퇴행성 질환을 위한 최초의 유전자 치료 임상 시험을 승인했다.  \n[중요도] 이는 유전자 치료의 가능성을 보여주는 중요한 규제 승인 사례로, 향후 시장 확장에 기여할 수 있다.  \n[국내관련성] 국내에서는 유전자 치료 분야에서 연구 중인 여러 바이오 기업들이 영향을 받을 수 있다.  \n[액션] Watch - 유전자 치료의 발전과 임상 결과에 따라 국내 기업들의 기술 개발 방향에 영향을 미칠 수 있다.",
+          "keywords": [
+            "gene therapy",
+            "FDA",
+            "Allows",
+            "First",
+            "Gene",
+            "Therapy"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY2Z5VDhZMzRjZUhyMHpJYzBRLU1HM2VlSURTdFBWbVI1OXgxZ0hIT3VzbW1RR0N4cHhXMU1GeVhhcVg5YnlabENCOUNvdm1ES3NkaVNzb2F5N1FNbndfWXZDYllVOWVGV254NEdSSG0yenVhQnFreklxZF9KM0lJSEpPWW1hVFlhSGpfZnNMUFJRZ3Y1WGtGT1RRS2dsUVVzNWpPRHZtYUprUURjWHdlbkp0U1lSYWdrSVJNMEMyLVlqbnRhQTNqYmZLWWtPUzZ2dmxTTXM1d1Y4MXNsUVQwRTNLeEUxUQ?oc=5"
+        },
+        {
+          "id": "2026-09-04-0024",
+          "title": "GC녹십자웰빙, 파트너사 라지엘 '지방분해 주사' 중국 3상 성공",
+          "source": "히트뉴스",
+          "date": "2026-09-03",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "GC녹십자웰빙, 파트너사 라지엘 '지방분해 주사' 중국 3상 성공. GC녹십자웰빙은 파트너사 라지엘테라퓨틱스(Raziel Therapeutics, 이하 라지엘)가 지방분해 주사제 'RZL-012'의 중국 임상 3상 시험에서 주요 유효성 및 안전성 평가지표를 충족하는 톱라인 결과를 확보했다고 3일 밝혔다.RZL-012는 표적 지방세포를 비가역적으로 사멸시키는 기전의 국소 지방분해 신약 후보물질이다. 기존 지방분해 시술 대비 적은 투여 횟수(1~2회)만으로 국소 부위의 지방 감소를 유도할 수 있도록 개발되고 있다.GC녹십자웰빙은 RZL-012의 국내 독점 라이선스를 확보하고 있으며, 라지엘에 대한 전략",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] GC녹십자웰빙의 파트너사 라지엘이 지방분해 주사제 RZL-012의 중국 임상 3상에서 성공적인 톱라인 결과를 확보했다.  \n[중요도] 이는 지방분해 치료제 시장에서의 경쟁력을 강화할 수 있는 중요한 성공 사례로, 향후 상업화 가능성을 높인다.  \n[국내관련성] GC녹십자웰빙은 RZL-012의 국내 독점 라이선스를 보유하고 있어, 국내 시장에서의 영향력이 클 것으로 예상된다.  \n[액션] Watch - RZL-012의 상업화 진행 상황을 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "Raziel",
+            "Therapeutics",
+            "RZL-012"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78892"
+        },
+        {
+          "id": "2026-09-04-0025",
+          "title": "페닐케톤뇨증 치료 희귀의약품 '세피언스산' 국내 허가",
+          "source": "히트뉴스",
+          "date": "2026-09-03",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "페닐케톤뇨증 치료 희귀의약품 '세피언스산' 국내 허가. 식품의약품안전처(처장 오유경)는 소아 및 성인 페닐케톤뇨증 환자의 고페닐알라닌혈증 치료에 사용하는 수입 희귀의약품 '세피언스산(세피압테린)'을 9월 3일 허가했다고 밝혔다.세피언스산은 미국 PTC 테라퓨틱스가 개발한 제품으로, 국내에서는 베르토코리아가 수입·허가를 받았다.페닐케톤뇨증은 아미노산의 일종인 페닐알라닌을 분해하는 효소인 페닐알라닌수산화효소의 유전자 돌연변이로 체내에 페닐알라닌이 축적되는 유전성 희귀질환이다. 인지 능력 저하, 피부 색소 결핍, 발달장애 등을 초래할 수 있다.식약처에 따르면 세피언스산은 체내에서 테트라하이드",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 페닐케톤뇨증 치료제 '세피언스산'이 국내 허가를 받았다 — 회사명: PTC 테라퓨틱스, 모달리티: 희귀의약품, 적응증: 페닐케톤뇨증, 단계: 허가, 금액: 해당 없음.  \n[중요도] 희귀의약품 허가는 시장 진입 가능성을 높이며, 치료 옵션을 확대하는 중요한 신호이다.  \n[국내관련성] 베르토코리아가 세피언스산을 수입·허가 받았으며, 국내 페닐케톤뇨증 환자들에게 직접적인 영향을 미친다.  \n[액션] Watch - 국내 시장에서의 수요와 치료 효과를 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "PTC"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78883"
+        }
+      ]
+    },
+    {
       "reportDate": "2026-09-03",
       "title": "2026-09-03 바이오 투자 인텔리전스",
       "executiveHighlights": [
@@ -53185,866 +53795,6 @@
           "importanceScore": 7,
           "koreaRelevanceScore": 5,
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGkwU1ZZUjJPaW5Lai01cllOZ1lScmR2aV9sem9WaGNOQjNQTDdlYkZwVy1SeWh1UzRNbjZDRG5YS0JKQW10VHhFNlg5clE4R2FyMG8yTGMyeWkyckkzcWVSLXhCX1JaN2h3R2xFekNKeloyR3Y1TXdQek84QlFUcTQxOWctWVBmQ3daeGxPamc3eTFIaW81RElfZXhBOUdJeUE2aWNLeDJhR3RkN3FZV1VWcTFUMU5XTkRJaGRRNkhXdE9mcjFmSlF0Qnd6RkVuMmFzN0QwdnYxQjVCTGtVa2xZQ3puUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "reportDate": "2026-06-06",
-      "title": "2026-06-06 바이오 뉴스 브리핑",
-      "summaryLines": [
-        "Natera: A Growing Biotech, After Recent FDA Approval And Q1 Revenue Results (NASDAQ:NTRA) Seeking Alpha",
-        "Replimune takes third swing at cancer drug approval following ‘productive’ FDA talks BioPharma Dive",
-        "Samsung expands Korea biotech push with third 200 billion won fund - CHOSUNBIZ Chosunbiz",
-        "Ascidian, Lilly ink RNA exon editing pact worth up to $1.9B for genetic kidney diseases. Ascidian Therapeutics and Eli Lilly have signed…",
-        "Foundation Medicine tallied another nod from the FDA for one of its genomic profiling tests that searches for specific biomarkers in…"
-      ],
-      "sections": [
-        "domestic",
-        "global",
-        "regulatory",
-        "deal",
-        "modality"
-      ],
-      "items": [
-        {
-          "id": "2026-06-06-0001",
-          "title": "Natera: A Growing Biotech, After Recent FDA Approval And Q1 Revenue Results (NASDAQ:NTRA) - Seeking Alpha",
-          "source": "Google News",
-          "date": "2026-05-27",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Natera: A Growing Biotech, After Recent FDA Approval And Q1 Revenue Results (NASDAQ:NTRA) Seeking Alpha",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech FDA approval",
-            "Natera",
-            "Growing",
-            "Biotech",
-            "After",
-            "Recent"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkRZamRhMXpaZ0dZZ0VRSVVzMkJ5emhQRndKSldOV1A4UnZlNk4xQUtmSnZVZzdZVDkxdVAxSEdDdURNaS04UEh1MjRmblZmNVlCY1VKNWhsdk5odmVMYXQyZTN4eFpKVTIyYmNCdUtSaFlqaUdyUGNFV0cyNzBIVjRPdk5aQWNQZy1FOThCUVQ5MktPOVI5OW1nbXRyanl4cG1hV0JTcUdvZVAwYUpPX05Eelo3d1Iyenc?oc=5"
-        },
-        {
-          "id": "2026-06-06-0002",
-          "title": "Replimune takes third swing at cancer drug approval following ‘productive’ FDA talks - BioPharma Dive",
-          "source": "Google News",
-          "date": "2026-05-29",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Replimune takes third swing at cancer drug approval following ‘productive’ FDA talks BioPharma Dive",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech FDA approval",
-            "Replimune",
-            "takes",
-            "third",
-            "swing",
-            "cancer"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakpUdmxlUUVyLUtDNjVxSWxHQjJ4ZGRuaVBnN1o0S2djX2N2ZWZGODM2eFNVaVgyaWwtQ0xDb0dOcU5aMzc3U2NFajdJNmhvVkFaWmQ1UlhoY253bjZQa18yZnN0VTVuNXpTX19EaDVoVDg2Y0t2emYzdDN3V0RkTEptUF9GTW1UaFd3RHJFaUpKbVBhTEd6bWt3SFdGYk1jVXJCTnJHbFpOZw?oc=5"
-        },
-        {
-          "id": "2026-06-06-0003",
-          "title": "Samsung expands Korea biotech push with third 200 billion won fund - CHOSUNBIZ - Chosunbiz",
-          "source": "Google News",
-          "date": "2026-06-01",
-          "section": "domestic",
-          "eventType": "funding",
-          "summary": "Samsung expands Korea biotech push with third 200 billion won fund - CHOSUNBIZ Chosunbiz",
-          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "keywords": [
-            "Korea biopharma",
-            "Samsung",
-            "expands",
-            "Korea",
-            "biotech",
-            "push"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 8,
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmQzdjRkRnJkUlZhdTljV0hvS1hZR015R0dyalpyRU5WeGp1Ym5ldmd5Vjk0TWFfRFRua25xc3RCLS0xSWlnTlg3OTFCdUt6dFZJTnZaRm8tQ0ptdjlGZDM4TXN0MHJDUVhPRFVXNlM2TWNLdVFrODJiZmFYV0RhN9IBlAFBVV95cUxNd0hBZTBHNzJ5T1ZlREtjQUNIT1JCSGtYTHIyNXBRNmZDTXhLWTJSQUFlcThUaS13SXNfcFM3TXRwOS01RENRN3FiOEc4LVplb3MyMy0yWVluanJwcC1VcTFSdF9oaEZuOHFWenFqR0R1clJXS3VjdC1iWi1CV0MzVGFBOUxoVkpMVTNSRElDb0Q4czlR?oc=5"
-        },
-        {
-          "id": "2026-06-06-0004",
-          "title": "Ascidian, Lilly ink RNA exon editing pact worth up to $1.9B for genetic kidney diseases",
-          "source": "Fierce Biotech",
-          "date": "2026-06-02",
-          "section": "global",
-          "eventType": "funding",
-          "summary": "Ascidian, Lilly ink RNA exon editing pact worth up to $1.9B for genetic kidney diseases. Ascidian Therapeutics and Eli Lilly have signed a research collaboration potentially worth up to $1.9 billion, giving the Big…",
-          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
-          "keywords": [
-            "Ascidian",
-            "Lilly",
-            "ink",
-            "RNA",
-            "exon",
-            "editing"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercebiotech.com/biotech/ascidian-lilly-lock-19b-renal-disease-research-collaboration"
-        },
-        {
-          "id": "2026-06-06-0005",
-          "title": "Foundation Medicine tallies FDA nod to pair its blood test with Pfizer’s prostate cancer combo",
-          "source": "Fierce Biotech",
-          "date": "2026-06-02",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Foundation Medicine tallied another nod from the FDA for one of its genomic profiling tests that searches for specific biomarkers in tumor tissue samples.",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "Foundation",
-            "Medicine",
-            "tallies",
-            "FDA",
-            "nod",
-            "pair"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercebiotech.com/medtech/foundation-medicine-tallies-fda-nod-pair-its-blood-test-pfizers-prostrate-cancer-combo"
-        },
-        {
-          "id": "2026-06-06-0006",
-          "title": "Gilead's Livdelzi scores in rare liver disease trial, portending use in broader patient population",
-          "source": "Fierce Pharma",
-          "date": "2026-06-02",
-          "section": "global",
-          "eventType": "clinical",
-          "summary": "Gilead's Livdelzi scores in rare liver disease trial, portending use in broader patient population. A phase 3 study of Gilead’s Livdelzi has met its primary endpoint, showing that after 52 weeks it can normalize a key…",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "Gilead",
-            "Livdelzi",
-            "scores",
-            "rare",
-            "liver",
-            "disease"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercepharma.com/pharma/gileads-livdelzi-scores-trial-setting-it-use-broader-patient-population"
-        },
-        {
-          "id": "2026-06-06-0007",
-          "title": "Stramsen Biotech Thanks the FDA for Their Review and Positive Feedback on Pre IND Application for SBX-1977 Wound Care Medicine - Yahoo Finance",
-          "source": "Google News",
-          "date": "2026-06-02",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Stramsen Biotech Thanks the FDA for Their Review and Positive Feedback on Pre IND Application for SBX-1977 Wound Care Medicine Yahoo Finance",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech FDA approval",
-            "Stramsen",
-            "Biotech",
-            "Thanks",
-            "the",
-            "FDA"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmlMdTBoTXNpNndFdktWenUtS0pueWNmV3VRWURHMTFxY1BXRG53dHRhYW90dWJGbG5ZQWVyX001NWdWQkRmZnRFRHBIODA4bnZXcnpYUTJ4UUx4Z01BSlA1S1h4MmpfUU9NbHpkbjFnSFh3cVNiMjV2UEQ1TFBxeGROSmpDWTVvUGxiWG5ITkhqVnp3eDNjUFR2UFVMMnZpdUNpdFhn?oc=5"
-        },
-        {
-          "id": "2026-06-06-0008",
-          "title": "Lilly, Boehringer to slash at least $1B each from planned investments in Germany",
-          "source": "Fierce Biotech",
-          "date": "2026-06-03",
-          "section": "deal",
-          "eventType": "funding",
-          "summary": "Lilly, Boehringer to slash at least $1B each from planned investments in Germany. In response to a planned healthcare reform initiative in Germany that would reduce the prices of branded drugs, Eli Lilly and Boehringer…",
-          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
-          "keywords": [
-            "Lilly",
-            "Boehringer",
-            "slash",
-            "least",
-            "each",
-            "from"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercebiotech.com/pharma/lilly-boehringer-plan-slash-investment-germany-report"
-        },
-        {
-          "id": "2026-06-06-0009",
-          "title": "Regeneron pays $37M, adds $2B in biobucks to expand CytomX pact",
-          "source": "Fierce Biotech",
-          "date": "2026-06-03",
-          "section": "deal",
-          "eventType": "funding",
-          "summary": "Regeneron pays $37M, adds $2B in biobucks to expand CytomX pact. Regeneron has expanded its research alliance with CytomX Therapeutics, paying $37 million to work on conditionally active bispecifics against two targets…",
-          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
-          "keywords": [
-            "Regeneron",
-            "pays",
-            "adds",
-            "biobucks",
-            "expand",
-            "CytomX"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercebiotech.com/biotech/regeneron-pays-37m-adds-2b-biobucks-expand-cytomx-pact"
-        },
-        {
-          "id": "2026-06-06-0010",
-          "title": "Lilly, Boehringer to slash at least $1B each from planned investments in Germany",
-          "source": "Fierce Pharma",
-          "date": "2026-06-03",
-          "section": "deal",
-          "eventType": "funding",
-          "summary": "Lilly, Boehringer to slash at least $1B each from planned investments in Germany. In response to a planned healthcare reform initiative in Germany that would reduce the prices of branded drugs, Eli Lilly and Boehringer…",
-          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
-          "keywords": [
-            "Lilly",
-            "Boehringer",
-            "slash",
-            "least",
-            "each",
-            "from"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercepharma.com/pharma/lilly-boehringer-plan-slash-investment-germany-report"
-        },
-        {
-          "id": "2026-06-06-0011",
-          "title": "FDA issues untitled letter after finding ‘eye-catching graphics’ in promotional emails",
-          "source": "Fierce Pharma",
-          "date": "2026-06-03",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FDA issues untitled letter after finding ‘eye-catching graphics’ in promotional emails. The FDA has hit QOL Medical with an untitled letter over emails about Sucraid, accusing the company of creating a misleading…",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "FDA",
-            "issues",
-            "untitled",
-            "letter",
-            "after",
-            "finding"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercepharma.com/marketing/fda-issues-untitled-letter-after-finding-eye-catching-graphics-promotional-emails"
-        },
-        {
-          "id": "2026-06-06-0012",
-          "title": "MAIA Biotechnology Receives FDA Clearance to Open U.S. Enrollment in Ongoing Phase 2 THIO-101 Trial Expansion - GlobeNewswire",
-          "source": "Google News",
-          "date": "2026-06-03",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "MAIA Biotechnology Receives FDA Clearance to Open U.S. Enrollment in Ongoing Phase 2 THIO-101 Trial Expansion GlobeNewswire",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech FDA approval",
-            "MAIA",
-            "Biotechnology",
-            "Receives",
-            "FDA",
-            "Clearance"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3dUZDNQVU9ObjRrY2pNQXdpbVczcnBNbGtSSVJUX0lVbDdVNGU2OTI5WGN2Y2ppNVpkRHNrVEFhZHpLckVqVlVzX2hxenJjV0xyZjcyWklMTjNPMjR1UUg3c3B4ZUVELW0yc0xlRkJ6cTNKcVVfa25OLVVta3J6Z1pOc3lyc0VwYklhZnM2bGxrVkVHai03aXBxaGs0V2pOczRkVEh4WHN0ZkFiUS1ab1BiV0xyZEw1UmVMcmRLUjdFX3RRLXpYeEFUQTlqeHhPaHdTOUJmejBJU194V25jYUNwRlFqVzRoWGJjemRrVGNIa25Pd3pkZ1Fyblh3R1ZDYUZULTMweEhZWHha?oc=5"
-        },
-        {
-          "id": "2026-06-06-0013",
-          "title": "FDA clears U.S. trial of MAIA lung cancer drug for third-line patients - Stock Titan",
-          "source": "Google News",
-          "date": "2026-06-03",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FDA clears U.S. trial of MAIA lung cancer drug for third-line patients Stock Titan",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech FDA approval",
-            "FDA",
-            "clears",
-            "trial",
-            "MAIA",
-            "lung"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNak1fenZuZXFNeGo4TmlEYndxemFHUWdPSkdjTlpQTllHLUZwRDZjclN4S01FZ21xTWtfRklELVp2alVVWkZnMjVCemNHTnlrSGUwdERKNDNCMUd4WENpekZKQXF6ZzFNWlhGNXBVai1Ya0tlRjFicEhkai1mYTYyd3JMYndpZ3RpRzZncXR5Y05NLVJ4MmJnSUdGbVZVLWZDZ0VfUlI3dFRtV2lPNHZaSUZKdTduRG1Pd1podzVFMA?oc=5"
-        },
-        {
-          "id": "2026-06-06-0014",
-          "title": "Concord Biotech shares jump over 8% after US FDA approves latest Mycophenolate Mofetil drug - Upstox",
-          "source": "Google News",
-          "date": "2026-06-03",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Concord Biotech shares jump over 8% after US FDA approves latest Mycophenolate Mofetil drug Upstox",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "biotech FDA approval",
-            "Concord",
-            "Biotech",
-            "shares",
-            "jump",
-            "over"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGkwU1ZZUjJPaW5Lai01cllOZ1lScmR2aV9sem9WaGNOQjNQTDdlYkZwVy1SeWh1UzRNbjZDRG5YS0JKQW10VHhFNlg5clE4R2FyMG8yTGMyeWkyckkzcWVSLXhCX1JaN2h3R2xFekNKeloyR3Y1TXdQek84QlFUcTQxOWctWVBmQ3daeGxPamc3eTFIaW81RElfZXhBOUdJeUE2aWNLeDJhR3RkN3FZV1VWcTFUMU5XTkRJaGRRNkhXdE9mcjFmSlF0Qnd6RkVuMmFzN0QwdnYxQjVCTGtVa2xZQ3puUQ?oc=5"
-        },
-        {
-          "id": "2026-06-06-0015",
-          "title": "FDA Approves Xocova as Pharmaceutical Industry Sees New Mergers and Licensing Deals - geneonline.com",
-          "source": "Google News",
-          "date": "2026-06-03",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FDA Approves Xocova as Pharmaceutical Industry Sees New Mergers and Licensing Deals geneonline.com",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "pharmaceutical merger acquisition",
-            "FDA",
-            "Approves",
-            "Xocova",
-            "Pharmaceutical",
-            "Industry"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUkVGRld1U0hBWnRFY3FhbzZSeEJPTVpNTGZEXzV5UE9aRjdnZjh4OVFSNjF6OWZiNXNDYnI2dXJyNm4zUGlVX2M5eDRiMnpoYk9QWG42ZW5GQk43YVFXQzRzaFdJbzdWR05fZk5iOVk4aUZCa0NUbVZsNDNleVM2eS1RWEx3LWJSc1lqbDN5NnVjR0Y0dlZzRE9FZ2wycmFKWGlVMG9jMkVHdmZDanFVNw?oc=5"
-        },
-        {
-          "id": "2026-06-06-0016",
-          "title": "FDA seeks to cut repeat work for gene therapy developers - The Pharma Letter",
-          "source": "Google News",
-          "date": "2026-06-03",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FDA seeks to cut repeat work for gene therapy developers The Pharma Letter",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "FDA",
-            "seeks",
-            "cut",
-            "repeat",
-            "work"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeDFkVHpySkZvRjhram5SX2tMX19CTHVNUTYzV1pmUGlGeXlvZFNsenQtamV0bEZrblNDME04Z3R2UlZwZWJvREc3OXZvSnFUVTU3REF3cURSU3hkcVN0QUpkbTVMMFhwTWs3TTlwZzg5RGJ0Q1Zua3dwdUhIUDNTUEFfQU85eHJzRHBOZHJod2tHamhmTnJhU1I5OWprU2MxdGtv?oc=5"
-        },
-        {
-          "id": "2026-06-06-0017",
-          "title": "Chutes & Ladders—AstraZeneca adds FDA cell and gene veteran",
-          "source": "Fierce Biotech",
-          "date": "2026-06-04",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Chutes & Ladders—AstraZeneca adds FDA cell and gene veteran. Longtime FDA leader Lola Fashoyin-Aje, M.D., is adapting to a new role at AstraZeneca as vice president and head of cell therapy regulatory science and…",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "Chutes",
-            "Ladders",
-            "AstraZeneca",
-            "adds",
-            "FDA",
-            "cell"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-astrazeneca-adds-fda-cell-and-gene-veteran"
-        },
-        {
-          "id": "2026-06-06-0018",
-          "title": "At first public hearing for FDA’s CNPV program, industry support meets ‘deep concern’ from experts",
-          "source": "Fierce Biotech",
-          "date": "2026-06-04",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "At first public hearing for FDA’s CNPV program, industry support meets ‘deep concern’ from experts. On Thursday, the public had the first chance to air their grievances about the FDA’s controversial Commissioner’s…",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "first",
-            "public",
-            "hearing",
-            "for",
-            "FDA",
-            "CNPV"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercebiotech.com/biotech/first-public-cnpv-hearing-support-industry-and-deep-concern-experts"
-        },
-        {
-          "id": "2026-06-06-0019",
-          "title": "Parabilis preps $413M IPO to fuel desmoid tumor drug into phase 3",
-          "source": "Fierce Biotech",
-          "date": "2026-06-04",
-          "section": "global",
-          "eventType": "funding",
-          "summary": "Parabilis preps $413M IPO to fuel desmoid tumor drug into phase 3. Parabilis Medicines is gearing up for an IPO that could eventually bring in as much as $476 million to fund the phase 3 development of its desmoid tumor…",
-          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
-          "keywords": [
-            "Parabilis",
-            "preps",
-            "IPO",
-            "fuel",
-            "desmoid",
-            "tumor"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercebiotech.com/biotech/parabilis-preps-413m-ipo-fuel-desmoid-tumor-drug-phase-3"
-        },
-        {
-          "id": "2026-06-06-0020",
-          "title": "Innovent, fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC",
-          "source": "Fierce Biotech",
-          "date": "2026-06-04",
-          "section": "deal",
-          "eventType": "clinical",
-          "summary": "Innovent, fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC. Innovent Biologics has reported a phase 3 victory for IBI343, boosting the prospects of an antibody-drug conjugate (ADC) that Takeda bet big…",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "Innovent",
-            "fresh",
-            "from",
-            "deal",
-            "posts",
-            "phase"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercebiotech.com/biotech/innovent-fresh-12b-deal-posts-phase-3-win-cldn182-adc"
-        },
-        {
-          "id": "2026-06-06-0021",
-          "title": "Medline earns FDA warning letter ire for repeated toxic bacteria problems",
-          "source": "Fierce Biotech",
-          "date": "2026-06-04",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Medline earns FDA warning letter ire for repeated toxic bacteria problems. Medical device distribution giant Medline has been slammed for a second time since April by an FDA warning letter that has chided the company…",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "Medline",
-            "earns",
-            "FDA",
-            "warning",
-            "letter",
-            "ire"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercebiotech.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems"
-        },
-        {
-          "id": "2026-06-06-0022",
-          "title": "At first public hearing for FDA’s CNPV program, industry support meets ‘deep concern’ from experts",
-          "source": "Fierce Pharma",
-          "date": "2026-06-04",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "At first public hearing for FDA’s CNPV program, industry support meets ‘deep concern’ from experts. On Thursday, the public had the first chance to air their grievances about the FDA’s controversial Commissioner’s…",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "first",
-            "public",
-            "hearing",
-            "for",
-            "FDA",
-            "CNPV"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercepharma.com/biotech/first-public-cnpv-hearing-support-industry-and-deep-concern-experts"
-        },
-        {
-          "id": "2026-06-06-0023",
-          "title": "ADC Therapeutics' shares plummet after patient deaths in trial of Zynlonta",
-          "source": "Fierce Pharma",
-          "date": "2026-06-04",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "ADC Therapeutics' shares plummet after patient deaths in trial of Zynlonta. Three times as many deaths in the study arm versus the control arm in a trial of ADC Therapeutics' Zynlonta have raised questions about the…",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "ADC",
-            "Therapeutics",
-            "shares",
-            "plummet",
-            "after",
-            "patient"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercepharma.com/pharma/adcs-shares-plummet-after-patient-deaths-trial-zynlonta"
-        },
-        {
-          "id": "2026-06-06-0024",
-          "title": "Medline earns FDA warning letter ire for repeated toxic bacteria problems",
-          "source": "Fierce Pharma",
-          "date": "2026-06-04",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Medline earns FDA warning letter ire for repeated toxic bacteria problems. Medical device distribution giant Medline has been slammed for a second time since April by an FDA warning letter that has chided the company…",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "Medline",
-            "earns",
-            "FDA",
-            "warning",
-            "letter",
-            "ire"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercepharma.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems"
-        },
-        {
-          "id": "2026-06-06-0025",
-          "title": "An ADC specialist sinks on safety concerns for blood cancer drug",
-          "source": "BioPharma Dive",
-          "date": "2026-06-04",
-          "section": "modality",
-          "eventType": "clinical",
-          "summary": "An ADC specialist sinks on safety concerns for blood cancer drug. Shares for ADC Therapeutics fell more than 50% after a Phase 3 trial observed a death rate that at least one analyst believes “may be difficult to accept…",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "ADC",
-            "specialist",
-            "sinks",
-            "safety",
-            "concerns",
-            "for"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.biopharmadive.com/news/adc-therapeutics-sinks-deaths-Phase-3-trial-blood-cancer/822006/"
-        },
-        {
-          "id": "2026-06-06-0026",
-          "title": "Obexelimab Meets Primary Endpoint in Phase 3 IgG4-RD Trial, BLA Submitted - The Clinical Trial Vanguard",
-          "source": "Google News",
-          "date": "2026-06-04",
-          "section": "global",
-          "eventType": "clinical",
-          "summary": "Obexelimab Meets Primary Endpoint in Phase 3 IgG4-RD Trial, BLA Submitted The Clinical Trial Vanguard",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "Obexelimab",
-            "Meets",
-            "Primary",
-            "Endpoint",
-            "Phase"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnZLQm9NS1pqUjRDT1VsZTFWUzNJM3pJY3AtQ2t4XzNFSTZYWkVXeXZzdExXTkVaZWw0TWRqNTdyMVN0dFJZb2JOMkZ3Q3RmYlFUaHhxWXdSNDl3SVB5MUViRHFBUjlKWUZhU0Y1NVJSVzJUUUcxMnNHQjRBMzNobDU2N2JlcHZwMm1DVGhKZ0l6SnFKclRfMExGTkZMMHdsWlZKcXJDLWhkd0lBRVl6SzFNanpERHc?oc=5"
-        },
-        {
-          "id": "2026-06-06-0027",
-          "title": "Biogen’s Salanersen Receives FDA Breakthrough Therapy Designation for Spinal Muscular Atrophy - GlobeNewswire",
-          "source": "Google News",
-          "date": "2026-06-04",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Biogen’s Salanersen Receives FDA Breakthrough Therapy Designation for Spinal Muscular Atrophy GlobeNewswire",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "Biogen",
-            "Salanersen",
-            "Receives",
-            "FDA",
-            "Breakthrough"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPalJiMzRKNmhPWVdCVVFuS0llZkRRZXNEaFVpVDNtVmMzUHpRQ0JBSU5KVjIyeGlPZ2I4cFpvNkxwWUpCRnZ6MFZia3JiNXFEN1Yza0E2NjUzaWNySnE2cDdxd1JpeS1YWDBHWjAwZGtaRTdGYm5oRFJHcmtEZm9weWE1Yjkwb0R6b0FRcHVsRmU1RHFBQWltWXZQZVE3NmdTVm80OEs0eE9NMUpPRWRiMldRUk9ENGd4UFNPbENocTdGUzRER2QxcGlQMWt0aDlvVENJMWY4LXUwbjN0SnhkR1ZmUGdfcmtEU1dpNlp2ckFZdEZTMUpEdA?oc=5"
-        },
-        {
-          "id": "2026-06-06-0028",
-          "title": "Takeda takes $2.5B legal charge after pay-for-delay verdict, swings to loss for '25",
-          "source": "Fierce Pharma",
-          "date": "2026-06-05",
-          "section": "global",
-          "eventType": "funding",
-          "summary": "Takeda takes $2.5B legal charge after pay-for-delay verdict, swings to loss for '25. The company adjusted its full-year 2025 earnings to account for a legal provision of 402.5 billion JPY ($2.5 billion).",
-          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
-          "keywords": [
-            "Takeda",
-            "takes",
-            "legal",
-            "charge",
-            "after",
-            "pay-for-delay"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercepharma.com/pharma/takedas-antitrust-verdict-prompts-full-year-earnings-revision-25m-legal-charge"
-        },
-        {
-          "id": "2026-06-06-0029",
-          "title": "As pro-life pressure ramps up on Trump, FDA is investigating safety of abortion pill: WSJ",
-          "source": "Fierce Pharma",
-          "date": "2026-06-05",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "As pro-life pressure ramps up on Trump, FDA is investigating safety of abortion pill: WSJ. The FDA is going forward with an investigation into the safety of the abortion pill mifepristone, an initiative that could allow…",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "pro-life",
-            "pressure",
-            "ramps",
-            "Trump",
-            "FDA",
-            "investigating"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://www.fiercepharma.com/pharma/pro-life-pressure-ramps-trump-fda-investigating-safety-abortion-pill-wsj"
-        },
-        {
-          "id": "2026-06-06-0030",
-          "title": "Cell therapy weekly: FDA draft guidance to help accelerate cell and gene therapies - RegMedNet",
-          "source": "Google News",
-          "date": "2026-06-05",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Cell therapy weekly: FDA draft guidance to help accelerate cell and gene therapies RegMedNet",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "Cell",
-            "therapy",
-            "weekly",
-            "FDA",
-            "draft"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjdkdTN0WGQ2eGNVaVE5MThaUVlhNnJsWWsxeDNCSmREWTlmWWltX0RCb1p3UnRIWXQyVmp5alozZFRFTXVfdm9BaTE2MlNTNml2SFhiYlRZMXY4MHhKdUtfYjMwaUR1eGktLTYyakFHYjFHZ0Z6NURJVEVYQllFOUdhd2hBWW1FVTN4d0dGUVhRWU8zT3RiQWdGWUNxcHA0OERwQWRYdmdUdVhF?oc=5"
-        },
-        {
-          "id": "2026-06-06-0031",
-          "title": "Opinion: The next FDA commissioner must be a champion for gene therapies - BioSpace",
-          "source": "Google News",
-          "date": "2026-06-05",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Opinion: The next FDA commissioner must be a champion for gene therapies BioSpace",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "Opinion",
-            "The",
-            "next",
-            "FDA",
-            "commissioner"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHlfb3loN1I4OVQ3SDdmSFFwbEtLSmppVTNDR3gxYnhVYVVNVUZFaEVsRkZQQ1U5MTFfV0dOLUlZajhacDZZaUVhTnFjcXh4SzYwRmwwdHFRUks0Rjh5dllERTNyTml6YURDcHk3TjBOZmFyVHZ0WVk0TExxMUM0MWxUU1FXdzIzWld5NlkzeWVUVXNTZy1JV0hQYUlwMFBma1E?oc=5"
-        },
-        {
-          "id": "2026-06-06-0032",
-          "title": "FDA names Biogen’s salanersen a breakthrough therapy for SMA - SMA News Today",
-          "source": "Google News",
-          "date": "2026-06-05",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FDA names Biogen’s salanersen a breakthrough therapy for SMA SMA News Today",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "FDA",
-            "names",
-            "Biogen",
-            "salanersen",
-            "breakthrough"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 5,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2ZZNWFDa2t1LVc2dVdUS1RvSEFGUFpjeVk1b29Qazlrdm1ZUEM4MDhtVW5UMXhPVkZGMHN3d2VyQ0VmelVaVk5zX3ZZTlJKTWJPUzIyTS1haXdtaExfWnh0bGpUNXh3cGViZjdLWVJSV0hJUlk2Z3VJV29vV05CWGVLZk9JWUJFanJiZlppdk1tc0xNczBZ?oc=5"
-        },
-        {
-          "id": "2026-06-06-0033",
-          "title": "U.S. Clinical Trial Supply and Logistics Market Size to Hit USD 3.13 Billion by 2035 - Precedence Research",
-          "source": "Google News",
-          "date": "2026-06-05",
-          "section": "global",
-          "eventType": "funding",
-          "summary": "U.S. Clinical Trial Supply and Logistics Market Size to Hit USD 3.13 Billion by 2035 Precedence Research",
-          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "Clinical",
-            "Trial",
-            "Supply",
-            "and",
-            "Logistics"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0ZGamRsZlRwSC1tY0Q0T0ZvX056QV9qNldBd2lYY0dwQXh5LWhPdVlraDlFemVwU09xY3NyakZMd3d2TjBpTDRFOEFESzFxcTN4WEl5eVF3UUQ3YjBMZHJOSUtwMF9MTUQ1YlJ5THJLQWRTNkoxTkpIcFM4ZTJYbnR0SXdCNDg?oc=5"
-        },
-        {
-          "id": "2026-06-06-0034",
-          "title": "Duchenne Muscular Dystrophy Therapeutics Market Size to Hit USD 26.88 Billion by 2035 - Precedence Research",
-          "source": "Google News",
-          "date": "2026-06-05",
-          "section": "global",
-          "eventType": "funding",
-          "summary": "Duchenne Muscular Dystrophy Therapeutics Market Size to Hit USD 26.88 Billion by 2035 Precedence Research",
-          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "Duchenne",
-            "Muscular",
-            "Dystrophy",
-            "Therapeutics",
-            "Market"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkJzbUdubHFIZDZJZmdRYkg0Q2JnZVhfam9KYnhQMmd0MXNZOU1vUmtVdGhSVlZPdXllTzE1dEpzWkE0c2lody1XZmU4TldWMjRCQ0hBckJwdC11SUR4ZC13V3Y0dmxLeDNBRkRmakZNNGl3Q3dZckE4MUpTclZYbGlOcDJ3RnoyTWc?oc=5"
-        },
-        {
-          "id": "2026-06-06-0035",
-          "title": "Huntingtons Disease Market Size to Hit USD 6.48 Billion by 2035 - Precedence Research",
-          "source": "Google News",
-          "date": "2026-06-05",
-          "section": "global",
-          "eventType": "funding",
-          "summary": "Huntingtons Disease Market Size to Hit USD 6.48 Billion by 2035 Precedence Research",
-          "significance": "자금 조달·M&A 신호는 섹터 심리와 BD 협상 타이밍에 영향을 줄 수 있어 유사 딜의 조건을 비교해 볼 가치가 있다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "Huntingtons",
-            "Disease",
-            "Market",
-            "Size",
-            "Hit"
-          ],
-          "importanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqemdKSE9vQXExOE9BYjVKVjJQOEUtaUhtbUtoakdFSlF5aEhRbnVsZmNkSXZJNnJzcEI0dUE0aGwyQ29SVkdZNnhoM21tZzhMeU5NTGxrUngwVTVtUExlZHhrWTZjclFnNGRBX093?oc=5"
-        },
-        {
-          "id": "2026-06-06-0036",
-          "title": "ETX101 shows promise in Dravet gene therapy clinical trials - Dravet Syndrome News",
-          "source": "Google News",
-          "date": "2026-05-27",
-          "section": "modality",
-          "eventType": "clinical",
-          "summary": "ETX101 shows promise in Dravet gene therapy clinical trials Dravet Syndrome News",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "ETX101",
-            "shows",
-            "promise",
-            "Dravet",
-            "gene"
-          ],
-          "importanceScore": 7,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRzhMYzk3SU92VHdHUHNHR2NDem4yUXh5TnNOQU5WeTRldzUyY1FWNnZIOWJpV1Z4YnV6M1pNMWtEcVZlQjVwUGpkM0RfOVF2WDJrVHR4RFNkbVlCcV9hMzgxcC1fV1d6aHMtRnZ2R0UyWERXRWM1NG5wT0JoZzdHYnV4UmFKcUs0azRGejVidXk3ZnZROWM0RQ?oc=5"
-        },
-        {
-          "id": "2026-06-06-0037",
-          "title": "Why Cell And Gene Therapy Has Not Reached More Patients — And Why Clinical Operations Is The Bridge - Clinical Leader",
-          "source": "Google News",
-          "date": "2026-05-29",
-          "section": "modality",
-          "eventType": "clinical",
-          "summary": "Why Cell And Gene Therapy Has Not Reached More Patients — And Why Clinical Operations Is The Bridge Clinical Leader",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "gene therapy clinical trial",
-            "Why",
-            "Cell",
-            "And",
-            "Gene",
-            "Therapy"
-          ],
-          "importanceScore": 7,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXkwVjFBZHZhS2U5d1loTDBZNkN0b2lkU1FtYkZ2TlVjbjlUcWNLTko5djg2ZEdieUJQWThzVlJVSXhMR2QzWkU3cC1wMER1cW02a1JDM0V3WWUyNDNIYnpqN1RRNExBSGlWVFBzaHQwazVYLXpNU3BzNU90clY2TmQ2blJyb1pyY0Y1Rlp4ZG13Z1M2U3RhWmNBRmlVNTNMSzJGaXRfbVFsaE82WGNJbFI5TUlfUmduT3pxSUhXS0s5OU8taXVWdHNucjBFaUF5algw?oc=5"
-        },
-        {
-          "id": "2026-06-06-0038",
-          "title": "Rising Stars: WPP’s Meghan O’Hora on the ‘complex puzzle’ of oncology drug marketing",
-          "source": "Fierce Pharma",
-          "date": "2026-06-01",
-          "section": "global",
-          "eventType": "clinical",
-          "summary": "Rising Stars: WPP’s Meghan O’Hora on the ‘complex puzzle’ of oncology drug marketing. For Meghan O’Hora, pharma marketing isn’t about patients. It’s about people and making real connections that help them see beyond…",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "keywords": [
-            "Rising",
-            "Stars",
-            "WPP",
-            "Meghan",
-            "Hora",
-            "the"
-          ],
-          "importanceScore": 7,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercepharma.com/marketing/rising-stars-wpps-meghan-ohora-complex-puzzle-oncology-drug-marketing"
-        },
-        {
-          "id": "2026-06-06-0039",
-          "title": "Pharma M&A Roundup: Servier Acquiring Edgewise Therapeutics' Muscular Dystrophy Business, Hanmi Enters Licensing Agreement with Eli Lilly, Avenzo Enters Merger Agreement with Rallybio - Pharmaceutical Executive",
-          "source": "Google News",
-          "date": "2026-06-01",
-          "section": "domestic",
-          "eventType": "partnership",
-          "summary": "Pharma M&A Roundup: Servier Acquiring Edgewise Therapeutics' Muscular Dystrophy Business, Hanmi Enters Licensing Agreement with Eli Lilly, Avenzo Enters Merger Agreement with Rallybio Pharmaceutical Executive",
-          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "keywords": [
-            "pharmaceutical merger acquisition",
-            "Pharma",
-            "Roundup",
-            "Servier",
-            "Acquiring",
-            "Edgewise"
-          ],
-          "importanceScore": 7,
-          "koreaRelevanceScore": 8,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdUNKRVpMMldfSXBFVjNDaHZ1QzU1c3ZmSjVYQl9zV1Y4aTZGeExTbWROU0dTNjZuS2ZiWU1DQUs5X3lBcEhiU0Fvc2liMkREdmtOY2VsaFpZb09pV3h2d2NxelBEQUZ4eTM3T2d5MnhfMmtNdGFVVVBXZ2J5b3hiMUJVUmYwUHVOUmJMcTBzalhwdDdtbFRPcGIwbXhMVUVtakpSSG5sWHdHWDEzaEd5YVhFZmc5Q3BpU0w5QkwySHNPcUd4NWZTalFB?oc=5"
-        },
-        {
-          "id": "2026-06-06-0040",
-          "title": "Agios signs $165M deal for blood disorder drug from Korea’s Oscotec that flunked phase 2 study - Fierce Biotech",
-          "source": "Google News",
-          "date": "2026-06-01",
-          "section": "domestic",
-          "eventType": "clinical",
-          "summary": "Agios signs $165M deal for blood disorder drug from Korea’s Oscotec that flunked phase 2 study Fierce Biotech",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "keywords": [
-            "Korea biopharma",
-            "Agios",
-            "signs",
-            "deal",
-            "for",
-            "blood"
-          ],
-          "importanceScore": 7,
-          "koreaRelevanceScore": 8,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWTdtd2l5SHZNZVR0RmlIdFo2QWU1NDlvSUtvUXlsdEw1WWg3Y3hnU2Z0czJ3RTZUdnktUnB6RGk0bVRwamIteDdRSVBpSm84YWlrcWpBc2k3Z2tXYjdRNElDYV9ZNDNJTzdJclJ4S3NfMDlFM0ZSQ29fMVA5d21QUkVZUHY4UFFITUVqRDZGQml1a1ZkaUl6QkdLdXBFVm16TktSUEE0eWRxUmdoNi1kNlFR?oc=5"
         }
       ]
     }
