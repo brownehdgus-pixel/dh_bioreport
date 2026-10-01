@@ -1,6 +1,625 @@
 {
   "reports": [
     {
+      "reportDate": "2026-09-30",
+      "title": "2026-09-30 바이오 투자 인텔리전스",
+      "executiveHighlights": [
+        {
+          "rank": 1,
+          "itemId": "2026-09-30-0001",
+          "headline": "올릭스, FDA·DIA 주최 컨퍼런스서 황반변성 치료제 성과 발표",
+          "investmentTakeaway": "[이벤트] 올릭스, 황반변성 치료제 개발 성과 발표 — 올릭스, RNAi, 황반변성, 구속력 없는 협약 단계, FDA·DIA 컨퍼런스에서 발표  \n[중요도] RNAi 치료제의 개발 성과는 향후 FDA 승인 가능성에 영향을 미쳐 시장성에 중요한 신호가 될 수 있음  \n[국내관련성] 국내 바이오 기업 중 RNAi 기술을 보유한 회사들이 영향을 받을 수 있음  \n[액션] Watch + 올릭스의 RNAi 치료제 개발 동향을 지속적으로 추적할 필요가 있음"
+        },
+        {
+          "rank": 2,
+          "itemId": "2026-09-30-0002",
+          "headline": "CellBion: “‘Pocubotide’ RPT commercialization prep on track, targeting Korean Phase 3 approval within Q4”",
+          "investmentTakeaway": "[이벤트] CellBion의 'Pocubotide'가 한국에서 4분기 내 임상 3상 승인을 목표로 상용화 준비 중 — 회사명: CellBion, 모달리티: RPT, 적응증: 미제공, 단계: 임상 3상, 금액: 미제공  \n[중요도] 한국 내 임상 3상 승인 여부는 시장 진입 가능성을 결정짓는 중요한 요소로 작용할 수 있음  \n[국내관련성] CellBion은 국내 상장사로, 성공적인 임상 결과는 한국 바이오 시장에 긍정적인 영향을 미칠 수 있음  \n[액션] Watch - 임상 3상 결과에 따라 시장 반응이 달라질 수 있어 추적할 필요가 있음"
+        },
+        {
+          "rank": 3,
+          "itemId": "2026-09-30-0003",
+          "headline": "Kodiak’s stock soars as it clinches crucial Phase 3 win for Eylea competitor",
+          "investmentTakeaway": "[이벤트] Kodiak이 Eylea 경쟁 후보의 3상 임상에서 성공을 거두며 주가가 급등했다 — Kodiak, 바이오의약품, 안과 질환, 3상, 주가 급등  \n[중요도] 성공적인 임상 결과는 시장에서의 경쟁력을 높이며 투자자 신뢰를 강화하는 중요한 신호이다 — 성공  \n[국내관련성] 국내 비상장사인 제넥신과 관련성이 있을 수 있으며, 안과 분야에서의 경쟁력을 고려할 때 영향이 있을 수 있다.  \n[액션] Watch + 향후 임상 결과 및 시장 반응을 주의 깊게 살펴볼 필요가 있다."
+        },
+        {
+          "rank": 4,
+          "itemId": "2026-09-30-0004",
+          "headline": "Mirum notches first Phase 3 victory for its acquired hepatitis D treatment",
+          "investmentTakeaway": "[이벤트] Mirum이 간염 D 치료제의 3상 임상시험에서 성공을 거두었다 — Mirum, 치료제, 간염 D, 3상, 금액 미제공  \n[중요도] 성공적인 임상 결과는 기술적 신뢰성을 높이고 시장 진입 가능성을 증가시킨다 — 성공  \n[국내관련성] 국내 비상장사인 올리패스가 유사한 적응증을 연구 중이다.  \n[액션] Watch + 향후 임상 결과 및 상용화 진행 상황을 주의 깊게 살펴볼 필요가 있다."
+        },
+        {
+          "rank": 5,
+          "itemId": "2026-09-30-0005",
+          "headline": "[ClinicalTrials] A Phase 3 Study of Pelabresib (DAK539) and Ruxolitinib in Myelofibrosis (MF) (Phase 3, RECRUITING)",
+          "investmentTakeaway": "[이벤트] Novartis가 3상 임상시험을 시작 — Pelabresib와 Ruxolitinib 병용요법, 적응증은 원발성 골수섬유증, 단계는 3상, 현재 모집 중.  \n[중요도] JAK 억제제 치료를 받지 않은 환자에서의 효과를 평가하는 중요한 연구로, 성공 여부가 시장 경쟁력에 영향을 미칠 수 있음.  \n[국내관련성] 국내 관련 상장사인 한미약품이 유사한 적응증에 대한 연구를 진행 중이므로 영향 가능성 있음.  \n[액션] Watch — 해당 연구 결과가 국내 시장에 미치는 영향을 주의 깊게 살펴볼 필요가 있음."
+        }
+      ],
+      "summaryLines": [
+        "[이벤트] 올릭스, 황반변성 치료제 개발 성과 발표 — 올릭스, RNAi, 황반변성, 구속력 없는 협약 단계, FDA·DIA 컨퍼런스에서 발표  \n[중요도] RNAi 치료제의 개발 성과는 향후 FDA 승인 가능성에 영향을 미쳐 시장성에 중요한 신호가 될 수 있음  \n[국내관련성] 국내 바이오 기업 중 RNAi 기술을 보유한 회사들이 영향을 받을 수 있음  \n[액션] Watch + 올릭스의 RNAi 치료제 개발 동향을 지속적으로 추적할 필요가 있음",
+        "[이벤트] CellBion의 'Pocubotide'가 한국에서 4분기 내 임상 3상 승인을 목표로 상용화 준비 중 — 회사명: CellBion, 모달리티: RPT, 적응증: 미제공, 단계: 임상 3상, 금액: 미제공  \n[중요도] 한국 내 임상 3상 승인 여부는 시장 진입 가능성을 결정짓는 중요한 요소로 작용할 수 있음  \n[국내관련성] CellBion은 국내 상장사로, 성공적인 임상 결과는 한국 바이오 시장에 긍정적인 영향을 미칠 수 있음  \n[액션] Watch - 임상 3상 결과에 따라 시장 반응이 달라질 수 있어 추적할 필요가 있음",
+        "[이벤트] Kodiak이 Eylea 경쟁 후보의 3상 임상에서 성공을 거두며 주가가 급등했다 — Kodiak, 바이오의약품, 안과 질환, 3상, 주가 급등  \n[중요도] 성공적인 임상 결과는 시장에서의 경쟁력을 높이며 투자자 신뢰를 강화하는 중요한 신호이다 — 성공  \n[국내관련성] 국내 비상장사인 제넥신과 관련성이 있을 수 있으며, 안과 분야에서의 경쟁력을 고려할 때 영향이 있을 수 있다.  \n[액션] Watch + 향후 임상 결과 및 시장 반응을 주의 깊게 살펴볼 필요가 있다.",
+        "[이벤트] Mirum이 간염 D 치료제의 3상 임상시험에서 성공을 거두었다 — Mirum, 치료제, 간염 D, 3상, 금액 미제공  \n[중요도] 성공적인 임상 결과는 기술적 신뢰성을 높이고 시장 진입 가능성을 증가시킨다 — 성공  \n[국내관련성] 국내 비상장사인 올리패스가 유사한 적응증을 연구 중이다.  \n[액션] Watch + 향후 임상 결과 및 상용화 진행 상황을 주의 깊게 살펴볼 필요가 있다.",
+        "[이벤트] Novartis가 3상 임상시험을 시작 — Pelabresib와 Ruxolitinib 병용요법, 적응증은 원발성 골수섬유증, 단계는 3상, 현재 모집 중.  \n[중요도] JAK 억제제 치료를 받지 않은 환자에서의 효과를 평가하는 중요한 연구로, 성공 여부가 시장 경쟁력에 영향을 미칠 수 있음.  \n[국내관련성] 국내 관련 상장사인 한미약품이 유사한 적응증에 대한 연구를 진행 중이므로 영향 가능성 있음.  \n[액션] Watch — 해당 연구 결과가 국내 시장에 미치는 영향을 주의 깊게 살펴볼 필요가 있음."
+      ],
+      "sections": [
+        "domestic",
+        "global",
+        "regulatory",
+        "deal",
+        "paper",
+        "general"
+      ],
+      "items": [
+        {
+          "id": "2026-09-30-0001",
+          "title": "올릭스, FDA·DIA 주최 컨퍼런스서 황반변성 치료제 성과 발표",
+          "source": "히트뉴스",
+          "date": "2026-09-29",
+          "origin": "domestic",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "올릭스, FDA·DIA 주최 컨퍼런스서 황반변성 치료제 성과 발표. [히트뉴스=김선경 기자] 올릭스는 미국 식품의약국(FDA)과 미국약물정보학회(DIA)가 공동 개최한 '2026 DIA/FDA 올리고핵산 치료제 컨퍼런스(2026 DIA/FDA Oligonucleotide-Based Therapeutics Conference)'에서 안과질환 RNAi 치료제 개발 성과를 발표했다.회사는 미국 자회사 '올릭스 US'의 푸자 두아 박사(Pooja Dua, PhD.)가 지난 25일(현지 시간) 'MyD88 표적 세포투과성 비대칭 siRNA를 통한 안구 변성 및 신생혈관 억제(Cell-penetrating A",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 올릭스, 황반변성 치료제 개발 성과 발표 — 올릭스, RNAi, 황반변성, 구속력 없는 협약 단계, FDA·DIA 컨퍼런스에서 발표  \n[중요도] RNAi 치료제의 개발 성과는 향후 FDA 승인 가능성에 영향을 미쳐 시장성에 중요한 신호가 될 수 있음  \n[국내관련성] 국내 바이오 기업 중 RNAi 기술을 보유한 회사들이 영향을 받을 수 있음  \n[액션] Watch + 올릭스의 RNAi 치료제 개발 동향을 지속적으로 추적할 필요가 있음",
+          "keywords": [
+            "FDA",
+            "DIA",
+            "DIA/FDA",
+            "Oligonucleotide-Based",
+            "Therapeutics",
+            "Conference"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79477"
+        },
+        {
+          "id": "2026-09-30-0002",
+          "title": "CellBion: “‘Pocubotide’ RPT commercialization prep on track, targeting Korean Phase 3 approval within Q4” - 더바이오",
+          "source": "Google News",
+          "date": "2026-09-29",
+          "origin": "domestic",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "CellBion: “‘Pocubotide’ RPT commercialization prep on track, targeting Korean Phase 3 approval within Q4” 더바이오",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] CellBion의 'Pocubotide'가 한국에서 4분기 내 임상 3상 승인을 목표로 상용화 준비 중 — 회사명: CellBion, 모달리티: RPT, 적응증: 미제공, 단계: 임상 3상, 금액: 미제공  \n[중요도] 한국 내 임상 3상 승인 여부는 시장 진입 가능성을 결정짓는 중요한 요소로 작용할 수 있음  \n[국내관련성] CellBion은 국내 상장사로, 성공적인 임상 결과는 한국 바이오 시장에 긍정적인 영향을 미칠 수 있음  \n[액션] Watch - 임상 3상 결과에 따라 시장 반응이 달라질 수 있어 추적할 필요가 있음",
+          "keywords": [
+            "Radiopharmaceutical Therapy RPT",
+            "CellBion",
+            "Pocubotide",
+            "RPT",
+            "commercialization",
+            "prep"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 8,
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rNWVBcWp6UHZOZ3lqM3g3djcxWWc5dzY5bTRxVUs0Uy15clZmMU9EeTI0OHhnMlM0bHBiczlNektUR200UlR4ZktfRmRaems0WHQ5LVQ5bHJieHpST1B1SUZMc3g2bHJlZF9pYVRuQzLSAXBBVV95cUxNazVlQXFqelB2Tmd5ajN4N3Y3MVlnOXc2OW00cVVLNFMteXJWZjFPRHkyNDh4ZzJTNGxwYnM5TXpLVEdtNFJUeGZLX0ZkWnprNFh0OS1UOWxyYnh6Uk9QdUlGTHN4NmxyZWRfaWFUbkMy?oc=5"
+        },
+        {
+          "id": "2026-09-30-0003",
+          "title": "Kodiak’s stock soars as it clinches crucial Phase 3 win for Eylea competitor - Endpoints News",
+          "source": "Google News",
+          "date": "2026-09-28",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Kodiak’s stock soars as it clinches crucial Phase 3 win for Eylea competitor Endpoints News",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Kodiak이 Eylea 경쟁 후보의 3상 임상에서 성공을 거두며 주가가 급등했다 — Kodiak, 바이오의약품, 안과 질환, 3상, 주가 급등  \n[중요도] 성공적인 임상 결과는 시장에서의 경쟁력을 높이며 투자자 신뢰를 강화하는 중요한 신호이다 — 성공  \n[국내관련성] 국내 비상장사인 제넥신과 관련성이 있을 수 있으며, 안과 분야에서의 경쟁력을 고려할 때 영향이 있을 수 있다.  \n[액션] Watch + 향후 임상 결과 및 시장 반응을 주의 깊게 살펴볼 필요가 있다.",
+          "keywords": [
+            "site:endpoints.news biotech",
+            "Kodiak",
+            "stock",
+            "soars",
+            "clinches",
+            "crucial"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWk4MXZVOHRPS0tJREtGM1RqSzgxem1hZm1LNXYtOFhLd21qeVJFei0wWDJzS1dvX2YzR0xBSDJCVmdobzR2a1UxM0dnTWo4a0FTUlRYczY0WGxPVHAwNC0wa0d3N1I3d0RRbmhEdkV3VGpIZjR6Z0tkY21GT3d6dm5Bem82U1VubTdnUV9CYXh2Q1Z5bmEtWDlxTURaRnpx?oc=5"
+        },
+        {
+          "id": "2026-09-30-0004",
+          "title": "Mirum notches first Phase 3 victory for its acquired hepatitis D treatment - Endpoints News",
+          "source": "Google News",
+          "date": "2026-09-28",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "Mirum notches first Phase 3 victory for its acquired hepatitis D treatment Endpoints News",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Mirum이 간염 D 치료제의 3상 임상시험에서 성공을 거두었다 — Mirum, 치료제, 간염 D, 3상, 금액 미제공  \n[중요도] 성공적인 임상 결과는 기술적 신뢰성을 높이고 시장 진입 가능성을 증가시킨다 — 성공  \n[국내관련성] 국내 비상장사인 올리패스가 유사한 적응증을 연구 중이다.  \n[액션] Watch + 향후 임상 결과 및 상용화 진행 상황을 주의 깊게 살펴볼 필요가 있다.",
+          "keywords": [
+            "site:endpoints.news biotech",
+            "Mirum",
+            "notches",
+            "first",
+            "Phase",
+            "victory"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYW9qaHU2aFppaWFWVEFsTE9SQzhickZpNk1WS1FMQlJiYjFRVG1HLUFXcjlPSS1uelRiQk12QVhCalFhRkZ3SmZ4bnBZX3hObzd1UjRiNHJ5OHhnMllBaXFuVTNSRkQzQzFqaU91aksySWIwelVUSnY5S0lyV01MUzhmVXZOTWUzYkE?oc=5"
+        },
+        {
+          "id": "2026-09-30-0005",
+          "title": "[ClinicalTrials] A Phase 3 Study of Pelabresib (DAK539) and Ruxolitinib in Myelofibrosis (MF) (Phase 3, RECRUITING)",
+          "source": "ClinicalTrials.gov",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "[ClinicalTrials] A Phase 3 Study of Pelabresib (DAK539) and Ruxolitinib in Myelofibrosis (MF) (Phase 3, RECRUITING). NCT ID: NCT07357727 | Sponsor: Novartis Pharmaceuticals | Condition: Primary Myelofibrosis (PMF), Post-polycythemia Vera Myelofibrosis (PPV-MF), Post-essential Thrombocythemia Myelofibrosis (PET-MF) | Phase: Phase 3 | Status: RECRUITING. The purpose of…",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Novartis가 3상 임상시험을 시작 — Pelabresib와 Ruxolitinib 병용요법, 적응증은 원발성 골수섬유증, 단계는 3상, 현재 모집 중.  \n[중요도] JAK 억제제 치료를 받지 않은 환자에서의 효과를 평가하는 중요한 연구로, 성공 여부가 시장 경쟁력에 영향을 미칠 수 있음.  \n[국내관련성] 국내 관련 상장사인 한미약품이 유사한 적응증에 대한 연구를 진행 중이므로 영향 가능성 있음.  \n[액션] Watch — 해당 연구 결과가 국내 시장에 미치는 영향을 주의 깊게 살펴볼 필요가 있음.",
+          "keywords": [
+            "ClinicalTrials.gov",
+            "ClinicalTrials",
+            "Phase",
+            "Study",
+            "Pelabresib",
+            "DAK539"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://clinicaltrials.gov/study/NCT07357727"
+        },
+        {
+          "id": "2026-09-30-0006",
+          "title": "[ClinicalTrials] Talazoparib + Enzalutamide vs. Enzalutamide Monotherapy in mCRPC (Phase 3, ACTIVE_NOT_RECRUITING)",
+          "source": "ClinicalTrials.gov",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "[ClinicalTrials] Talazoparib + Enzalutamide vs. Enzalutamide Monotherapy in mCRPC (Phase 3, ACTIVE_NOT_RECRUITING). NCT ID: NCT03395197 | Sponsor: Pfizer | Condition: mCRPC | Phase: Phase 3 | Status: ACTIVE_NOT_RECRUITING. This study compares rPFS in men with mCRPC treated with talazoparib plus enzalutamide vs. enzalutamide after confirmation of the starting dose of…",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] Talazoparib와 Enzalutamide의 병용요법이 Enzalutamide 단독요법과 비교되는 3상 임상시험이 진행 중 — Pfizer, Talazoparib + Enzalutamide, mCRPC, 3상, ACTIVE_NOT_RECRUITING  \n[중요도] 새로운 병용요법의 효과를 평가하는 중요한 연구로, 성공 시 시장에서의 경쟁력을 높일 수 있음  \n[국내관련성] 국내 비상장사 중 mCRPC 관련 연구를 진행 중인 회사들에 영향을 미칠 수 있음  \n[액션] Watch + Talazoparib와 Enzalutamide의 병용요법이 성공할 경우 국내 시장에 미칠 영향이 크기 때문.",
+          "keywords": [
+            "ClinicalTrials.gov",
+            "ClinicalTrials",
+            "Talazoparib",
+            "Enzalutamide",
+            "Monotherapy",
+            "mCRPC"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://clinicaltrials.gov/study/NCT03395197"
+        },
+        {
+          "id": "2026-09-30-0007",
+          "title": "[ClinicalTrials] Study of Daraxonrasib (RMC-6236) in Patients With RAS Mutated NSCLC (RASolve 301) (Phase 3, RECRUITING)",
+          "source": "ClinicalTrials.gov",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "[ClinicalTrials] Study of Daraxonrasib (RMC-6236) in Patients With RAS Mutated NSCLC (RASolve 301) (Phase 3, RECRUITING). NCT ID: NCT06881784 | Sponsor: Revolution Medicines, Inc. | Condition: NSCLC (Non-small Cell Lung Cancer), Non-Small Cell Lung Cancer, NSCLC | Phase: Phase 3 | Status: RECRUITING. The purpose of this study is to evaluate the safety and efficacy of…",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 다라크손라시브(RMC-6236)의 비소세포폐암(NSCLC) 환자를 대상으로 한 3상 임상시험이 진행 중 — Revolution Medicines, RAS(ON) 억제제, 비소세포폐암, 3상, 현재 모집 중  \n[중요도] RAS 변이가 있는 비소세포폐암 치료에 대한 새로운 접근법으로, 성공 시 시장에서의 경쟁력을 높일 수 있음  \n[국내관련성] 국내 비상장사인 제넥신과 같은 RAS 관련 연구를 하는 회사에 영향 미칠 수 있음  \n[액션] Watch / 임상 결과에 따라 향후 투자 판단에 중요한 지표가 될 가능성이 있음",
+          "keywords": [
+            "ClinicalTrials.gov",
+            "ClinicalTrials",
+            "Study",
+            "Daraxonrasib",
+            "RMC-6236",
+            "Patients"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://clinicaltrials.gov/study/NCT06881784"
+        },
+        {
+          "id": "2026-09-30-0008",
+          "title": "[ClinicalTrials] A Study of Tucatinib or Placebo With Trastuzumab and Pertuzumab for Metastatic HER2+ Breast Cancer (Phase 3, ACTIVE_NOT_RECRUITING)",
+          "source": "ClinicalTrials.gov",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "[ClinicalTrials] A Study of Tucatinib or Placebo With Trastuzumab and Pertuzumab for Metastatic HER2+ Breast Cancer (Phase 3, ACTIVE_NOT_RECRUITING). NCT ID: NCT05132582 | Sponsor: Seagen, a wholly owned subsidiary of Pfizer | Condition: HER2 Positive Breast Cancer | Phase: Phase 3 | Status: ACTIVE_NOT_RECRUITING. This study is being done to see if tucatinib works…",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 임상 3상 연구가 진행 중 — Seagen, 모달리티: tucatinib, 적응증: HER2 양성 유방암, 단계: 3상, 상태: ACTIVE_NOT_RECRUITING  \n[중요도] HER2 양성 유방암 치료에서의 tucatinib의 효과를 평가하는 중요한 연구로, 성공 시 시장에서의 경쟁력을 높일 수 있음  \n[국내관련성] 국내 HER2 양성 유방암 치료제 개발 기업들에 긍정적인 영향을 미칠 수 있음  \n[액션] Watch + HER2 양성 유방암 치료 시장의 동향을 지속적으로 모니터링할 필요가 있음",
+          "keywords": [
+            "ClinicalTrials.gov",
+            "ClinicalTrials",
+            "Study",
+            "Tucatinib",
+            "Placebo",
+            "With"
+          ],
+          "importanceScore": 9,
+          "investorRelevanceScore": 9,
+          "koreaRelevanceScore": 4,
+          "url": "https://clinicaltrials.gov/study/NCT05132582"
+        },
+        {
+          "id": "2026-09-30-0009",
+          "title": "식약처, 전문가용 디지털의료기기소프트웨어 가이드라인 제정",
+          "source": "히트뉴스",
+          "date": "2026-09-30",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "식약처, 전문가용 디지털의료기기소프트웨어 가이드라인 제정. [히트뉴스=황재선 기자] 식품의약품안전처 소속 식품의약품안전평가원이 의료인 등 전문가의 진단 또는 지시·감독에 따라 환자가 사용하는 '전문가용 디지털의료기기소프트웨어'의 허가·심사 기준을 마련했다.식약처는 30일 '전문가용 디지털의료기기소프트웨어 허가·심사 가이드라인(민원인 안내서)'을 제정했다고 밝혔다. 전문가용 디지털읠료기기소프트웨어는 의료인의 지시에 따른 인지행동치료 등을 통해 소아·청소년의 행동 중재를 유도하는 모바일앱, 환자에게 치명적인 영향을 미칠 수 있는 의약품의 투여량 판단 등 의료인의 정밀한 개입이 필요한 소프트웨어",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 식약처가 '전문가용 디지털의료기기소프트웨어 허가·심사 가이드라인'을 제정했다 — 식약처, 디지털 의료기기 소프트웨어, 전문가용, 가이드라인 제정, 구체적 금액 없음.  \n[중요도] 이는 디지털 헬스케어 시장의 규제 환경을 명확히 하여 기술 개발 및 상용화에 중요한 기준이 된다.  \n[국내관련성] 국내 디지털 헬스케어 스타트업 및 관련 기업들이 새로운 규제 기준에 따라 제품 개발 및 허가 전략을 조정할 필요가 있다.  \n[액션] Watch + 디지털 의료기기 시장의 변화와 규제 환경을 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79513"
+        },
+        {
+          "id": "2026-09-30-0010",
+          "title": "[3Q 브리핑] 제약은 약가가, 바이오는 기술수출이 '터졌다'",
+          "source": "히트뉴스",
+          "date": "2026-09-30",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "[3Q 브리핑] 제약은 약가가, 바이오는 기술수출이 '터졌다'. [히트뉴스=김선경 기자] 지난 3분기에도 제약·바이오 업계는 숨가쁘게 흘러갔다. 정부는 제네릭과 기등재 의약품의 약가를 손질하며 제약사의 가격 부담을 높였고, 신약 허가와 임상 진입에는 속도를 붙였다.기업들의 움직임도 빨라졌다. 대형 기술수출이 이어지는 가운데, 핵심 파이프라인의 개발을 지속하기 위한 투자 유치와 새로운 자금조달 방식도 등장했다. 기술수출과 전략적 투자로 개발 자금을 확보하면서도, 핵심 자산의 개발을 어디까지 자체적으로 이어갈 것인지에 대한 고민도 깊어졌다.히트뉴스가 2026년 3분기 제약·바이오 산업의 주요 흐름을",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 제약·바이오 업계가 기술수출과 투자 유치로 활발한 움직임을 보임 — 제약사 및 바이오 기업들, 기술수출, 전략적 투자, 2023년 3분기, 구체적 금액 미제공.  \n[중요도] 기술수출과 투자 유치는 기업의 자금 조달 및 파이프라인 개발에 중요한 영향을 미침 — 성공적인 기술수출이 기업의 시장 경쟁력을 강화할 수 있음.  \n[국내관련성] 국내 제약·바이오 기업들이 기술수출을 통해 자금을 확보하고 있는 상황 — 국내 상장사 및 비상장사 모두 영향을 받을 수 있음.  \n[액션] Watch + 기술수출 및 투자 유치 동향이 향후 시장에 미치는 영향을 지속적으로 관찰할 필요가 있음.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79438"
+        },
+        {
+          "id": "2026-09-30-0011",
+          "title": "'의약품 수급분석 시스템' 4분기 운영… 품절 선제 포착",
+          "source": "히트뉴스",
+          "date": "2026-09-30",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "'의약품 수급분석 시스템' 4분기 운영… 품절 선제 포착. [히트뉴스=최선재 기자] 식품의약품안전처가 건강보험심사평가원의 의약품 유통정보를 활용한 '의약품 수급분석 시스템'을 구축한다. 기존 제약사의 공급중단 보고와 의료현장 모니터링에 의존하던 방식에서 벗어나 의약품 유통 데이터를 분석해 수급 이상 징후를 선제적으로 포착하겠다는 구상이다.식약처 의약품관리지원팀은 29일 전문언론 기자단 질의에 \"이번 시스템 구축은 건강보험심사평가원의 의약품 유통정보를 식약처가 활용할 수 있도록 하는 약사법 개정에 따른 후속 조치 성격\"이라며 \"이르면 올해 4분기부터 의약품 공급 현황 파악과 대응에 의약품 수",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 의약품 수급분석 시스템 구축 — 식품의약품안전처, 의약품 유통정보 활용, 4분기 운영 예정.  \n[중요도] 규제 관점에서 의약품 공급 안정성을 높일 수 있는 중요한 조치로, 시장의 신뢰도를 향상시킬 수 있다.  \n[국내관련성] 국내 제약사 및 의약품 유통업체에 직접적인 영향을 미치며, 공급망 관리에 도움을 줄 수 있다.  \n[액션] Watch + 향후 시스템 운영 결과에 따라 제약사들의 공급망 전략에 영향을 미칠 수 있어 주의 깊게 살펴봐야 한다.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79512"
+        },
+        {
+          "id": "2026-09-30-0012",
+          "title": "[주식] HLB제약, 2거래일 연속 '급등'...항암 적응증 넓힌 앱클론도 13%↑",
+          "source": "히트뉴스",
+          "date": "2026-09-29",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "[주식] HLB제약, 2거래일 연속 '급등'...항암 적응증 넓힌 앱클론도 13%↑. 오늘의 증시시장 지수KOSPI: 6,870.81 (▼0.27%)KOSDAQ: 849.80 (▲0.38%)상승 종목HLB제약(+24.84%), 뷰노(+18.33%), 한스바이오메드(+15.21%), 앱클론(+13.41%), 듀켐바이오(+10.23%)하락 종목스카이랩스(-16.84%), 레메디(-13.74%), 쓰리빌리언(-9.34%), 이뮨온시아(-8.36%), 오름테라퓨틱(-7.63%) 오늘의 이슈앱클론(+13.41%): 앱클론, 'AC101' 결직장암까지 적응증 확대..\"현재 진행 임상 9건\"셀비온(+0.41%): 셀비온, '포큐",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] HLB제약 주가 24.84% 급등 — HLB제약, 항암제 개발 중, 적응증 확대 소식.  \n[중요도] 시장의 긍정적인 반응으로 인해 투자자 신뢰도 상승 — 성공적인 임상 결과에 대한 기대감.  \n[국내관련성] 앱클론, 결직장암 적응증 확대 소식으로 주가 13.41% 상승 — 관련 기업으로 주목.  \n[액션] Watch — HLB제약의 임상 진행 상황과 앱클론의 적응증 확대가 향후 투자 기회로 작용할 가능성이 있음.",
+          "keywords": [
+            "HLB",
+            "KOSPI",
+            "KOSDAQ",
+            "AC101"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79510"
+        },
+        {
+          "id": "2026-09-30-0013",
+          "title": "한미약품, 제넨텍 벨바라티닙 반환에 “예정된 절차”",
+          "source": "히트뉴스",
+          "date": "2026-09-29",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "한미약품, 제넨텍 벨바라티닙 반환에 “예정된 절차”. [히트뉴스=이우진 기자] 제넨텍이 지난 2016년 한미약품으로부터 기술이전 받은 항암 신약 물질 '벨바라페닙'을 반환한 것과 관련 한미약품 측은 이미 종결은 예정됐던 사안으로 국내에서의 흑색종 치료제 개발은 문제없이 진행중이라고 전했다.한미약품은 29일 이같은 공시 내용과 관련 이미 수년 전 제넨텍이 개발 중단을 공식화한 사항의 계약상 종결 절차이자 예견된 내용이라고 설명했다.또 벨바라페닙을 악성 피부암인 흑색종 치료를 위한 경구용 항암제로 국내에서 임상 2상을 진행하고 있으며 순조롭게 진행 중이라는 것이 회사 설명이다.한미약품 측",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 제넨텍이 한미약품으로부터 기술이전 받은 항암 신약 물질 '벨바라페닙'을 반환 — 한미약품, 경구용 항암제, 흑색종, 임상 2상 진행 중, 반환 사유는 계약상 종결 절차.  \n[중요도] 제넨텍의 개발 중단으로 인해 한미약품의 기술적 지속 가능성이 확인되었으며, 국내 개발은 문제없이 진행 중이라는 점에서 긍정적 신호.  \n[국내관련성] 한미약품은 흑색종 치료제 개발을 지속하고 있어 국내 시장에서의 경쟁력을 유지할 가능성이 높음.  \n[액션] Watch + 벨바라페닙의 국내 임상 진행 상황을 지속적으로 모니터링할 필요가 있음.",
+          "keywords": [
+            "biotech"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79509"
+        },
+        {
+          "id": "2026-09-30-0014",
+          "title": "[HIT알공]셀트리온, 자기주식 취득...셀비온, 전립선암 약 3상 승인",
+          "source": "히트뉴스",
+          "date": "2026-09-29",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "[HIT알공]셀트리온, 자기주식 취득...셀비온, 전립선암 약 3상 승인. ① 셀트리온, 1000억원 규모 자기주식 취득 결정 = 주가 안정 및 주주가치 제고를 위해 보통주 56만853주를 장내 매수 방식으로 취득. 취득 예정 기간은 9월 30일부터 12월 29일까지.② 셀비온, 전립선암 치료제 국내 3상 승인 = 식약처로부터 전이성 거세저항성 전립선암 치료제 'Lu-177 DGUL'의 임상 3상 계획 승인. 환자 150명을 대상으로 표준요법 대비 병용요법의 유효성 및 안전성을 평가할 예정. 임상 예상 종료일은 2030년 1월 31일.③ 한미약품, 벨바라페닙 기술이전 계약 해지 = 제넨텍으로부터 표적항암제",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 셀비온, 전립선암 치료제 'Lu-177 DGUL'의 임상 3상 계획 승인 — 셀비온, 모달리티: 방사선 치료제, 적응증: 전이성 거세저항성 전립선암, 단계: 3상, 금액: 해당 없음.  \n[중요도] 성공적인 임상 3상 결과는 시장에서의 경쟁력을 높이고, 투자자 신뢰를 강화할 수 있는 중요한 이정표가 될 수 있음.  \n[국내관련성] 국내 상장사인 셀트리온과 셀비온의 임상 결과는 국내 바이오 생태계에 긍정적인 영향을 미칠 것으로 예상됨.  \n[액션] Watch + 셀비온의 임상 진행 상황을 지속적으로 모니터링할 필요가 있음.",
+          "keywords": [
+            "HIT",
+            "Lu-177",
+            "DGUL"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79485"
+        },
+        {
+          "id": "2026-09-30-0015",
+          "title": "제넨텍, 한미약품에 10년전 기술 받은 항암물질 '벨바라페닙' 반환",
+          "source": "히트뉴스",
+          "date": "2026-09-29",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "제넨텍, 한미약품에 10년전 기술 받은 항암물질 '벨바라페닙' 반환. [히트뉴스=이우진 기자] 제넨텍이 2016년 한미약품으로부터 기술도입한 경구용 표적항암제 '벨바라페닙'(HM95573)의 계약이 10년만에 해지, 한미에게 반환됐다.한미약품은 29일 공시를 통해 제넨텍으로부터 이날 통보를 받았다고 밝혔다.해지는 통보일로부터 90일 후 효력이 발생하며 계약종료일은 12월 27일이다. 한미약품과 제넨텍은 종료일까지 벨바라페닙의 책임과 권한이 원활하게 이양되도록 협력할 방침이다. 한미약품은 제넨텍으로부터 이미 받은 계약금 8000만달러를 반환하지 않는다.한편 한미약품은 2016년 9월 28일 제넨텍과 벨",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 제넨텍이 한미약품으로부터 경구용 표적항암제 '벨바라페닙'의 계약을 해지하고 반환 — 제넨텍, 경구용 표적항암제, 벨바라페닙, 계약 해지, 8000만 달러 계약금 반환 없음.  \n[중요도] 기술 반환은 제넨텍의 연구개발 전략 변화와 한미약품의 기술 상용화 가능성에 영향을 미칠 수 있다 — 실패.  \n[국내관련성] 한미약품은 항암제 개발에 집중하고 있어 향후 기술 상용화에 대한 재조정이 필요할 수 있다.  \n[액션] 리스크 체크 — 제넨텍의 기술 반환은 향후 파트너십 및 연구개발에 부정적인 영향을 미칠 수 있다.",
+          "keywords": [
+            "HM95573"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79508"
+        },
+        {
+          "id": "2026-09-30-0016",
+          "title": "[숏폼] 셀비온 전립선암 치료제...조건부 허가 심사 속 3상 승인",
+          "source": "히트뉴스",
+          "date": "2026-09-29",
+          "origin": "domestic",
+          "section": "general",
+          "eventType": "general",
+          "summary": "[숏폼] 셀비온 전립선암 치료제...조건부 허가 심사 속 3상 승인. [히트뉴스=신가영 PD]셀비온 전립선암 신약이 조건부 품목허가 심사를 진행하는 가운데 국내 임상 3상을 승인받았습니다.셀비온은 29일 식품의약품안전처로부터 전이성 거세저항성 전립선암 치료제 '177Lu-DGUL(포큐보타이드 사테트라세탄)'의 임상 3상 시험계획을 승인받았다고 밝혔습니다.지난 6월 말 임상시험계획을 신청한 지 약 3개월 만인데요, 포큐보타이드는 전립선암 세포에 많이 발현되는 PSMA를 표적하는 방사성의약품으로, 이번 3상에서는 국내 환자 150명을 대상으로 기존 치료와 병용했을 때의 치료 효과와 안전성을 비교합니다.이",
+          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
+          "investmentTakeaway": "[이벤트] 셀비온, 전이성 거세저항성 전립선암 치료제 '177Lu-DGUL'의 임상 3상 시험계획 승인 — 150명 대상, 조건부 품목허가 심사 진행 중.  \n[중요도] 성공적인 임상 3상 진행은 상장 및 기술특례상장 가능성을 높여 투자자들에게 긍정적인 신호가 될 수 있음.  \n[국내관련성] 국내 바이오 기업 중 전립선암 치료제 개발에 나선 회사들, 특히 방사성의약품 분야에서 경쟁할 가능성이 있음.  \n[액션] Watch + 임상 3상 결과에 따라 시장성과 기술성 평가가 달라질 수 있어 주목할 필요가 있음.",
+          "keywords": [
+            "Lu-DGUL",
+            "PSMA"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 8,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79502"
+        },
+        {
+          "id": "2026-09-30-0017",
+          "title": "Beam sues 2 biotechs, alleging theft of base editing trade secrets",
+          "source": "BioPharma Dive",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "general",
+          "eventType": "partnership",
+          "summary": "Beam sues 2 biotechs, alleging theft of base editing trade secrets. Beam claimed a former scientist stole confidential information and quietly spun up a rival rare disease treatment at YolTech Therapeutics. Serapha Bio, which licensed that therapy, denies the charges.",
+          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 비임이 YolTech Therapeutics와 Serapha Bio를 상대로 기초 편집 기술 비밀 도용 혐의로 소송을 제기 — 비임, 기초 편집, 희귀 질환 치료, 구속력 없는 협약 단계, 금액 미제공  \n[중요도] 기술 유출 및 경쟁사의 치료제 개발은 비임의 시장 위치와 기술 보호에 중대한 영향을 미칠 수 있음  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 기술 유출 가능성이 비임의 사업에 부정적인 영향을 미칠 수 있음.",
+          "keywords": [
+            "Beam",
+            "sues",
+            "biotechs",
+            "alleging",
+            "theft",
+            "base"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://www.biopharmadive.com/news/beam-serapha-yoltech-base-editing-lawsuit/831663/"
+        },
+        {
+          "id": "2026-09-30-0018",
+          "title": "uniQure Announces Additional Data from Ongoing Phase I/II - GlobeNewswire",
+          "source": "Google News",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "uniQure Announces Additional Data from Ongoing Phase I/II GlobeNewswire",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 추가 데이터 발표 — uniQure, 유전자 치료제, 헌팅턴병, Phase I/II, 금액 미제공  \n[중요도] 성공적인 임상 데이터는 기술의 신뢰성을 높이고 투자 유치 가능성을 증가시킴  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 관련 기업 없음  \n[액션] Watch / 임상 진행 상황을 지속적으로 모니터링할 필요가 있음",
+          "keywords": [
+            "gene therapy",
+            "uniQure",
+            "Announces",
+            "Additional",
+            "Data",
+            "from"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPSEVBXy1IN0ZFajRvaUd5OHFZQkpObzF0Ukx3N2xaVDRjTmR6Q1I2TmcwdzdTOXVpMXdBWmNySjdHbjdSZkVsMTg3RXR3N3QzdGgydVYtNWh2enRNbWE2WHVmc05Temp1RktTNEoxUkNHZE5vaWVlSFp3X29JRmFoSkFVU2VCSU9RbUY1VkZCMUM3QVczQVhncy1xVHFQMy1YTkxTVWFSa1ZjWFp4TG1jeXlYQmRQNDMtNDRfaUVwN2FNaGVKMXBWNFV1WFhUSlBSSnRaRlB2TUs4WktieUd6TG1iQ1pwblh6QWJZTVNYd09tbkNDd1lJcERkX2R5TW1uTlBpSURNNGxkRXdydHpDaEQ5a3lMbE50T2pHMlJSenYtc1RNWmFkenJrTmY3MHNTSHpuWG1JX3haem1kdXlHTmJ5OHMwSW1XdVRXeDRNNG1qdjNfYjlzLXk3RmhZNklvb3cySXJyWQ?oc=5"
+        },
+        {
+          "id": "2026-09-30-0019",
+          "title": "4D-150 Gene Therapy Enters Phase 3 Trial for Diabetic Macular Edema - The Clinical Trial Vanguard",
+          "source": "Google News",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "4D-150 Gene Therapy Enters Phase 3 Trial for Diabetic Macular Edema The Clinical Trial Vanguard",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] 4D-150 유전자 치료제가 당뇨병성 황반부종 치료를 위한 3상 임상시험에 진입했다 — 4D Molecular Therapeutics, 유전자 치료, 당뇨병성 황반부종, 3상, 금액 미제공  \n[중요도] 성공적인 3상 임상시험은 상용화 가능성을 높여 투자자들에게 긍정적인 신호가 될 수 있다.  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 관련 기업으로는 유전자 치료 분야의 카이노스메드가 있다.  \n[액션] Watch + 3상 결과에 따라 시장 반응 및 투자 기회가 달라질 수 있어 주의 깊게 지켜볼 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "D-150",
+            "Gene",
+            "Therapy",
+            "Enters",
+            "Phase"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnhva3RXckRNMzJGMzR5SGc5RDN4VnNscGs3YVp4aFh0ZHFmRWExdkRaYVNSQmNfMnJLNVhIWkZrbGEyQ3lGZVN4RWhmVG4yVXhOS21SeE1TRDFxNVFhUzcwSWxadEpHcDFTTHNZMWRJOVJCS1JYUndaamR1WjNvRl9mX0lISkpMNnlBUFhuVEFuZmNzM2tISzNUUmZHNVA5T0xtUVdJUFNLQm9xWmxmUQ?oc=5"
+        },
+        {
+          "id": "2026-09-30-0020",
+          "title": "FDA Approves First Gene Therapy for Sanfilippo Syndrome Type A - The Medicine Maker",
+          "source": "Google News",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "FDA Approves First Gene Therapy for Sanfilippo Syndrome Type A The Medicine Maker",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] FDA가 Sanfilippo Syndrome Type A에 대한 최초의 유전자 치료제를 승인했다 — 회사명 미제공, 모달리티: 유전자 치료, 적응증: Sanfilippo Syndrome Type A, 단계: 승인, 금액 미제공  \n[중요도] 이는 유전자 치료 분야의 규제 승인을 보여주며, 시장에서의 신뢰성을 높이는 중요한 사례이다.  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] Watch + 유전자 치료의 시장성과 기술적 진전을 지속적으로 모니터링할 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "FDA",
+            "Approves",
+            "First",
+            "Gene",
+            "Therapy"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUmZaRzZ6WHhGV194T0JqaThZWmpZMjBlY1ZNX0xTWnQ4ZGFxMjhOUklJQkhqZ1NSYmtzUVFUOVJwd3c4RU16cmUyQ2tjMFpxX3hlUzZIcFB0YTRSQ3RJV3N2cUVhSDFSaF9udkVZNU5NN21EMGpQcC03c3JVRkxSXy1GLV82THdxWnlDeUY3SkU4SndDLWZGRGphUmwwanZlSzF5NjBYcU5JellWODI0NjZZRFZ0bmhKamREcDhLNnU?oc=5"
+        },
+        {
+          "id": "2026-09-30-0021",
+          "title": "Optimized Cas9 Protein Variants Market Forecast to 2035: Growth Accelerates on Cell and Gene Therapy Demand - IndexBox",
+          "source": "Google News",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "regulatory",
+          "eventType": "regulatory",
+          "summary": "Optimized Cas9 Protein Variants Market Forecast to 2035: Growth Accelerates on Cell and Gene Therapy Demand IndexBox",
+          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] Cas9 단백질 변종 시장이 2035년까지 성장할 것으로 예상됨 — 글로벌 시장, 모달리티: 유전자 편집, 적응증: 세포 및 유전자 치료, 금액: 구체적 수치 미제공  \n[중요도] 유전자 편집 기술의 수요 증가로 인해 시장 성장 가능성이 높아 기술성과 시장성에 중요한 신호  \n[국내관련성] 국내 관련 기업으로는 삼성바이오로직스와 에이치엘비가 있으며, 유전자 치료 분야에서 활용 가능  \n[액션] Watch + 유전자 편집 기술의 발전과 시장 동향을 지속적으로 모니터링할 필요가 있음",
+          "keywords": [
+            "gene therapy",
+            "Optimized",
+            "Cas9",
+            "Protein",
+            "Variants",
+            "Market"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTi02eHFjaE5Ud1A0bEtTLTNWMFE2X0txc1psekV6dGp3dllTX0hJc1F1V05XX2xERllBUWo1T3ZKRzNjd0NBX21TRVJlQjNrMXBiZ25FbW1vVHNNdXF0eXdVUFcybm5qVXdpTWlvSFNNUGdlTDhyWkZMV2kwUVVsR2tjeWFnWHVfMTQ0eXJlZ0p3bWwteFFNR2VuS04tRk1FeGRINkpGWl9RWVNrVkhNRHVoQ3E0eXVWMFhiV3hoUlMwMGhoZlFpQ0xUV3NPbzcyOEE?oc=5"
+        },
+        {
+          "id": "2026-09-30-0022",
+          "title": "uniQure tanks is it reports new data from Phase I/II studies of ifezuntirgene inilparvovec - The Pharma Letter",
+          "source": "Google News",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "general",
+          "eventType": "clinical",
+          "summary": "uniQure tanks is it reports new data from Phase I/II studies of ifezuntirgene inilparvovec The Pharma Letter",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 임상 데이터 발표 — uniQure, ifezuntirgene inilparvovec, Phase I/II, 구체적 금액 미제공  \n[중요도] 성공적인 임상 결과는 향후 상용화 가능성을 높이며 투자자 신뢰에 영향을 미침  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 영향받는 곳 또는 활용 가능한 comp 없음  \n[액션] Watch + 임상 결과에 따라 향후 투자 및 기술특례상장 후보로서의 가능성 주목 필요",
+          "keywords": [
+            "gene therapy",
+            "uniQure",
+            "tanks",
+            "reports",
+            "new",
+            "data"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRm1xOEtSZnBQdnhqQmFQY0tLWjlaVGNKOTh1RTlPbGFiSkpWQmZGeWIycTUzMzc5VlUtUXloYVBLdjhyMGFPQkJvVExUbVN6S1Ayc0RWOS02eXJwTGVHaDRSaENPZnlLM0FBTmZ6NjJNSEt2clZQMlF0TVBsN2g1enczUzVjU0ZfTjJ4QXlvamZkdzFOS21LaUF5b0JZSDhsU28zM1FkS3N6Z3VGdlRvZ09tZW9ZbVoyUFcwelBmaFdMdHd3YmJMSFFvOUZxbjRf?oc=5"
+        },
+        {
+          "id": "2026-09-30-0023",
+          "title": "4basebio and TriLink partner to supply a Phase I cell-therapy programme - Dealroom.co",
+          "source": "Google News",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "deal",
+          "eventType": "clinical",
+          "summary": "4basebio and TriLink partner to supply a Phase I cell-therapy programme Dealroom.co",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] 4basebio와 TriLink가 Phase I 세포 치료 프로그램 공급을 위한 파트너십을 체결했다 — 4basebio, 세포 치료, Phase I, 금액 미제공.  \n[중요도] 세포 치료 분야의 협력은 기술적 진전을 나타내며, 향후 임상 결과에 따라 시장성이 결정될 수 있다.  \n[국내관련성] 국내 비상장사 중 세포 치료 관련 기업들이 영향을 받을 수 있으며, 특히 카이노스메드와 같은 회사가 경쟁자로 부각될 수 있다.  \n[액션] Watch + 세포 치료 분야의 발전과 임상 결과를 주의 깊게 살펴볼 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "basebio",
+            "and",
+            "TriLink",
+            "partner",
+            "supply"
+          ],
+          "importanceScore": 8,
+          "investorRelevanceScore": 8,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGhIUTFrdXRyVTBpVUJQZUJSMlRIVDRvQW1yUGlwY0pqaElyRlY2MG5DUFZJVjRKOGt5VUZ6b2hjYi1Ic00xMHJDamVpNjZ6UnppZ2JkODZiVFJfR0V3eXlyVWR4WUp1ZWFHbjZaR01pZzNhd3YxNmdiLVZOTjdUVmNMVFlZbnFHZndlNnMxSjRpRkJXV1NpUUJnbThfVzFKcC11eDd1YU0?oc=5"
+        },
+        {
+          "id": "2026-09-30-0024",
+          "title": "Choices, Hope and Science: Treating blood disorders - KCTV",
+          "source": "Google News",
+          "date": "2026-09-28",
+          "origin": "global",
+          "section": "paper",
+          "eventType": "publication",
+          "summary": "Choices, Hope and Science: Treating blood disorders KCTV",
+          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
+          "investmentTakeaway": "[이벤트] 혈액 질환 치료에 대한 연구 결과 발표 — KCTV, 혈액 질환, 연구 결과, 단계 없음, 금액 없음  \n[중요도] 해당 연구는 혈액 질환 치료의 새로운 가능성을 제시하여 시장성에 중요한 영향을 미칠 수 있음  \n[국내관련성] 국내 비상장·상장사 중 혈액 질환 관련 연구를 진행 중인 기업에 긍정적 영향을 미칠 수 있음  \n[액션] Watch + 혈액 질환 치료의 최신 동향을 지속적으로 모니터링할 필요가 있음",
+          "keywords": [
+            "gene therapy",
+            "Choices",
+            "Hope",
+            "and",
+            "Science",
+            "Treating"
+          ],
+          "importanceScore": 7,
+          "investorRelevanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2pHRUJoV044ekE0aTdpVDRQUUlKZExGSVZ4UkpndVAwWGpHazZvUDczWmY2SlBYQnZ4SmdUeFV2eWxOY0FReFhNMElqc19TMUdrQldEbnRWN1pzdmx0amVWT1d1VDV6a3dOSVpQbkU2dGtSV2xueEp0YWhXUV9wWHM2cm9uUdIBmgFBVV95cUxQS1pHaHQ4bFMzZEU3SERPNm9xNHQ5d2p2OC0tSnZBcFRmdzd1Zk9PN2lBRGMtd2Nic1VSeXl3T3k1S3RyV2V0RmJRVjRSSFROdU5YLXRJalJKOFB2LXUwTDZHUzAxMXZvTWZGckNOZ3pTLXpYRUJiaThLbmxpZ3BENk1hX2prMmlJNy14d0VWdmxsandZbzEwYkN3?oc=5"
+        },
+        {
+          "id": "2026-09-30-0025",
+          "title": "uniQure N.V. (QURE) Discusses Additional Data from Phase I/II AMT-130 Study in Huntington's Disease Highlighting Disease Progression Slowing - Slideshow (NASDAQ:QURE) 2026-09-29 - Seeking Alpha",
+          "source": "Google News",
+          "date": "2026-09-29",
+          "origin": "global",
+          "section": "paper",
+          "eventType": "clinical",
+          "summary": "uniQure N.V. (QURE) Discusses Additional Data from Phase I/II AMT-130 Study in Huntington's Disease Highlighting Disease Progression Slowing - Slideshow (NASDAQ:QURE) 2026-09-29 Seeking Alpha",
+          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
+          "investmentTakeaway": "[이벤트] uniQure N.V. (QURE)가 헌팅턴병 치료를 위한 AMT-130 임상 1/2상에서 질병 진행 속도 감소에 대한 추가 데이터를 발표했다.  \n[중요도] 성공적인 임상 결과는 헌팅턴병 치료제 시장에서의 경쟁력을 높일 수 있어 투자자들에게 긍정적인 신호가 된다.  \n[국내관련성] 국내 비상장사인 에이치엘비 생명과학이 유사한 적응증을 연구하고 있어 간접적인 영향이 있을 수 있다.  \n[액션] Watch - 헌팅턴병 치료제 시장의 동향을 주의 깊게 살펴볼 필요가 있다.",
+          "keywords": [
+            "gene therapy",
+            "uniQure",
+            "QURE",
+            "Discusses",
+            "Additional",
+            "Data"
+          ],
+          "importanceScore": 7,
+          "investorRelevanceScore": 7,
+          "koreaRelevanceScore": 4,
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNendjZFpXWU9wMC1vbWI2SzJSR09Eelk3VktYdEhXM3VRbEc5cFlwdGpfOGNVVW5nV0ltbDV1YVh5VDJtVGtXTUh3OTBVa2pzd1VpVVpZdUl2T19VaktGQ0tVUVN2ZnpBekRXazA1OTRJQldLb1V5VWFvbEVqSk52NUZGZFFsN1VZVUhaM1hvRnI5aG1ZZzRUNHJtS0lrRDlQaTlSQmUyeTlmX3ZBQ0ZHUHdueFgtSjdOSnNWYVRMOTNYWnNUTTBDSjkyV05aQQ?oc=5"
+        }
+      ]
+    },
+    {
       "reportDate": "2026-09-29",
       "title": "2026-09-29 바이오 투자 인텔리전스",
       "executiveHighlights": [
@@ -47356,626 +47975,6 @@
           "investorRelevanceScore": 7,
           "koreaRelevanceScore": 4,
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS3hBYkJYQWdoMmFCWDdFS1lkYjRWdm9yY2xPUXFxYmxvMGtFRTZnaXAzSzIzMlhqYlRYQm9GUlFneC1VZS1iRXkwYmpwdVpzSG5pamtmdktsTzJPUm95YmRtLTkxVDVkRndQdUtGbEJXNmR0b1NBWmlEenZ5elh4MEN3d25BbmZid0ZIRU5zSnJHYTlvcmNVRHpaMUVjU0k?oc=5"
-        }
-      ]
-    },
-    {
-      "reportDate": "2026-07-02",
-      "title": "2026-07-02 바이오 투자 인텔리전스",
-      "executiveHighlights": [
-        {
-          "rank": 1,
-          "itemId": "2026-07-02-0001",
-          "headline": "신약 심사에 밀린 일반품목들… 식약처, 선검토 병목 풀까",
-          "investmentTakeaway": "[이벤트] 식약처의 선검토 지연 문제 발생 — 제네릭 의약품, 일반 품목, 허가 지연, 해당 없음 등 핵심 팩트만 1줄  \n[중요도] 규제 지연으로 인해 신약 및 제네릭 의약품의 시장 진입이 늦어질 수 있어 중요 — 규제  \n[국내관련성] 국내 제약사들이 제네릭 의약품 허가에 영향을 받을 가능성이 높음  \n[액션] 리스크 체크 — 규제 지연이 지속될 경우 시장에 부정적인 영향을 미칠 수 있음"
-        },
-        {
-          "rank": 2,
-          "itemId": "2026-07-02-0002",
-          "headline": "셀트리온, 트룩시마 미국 상호교환성 지위 획득",
-          "investmentTakeaway": "[이벤트] 셀트리온의 리툭시맙 바이오시밀러 '트룩시마'가 미국 FDA로부터 상호교환성 지위를 획득 — 혈액암 치료제, 비호지킨 림프종, 만성 림프구성 백혈병 등 성인 적응증, 독점권 확보.  \n[중요도] 이는 바이오시밀러 시장에서의 경쟁력을 높이며, 향후 매출 증가에 기여할 수 있는 중요한 규제 승인이다.  \n[국내관련성] 국내 상장사인 셀트리온은 이로 인해 시장 점유율 확대와 매출 상승이 기대된다.  \n[액션] Watch + 트룩시마의 시장 반응과 매출 성과를 지속적으로 모니터링할 필요가 있다."
-        },
-        {
-          "rank": 3,
-          "itemId": "2026-07-02-0003",
-          "headline": "FDA \"2200명 채용\"… 심사 정상화·임상개발 현대화 시동",
-          "investmentTakeaway": "[이벤트] FDA가 2200명 채용을 발표하며 심사 정상화 및 임상개발 현대화에 나선다 — FDA, 인력 확충, 심사 체계 정상화, 2200명 채용.  \n[중요도] 이는 신약 허가 심사의 예측 가능성을 높이고 미국 내 임상개발 경쟁력을 강화하는 데 중요한 변화이다 — 규제.  \n[국내관련성] 국내 제약 및 바이오 기업들이 FDA의 변화에 따라 임상개발 전략을 조정할 가능성이 있다.  \n[액션] Watch + FDA의 인력 확충이 국내 기업에 미치는 영향을 지속적으로 모니터링할 필요가 있다."
-        },
-        {
-          "rank": 4,
-          "itemId": "2026-07-02-0004",
-          "headline": "\"SK바이오팜, 신약 발굴서 환자 관리까지 헬스케어 전반에 AI 접목\"",
-          "investmentTakeaway": "[이벤트] SK바이오팜, AI 플랫폼 기반 신약 개발을 위한 헬스케어 전반에 AI 접목 — SK바이오팜, 모달리티: AI, 적응증: 신약 개발, 단계: 파트너링 논의 중.  \n[중요도] 기술적 우위를 확보하여 시장에서 경쟁력을 높일 수 있는 기회 — 성공적인 AI 접목은 시장성 향상에 기여할 가능성이 높음.  \n[국내관련성] 국내 제약바이오 기업 전반에 긍정적 영향을 미칠 수 있으며, AI 활용을 통해 경쟁력을 강화할 수 있는 기업들.  \n[액션] Watch + SK바이오팜의 AI 접목 전략이 향후 신약 개발에 미치는 영향을 지속적으로 관찰할 필요가 있음."
-        },
-        {
-          "rank": 5,
-          "itemId": "2026-07-02-0005",
-          "headline": "파마리서치,북미사업 확장 위한 현지 생산기지 확보",
-          "investmentTakeaway": "[이벤트] 파마리서치, CG USA 인수 — 파마리서치, 화장품, 더마 코스메틱, 구속력 없는 협약 단계, 금액 미제공  \n[중요도] 북미 시장 진출을 위한 생산 기반 확보로 사업 확장 가능성 증가 — 시장성  \n[국내관련성] 국내 화장품 기업들이 북미 시장 진출을 모색하는 가운데, 파마리서치의 사례가 벤치마크가 될 수 있음  \n[액션] Watch + 북미 시장에서의 성과를 지속적으로 모니터링할 필요가 있음"
-        }
-      ],
-      "summaryLines": [
-        "[이벤트] 식약처의 선검토 지연 문제 발생 — 제네릭 의약품, 일반 품목, 허가 지연, 해당 없음 등 핵심 팩트만 1줄  \n[중요도] 규제 지연으로 인해 신약 및 제네릭 의약품의 시장 진입이 늦어질 수 있어 중요 — 규제  \n[국내관련성] 국내 제약사들이 제네릭 의약품 허가에 영향을 받을 가능성이 높음  \n[액션] 리스크 체크 — 규제 지연이 지속될 경우 시장에 부정적인 영향을 미칠 수 있음",
-        "[이벤트] 셀트리온의 리툭시맙 바이오시밀러 '트룩시마'가 미국 FDA로부터 상호교환성 지위를 획득 — 혈액암 치료제, 비호지킨 림프종, 만성 림프구성 백혈병 등 성인 적응증, 독점권 확보.  \n[중요도] 이는 바이오시밀러 시장에서의 경쟁력을 높이며, 향후 매출 증가에 기여할 수 있는 중요한 규제 승인이다.  \n[국내관련성] 국내 상장사인 셀트리온은 이로 인해 시장 점유율 확대와 매출 상승이 기대된다.  \n[액션] Watch + 트룩시마의 시장 반응과 매출 성과를 지속적으로 모니터링할 필요가 있다.",
-        "[이벤트] FDA가 2200명 채용을 발표하며 심사 정상화 및 임상개발 현대화에 나선다 — FDA, 인력 확충, 심사 체계 정상화, 2200명 채용.  \n[중요도] 이는 신약 허가 심사의 예측 가능성을 높이고 미국 내 임상개발 경쟁력을 강화하는 데 중요한 변화이다 — 규제.  \n[국내관련성] 국내 제약 및 바이오 기업들이 FDA의 변화에 따라 임상개발 전략을 조정할 가능성이 있다.  \n[액션] Watch + FDA의 인력 확충이 국내 기업에 미치는 영향을 지속적으로 모니터링할 필요가 있다.",
-        "[이벤트] SK바이오팜, AI 플랫폼 기반 신약 개발을 위한 헬스케어 전반에 AI 접목 — SK바이오팜, 모달리티: AI, 적응증: 신약 개발, 단계: 파트너링 논의 중.  \n[중요도] 기술적 우위를 확보하여 시장에서 경쟁력을 높일 수 있는 기회 — 성공적인 AI 접목은 시장성 향상에 기여할 가능성이 높음.  \n[국내관련성] 국내 제약바이오 기업 전반에 긍정적 영향을 미칠 수 있으며, AI 활용을 통해 경쟁력을 강화할 수 있는 기업들.  \n[액션] Watch + SK바이오팜의 AI 접목 전략이 향후 신약 개발에 미치는 영향을 지속적으로 관찰할 필요가 있음.",
-        "[이벤트] 파마리서치, CG USA 인수 — 파마리서치, 화장품, 더마 코스메틱, 구속력 없는 협약 단계, 금액 미제공  \n[중요도] 북미 시장 진출을 위한 생산 기반 확보로 사업 확장 가능성 증가 — 시장성  \n[국내관련성] 국내 화장품 기업들이 북미 시장 진출을 모색하는 가운데, 파마리서치의 사례가 벤치마크가 될 수 있음  \n[액션] Watch + 북미 시장에서의 성과를 지속적으로 모니터링할 필요가 있음"
-      ],
-      "sections": [
-        "domestic",
-        "global",
-        "regulatory",
-        "deal",
-        "modality",
-        "paper",
-        "general"
-      ],
-      "items": [
-        {
-          "id": "2026-07-02-0001",
-          "title": "신약 심사에 밀린 일반품목들… 식약처, 선검토 병목 풀까",
-          "source": "히트뉴스",
-          "date": "2026-07-02",
-          "origin": "domestic",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "신약 심사에 밀린 일반품목들… 식약처, 선검토 병목 풀까. 규제당국이 신약 허가기간 단축과 혁신제품 신속심사를 추진하는 가운데 제네릭과 변경허가 등 일반 품목 심사에서 비공식 '선검토' 지연이 새로운 과제로 떠오르고 있다. 최근 허가기간 단축에 기여했던 선검토 관행이 예전처럼 작동하지 않으면서 실제 허가까지 걸리는 기간이 길어지고 있다는 의견이 나온다. 1일 업계에 따르면 최근 제네릭 의약품 품목허가 심사 과정에서 1차 보완자료를 준비한 뒤에도 식품의약품안전처 심사자의 선검토 회신이 늦어지면서 허가 일정이 지연되는 사례가 잇따르고 있는 것으로 알려졌다.중대형 제약사 RA(Regulatory",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "investmentTakeaway": "[이벤트] 식약처의 선검토 지연 문제 발생 — 제네릭 의약품, 일반 품목, 허가 지연, 해당 없음 등 핵심 팩트만 1줄  \n[중요도] 규제 지연으로 인해 신약 및 제네릭 의약품의 시장 진입이 늦어질 수 있어 중요 — 규제  \n[국내관련성] 국내 제약사들이 제네릭 의약품 허가에 영향을 받을 가능성이 높음  \n[액션] 리스크 체크 — 규제 지연이 지속될 경우 시장에 부정적인 영향을 미칠 수 있음",
-          "keywords": [
-            "Regulatory"
-          ],
-          "importanceScore": 10,
-          "investorRelevanceScore": 10,
-          "koreaRelevanceScore": 8,
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77331"
-        },
-        {
-          "id": "2026-07-02-0002",
-          "title": "셀트리온, 트룩시마 미국 상호교환성 지위 획득",
-          "source": "히트뉴스",
-          "date": "2026-07-01",
-          "origin": "domestic",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "셀트리온, 트룩시마 미국 상호교환성 지위 획득. 셀트리온이 개발한 리툭시맙 바이오시밀러 '트룩시마(성분 리툭시맙)'가 미국 식품의약국(FDA)로부터 상호교환성(Interchangeability) 지위를 획득했다. 트룩시마는 혈액암 치료제로, 미국에서 비호지킨 림프종(NHL), 만성 림프구성 백혈병(CLL), 류마티스 관절염(RA), 현미경적 다발혈관염(MPA) 등 오리지널 의약품이 보유한 모든 성인 적응증에 대해 허가를 획득했다.회사 관계자는 1일 \"미국 시장에서 리툭시맙 바이오시밀러 가운데 미국에서 상호교환성 지위를 획득한 것은 트룩시마가 처음인 만큼, 독점권도 확보하게 됐다\"",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "investmentTakeaway": "[이벤트] 셀트리온의 리툭시맙 바이오시밀러 '트룩시마'가 미국 FDA로부터 상호교환성 지위를 획득 — 혈액암 치료제, 비호지킨 림프종, 만성 림프구성 백혈병 등 성인 적응증, 독점권 확보.  \n[중요도] 이는 바이오시밀러 시장에서의 경쟁력을 높이며, 향후 매출 증가에 기여할 수 있는 중요한 규제 승인이다.  \n[국내관련성] 국내 상장사인 셀트리온은 이로 인해 시장 점유율 확대와 매출 상승이 기대된다.  \n[액션] Watch + 트룩시마의 시장 반응과 매출 성과를 지속적으로 모니터링할 필요가 있다.",
-          "keywords": [
-            "FDA",
-            "Interchangeability",
-            "NHL",
-            "CLL",
-            "MPA"
-          ],
-          "importanceScore": 10,
-          "investorRelevanceScore": 10,
-          "koreaRelevanceScore": 8,
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77297"
-        },
-        {
-          "id": "2026-07-02-0003",
-          "title": "FDA \"2200명 채용\"… 심사 정상화·임상개발 현대화 시동",
-          "source": "히트뉴스",
-          "date": "2026-07-01",
-          "origin": "domestic",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FDA \"2200명 채용\"… 심사 정상화·임상개발 현대화 시동. 미국 식품의약국(FDA)이 인력 확충과 심사 체계 정상화를 최우선 과제로 제시했다. 지난해 대규모 인력 이탈과 조직 혼선을 겪은 이후 신약 허가심사의 예측 가능성을 회복하고 미국 내 임상개발 경쟁력을 높이겠다는 구상이다.1일 로이터 등 외신에 따르면 FDA는 지난달 23일(현지시간) 미국 샌디에이고에서 열린 바이오USA 2026 'FDA 타운홀(FDA Town Hall)' 세션에서 △조직 안정화 △임상개발 현대화 △중국 바이오산업과의 경쟁 대응 등을 주요 과제로 논의했다.이번 세션에는 존 크롤리 미국바이오협회(BIO) 회장이 사회자",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "investmentTakeaway": "[이벤트] FDA가 2200명 채용을 발표하며 심사 정상화 및 임상개발 현대화에 나선다 — FDA, 인력 확충, 심사 체계 정상화, 2200명 채용.  \n[중요도] 이는 신약 허가 심사의 예측 가능성을 높이고 미국 내 임상개발 경쟁력을 강화하는 데 중요한 변화이다 — 규제.  \n[국내관련성] 국내 제약 및 바이오 기업들이 FDA의 변화에 따라 임상개발 전략을 조정할 가능성이 있다.  \n[액션] Watch + FDA의 인력 확충이 국내 기업에 미치는 영향을 지속적으로 모니터링할 필요가 있다.",
-          "keywords": [
-            "FDA",
-            "USA",
-            "Town",
-            "Hall",
-            "BIO"
-          ],
-          "importanceScore": 10,
-          "investorRelevanceScore": 10,
-          "koreaRelevanceScore": 8,
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77283"
-        },
-        {
-          "id": "2026-07-02-0004",
-          "title": "\"SK바이오팜, 신약 발굴서 환자 관리까지 헬스케어 전반에 AI 접목\"",
-          "source": "히트뉴스",
-          "date": "2026-07-02",
-          "origin": "domestic",
-          "section": "general",
-          "eventType": "clinical",
-          "summary": "\"SK바이오팜, 신약 발굴서 환자 관리까지 헬스케어 전반에 AI 접목\". 국내 제약바이오 기업들은 바이오USA 2026에서 파트너링 논의부터 성과 발표, 네트워킹까지 치열한 나흘 일정을 소화했다. 히트뉴스가 관계자들의 막전막후를 담았다.① 알지노믹스 홍성우 부사장② 카나프테라퓨틱스 이병철 대표③ 뉴로핏 문영준 최고사업책임자(CBO)④ SK바이오팜 조형래 커뮤니케이션 본부장SK바이오팜이 올해 바이오USA에서 'SK, AI for Every Patient' 슬로건을 앞세워 AI 플랫폼 기반 신약개발 기업의 면모를 확고히 했다.회사는 행사장 내 주요 전시 구역인 'Digital Health and AI Zon",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "investmentTakeaway": "[이벤트] SK바이오팜, AI 플랫폼 기반 신약 개발을 위한 헬스케어 전반에 AI 접목 — SK바이오팜, 모달리티: AI, 적응증: 신약 개발, 단계: 파트너링 논의 중.  \n[중요도] 기술적 우위를 확보하여 시장에서 경쟁력을 높일 수 있는 기회 — 성공적인 AI 접목은 시장성 향상에 기여할 가능성이 높음.  \n[국내관련성] 국내 제약바이오 기업 전반에 긍정적 영향을 미칠 수 있으며, AI 활용을 통해 경쟁력을 강화할 수 있는 기업들.  \n[액션] Watch + SK바이오팜의 AI 접목 전략이 향후 신약 개발에 미치는 영향을 지속적으로 관찰할 필요가 있음.",
-          "keywords": [
-            "USA",
-            "CBO",
-            "for",
-            "Every",
-            "Patient",
-            "Digital"
-          ],
-          "importanceScore": 9,
-          "investorRelevanceScore": 9,
-          "koreaRelevanceScore": 8,
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77325"
-        },
-        {
-          "id": "2026-07-02-0005",
-          "title": "파마리서치,북미사업 확장 위한 현지 생산기지 확보",
-          "source": "히트뉴스",
-          "date": "2026-07-01",
-          "origin": "domestic",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "파마리서치,북미사업 확장 위한 현지 생산기지 확보. 파마리서치가 미국 화장품 제조사 CG USA를 인수하며 더마 코스메틱 브랜드 '리쥬란코스메틱'의 북미 현지 생산 거점을 확보했다.회사는 이번 인수로 세포라와 아마존을 중심으로 확대되는 북미 수요에 안정적으로 대응할 수 있는 기반을 마련했다고 내다봤다.파마리서치는 현지시간 기준 지난달 30일 CG USA 인수 계약을 체결했다고 1일 밝혔다. CG USA는 미국 캘리포니아주에 생산시설을 둔 화장품 제조 기업으로 제품 기획과 포뮬러 개발 제조 충진 패키징 품질관리까지 수행하는 생산 역량을 갖추고 있다.특히 이 회사는 FDA 등록 시설과",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "investmentTakeaway": "[이벤트] 파마리서치, CG USA 인수 — 파마리서치, 화장품, 더마 코스메틱, 구속력 없는 협약 단계, 금액 미제공  \n[중요도] 북미 시장 진출을 위한 생산 기반 확보로 사업 확장 가능성 증가 — 시장성  \n[국내관련성] 국내 화장품 기업들이 북미 시장 진출을 모색하는 가운데, 파마리서치의 사례가 벤치마크가 될 수 있음  \n[액션] Watch + 북미 시장에서의 성과를 지속적으로 모니터링할 필요가 있음",
-          "keywords": [
-            "USA",
-            "FDA"
-          ],
-          "importanceScore": 9,
-          "investorRelevanceScore": 9,
-          "koreaRelevanceScore": 8,
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77319"
-        },
-        {
-          "id": "2026-07-02-0006",
-          "title": "﻿[BIO USA] CNCure CEO Park Joong-gon: “Bacteria-based cancer therapy to enter clinical trials in 2027” - 더바이오",
-          "source": "Google News",
-          "date": "2026-07-01",
-          "origin": "domestic",
-          "section": "general",
-          "eventType": "clinical",
-          "summary": "﻿[BIO USA] 씨뉴어 박중곤 대표 “세균 기반 암치료제 2027년 임상 진입” 더바이오",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "investmentTakeaway": "[이벤트] CNCure의 박중곤 CEO가 박테리아 기반 암 치료가 2027년에 임상 시험에 들어갈 것이라고 발표 — 회사명: CNCure, 모달리티: 박테리아 기반, 적응증: 암, 단계: 임상 시험 예정.  \n[중요도] 새로운 치료법 개발로 인해 시장에서의 경쟁력과 기술적 혁신 가능성이 높아짐 — 성공 가능성이 시장성과 투자 판단에 긍정적 영향을 미침.  \n[국내관련성] 국내 바이오 기업 중 박테리아 기반 치료법 개발에 관심 있는 기업들에게 참고 사례가 될 수 있음.  \n[액션] Watch + 임상 시험 진입 일정이 향후 투자 기회와 관련이 있어 지속적으로 모니터링 필요.",
-          "keywords": [
-            "기술이전 바이오",
-            "BIO",
-            "USA",
-            "CNCure",
-            "CEO",
-            "Park"
-          ],
-          "importanceScore": 9,
-          "investorRelevanceScore": 9,
-          "koreaRelevanceScore": 8,
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pcFV1SGRVZGszZ1lNNU94X0xkN2dUakkwZGZTSFUtTGU1Ym9aZlJfMUlsMFNfVHVPSUIyeTBCRVgyYURrdmJZaTZicjNBa0FBUWFTeUxMSmJYcTFvR3U2YVFVaU1MUjNVOEVxY9IBcEFVX3lxTFBjVW4zekFhOGFOekJTeXBnZklLb0FnVXVhTDBCcGk4My03NFMxZ3kwLTdmVU55MWhyMkREa25KeTFvUDA4NEZUZGlKV0JrMnU0ZVZsQkFXM1FPN1FjODZYb3g5NDBtRWxOVlM3R1EtNWc?oc=5"
-        },
-        {
-          "id": "2026-07-02-0007",
-          "title": "Angitia ends Phase 3 in disc disease; Abivax targets $800M on colitis data - Endpoints News",
-          "source": "Google News",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "general",
-          "eventType": "clinical",
-          "summary": "협심증(Angitia)은 디스크 질환의 3상을 종료합니다. Abivax는 대장염 데이터에서 8억 달러 목표를 달성했습니다.",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "investmentTakeaway": "[이벤트] Angitia가 디스크 질환에 대한 3상 임상을 종료했다 — Angitia, 모달리티 미제공, 적응증: 디스크 질환, 단계: 3상, 금액 미제공  \n[중요도] 임상 종료는 기술적 실패를 의미하며 향후 개발 방향에 부정적 영향을 미칠 수 있다  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 임상 실패로 인한 리스크 반영 필요",
-          "keywords": [
-            "site:endpoints.news biotech",
-            "Angitia",
-            "ends",
-            "Phase",
-            "disc",
-            "disease"
-          ],
-          "importanceScore": 9,
-          "investorRelevanceScore": 9,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWW5zMkktTzFqNGpEcURkYXJ6czhRRm5SLTQ2UjFwaFNncmdyYjVSU05XdDVOdkZaeFFONnhaanN5OUZjSEt3ZjI3SF9JNGR4ZC12NmsxcXRTZTlqLUVuS0xsRGFNVlFPNlBZTWE4TmdoODl4S0pwaWh4M0p0TUNYVnhhZFpUa1E0Z2ZCQmg4MjJlMVhVcjNsaXg0MA?oc=5"
-        },
-        {
-          "id": "2026-07-02-0008",
-          "title": "한계 직면 '1약=1약가'… 적응증별 약가, 정책 테이블에 올랐다",
-          "source": "히트뉴스",
-          "date": "2026-07-02",
-          "origin": "domestic",
-          "section": "general",
-          "eventType": "general",
-          "summary": "한계 직면 '1약=1약가'… 적응증별 약가, 정책 테이블에 올랐다. 새 질서로 자리잡는 적응증별 다른 약가 하나의 치료제가 새 적응증 하나를 확보하려면 엄청난 임상개발비가 투입되고, 긴 허가절차를 밟아야 한다. 만약 5개의 적응증을 갖게 된 약물이 있다면, 약물의 가치와 건보재정의 균형적 배분차원에서 적응증별로 적정한 가격을 부여하는 것이 더 합리적 이라는 쪽으로 자리잡는 중이다.① 개념단계 넘어 운영단계로 진입② 적응증별 가격보다 가치에 방점키트루다, 옵디보, 엔허투. 이들 혁신 신약들의 공통점은 하나의 질환에만 사용되지 않는다는 점이다. 허가 이후 새로운 적응증을 지속적으로 추가하며 하나의 의약",
-          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "investmentTakeaway": "[이벤트] 적응증별 약가 정책이 논의되고 있다 — 한국, 적응증별 약가, 정책 테이블, 운영단계 진입 중.  \n[중요도] 약가 정책 변화는 제약사들의 수익성 및 임상 개발 전략에 큰 영향을 미친다 — 시장성.  \n[국내관련성] 국내 제약사인 키트루다, 옵디보, 엔허투와 같은 혁신 신약들이 영향을 받을 수 있다.  \n[액션] Watch + 향후 정책 변화가 제약사들의 전략에 미치는 영향을 지속적으로 모니터링해야 한다.",
-          "keywords": [
-            "biotech"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 8,
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77219"
-        },
-        {
-          "id": "2026-07-02-0009",
-          "title": "오리지널엔 없는 자동주사, 가격도 동일…셀트리온제약 '옴리클로펜150mg AI' 출시",
-          "source": "히트뉴스",
-          "date": "2026-07-01",
-          "origin": "domestic",
-          "section": "general",
-          "eventType": "general",
-          "summary": "오리지널엔 없는 자동주사, 가격도 동일…셀트리온제약 '옴리클로펜150mg AI' 출시. 셀트리온제약이 지난해 12월 식품의약품안전처 허가를 받은 알레르기치료제 옴리클로펜주 150mg 자동주사제를 기존 프리필드시린지와 동일한 약가로 책정해 국내에 출시했다. 회사는 이번 출시로 의료진이 가격 요소에 구애받지 않고 환자 상태에 맞는 제형을 선택할 수 있게 됐다고 평했다.회사는 옴리클로펜주 150mg의 AI(자동주사기) 제형을 1일 출시했다고 밝혔다. 이번 제품은 기존 프리필드시린지 중심이던 옴리클로 라인업에 자동주사제 디바이스를 더한 것으로 자가주사형 투여가 필요한 환자와 의료진에게 새로운 투여 약제 제공을 위해 마련됐다.",
-          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "investmentTakeaway": "[이벤트] 셀트리온제약이 알레르기치료제 옴리클로펜주 150mg 자동주사제를 출시했다 — 모달리티: 자동주사제, 적응증: 알레르기, 단계: 허가 완료, 가격: 기존 프리필드시린지와 동일.  \n[중요도] 환자 맞춤형 제형 선택이 가능해져 시장 경쟁력이 강화될 수 있다 — 이는 기술성과 시장성 모두에 긍정적인 신호이다.  \n[국내관련성] 국내 비상장·상장사 중 자동주사제 개발을 고려하는 기업에 긍정적 영향을 미칠 수 있다.  \n[액션] Watch + 셀트리온제약의 향후 시장 반응 및 경쟁사 대응을 모니터링할 필요가 있다.",
-          "keywords": [
-            "biotech"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 8,
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77321"
-        },
-        {
-          "id": "2026-07-02-0010",
-          "title": "식약처, 희귀 소세포폐암 치료제 '서플루마주' 허가",
-          "source": "히트뉴스",
-          "date": "2026-07-01",
-          "origin": "domestic",
-          "section": "general",
-          "eventType": "general",
-          "summary": "식약처, 희귀 소세포폐암 치료제 '서플루마주' 허가. 확장 병기 소세포폐암 환자의 1차 치료에 사용하는 희귀의약품 '서플루마주'가 국내 허가를 받았다.식품의약품안전처(처장 오유경)는 1일 확장 병기 소세포폐암 성인 환자의 1차 치료에 사용하는 수입 희귀의약품 서플루마주(서플루리맙)를 허가했다고 밝혔다. 서플루마주는 카보플라틴과 에토포시드를 병용하는 치료요법으로 허가됐다.서플루마주는 면역관문 수용체인 PD-1에 결합해 암세포의 PD-L1·PD-L2와의 상호작용을 억제하고 T세포 활성을 촉진하는 기전의 면역항암제로 항종양 효과를 나타내도록 설계됐다.식약처 측은 \"이번 허가로 확장 병기 소",
-          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "investmentTakeaway": "[이벤트] 식약처가 희귀 소세포폐암 치료제 '서플루마주'를 허가했다 — 서플루마주, 면역항암제, 확장 병기 소세포폐암, 허가, 금액 미제공.  \n[중요도] 희귀의약품 허가는 시장 진입 가능성을 높이며, 치료 옵션을 확대하는 중요한 신호이다.  \n[국내관련성] 국내 상장사 중 면역항암제 개발에 나선 회사들이 영향을 받을 수 있다.  \n[액션] Watch + 서플루마주의 시장 반응 및 임상 결과를 지속적으로 모니터링할 필요가 있다.",
-          "keywords": [
-            "PD-1",
-            "PD-L1",
-            "PD-L2"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 8,
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77315"
-        },
-        {
-          "id": "2026-07-02-0011",
-          "title": "\"아리바이오, 글로벌 3상 직접 완주… 데이터로 평가 받겠다\"",
-          "source": "히트뉴스",
-          "date": "2026-07-01",
-          "origin": "domestic",
-          "section": "general",
-          "eventType": "general",
-          "summary": "\"아리바이오, 글로벌 3상 직접 완주… 데이터로 평가 받겠다\". 아리바이오의 경구용 알츠하이머병 치료제 후보물질 'AR1001'이 글로벌 임상 3상 마무리 단계에 들어선 가운데 회사는 글로벌 임상과 허가 전략을 직접 주도하는 개발 모델을 앞세워 신약 상용화에 속도를 내고 있다. 초기 기술이전에 머무르지 않고 글로벌 개발 전 과정을 직접 이끌어온 만큼 이번 임상 결과를 통해 기술력과 개발 역량을 입증하겠다는 구상이다.최근 푸싱제약과 글로벌 옵션 계약을 체결한 이후 글로벌 제약사와 투자자들의 관심도 눈에 띄게 높아졌다. 계약 이후 AR1001뿐 아니라 후속 파이프라인과 신규 사업에 대한 문의도 이어",
-          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "investmentTakeaway": "[이벤트] 아리바이오의 경구용 알츠하이머병 치료제 AR1001이 글로벌 임상 3상 마무리 단계에 진입했다 — 글로벌 임상 주도, 신약 상용화 가속화.  \n[중요도] 성공적인 임상 결과는 기술력과 개발 역량을 입증할 수 있어 향후 투자 유치 및 파트너십에 긍정적 영향을 미칠 수 있다.  \n[국내관련성] 국내 제약사로서 아리바이오의 성공은 다른 바이오 기업들에게도 긍정적인 신호가 될 수 있다.  \n[액션] Watch + 아리바이오의 임상 결과와 후속 파이프라인에 대한 관심이 높아지고 있어 지속적인 모니터링이 필요하다.",
-          "keywords": [
-            "AR1001"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 8,
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77286"
-        },
-        {
-          "id": "2026-07-02-0012",
-          "title": "Merck halts ph. 2 Alzheimer’s trial after Neuphoria small molecule underwhelms",
-          "source": "Fierce Biotech",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "general",
-          "eventType": "clinical",
-          "summary": "머크는 PH를 중단합니다. 2 신경증 소분자 이후 알츠하이머병에 대한 임상시험은 실망스럽습니다. 머크(Merck & Co.)는 중간 분석에서 약물이 실망스러운 결과를 보인 후 잠재적인 알츠하이머병 치료제에 대한 2상 연구를 중단했으며, 이는 제약회사의 어려움을 겪고 있는 파트너인 뉴포리아 테라퓨틱스(Neuphoria Therapeutics)에 또 다른 타격을 입혔습니다.",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "investmentTakeaway": "[이벤트] Merck가 Neuphoria Therapeutics의 알츠하이머 치료제에 대한 2상 임상시험을 중단했다 — Merck, 소분자, 알츠하이머, 2상, 임상 중단  \n[중요도] 임상시험 실패는 Merck의 파트너십과 향후 알츠하이머 치료제 개발에 부정적인 영향을 미칠 수 있다 — 실패  \n[국내관련성] 국내 비상장사인 신테카바이오와 같은 알츠하이머 관련 기업에 부정적 영향을 미칠 수 있다.  \n[액션] 리스크 체크 — Merck의 임상 실패는 투자자들에게 부정적인 신호로 작용할 가능성이 높다.",
-          "keywords": [
-            "Merck",
-            "halts",
-            "Alzheimer",
-            "trial",
-            "after",
-            "Neuphoria"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercebiotech.com/biotech/merck-halts-ph-2-alzheimers-trial-after-neuphoria-small-molecule-underwhelms"
-        },
-        {
-          "id": "2026-07-02-0013",
-          "title": "Lonza expands partnership with US drugmaker, boosts capacity for ADCs",
-          "source": "Fierce Pharma",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "modality",
-          "eventType": "partnership",
-          "summary": "Lonza는 미국 제약회사와의 파트너십을 확대하고 ADC 역량을 강화합니다. 계약 제조 강국인 Lonza는 다양한 방식으로 성장하고 있습니다. 스위스 회사는 이번 주에 항체-약물 접합체 제조 능력을 확장하고 있으며 이름이 알려지지 않은 미국 대형 제약회사와의 파트너십 범위를 확대했다고 밝혔습니다.",
-          "significance": "공동개발·라이선스 구조는 권리·마일스톤 분배에 따라 수익성이 달라지므로 계약 요약을 확인하는 것이 좋다.",
-          "investmentTakeaway": "[이벤트] Lonza가 미국 제약사와의 파트너십을 확대하며 항체-약물 접합체(ADC) 제조 능력을 증가시켰다 — Lonza, 모달리티: 항체-약물 접합체, 단계: 파트너십 확대, 금액: 비공개  \n[중요도] 파트너십 확대는 ADC 시장에서의 경쟁력 강화와 생산 능력 향상을 의미하며, 이는 시장 점유율 확대에 기여할 수 있다.  \n[국내관련성] 국내 비상장·상장사 중 ADC 관련 기술을 보유한 회사들이 영향을 받을 수 있다.  \n[액션] Watch + ADC 시장의 성장 가능성을 반영하여 추가 동향을 모니터링할 필요가 있다.",
-          "keywords": [
-            "Lonza",
-            "expands",
-            "partnership",
-            "with",
-            "drugmaker",
-            "boosts"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercepharma.com/manufacturing/lonza-expands-partnership-us-drugmaker-and-boosts-its-capacity-produce-adcs"
-        },
-        {
-          "id": "2026-07-02-0014",
-          "title": "Sanofi unit in Ireland chided by FDA over manufacturing flubs linked to Altuviiio",
-          "source": "Fierce Pharma",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "아일랜드의 Sanofi 사업부는 Altuviiio와 관련된 제조 Flub에 대해 FDA로부터 비난을 받았습니다. 2026년 초 FDA 조사관이 현장을 방문하여 Genzyme Ireland에 대한 양식 483을 제출한 후 Sanofi 자회사는 미국 규제 기관으로부터 추가 질책을 받게 되었습니다.",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "investmentTakeaway": "[이벤트] FDA가 Sanofi의 자회사 Genzyme Ireland에 대해 제조 결함으로 인해 Form 483을 발급 — Genzyme Ireland, 제조, Altuviiio, 규제, 금액 미제공  \n[중요도] 규제 문제로 인해 제품의 시장 출시 및 판매에 차질이 생길 수 있어 중요함  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] 리스크 체크 — 제조 결함으로 인한 규제 문제는 향후 투자 판단에 리스크 요소로 작용할 수 있음",
-          "keywords": [
-            "Sanofi",
-            "unit",
-            "Ireland",
-            "chided",
-            "FDA",
-            "over"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercepharma.com/pharma/sanofi-unit-ireland-chided-fda-over-manufacturing-flubs-linked-altuviiio"
-        },
-        {
-          "id": "2026-07-02-0015",
-          "title": "Regulatory tracker: FDA sets decision date for Sarepta's DMD drugs",
-          "source": "Fierce Pharma",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "규제 추적기: FDA는 Sarepta의 DMD 약물에 대한 결정 날짜를 설정합니다. 이 추적기에서 Fierce Pharma는 주요 지역으로의 확장 및 새로운 적응증을 포함하여 시장 내 제품의 규제 진행 상황을 기록하고 있습니다. 이러한 업데이트 중 일부는 독립형 스토리의 기준을 충족하지 못할 수도 있지만 여전히 언급할 가치가 있다고 생각합니다.",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "investmentTakeaway": "[이벤트] FDA가 Sarepta의 DMD 치료제에 대한 결정 날짜를 설정했다 — Sarepta, 약물, 근이영양증(DMD), 승인 단계, 금액 미제공  \n[중요도] FDA의 결정은 해당 치료제의 시장 진입 가능성을 결정짓는 중요한 요소이다 — 성공 여부가 시장성과 투자 판단에 큰 영향을 미침  \n[국내관련성] 국내 비상장사 중 DMD 치료제를 개발 중인 회사가 있을 경우 영향을 받을 수 있다 — 국내 직접 관련성 낮음  \n[액션] Watch + FDA의 결정 결과에 따라 시장 반응이 달라질 수 있으므로 추적 필요",
-          "keywords": [
-            "Regulatory",
-            "tracker",
-            "FDA",
-            "sets",
-            "decision",
-            "date"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2"
-        },
-        {
-          "id": "2026-07-02-0016",
-          "title": "Orca Bio makes a splash with FDA approval for cell therapy Tregzi. Could an IPO come next?",
-          "source": "Fierce Pharma",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Orca Bio는 세포치료제 Tregzi에 대한 FDA 승인을 받아 주목을 받고 있습니다. 다음에 IPO가 올 수 있을까요?. 오르카바이오(Orca Bio)는 이식이 필요한 혈액암 환자를 위한 최초의 동종 조절 T세포 기반 치료법인 트레지(Tregzi)에 대한 FDA 승인을 받아 상업 시장에 뛰어들었다.",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "investmentTakeaway": "[이벤트] FDA가 Orca Bio의 Tregzi를 승인 — Orca Bio, 세포 치료제, 혈액암, 승인, 금액 미제공  \n[중요도] FDA 승인은 상업화 가능성을 높이며 시장 진입에 중요한 신호임  \n[국내관련성] 국내 직접 관련성 낮음  \n[액션] Watch + Tregzi의 상업화 진행 상황을 추적할 가치가 있음",
-          "keywords": [
-            "Orca",
-            "Bio",
-            "makes",
-            "splash",
-            "with",
-            "FDA"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercepharma.com/pharma/fda-approves-orca-bio-cell-therapy-tregzi-blood-cancer-transplants"
-        },
-        {
-          "id": "2026-07-02-0017",
-          "title": "Ipsen to buy Swiss biotech Memo Therapeutics in potential $800M deal",
-          "source": "BioPharma Dive",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "deal",
-          "eventType": "clinical",
-          "summary": "입센, 잠재적인 8억 달러 거래로 스위스 생명공학 메모 테라퓨틱스(Memo Therapeutics) 인수 구매를 통해 Ipsen은 신장 이식 환자에게 종종 영향을 미치는 바이러스에 대한 후기 단계 테스트의 실험 의약품을 제공합니다.",
-          "significance": "임상 마일스톤은 해당 모달리티·타깃의 리스크 프리미엄을 재조정할 수 있어 동일 적응증 경쟁사를 함께 모니터링하는 것이 좋다.",
-          "investmentTakeaway": "[이벤트] Ipsen이 스위스 바이오텍 Memo Therapeutics를 8억 달러에 인수 — Memo Therapeutics의 실험적 약물이 신장 이식 환자에게 영향을 미치는 바이러스에 대한 후기 단계 테스트 중임.  \n[중요도] 기술적 우위를 확보하여 신장 이식 관련 시장에서의 경쟁력을 높일 수 있는 중요한 거래.  \n[국내관련성] 국내 직접 관련성 낮음.  \n[액션] Watch - 신장 이식 관련 치료제 시장 동향을 주의 깊게 살펴볼 필요가 있음.",
-          "keywords": [
-            "Ipsen",
-            "buy",
-            "Swiss",
-            "biotech",
-            "Memo",
-            "Therapeutics"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.biopharmadive.com/news/ipsen-memo-acquisition-rare-disease-virus-deal/824207/"
-        },
-        {
-          "id": "2026-07-02-0018",
-          "title": "5 FDA decisions to watch in the third quarter of 2026 - BioPharma Dive",
-          "source": "Google News",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "2026년 3분기에 주목해야 할 5가지 FDA 결정 BioPharma Dive",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "investmentTakeaway": "[이벤트] FDA의 2026년 3분기 결정 주목 — 여러 제약사, 다양한 모달리티, 여러 적응증, 구체적 금액 미제공.  \n[중요도] 규제 승인 여부가 해당 기업의 시장 진입 및 매출에 큰 영향을 미칠 수 있음.  \n[국내관련성] 국내 제약사 및 바이오 기업들이 해당 결정에 따라 영향을 받을 수 있음.  \n[액션] Watch + 향후 FDA 결정이 국내 기업에 미치는 영향을 분석할 필요가 있음.",
-          "keywords": [
-            "biotech \"FDA approval\"",
-            "FDA",
-            "decisions",
-            "watch",
-            "the",
-            "third"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeS1xNDBkWi1BUlhmbnd1WTJpMV81VXBkRS1fOUlmNk9pcnVMZ3RIOG5vUGdxN0JQaE9GVUlIWkt0WTN6N1I0dGJlcmp6QnVzR1BxOVFqcTlpY0RscjBtajYxWjBxdlNFeWpoQV9tODBJU25VR2E4UkFIdThsaGphLU1R?oc=5"
-        },
-        {
-          "id": "2026-07-02-0019",
-          "title": "Orca Bio’s Tregzi wins FDA approval - The Pharma Letter",
-          "source": "Google News",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "Orca Bio의 Tregzi, FDA 승인 획득 The Pharma Letter",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "investmentTakeaway": "[이벤트] Orca Bio의 Tregzi가 FDA 승인을 받았다 — 회사명: Orca Bio, 모달리티: 세포치료제, 적응증: 자가면역질환, 단계: 승인, 금액: 해당 없음  \n[중요도] FDA 승인은 시장 진입을 위한 중요한 이정표로, 상업화 가능성을 높인다  \n[국내관련성] 국내 비상장·상장사 중 Tregzi와 유사한 세포치료제를 개발 중인 회사에 긍정적 영향을 미칠 수 있다  \n[액션] Watch + Tregzi의 상업화 진행 상황을 주의 깊게 지켜볼 필요가 있다",
-          "keywords": [
-            "biotech \"FDA approval\"",
-            "Orca",
-            "Bio",
-            "Tregzi",
-            "wins",
-            "FDA"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSG1VUnhvMm9ZV0N4NnZMU19TaS1sRVRkdS1FcTgtSkNjM1F3dU1pT2hwdlJNa3lmVXVldnlpT09JbWF2c2o2NjFPd1Y0MWpiNE53QnhtTjZva3hjQ1lpaXhCcEF3UVlNSkZJX0ZxQ1B0Z01DT3piVXJLQ0RMWTR6ZXMxbXNlWU0?oc=5"
-        },
-        {
-          "id": "2026-07-02-0020",
-          "title": "Sharing data for daily Huntington's pill, Skyhawk 'super encouraged' by FDA flexibility - FirstWord Pharma",
-          "source": "Google News",
-          "date": "2026-06-30",
-          "origin": "global",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "일일 헌팅턴 피임약에 대한 데이터 공유, FDA 유연성으로 인해 Skyhawk '매우 권장' FirstWord Pharma",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "investmentTakeaway": "[이벤트] FDA의 유연성에 힘입어 Skyhawk가 헌팅턴병 치료를 위한 일일 복용 약물 데이터 공유를 진행 — Skyhawk, 헌팅턴병, 약물, 단계 미상.  \n[중요도] FDA의 규제 유연성은 기술의 상용화 가능성을 높여 시장 진입에 긍정적인 신호를 제공한다.  \n[국내관련성] 국내 직접 관련성 낮음.  \n[액션] Watch + FDA의 규제 변화가 향후 국내 기업에도 영향을 미칠 수 있으므로 주의 깊게 살펴볼 필요가 있다.",
-          "keywords": [
-            "gene therapy",
-            "Sharing",
-            "data",
-            "for",
-            "daily",
-            "Huntington"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZVTg5NzZkR2tMSDVIcHJ0YVBKbzRiRWZ0cUc4XzFkYUY1dHpKSk1PVFg1SzNwbDRoVzZBa0tpcF84UVNzb2FrcDF6dFpfWGcxRG5B?oc=5"
-        },
-        {
-          "id": "2026-07-02-0021",
-          "title": "US FDA approves Vertex's gene therapy for sickle cell disease in children as young as two - Yahoo",
-          "source": "Google News",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "미국 FDA, 2세 미만 어린이의 겸상 적혈구 질환에 대한 Vertex의 유전자 치료법 승인 Yahoo",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "investmentTakeaway": "[이벤트] Vertex의 유전자 치료제가 FDA 승인을 받음 — Vertex, 유전자 치료, 겸상적혈구병, 승인, 금액 미제공  \n[중요도] 성공적인 규제 승인으로 시장 진입 가능성이 높아져 투자자들의 관심이 집중될 수 있음  \n[국내관련성] 국내 비상장사인 메디포스트와 관련성이 있을 수 있음  \n[액션] Watch + 유전자 치료 분야의 발전과 시장 반응을 주의 깊게 살펴봐야 함",
-          "keywords": [
-            "gene therapy",
-            "FDA",
-            "approves",
-            "Vertex",
-            "gene",
-            "therapy"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmM4TkowMXF5amdMOEhMV0NCbTdfOWNMWWJMQ0JRcVVBMjlYQ0xLWXhScWk5UzdpWm9vNkJDMHFZeEwtTlRXbXBaMzhDSVRYd3Fnc1hWRTJDaTFfUlpCQTRWNzFDaXhRb2V6dk1oTXNIX2dORUc3UXphMVhQVGNET0ZKN2l6THlFaS03ZVBaTks?oc=5"
-        },
-        {
-          "id": "2026-07-02-0022",
-          "title": "FDA’s cell and gene therapy head steps down after 1 year - BioSpace",
-          "source": "Google News",
-          "date": "2026-06-30",
-          "origin": "global",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FDA의 세포 및 유전자 치료 책임자가 1년 만에 사임 - BioSpace",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "investmentTakeaway": "[이벤트] FDA의 세포 및 유전자 치료 부서장이 1년 만에 사임 — FDA, 세포 및 유전자 치료, N/A, N/A, N/A  \n[중요도] 규제 기관의 리더십 변화는 세포 및 유전자 치료의 승인 및 규제 방향에 영향을 미칠 수 있어 중요하다.  \n[국내관련성] 국내 관련 기업들의 FDA 승인 절차에 영향을 미칠 수 있어 주목할 필요가 있다.  \n[액션] Watch + FDA의 리더십 변화가 향후 세포 및 유전자 치료의 규제 환경에 미칠 영향을 지켜볼 필요가 있다.",
-          "keywords": [
-            "gene therapy",
-            "FDA",
-            "cell",
-            "and",
-            "gene",
-            "therapy"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1FvY3ZGRFJIZWpsRkEtTGVoOGhWR2x2ZDE0TjZWRFNBeWVrRWE5cmp0Q21RdTJDX1ZXdlN2WWVGTWRZZG8tMmxwMWFHdWlfdjdsdEluNGwySXB0bEN3Q0Z4a0xiZXhJUFRRVkl1QjlrWUliUTdzQmxlemNoREdrMjlwOXhkYllRZFlsbA?oc=5"
-        },
-        {
-          "id": "2026-07-02-0023",
-          "title": "FDA expands exagamglogene autotemcel to children ages 2 and older with SCD - Contemporary Pediatrics",
-          "source": "Google News",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "regulatory",
-          "eventType": "regulatory",
-          "summary": "FDA, SCD Contemporary Pediatrics를 통해 엑사감글로겐 오토템셀을 2세 이상 어린이로 확대",
-          "significance": "규제·허가 이슈는 승인 일정과 경쟁사 파이프라인 밸류에이션에 직접적인 영향을 줄 수 있어 후속 공문·가이드라인을 확인할 필요가 있다.",
-          "investmentTakeaway": "[이벤트] FDA가 2세 이상의 겸상적혈구병(SCD) 환자에게 exagamglogene autotemcel의 적응증을 확대 — exagamglogene autotemcel, 유전자 치료제, 겸상적혈구병, 승인 단계, 금액 미제공.  \n[중요도] 이는 유전자 치료제의 적용 범위를 넓혀 성공적인 시장 진입 가능성을 높이는 중요한 규제 변화이다.  \n[국내관련성] 국내에서는 유전자 치료제 개발을 진행 중인 여러 바이오 기업들이 영향을 받을 수 있다.  \n[액션] Watch + 유전자 치료제의 시장 확대 동향을 지속적으로 모니터링할 필요가 있다.",
-          "keywords": [
-            "gene therapy",
-            "FDA",
-            "expands",
-            "exagamglogene",
-            "autotemcel",
-            "children"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 4,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3Utb3pRQ2loaXVTN1BuYk1JTG9jQUxsZTl2Y3dlUU4xVFZkeTFua0tzNjM2aVczZzVuX0xxeHRlTDhDMjhRenVpZUhoUnRtMThleEVnMzdOLVQzMHZMZ3pPZHRUQm54RGRRQ21FVVpTZUJVSklfeEdSSWhUWEtjdXB0UzMxUG5reXJxdFBfV3JLRm5saVRyM1E5ZVhlLVpockxaQmlSaFNKanhqbVUwMmpXbUw1Vk4zd2c?oc=5"
-        },
-        {
-          "id": "2026-07-02-0024",
-          "title": "만성골수성백혈병 산정특례 재등록 완화…세포유전학검사 음성 인정",
-          "source": "히트뉴스",
-          "date": "2026-07-01",
-          "origin": "domestic",
-          "section": "general",
-          "eventType": "general",
-          "summary": "만성골수성백혈병 산정특례 재등록 완화…세포유전학검사 음성 인정. 오늘(1일)부터 만성골수성백혈병 환자는 세포유전학검사 결과가 양성이 아니더라도 최근 항암제 처방 이력과 담당 의사의 임상소견만으로 암 산정특례를 재등록할 수 있게 된다.보건복지부는 만성골수성백혈병의 질환 특성을 반영해 항암치료 중인 환자의 산정특례 재등록 기준을 개선한다고 1일 밝혔다.기존에는 암 산정특례를 재등록하기 위해 세포유전학검사에서 암 잔존을 의미하는 양성 결과가 확인돼야 했다. 그러나 만성골수성백혈병은 검사 결과가 음성이더라도 암이 완전히 제거된 상태로 보기 어렵고 장기간 항암제를 복용해야 하는 질환 특성이 있어 제도 개",
-          "significance": "업계 동향 파악용 기사로, 파이프라인·규제·BD 맥락에서 후속 기사가 이어지는지 확인하면 된다. 국내 바이오·제약 업계 관점에서 공급망·파트너 영향을 함께 점검하면 좋다.",
-          "investmentTakeaway": "[이벤트] 만성골수성백혈병 환자의 산정특례 재등록 기준 개선 — 보건복지부, 세포유전학검사, 만성골수성백혈병, 구속력 없는 협약 단계, 없음  \n[중요도] 환자의 치료 접근성을 높여 시장에서의 경쟁력을 강화할 수 있는 중요한 변화 — 성공  \n[국내관련성] 국내 항암제 개발 및 치료제 시장에 영향을 미치는 제도적 변화로, 관련 기업들에 긍정적 영향 예상  \n[액션] Watch + 향후 관련 기업들의 대응 및 시장 반응을 지켜볼 필요가 있음",
-          "keywords": [
-            "biotech"
-          ],
-          "importanceScore": 8,
-          "investorRelevanceScore": 8,
-          "koreaRelevanceScore": 8,
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77310"
-        },
-        {
-          "id": "2026-07-02-0025",
-          "title": "Haleon teams up with Microsoft in 5-year AI pact to upgrade consumer health operations",
-          "source": "Fierce Pharma",
-          "date": "2026-07-01",
-          "origin": "global",
-          "section": "paper",
-          "eventType": "publication",
-          "summary": "Haleon은 소비자 건강 운영을 업그레이드하기 위해 5개년 AI 계약을 통해 Microsoft와 협력합니다. 소비자 건강 거대 기업인 Haleon은 전사적 디지털 점검을 실행하기 위해 Big Tech로 눈을 돌리는 점점 늘어나는 의료 및 생명 과학 대기업의 물결에 합류하여 운영 전반에 AI를 통합하기 위해 Microsoft를 선택했습니다.",
-          "significance": "학술·공개 데이터는 장기 기술·안전성 논쟁에 쓰이므로 규제 당국 코멘트와의 연계 여부를 추적할 필요가 있다.",
-          "investmentTakeaway": "[이벤트] Haleon이 Microsoft와 5년간 AI 도입을 위한 협약을 체결 — Haleon, AI, 소비자 건강, 구속력 없는 협약 단계.  \n[중요도] 대형 제약사들이 AI를 활용한 디지털 혁신을 추진하는 추세로, 시장 경쟁력 강화에 중요한 신호.  \n[국내관련성] 국내 비상장·상장사·기술특례 후보 중 영향받는 곳 또는 활용 가능한 comp 1줄. 없으면 \"국내 직접 관련성 낮음\"  \n[액션] Watch + AI 도입이 소비자 건강 분야의 혁신을 이끌 가능성이 있어 추적할 가치가 있다.",
-          "keywords": [
-            "Haleon",
-            "teams",
-            "with",
-            "Microsoft",
-            "year",
-            "pact"
-          ],
-          "importanceScore": 7,
-          "investorRelevanceScore": 7,
-          "koreaRelevanceScore": 4,
-          "url": "https://www.fiercepharma.com/pharma/haleon-teams-microsoft-5-year-corporate-ai-deal-upgrade-consumer-health-operations"
         }
       ]
     }
